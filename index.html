@@ -1,0 +1,859 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thorpost — Din daglige oppdatering fra Larvik</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,400&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --bg:       #f5f3ee;
+            --bg-card:  #ffffff;
+            --text:     #1a1818;
+            --muted:    #7a7471;
+            --border:   #ddd8d0;
+            --accent:   #8b4513;
+        }
+
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'DM Sans', system-ui, sans-serif;
+            font-size: 16px;
+            line-height: 1.65;
+        }
+
+        /* ── MASTHEAD ──────────────────────────────────── */
+        .masthead {
+            text-align: center;
+            padding: 2.5rem 1.5rem 1.5rem;
+            border-bottom: 2px solid var(--text);
+        }
+        .masthead-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(3.5rem, 10vw, 7rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            line-height: 1;
+        }
+        .masthead-tagline {
+            font-size: 0.8rem;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-top: 0.6rem;
+        }
+        .masthead-date {
+            font-size: 0.85rem;
+            color: var(--muted);
+            margin-top: 0.3rem;
+        }
+
+        /* ── LAYOUT ────────────────────────────────────── */
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        section {
+            padding: 3rem 0 2.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .section-label {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.18em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+        .section-label::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .section-title {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: clamp(1.75rem, 4vw, 2.4rem);
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 2rem;
+        }
+
+        .loading-text {
+            color: var(--muted);
+            font-style: italic;
+            font-size: 0.9rem;
+        }
+
+        /* ── WEATHER ───────────────────────────────────── */
+        .weather-remark {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-style: italic;
+            font-size: 1.15rem;
+            line-height: 1.6;
+            border-left: 3px solid var(--text);
+            padding: 0.1rem 0 0.1rem 1.2rem;
+            margin-bottom: 2rem;
+        }
+
+        .weather-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+        }
+        @media (max-width: 580px) { .weather-grid { grid-template-columns: 1fr; } }
+
+        .weather-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+        }
+        .weather-day-label {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 0.6rem;
+        }
+        .weather-icon { font-size: 2.8rem; display: block; margin-bottom: 0.5rem; }
+        .weather-temp {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2.8rem;
+            font-weight: 400;
+            line-height: 1;
+        }
+        .weather-desc { font-size: 0.875rem; color: var(--muted); margin-top: 0.4rem; }
+
+        .water-temps {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+        @media (max-width: 480px) { .water-temps { grid-template-columns: 1fr; } }
+
+        .water-item {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 1.25rem;
+            text-align: center;
+        }
+        .water-value {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 2rem;
+            font-weight: 400;
+            line-height: 1;
+        }
+        .water-label {
+            font-size: 0.78rem;
+            color: var(--muted);
+            margin-top: 0.3rem;
+        }
+        .swim-nudge {
+            margin-top: 1rem;
+            font-size: 0.9rem;
+            color: #3a7a3a;
+            font-weight: 500;
+        }
+        .updated-note {
+            font-size: 0.72rem;
+            color: var(--muted);
+            margin-top: 1rem;
+        }
+
+        /* ── FOOTBALL ──────────────────────────────────── */
+        .match-list { list-style: none; }
+        .match-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            padding: 1rem 0;
+            border-bottom: 1px solid var(--border);
+            gap: 1rem;
+        }
+        .match-item:last-child { border-bottom: none; }
+        .match-teams { font-weight: 500; }
+        .match-venue { font-size: 0.8rem; color: var(--muted); margin-top: 0.2rem; }
+        .match-meta { font-size: 0.85rem; color: var(--muted); text-align: right; flex-shrink: 0; }
+        .fotball-link {
+            display: inline-block;
+            margin-top: 1.25rem;
+            font-size: 0.8rem;
+            color: var(--muted);
+            text-decoration: underline;
+        }
+        .fotball-link:hover { color: var(--text); }
+
+        /* ── NEWS ──────────────────────────────────────── */
+        .news-item {
+            display: grid;
+            grid-template-columns: 2rem 1fr;
+            gap: 0.75rem;
+            padding: 1.25rem 0;
+            border-bottom: 1px solid var(--border);
+            align-items: start;
+        }
+        .news-item:first-child { padding-top: 0; }
+        .news-num {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 0.85rem;
+            color: var(--muted);
+            padding-top: 0.25rem;
+        }
+        .news-cat {
+            font-size: 0.65rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 0.2rem;
+        }
+        .news-headline {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.1rem;
+            font-weight: 600;
+            line-height: 1.35;
+            margin-bottom: 0.3rem;
+        }
+        .news-headline a { color: inherit; text-decoration: none; }
+        .news-headline a:hover { text-decoration: underline; }
+        .news-summary { font-size: 0.85rem; color: var(--muted); line-height: 1.5; }
+
+        .archive-toggle {
+            display: inline-block;
+            margin-top: 1.5rem;
+            font-size: 0.82rem;
+            color: var(--muted);
+            cursor: pointer;
+            text-decoration: underline;
+        }
+        .archive-toggle:hover { color: var(--text); }
+
+        #archive { display: none; margin-top: 2.5rem; }
+        #archive.open { display: block; }
+
+        .archive-day { margin-bottom: 2.5rem; }
+        .archive-day-date {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--muted);
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        /* ── STEEL INFOGRAPHIC ─────────────────────────── */
+        .steel-chart {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+            margin-top: 1.5rem;
+        }
+        .steel-chart-title {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 1rem;
+        }
+        .steel-bar-row {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+        .steel-bar-label { font-size: 0.8rem; min-width: 130px; color: var(--muted); }
+        .steel-bar-track {
+            flex: 1;
+            height: 6px;
+            background: var(--border);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .steel-bar-fill {
+            height: 100%;
+            background: var(--accent);
+            border-radius: 3px;
+        }
+        .steel-bar-val { font-size: 0.8rem; font-weight: 500; min-width: 80px; }
+        .steel-source { font-size: 0.7rem; color: var(--muted); margin-top: 0.75rem; }
+
+        /* ── COUNTDOWNS ────────────────────────────────── */
+        .countdown-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        .countdown-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 1.5rem;
+        }
+        .countdown-name {
+            font-size: 0.7rem;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 0.6rem;
+        }
+        .countdown-days {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 3.5rem;
+            font-weight: 700;
+            line-height: 1;
+        }
+        .countdown-days.is-today { color: #c04040; }
+        .countdown-days.is-past { color: var(--muted); font-size: 2.2rem; }
+        .countdown-unit { font-size: 0.82rem; color: var(--muted); margin-top: 0.2rem; }
+        .countdown-date-str { font-size: 0.72rem; color: var(--muted); margin-top: 0.4rem; }
+
+        /* ── CAROUSEL ──────────────────────────────────── */
+        #bilder { padding-bottom: 1.5rem; }
+        .carousel-wrap {
+            position: relative;
+            overflow: hidden;
+            background: #111;
+        }
+        .carousel-track {
+            display: flex;
+            transition: transform 0.55s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .carousel-slide { min-width: 100%; }
+        .carousel-slide img {
+            width: 100%;
+            height: clamp(260px, 45vw, 520px);
+            object-fit: cover;
+            display: block;
+            opacity: 0.88;
+        }
+        .carousel-btn {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background: rgba(0,0,0,0.35);
+            color: #fff;
+            border: none;
+            font-size: 1.6rem;
+            padding: 0.75rem 1rem;
+            cursor: pointer;
+            z-index: 5;
+            transition: background 0.2s;
+            line-height: 1;
+        }
+        .carousel-btn:hover { background: rgba(0,0,0,0.6); }
+        .carousel-btn.prev { left: 0; }
+        .carousel-btn.next { right: 0; }
+        .carousel-dots {
+            display: flex;
+            justify-content: center;
+            gap: 0.6rem;
+            margin-top: 1rem;
+        }
+        .dot {
+            width: 7px; height: 7px;
+            border-radius: 50%;
+            background: var(--border);
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        .dot.active { background: var(--text); }
+
+        /* ── DONALD ────────────────────────────────────── */
+        .donald-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 2.5rem;
+            text-align: center;
+        }
+        .donald-desc {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.1rem;
+            color: var(--muted);
+            font-style: italic;
+            margin-bottom: 1.5rem;
+        }
+        .donald-btn {
+            display: inline-block;
+            background: var(--text);
+            color: var(--bg);
+            text-decoration: none;
+            padding: 0.75rem 2.2rem;
+            font-size: 0.8rem;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            transition: opacity 0.2s;
+        }
+        .donald-btn:hover { opacity: 0.75; }
+
+        /* ── FOOTER ────────────────────────────────────── */
+        footer {
+            padding: 2.5rem 0 3rem;
+            text-align: center;
+            font-size: 0.78rem;
+            color: var(--muted);
+        }
+        footer a { color: inherit; }
+    </style>
+</head>
+<body>
+
+<!-- ────────────────── MASTHEAD ────────────────── -->
+<header class="masthead">
+    <h1 class="masthead-title">Thorpost</h1>
+    <p class="masthead-tagline">Din daglige oppdatering fra Larvik</p>
+    <p class="masthead-date" id="header-date"></p>
+</header>
+
+<main>
+
+<!-- ────────────────── WEATHER ─────────────────── -->
+<section id="vaer">
+    <div class="container">
+        <p class="section-label">Været i Larvik</p>
+        <div id="weather-content"><p class="loading-text">Laster værdata…</p></div>
+    </div>
+</section>
+
+<!-- ────────────────── FOOTBALL ────────────────── -->
+<section id="fotball">
+    <div class="container">
+        <p class="section-label">Larvik Turn</p>
+        <h2 class="section-title">Kommende kamper</h2>
+        <div id="football-content"><p class="loading-text">Laster kampprogram…</p></div>
+    </div>
+</section>
+
+<!-- ────────────────── NEWS ────────────────────── -->
+<section id="nyheter">
+    <div class="container">
+        <p class="section-label">Nyheter</p>
+        <h2 class="section-title">Dagens fem</h2>
+        <div id="news-content"><p class="loading-text">Laster nyheter…</p></div>
+        <span class="archive-toggle" id="archive-toggle" onclick="toggleArchive()">Vis nyhetsarkiv →</span>
+        <div id="archive">
+            <p class="section-label" style="margin-top:0.5rem">Arkiv</p>
+            <div id="archive-content"><p class="loading-text">Arkivet er tomt.</p></div>
+        </div>
+    </div>
+</section>
+
+<!-- ────────────────── COUNTDOWNS ──────────────── -->
+<section id="nedtellinger">
+    <div class="container">
+        <p class="section-label">Nedtellinger</p>
+        <h2 class="section-title">Hva er i vente?</h2>
+        <div class="countdown-grid" id="countdown-grid"></div>
+    </div>
+</section>
+
+<!-- ────────────────── CAROUSEL ────────────────── -->
+<section id="bilder">
+    <div class="container">
+        <p class="section-label">Bildegalleri</p>
+    </div>
+    <div class="carousel-wrap">
+        <div class="carousel-track" id="carousel-track"></div>
+        <button class="carousel-btn prev" onclick="carouselMove(-1)" aria-label="Forrige">&#8249;</button>
+        <button class="carousel-btn next" onclick="carouselMove(1)" aria-label="Neste">&#8250;</button>
+    </div>
+    <div class="container">
+        <div class="carousel-dots" id="carousel-dots"></div>
+    </div>
+</section>
+
+<!-- ────────────────── DONALD ──────────────────── -->
+<section id="donald">
+    <div class="container">
+        <p class="section-label">Tegneserie</p>
+        <h2 class="section-title">Donald Duck</h2>
+        <div class="donald-card">
+            <p class="donald-desc" id="donald-desc">Klikk for å lese dagens Donald Duck-stripe</p>
+            <a href="#" id="donald-link" class="donald-btn" target="_blank" rel="noopener">
+                Les dagens stripe →
+            </a>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<footer>
+    <div class="container">
+        <p>Thorpost &mdash; oppdateres daglig kl. 07:00</p>
+        <p style="margin-top:0.4rem">
+            Vær fra <a href="https://www.yr.no/nb/detaljer/daglig-tabell/1-2219815/Norway/Vestfold%20og%20Telemark/Larvik/Larvik" target="_blank">Yr.no</a>
+            &middot; Havtemperatur fra <a href="https://seatemperature.info/larvik-water-temperature.html" target="_blank">SeaTemperature.info</a>
+            &middot; <a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank">Larvik Turn på fotball.no</a>
+        </p>
+    </div>
+</footer>
+
+<script>
+// ═══════════════════════════════════════════════
+//  UTILS
+// ═══════════════════════════════════════════════
+const DAYS_NO  = ['søndag','mandag','tirsdag','onsdag','torsdag','fredag','lørdag'];
+const MONTHS_NO = ['januar','februar','mars','april','mai','juni','juli','august','september','oktober','november','desember'];
+
+function formatDateNo(d) {
+    return `${DAYS_NO[d.getDay()]} ${d.getDate()}. ${MONTHS_NO[d.getMonth()]} ${d.getFullYear()}`;
+}
+
+function formatShortDateNo(d) {
+    const dd = new Date(d);
+    return `${dd.getDate()}. ${MONTHS_NO[dd.getMonth()]}`;
+}
+
+// ─── Header date ────────────────────────────────
+const NOW = new Date();
+document.getElementById('header-date').textContent =
+    formatDateNo(NOW).replace(/^\w/, c => c.toUpperCase());
+
+
+// ═══════════════════════════════════════════════
+//  WEATHER
+// ═══════════════════════════════════════════════
+const WX_ICONS = {
+    clearsky:'☀️', fair:'🌤️', partlycloudy:'⛅', cloudy:'☁️',
+    lightrain:'🌦️', rain:'🌧️', heavyrain:'⛈️',
+    lightrainshowers:'🌦️', rainshowers:'🌧️', heavyrainshowers:'⛈️',
+    lightsleet:'🌨️', sleet:'🌨️', heavysleet:'🌨️',
+    lightsnow:'❄️', snow:'❄️', heavysnow:'❄️',
+    fog:'🌫️', thunder:'⛈️', lightthunder:'⛈️'
+};
+const WX_NO = {
+    clearsky:'Klarvær', fair:'Pent vær', partlycloudy:'Delvis skyet', cloudy:'Overskyet',
+    lightrain:'Lett regn', rain:'Regn', heavyrain:'Kraftig regn',
+    lightrainshowers:'Regnbyger', rainshowers:'Regnbyger', heavyrainshowers:'Kraftige regnbyger',
+    lightsleet:'Lett sludd', sleet:'Sludd', heavysleet:'Kraftig sludd',
+    lightsnow:'Lett snø', snow:'Snø', heavysnow:'Kraftig snøfall',
+    fog:'Tåke', thunder:'Torden', lightthunder:'Torden'
+};
+
+function wxBase(symbol) { return (symbol||'').replace(/_day$|_night$/, ''); }
+function wxIcon(symbol) { return WX_ICONS[wxBase(symbol)] || '🌥️'; }
+function wxNo(symbol)   { return WX_NO[wxBase(symbol)] || symbol; }
+
+async function loadWeather() {
+    try {
+        const r = await fetch('data/weather.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderWeather(await r.json());
+    } catch {
+        document.getElementById('weather-content').innerHTML =
+            '<p class="loading-text">Værdata ikke tilgjengelig ennå — oppdateres kl. 07:00.</p>';
+    }
+}
+
+function renderWeather(d) {
+    const { today: td, tomorrow: tm, water, remark, updated } = d;
+    const swimNote = (water.ocean >= 22 || water.farris >= 22 || water.ulfsbakktjern >= 22)
+        ? '<p class="swim-nudge">🏊 Badetemperatur! Vannet er over 22 grader – ta en dukkert, Thor!</p>' : '';
+
+    document.getElementById('weather-content').innerHTML = `
+        ${remark ? `<p class="weather-remark">${remark}</p>` : ''}
+        <div class="weather-grid">
+            <div class="weather-card">
+                <p class="weather-day-label">I dag</p>
+                <span class="weather-icon">${wxIcon(td.symbol)}</span>
+                <div class="weather-temp">${Math.round(td.temp_max)}°</div>
+                <div class="weather-desc">${wxNo(td.symbol)}</div>
+                <div class="weather-desc">Vind ${td.wind_speed.toFixed(1)} m/s${td.precipitation > 0.5 ? ` &middot; Nedbør ${td.precipitation} mm` : ''}</div>
+            </div>
+            <div class="weather-card">
+                <p class="weather-day-label">I morgen</p>
+                <span class="weather-icon">${wxIcon(tm.symbol)}</span>
+                <div class="weather-temp">${Math.round(tm.temp_max)}°</div>
+                <div class="weather-desc">${wxNo(tm.symbol)}</div>
+                <div class="weather-desc">Vind ${tm.wind_speed.toFixed(1)} m/s${tm.precipitation > 0.5 ? ` &middot; Nedbør ${tm.precipitation} mm` : ''}</div>
+            </div>
+        </div>
+        <p class="section-label" style="margin-top:2rem">Vanntemperaturer</p>
+        <div class="water-temps">
+            <div class="water-item">
+                <div class="water-value">${water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
+                <div class="water-label">Fjorden</div>
+            </div>
+            <div class="water-item">
+                <div class="water-value">${water.farris != null ? water.farris.toFixed(1) + '°' : '—'}</div>
+                <div class="water-label">Farris</div>
+            </div>
+            <div class="water-item">
+                <div class="water-value">${water.ulfsbakktjern != null ? water.ulfsbakktjern.toFixed(1) + '°' : '—'}</div>
+                <div class="water-label">Ulfsbakktjern</div>
+            </div>
+        </div>
+        ${swimNote}
+        <p class="updated-note">Sist oppdatert: ${updated || 'ukjent'}</p>
+    `;
+}
+
+
+// ═══════════════════════════════════════════════
+//  FOOTBALL
+// ═══════════════════════════════════════════════
+async function loadFootball() {
+    try {
+        const r = await fetch('data/football.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderFootball(await r.json());
+    } catch {
+        document.getElementById('football-content').innerHTML =
+            '<p class="loading-text">Kampdata ikke tilgjengelig ennå.</p>' +
+            '<p style="margin-top:0.75rem"><a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank" class="fotball-link">Se kampprogram på fotball.no →</a></p>';
+    }
+}
+
+function renderFootball(data) {
+    const matches = data.matches || [];
+    if (!matches.length) {
+        document.getElementById('football-content').innerHTML =
+            '<p class="loading-text">Ingen kommende kamper registrert.</p>' +
+            '<p style="margin-top:0.75rem"><a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank" class="fotball-link">Se kampprogram på fotball.no →</a></p>';
+        return;
+    }
+    const rows = matches.slice(0, 6).map(m => `
+        <li class="match-item">
+            <div>
+                <div class="match-teams">${m.home} — ${m.away}</div>
+                ${m.venue ? `<div class="match-venue">${m.venue}</div>` : ''}
+            </div>
+            <div class="match-meta">
+                <div>${formatShortDateNo(m.date)}</div>
+                ${m.time ? `<div>${m.time}</div>` : ''}
+            </div>
+        </li>`).join('');
+    document.getElementById('football-content').innerHTML = `
+        <ul class="match-list">${rows}</ul>
+        <a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank" class="fotball-link">Se fullstendig kampprogram →</a>
+        <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  NEWS
+// ═══════════════════════════════════════════════
+async function loadNews() {
+    try {
+        const r = await fetch('data/news.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderNews(await r.json());
+    } catch {
+        document.getElementById('news-content').innerHTML =
+            '<p class="loading-text">Nyheter ikke tilgjengelige ennå — oppdateres kl. 07:00.</p>';
+    }
+}
+
+function renderNews(data) {
+    const stories = data.stories || [];
+    if (!stories.length) {
+        document.getElementById('news-content').innerHTML =
+            '<p class="loading-text">Ingen nyheter tilgjengelig ennå.</p>';
+        return;
+    }
+    document.getElementById('news-content').innerHTML =
+        stories.map((s, i) => `
+            <div class="news-item">
+                <div class="news-num">${i + 1}.</div>
+                <div>
+                    <div class="news-cat">${s.category || 'Nyheter'}</div>
+                    <div class="news-headline">
+                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">${s.title}</a>` : s.title}
+                    </div>
+                    ${s.summary ? `<div class="news-summary">${s.summary}</div>` : ''}
+                </div>
+            </div>`).join('') +
+        `<p class="updated-note" style="margin-top:0.75rem">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+
+    // Archive
+    const archive = data.archive || [];
+    if (archive.length) {
+        document.getElementById('archive-content').innerHTML =
+            archive.slice(0, 14).map(day => `
+                <div class="archive-day">
+                    <div class="archive-day-date">${day.date}</div>
+                    ${(day.stories || []).map(s => `
+                        <div class="news-item">
+                            <div class="news-num">—</div>
+                            <div>
+                                <div class="news-cat">${s.category || ''}</div>
+                                <div class="news-headline" style="font-size:1rem">
+                                    ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener">${s.title}</a>` : s.title}
+                                </div>
+                            </div>
+                        </div>`).join('')}
+                </div>`).join('');
+    }
+}
+
+function toggleArchive() {
+    const el = document.getElementById('archive');
+    const btn = document.getElementById('archive-toggle');
+    el.classList.toggle('open');
+    btn.textContent = el.classList.contains('open') ? 'Skjul arkiv ↑' : 'Vis nyhetsarkiv →';
+}
+
+
+// ═══════════════════════════════════════════════
+//  COUNTDOWNS
+// ═══════════════════════════════════════════════
+function daysUntil(date) {
+    const now = new Date(); now.setHours(0,0,0,0);
+    const t   = new Date(date); t.setHours(0,0,0,0);
+    return Math.round((t - now) / 864e5);
+}
+
+function nextAnnual(day, month) {
+    // month is 1-indexed
+    const now = new Date(); now.setHours(0,0,0,0);
+    let y = now.getFullYear();
+    let d = new Date(y, month - 1, day);
+    if (d < now) d = new Date(y + 1, month - 1, day);
+    return d;
+}
+
+function countdownCard(name, date, note) {
+    const days = daysUntil(date);
+    const isToday = days === 0;
+    const isPast  = days < 0;
+    const cls = isToday ? 'is-today' : isPast ? 'is-past' : '';
+    const numStr = isToday ? '🎉' : Math.abs(days).toString();
+    const unit = isToday ? 'I DAG!' : isPast ? 'dager siden' : 'dager igjen';
+    const dateStr = new Date(date).toLocaleDateString('nb-NO', { day:'numeric', month:'long', year:'numeric' });
+    return `
+        <div class="countdown-card">
+            <div class="countdown-name">${name}</div>
+            <div class="countdown-days ${cls}">${numStr}</div>
+            <div class="countdown-unit">${unit}</div>
+            <div class="countdown-date-str">${dateStr}</div>
+            ${note ? `<div class="countdown-date-str">${note}</div>` : ''}
+        </div>`;
+}
+
+async function loadCountdowns() {
+    // Try to get next football match date
+    let nextMatch = null;
+    try {
+        const r = await fetch('data/football.json?_=' + Date.now());
+        if (r.ok) {
+            const data = await r.json();
+            if (data.matches && data.matches.length) nextMatch = data.matches[0];
+        }
+    } catch {}
+
+    // Bislett Games — update year manually each spring
+    // Typically first or second Thursday of June
+    // 2026: ~June 4 (estimate — update in advance each year)
+    const bislettDate = new Date(2027, 5, 3); // June 3 2027 — update annually!
+
+    const events = [
+        { name: 'Bislett Games', date: bislettDate, note: 'Oslo' },
+        nextMatch
+            ? { name: 'Neste Larvik Turn-kamp', date: new Date(nextMatch.date), note: `${nextMatch.home} — ${nextMatch.away}` }
+            : null,
+        { name: 'Andreas sin bursdag 🎂', date: nextAnnual(10, 4) },
+        { name: 'Elins bursdag 🎂',       date: nextAnnual(11, 3) },
+        { name: 'Anne-Elisabeths bursdag 🎂', date: nextAnnual(28, 4) },
+        { name: 'Klaras bursdag 🎂',      date: nextAnnual(26, 4) },
+        { name: 'Ritus bursdag 🎂',       date: nextAnnual(17, 4) },
+    ].filter(Boolean);
+
+    document.getElementById('countdown-grid').innerHTML =
+        events.map(e => countdownCard(e.name, e.date, e.note || null)).join('');
+}
+
+
+// ═══════════════════════════════════════════════
+//  CAROUSEL
+// ═══════════════════════════════════════════════
+const IMAGES = [
+    'img/IMG_9687.PNG',
+    'img/att.2WlJKrV4GRi_hPNKpG7pGVABLYkpX6FJ8in1iHA79bA.JPG',
+    'img/att.FqHtkdC__qK6DxRai0owkDxppD2R2dcR4x0F3kpaiwA.JPG',
+    'img/att.FxgbhGcdJPL50CwmiYpBihvNvl7bKiiN0Pf5LzXBJOQ.JPG',
+    'img/att.Nx0c-ys2D8uSMapXDL-fZFt6HHHwTF9l8hVn3NLz1oU.JPG',
+    'img/att.iEN1D-QNW0N6e1vwJj9plif4VerxhDkcLwc_O3c-nuk.JPG',
+    'img/att.rxL5hsMmNh1K_IO5zdhOC50cJnOG4AQ0GLhv2EWlDZY.JPG',
+    'img/prev.AY0wkksvPwC1N4S5FxA2S33dBdlpc0LMHlUuDqAzFHs.JPG',
+    'img/prev.J2_cZutWMIifTz2g-taocHp4UNbh5AXwqfW_Kfc1mRE.JPG',
+    'img/prev.msWBIk9ZFyfSD2CZadqdB78V5KEc5XWPYDR_ZEVEwPY.JPG',
+];
+
+let slide = 0;
+let carouselTimer;
+
+function initCarousel() {
+    const track = document.getElementById('carousel-track');
+    const dots  = document.getElementById('carousel-dots');
+    track.innerHTML = IMAGES.map(src =>
+        `<div class="carousel-slide"><img src="${src}" alt="" loading="lazy" onerror="this.closest('.carousel-slide').style.display='none'"></div>`
+    ).join('');
+    dots.innerHTML = IMAGES.map((_, i) =>
+        `<button class="dot${i===0?' active':''}" onclick="goSlide(${i})" aria-label="Bilde ${i+1}"></button>`
+    ).join('');
+    startAutoplay();
+}
+
+function goSlide(n) {
+    slide = ((n % IMAGES.length) + IMAGES.length) % IMAGES.length;
+    document.getElementById('carousel-track').style.transform = `translateX(-${slide * 100}%)`;
+    document.querySelectorAll('.dot').forEach((d, i) => d.classList.toggle('active', i === slide));
+}
+
+function carouselMove(dir) {
+    goSlide(slide + dir);
+    clearInterval(carouselTimer);
+    startAutoplay();
+}
+
+function startAutoplay() {
+    carouselTimer = setInterval(() => goSlide(slide + 1), 5000);
+}
+
+
+// ═══════════════════════════════════════════════
+//  DONALD DUCK
+// ═══════════════════════════════════════════════
+function initDonald() {
+    const y  = NOW.getFullYear();
+    const m  = String(NOW.getMonth() + 1).padStart(2, '0');
+    const dd = String(NOW.getDate()).padStart(2, '0');
+    document.getElementById('donald-link').href =
+        `https://www.gocomics.com/donald-duck/${y}/${m}/${dd}`;
+    document.getElementById('donald-desc').textContent =
+        `Dagens stripe — ${formatDateNo(NOW).replace(/^\w/, c => c.toUpperCase())}`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  BOOT
+// ═══════════════════════════════════════════════
+loadWeather();
+loadFootball();
+loadNews();
+loadCountdowns();
+initCarousel();
+initDonald();
+</script>
+</body>
+</html>

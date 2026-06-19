@@ -1,0 +1,45 @@
+name: Oppdater Thorpost daglig
+
+on:
+  schedule:
+    # 06:00 UTC = 07:00 CET / 08:00 CEST (norsk tid)
+    - cron: '0 6 * * *'
+  workflow_dispatch:   # tillat manuell kjøring fra GitHub-grensesnittet
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write   # trengst for å pushe oppdaterte JSON-filer
+
+    steps:
+      - name: Hent kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer avhengigheter
+        run: |
+          pip install requests feedparser beautifulsoup4 lxml
+
+      - name: Hent værdata
+        run: python scripts/fetch_weather.py
+
+      - name: Hent nyheter
+        run: python scripts/fetch_news.py
+
+      - name: Hent kampprogram (Larvik Turn)
+        run: python scripts/fetch_football.py
+
+      - name: Commit og push oppdaterte data
+        run: |
+          git config user.email "thorpost-bot@users.noreply.github.com"
+          git config user.name  "Thorpost Bot"
+          git add data/
+          # Commit kun hvis det er endringer
+          git diff --staged --quiet || git commit -m "Data-oppdatering $(date -u '+%Y-%m-%d')"
+          git push
