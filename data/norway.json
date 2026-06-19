@@ -1,5 +1,14 @@
 {
-  "updated": "",
+  "updated": "2026-06-19",
   "team": "Herrelandslaget",
-  "matches": []
+  "matches": [
+    {
+      "date": "2026-06-26",
+      "time": "02:00",
+      "home": "Paraguay",
+      "away": "Australia",
+      "competition": "FIFA World Cup",
+      "venue": ""
+    }
+  ]
 }
