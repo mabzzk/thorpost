@@ -139,11 +139,29 @@
         }
         .weather-desc { font-size: 0.875rem; color: var(--muted); margin-top: 0.4rem; }
 
+        /* ── SEASONAL BANNER ────────────────────── */
+        .seasonal-banner {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            padding: 1.5rem;
+            border: 1px solid var(--border);
+            margin-bottom: 1.25rem;
+        }
+        .seasonal-icon-big { font-size: 2.8rem; flex-shrink: 0; }
+        .seasonal-name {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.25rem;
+            font-weight: 600;
+            line-height: 1.2;
+        }
+        .seasonal-desc { font-size: 0.85rem; color: var(--muted); margin-top: 0.25rem; }
+
         .water-temps {
             display: grid;
             grid-template-columns: repeat(3, 1fr);
             gap: 1rem;
-            margin-top: 1.5rem;
+            margin-top: 0;
         }
         @media (max-width: 480px) { .water-temps { grid-template-columns: 1fr; } }
 
@@ -589,6 +607,7 @@ function renderWeather(d) {
             </div>
         </div>
         <p class="section-label" style="margin-top:2rem">Vanntemperaturer</p>
+        ${seasonalBanner()}
         <div class="water-temps">
             <div class="water-item">
                 <div class="water-value">${water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
@@ -786,6 +805,36 @@ async function loadCountdowns() {
 // ═══════════════════════════════════════════════
 //  CAROUSEL
 // ═══════════════════════════════════════════════
+// ═══════════════════════════════════════════════
+//  SEASONAL WATER BANNER
+// ═══════════════════════════════════════════════
+const SEASON_DATA = [
+    { icon: '❄️', name: 'Midtvinter', bg: '#e4ebf5', desc: 'Sjøen er på sitt kaldeste. Isbading for de aller tøffeste!' },
+    { icon: '❄️', name: 'Senvinteren', bg: '#e6edf5', desc: 'Fortsatt kaldt, men dagene blir lysere. Snart er det vår.' },
+    { icon: '🌱', name: 'Tidlig vår', bg: '#e8f5ec', desc: 'Sjøen er fremdeles iskald, men naturen våkner forsiktig.' },
+    { icon: '🌸', name: 'Vår',         bg: '#eff8ec', desc: 'Sjøen varmes sakte opp. Badesesongen nærmer seg.' },
+    { icon: '🌿', name: 'Forsommer',   bg: '#eaf8f2', desc: 'Varmere dager — sjøen begynner å bli innbydende.' },
+    { icon: '☀️', name: 'Sommer',      bg: '#fff9e6', desc: 'Badesesongen er i full gang i Larvik!' },
+    { icon: '🏖️', name: 'Høysommer',  bg: '#fff5e0', desc: 'Varmeste måneden — sjøen er på sitt beste. Hopp i, Thor!' },
+    { icon: '🌅', name: 'Sensommer',   bg: '#fff2d8', desc: 'Sjøen er fremdeles varm. Nyt de siste badedagene.' },
+    { icon: '🍂', name: 'Tidlig høst', bg: '#f8f0e4', desc: 'Sjøen kjøles ned. Siste sjanse for de ivrigste baderne.' },
+    { icon: '🍁', name: 'Høst',        bg: '#f5ece0', desc: 'Sjøen er for kald for de fleste. Høstfarger er vakre i Larvik.' },
+    { icon: '🌧️', name: 'Sen høst',   bg: '#eeebea', desc: 'Mørke dager, men god hjemmekos er undervurdert.' },
+    { icon: '⛄', name: 'Advent',       bg: '#e2e9f4', desc: 'Vinter er her. Julestemning i Larvik!' },
+];
+
+function seasonalBanner() {
+    const s = SEASON_DATA[NOW.getMonth()];
+    return `
+        <div class="seasonal-banner" style="background:${s.bg};">
+            <div class="seasonal-icon-big">${s.icon}</div>
+            <div>
+                <div class="seasonal-name">${s.name}</div>
+                <div class="seasonal-desc">${s.desc}</div>
+            </div>
+        </div>`;
+}
+
 const IMAGES = [
     'img/IMG_9687.PNG',
     'img/att.2WlJKrV4GRi_hPNKpG7pGVABLYkpX6FJ8in1iHA79bA.JPG',

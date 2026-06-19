@@ -24,7 +24,10 @@ jobs:
 
       - name: Installer avhengigheter
         run: |
-          pip install requests feedparser beautifulsoup4 lxml
+          pip install requests feedparser beautifulsoup4 lxml playwright
+
+      - name: Installer Playwright nettlesere
+        run: playwright install chromium --with-deps
 
       - name: Hent værdata
         run: python scripts/fetch_weather.py

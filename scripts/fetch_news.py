@@ -31,24 +31,25 @@ HEADERS  = {'User-Agent': 'ThorPost/1.0 (personal news reader)'}
 # ── RSS feeds ───────────────────────────────────────────────────────────────
 FEEDS = {
     'larvik': [
-        'https://www.op.no/rss.xml',
+        'https://www.nrk.no/vestfoldogtelemark/toppsaker.rss',   # NRK Vestfold og Telemark
+        'https://www.op.no/rss.xml',                              # Østlands-Posten
         'https://www.op.no/rss',
-        'https://www.op.no/rss/feed',
+        'https://www.op.no/feed',
     ],
     'running': [
-        'https://www.friidrett.no/nyheter/rss',
-        'https://www.nrk.no/sport/friidrett/toppsaker.rss',
         'https://www.nrk.no/sport/toppsaker.rss',
+        'https://www.dagbladet.no/sport/rss.xml',
+        'https://www.friidrett.no/rss',
     ],
     'sport': [
         'https://www.nrk.no/sport/toppsaker.rss',
+        'https://www.dagbladet.no/sport/rss.xml',
         'https://www.vg.no/rss/create.php?categories=sport',
-        'https://www.dagbladet.no/sport/rss',
     ],
     'steel': [
         'https://feeds.reuters.com/reuters/businessNews',
-        'https://www.reuters.com/arc/outboundfeeds/rss/?outputType=xml&category=metals&community=reuters.com&size=10',
-        'https://www.ft.com/rss/home/uk',
+        'https://feeds.reuters.com/reuters/companyNews',
+        'https://www.mining.com/feed/',
     ],
 }
 
