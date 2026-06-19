@@ -24,7 +24,7 @@ jobs:
 
       - name: Installer avhengigheter
         run: |
-          pip install requests feedparser beautifulsoup4 lxml playwright
+          pip install requests feedparser beautifulsoup4 lxml playwright yfinance
 
       - name: Installer Playwright nettlesere
         run: playwright install chromium --with-deps

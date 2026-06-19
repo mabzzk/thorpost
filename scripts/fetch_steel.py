@@ -1,17 +1,25 @@
 #!/usr/bin/env python3
 """
-Fetch commodity prices relevant to the steel/metals industry:
-  - Iron ore futures (TIO=F)
-  - US HRC Steel futures (HRC=F)
-  - Newcastle coal futures (MTF=F)
-Uses Yahoo Finance's unofficial chart API — no key required.
+Fetch commodity prices relevant to the steel/metals industry.
+Strategy:
+  1. yfinance library  (handles Yahoo Finance auth properly)
+  2. stooq.com CSV     (reliable fallback, no key needed)
+  3. World Bank API    (final fallback, monthly averages)
 Writes to data/steel.json
 """
 
 import json
 import os
+import csv
+import io
 import urllib.request
 from datetime import datetime
+
+try:
+    import yfinance as yf
+    HAS_YFINANCE = True
+except ImportError:
+    HAS_YFINANCE = False
 
 try:
     import requests
@@ -23,49 +31,123 @@ ROOT     = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, 'data')
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-    'Accept': 'application/json',
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+                  '(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 }
 
 COMMODITIES = [
-    {'name': 'Jernmalm (SGX)',  'symbol': 'TIO=F',  'unit': 'USD/t'},
-    {'name': 'Stål HRC (USA)',  'symbol': 'HRC=F',  'unit': 'USD/t'},
-    {'name': 'Kull (Newcastle)','symbol': 'MTF=F',  'unit': 'USD/t'},
+    {'name': 'Jernmalm (SGX)',   'yf': 'TIO=F', 'stooq': 'tio.f',  'unit': 'USD/t', 'wb': None},
+    {'name': 'Stål HRC (USA)',   'yf': 'HRC=F', 'stooq': 'hrc.f',  'unit': 'USD/t', 'wb': None},
+    {'name': 'Kull (Newcastle)', 'yf': 'MTF=F', 'stooq': 'mtf.f',  'unit': 'USD/t', 'wb': 'PCOALAUUSD'},
 ]
 
 
-def fetch_price(symbol):
-    url = f'https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d'
+# ── Method 1: yfinance ────────────────────────────────────────────────────────
+def fetch_yfinance(symbol):
+    if not HAS_YFINANCE:
+        return None
+    try:
+        ticker = yf.Ticker(symbol)
+        hist = ticker.history(period='5d')
+        if hist.empty:
+            return None
+        latest = hist.iloc[-1]
+        prev   = hist.iloc[-2] if len(hist) > 1 else hist.iloc[-1]
+        price      = float(latest['Close'])
+        prev_close = float(prev['Close'])
+        change     = round(price - prev_close, 2)
+        change_pct = round(change / prev_close * 100, 2) if prev_close else 0
+        info = ticker.info or {}
+        currency = info.get('currency', 'USD')
+        return {'price': round(price, 2), 'currency': currency,
+                'change': change, 'change_pct': change_pct}
+    except Exception as e:
+        print(f'  yfinance failed for {symbol}: {e}')
+        return None
+
+
+# ── Method 2: stooq.com CSV ───────────────────────────────────────────────────
+def fetch_stooq(symbol):
+    url = f'https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv'
     try:
         if HAS_REQUESTS:
             r = requests.get(url, headers=HEADERS, timeout=12)
-            r.raise_for_status()
-            data = r.json()
+            text = r.text
         else:
             req = urllib.request.Request(url, headers=HEADERS)
             with urllib.request.urlopen(req, timeout=12) as resp:
-                data = json.loads(resp.read().decode())
+                text = resp.read().decode('utf-8', errors='ignore')
 
-        result = (data.get('chart') or {}).get('result') or []
-        if not result:
+        reader = csv.DictReader(io.StringIO(text))
+        rows = [row for row in reader if row.get('Close', 'N/D') not in ('N/D', '', None)]
+        if not rows:
             return None
-        meta = result[0].get('meta', {})
-        price = meta.get('regularMarketPrice')
-        prev  = meta.get('chartPreviousClose') or meta.get('previousClose')
-        currency = meta.get('currency', 'USD')
-        if price is None:
-            return None
-        change     = round(price - prev, 2) if prev else 0
-        change_pct = round(change / prev * 100, 2) if prev else 0
-        return {
-            'price':      round(float(price), 2),
-            'currency':   currency,
-            'change':     change,
-            'change_pct': change_pct,
-        }
+        rows.sort(key=lambda r: r.get('Date', ''), reverse=True)
+        latest = rows[0]
+        prev   = rows[1] if len(rows) > 1 else rows[0]
+        price      = float(latest['Close'])
+        prev_close = float(prev['Close'])
+        change     = round(price - prev_close, 2)
+        change_pct = round(change / prev_close * 100, 2) if prev_close else 0
+        return {'price': round(price, 2), 'currency': 'USD',
+                'change': change, 'change_pct': change_pct}
     except Exception as e:
-        print(f'  Price fetch failed for {symbol}: {e}')
+        print(f'  stooq failed for {symbol}: {e}')
         return None
+
+
+# ── Method 3: World Bank (monthly average, fallback) ─────────────────────────
+def fetch_worldbank(indicator):
+    if not indicator:
+        return None
+    url = f'https://api.worldbank.org/v2/en/indicator/{indicator}?format=json&mrv=2&frequency=M'
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'ThorPost/1.0'})
+        with urllib.request.urlopen(req, timeout=10) as resp:
+            data = json.loads(resp.read().decode())
+        if not data or len(data) < 2 or not data[1]:
+            return None
+        entries = [e for e in data[1] if e.get('value') is not None]
+        if not entries:
+            return None
+        entries.sort(key=lambda e: e.get('date', ''), reverse=True)
+        latest = entries[0]
+        prev   = entries[1] if len(entries) > 1 else entries[0]
+        price      = float(latest['value'])
+        prev_val   = float(prev['value'])
+        change     = round(price - prev_val, 2)
+        change_pct = round(change / prev_val * 100, 2) if prev_val else 0
+        period = latest.get('date', '')
+        return {'price': round(price, 2), 'currency': 'USD',
+                'change': change, 'change_pct': change_pct,
+                'note': f'Månedlig gjennomsnitt ({period})'}
+    except Exception as e:
+        print(f'  World Bank failed for {indicator}: {e}')
+        return None
+
+
+def fetch_price(c):
+    """Try yfinance → stooq → World Bank in order."""
+    print(f"  Fetching {c['yf']} ({c['name']})...")
+
+    result = fetch_yfinance(c['yf'])
+    if result:
+        print(f"    ✓ yfinance: {result['price']} {result['currency']}")
+        return result
+
+    result = fetch_stooq(c['stooq'])
+    if result:
+        print(f"    ✓ stooq: {result['price']} USD")
+        return result
+
+    result = fetch_worldbank(c.get('wb'))
+    if result:
+        print(f"    ✓ World Bank: {result['price']} USD (monthly)")
+        return result
+
+    print(f"    ✗ All sources failed for {c['yf']}")
+    return None
 
 
 def main():
@@ -74,19 +156,14 @@ def main():
     prices = []
 
     for c in COMMODITIES:
-        print(f"  Fetching {c['symbol']} ({c['name']})...")
-        result = fetch_price(c['symbol'])
+        result = fetch_price(c)
         if result:
             prices.append({
                 'name':       c['name'],
-                'symbol':     c['symbol'],
+                'symbol':     c['yf'],
                 'unit':       c['unit'],
                 **result,
             })
-            arrow = '▲' if result['change'] > 0 else ('▼' if result['change'] < 0 else '—')
-            print(f"    {result['price']} {result['currency']} {arrow} {result['change_pct']:+.1f}%")
-        else:
-            print(f"    No data for {c['symbol']}")
 
     out = {'updated': today, 'prices': prices}
     path = os.path.join(DATA_DIR, 'steel.json')
