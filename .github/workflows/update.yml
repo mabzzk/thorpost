@@ -39,6 +39,8 @@ jobs:
         run: python scripts/fetch_football.py
 
       - name: Hent Tottenham-data
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
         run: python scripts/fetch_tottenham.py
 
       - name: Commit og push oppdaterte data

@@ -289,13 +289,21 @@
         /* ── NEWS ──────────────────────────────────────── */
         .news-item {
             display: grid;
-            grid-template-columns: 2rem 1fr;
+            grid-template-columns: 2rem 1fr auto;
             gap: 0.75rem;
             padding: 1.25rem 0;
             border-bottom: 1px solid var(--border);
             align-items: start;
         }
         .news-item:first-child { padding-top: 0; }
+        .news-thumb {
+            width: 90px;
+            height: 70px;
+            object-fit: cover;
+            display: block;
+            flex-shrink: 0;
+        }
+        @media (max-width: 580px) { .news-thumb { display: none; } }
         .news-num {
             font-family: 'Playfair Display', Georgia, serif;
             font-size: 0.85rem;
@@ -887,6 +895,7 @@ function renderNews(data) {
                     </div>
                     ${s.summary ? `<div class="news-summary">${s.summary}</div>` : ''}
                 </div>
+                ${s.image ? `<img class="news-thumb" src="${s.image}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
             </div>`).join('') +
         `<p class="updated-note" style="margin-top:0.75rem">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
 
@@ -970,17 +979,20 @@ async function loadCountdowns() {
     // Typically first or second Thursday of June
     // 2026: ~June 4 (estimate — update in advance each year)
     const bislettDate = new Date(2027, 5, 3); // June 3 2027 — update annually!
+    const plStart     = new Date(2026, 7, 15); // ~Aug 15 2026 — update each summer!
 
     const events = [
         { name: 'Bislett Games', date: bislettDate, note: 'Oslo' },
+        { name: 'Premier League starter 🏴󠁧󠁢󠁥󠁮󠁧󠁿', date: plStart, note: '2026–27 sesong' },
         nextMatch
             ? { name: 'Neste Larvik Turn-kamp', date: new Date(nextMatch.date), note: `${nextMatch.home} — ${nextMatch.away}` }
             : null,
-        { name: 'Andreas sin bursdag 🎂', date: nextAnnual(10, 4) },
-        { name: 'Elins bursdag 🎂',       date: nextAnnual(11, 3) },
+        { name: 'Thors bursdag 🎂',        date: nextAnnual(20, 6) },
+        { name: 'Andreas sin bursdag 🎂',  date: nextAnnual(10, 4) },
+        { name: 'Elins bursdag 🎂',        date: nextAnnual(11, 3) },
         { name: 'Anne-Elisabeths bursdag 🎂', date: nextAnnual(28, 4) },
-        { name: 'Klaras bursdag 🎂',      date: nextAnnual(26, 4) },
-        { name: 'Ritus bursdag 🎂',       date: nextAnnual(17, 4) },
+        { name: 'Klaras bursdag 🎂',       date: nextAnnual(26, 4) },
+        { name: 'Ritus bursdag 🎂',        date: nextAnnual(17, 4) },
     ].filter(Boolean);
 
     document.getElementById('countdown-grid').innerHTML =

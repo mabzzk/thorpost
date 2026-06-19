@@ -75,6 +75,46 @@ def fetch_url(url, timeout=8):
         print(f'  fetch failed {url}: {e}')
         return None
 
+def extract_image(entry_or_item):
+    """Try to find a thumbnail/image URL from a feed entry."""
+    # feedparser: media_thumbnail, media_content, enclosures
+    for attr in ('media_thumbnail', 'media_content'):
+        val = getattr(entry_or_item, attr, None)
+        if val and isinstance(val, list) and val[0].get('url'):
+            return val[0]['url']
+    enclosures = getattr(entry_or_item, 'enclosures', [])
+    for enc in enclosures:
+        if enc.get('type', '').startswith('image'):
+            return enc.get('href') or enc.get('url', '')
+    # Try parsing image from summary HTML
+    summary = getattr(entry_or_item, 'summary', '') or ''
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary)
+    if m:
+        return m.group(1)
+    return ''
+
+def extract_image_xml(item):
+    """Extract image from raw XML item element."""
+    import xml.etree.ElementTree as ET
+    # media:thumbnail or media:content
+    for ns_prefix in ['media', 'content']:
+        for tag in ['thumbnail', 'content']:
+            el = item.find(f'{{{ns_prefix}}}{tag}') or item.find(f'media:{tag}')
+            if el is not None:
+                url = el.get('url', '')
+                if url:
+                    return url
+    # enclosure
+    enc = item.find('enclosure')
+    if enc is not None and (enc.get('type','') or '').startswith('image'):
+        return enc.get('url', '')
+    # img in description
+    desc = item.findtext('description') or ''
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', desc)
+    if m:
+        return m.group(1)
+    return ''
+
 def parse_feed(url):
     xml = fetch_url(url)
     if not xml:
@@ -86,22 +126,23 @@ def parse_feed(url):
             title   = strip_html(getattr(e, 'title', ''))
             summary = strip_html(getattr(e, 'summary', '') or getattr(e, 'description', ''))[:220]
             link    = getattr(e, 'link', '') or getattr(e, 'id', '')
+            image   = extract_image(e)
             if title:
-                items.append({'title': title, 'summary': summary, 'url': link})
+                items.append({'title': title, 'summary': summary, 'url': link, 'image': image})
         return items
     else:
-        # Minimal XML parse without feedparser
         import xml.etree.ElementTree as ET
         try:
             root = ET.fromstring(xml)
             ns   = {'atom': 'http://www.w3.org/2005/Atom'}
             items = []
             for item in (root.findall('.//item') or root.findall('.//atom:entry', ns))[:15]:
-                title   = (item.findtext('title') or item.findtext('atom:title', namespaces=ns) or '').strip()
-                link    = (item.findtext('link') or item.findtext('atom:link', namespaces=ns) or '')
-                desc    = strip_html(item.findtext('description') or item.findtext('atom:summary', namespaces=ns) or '')[:220]
+                title = (item.findtext('title') or item.findtext('atom:title', namespaces=ns) or '').strip()
+                link  = (item.findtext('link') or item.findtext('atom:link', namespaces=ns) or '')
+                desc  = strip_html(item.findtext('description') or item.findtext('atom:summary', namespaces=ns) or '')[:220]
+                image = extract_image_xml(item)
                 if title:
-                    items.append({'title': title, 'summary': desc, 'url': link})
+                    items.append({'title': title, 'summary': desc, 'url': link, 'image': image})
             return items
         except Exception as e:
             print(f'  parse failed: {e}')
