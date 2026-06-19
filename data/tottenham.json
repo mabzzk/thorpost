@@ -1,8 +1,236 @@
 {
-  "updated": "",
-  "season": "",
+  "updated": "2026-06-19",
+  "season": "2026-2027",
   "badge_url": "",
   "recent_results": [],
-  "next_match": null,
-  "standings": []
+  "next_match": {
+    "date": "2026-08-22",
+    "time": "16:30",
+    "home": "Brentford FC",
+    "away": "Tottenham Hotspur FC",
+    "competition": "Premier League",
+    "venue": ""
+  },
+  "standings": [
+    {
+      "pos": 1,
+      "team": "AFC Bournemouth",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Arsenal FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Aston Villa FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Brentford FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Brighton & Hove Albion FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Chelsea FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Coventry City FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Crystal Palace FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Everton FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Fulham FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Hull City AFC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Ipswich Town FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Leeds United FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Liverpool FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Manchester City FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Manchester United FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Newcastle United FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Nottingham Forest FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Sunderland AFC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": false
+    },
+    {
+      "pos": 1,
+      "team": "Tottenham Hotspur FC",
+      "played": 0,
+      "won": 0,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 0,
+      "points": 0,
+      "is_spurs": true
+    }
+  ]
 }
