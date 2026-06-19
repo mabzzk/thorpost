@@ -217,6 +217,75 @@
         }
         .fotball-link:hover { color: var(--text); }
 
+        /* ── TOTTENHAM ───────────────────────────── */
+        .spurs-header {
+            background: #132257;
+            color: #fff;
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+        }
+        .spurs-badge { width: 54px; height: 54px; object-fit: contain; flex-shrink: 0; }
+        .spurs-club  { font-family: 'Playfair Display', Georgia, serif; font-size: 1.35rem; font-weight: 700; }
+        .spurs-sub   { font-size: 0.78rem; opacity: 0.65; margin-top: 0.2rem; letter-spacing: 0.08em; }
+
+        .spurs-two-col {
+            display: grid;
+            grid-template-columns: 1fr 1.6fr;
+            gap: 2rem;
+            align-items: start;
+        }
+        @media (max-width: 680px) { .spurs-two-col { grid-template-columns: 1fr; } }
+
+        .next-spurs-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-left: 3px solid #132257;
+            padding: 1.25rem 1.5rem;
+            margin-bottom: 2rem;
+        }
+        .next-spurs-label {
+            font-size: 0.68rem; font-weight: 500; letter-spacing: 0.14em;
+            text-transform: uppercase; color: var(--muted); margin-bottom: 0.5rem;
+        }
+        .next-spurs-teams {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.25rem; font-weight: 600; line-height: 1.25;
+        }
+        .next-spurs-meta { font-size: 0.85rem; color: var(--muted); margin-top: 0.4rem; }
+
+        .results-list { list-style: none; }
+        .result-item {
+            display: flex; align-items: center; gap: 0.6rem;
+            padding: 0.65rem 0; border-bottom: 1px solid var(--border); font-size: 0.875rem;
+        }
+        .result-badge {
+            font-size: 0.62rem; font-weight: 700; padding: 0.15rem 0.45rem;
+            border-radius: 2px; flex-shrink: 0; min-width: 1.5rem; text-align: center;
+        }
+        .result-badge.W { background: #2d6a2d; color: #fff; }
+        .result-badge.D { background: #888; color: #fff; }
+        .result-badge.L { background: #a32020; color: #fff; }
+        .result-teams   { flex: 1; }
+        .result-score   { font-weight: 600; font-family: 'Playfair Display', serif; min-width: 2.5rem; text-align: center; }
+        .result-comp    { font-size: 0.7rem; color: var(--muted); margin-top: 0.1rem; }
+        .result-date    { font-size: 0.72rem; color: var(--muted); flex-shrink: 0; }
+
+        .pl-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+        .pl-table th {
+            text-align: left; font-size: 0.65rem; font-weight: 500;
+            letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);
+            padding: 0.4rem 0.4rem 0.65rem; border-bottom: 1px solid var(--border);
+        }
+        .pl-table th:not(:first-child):not(:nth-child(2)) { text-align: center; }
+        .pl-table td { padding: 0.5rem 0.4rem; border-bottom: 1px solid var(--border); }
+        .pl-table td:not(:first-child):not(:nth-child(2)) { text-align: center; }
+        .pl-table tr.spurs-row { background: #132257; color: #fff; }
+        .pl-table tr.spurs-row td { border-bottom-color: #1e3a8a; }
+        .pl-pos { color: var(--muted); font-size: 0.78rem; }
+
         /* ── NEWS ──────────────────────────────────────── */
         .news-item {
             display: grid;
@@ -461,6 +530,14 @@
     </div>
 </section>
 
+<!-- ────────────────── TOTTENHAM ──────────────── -->
+<section id="tottenham">
+    <div class="container">
+        <p class="section-label">Tottenham Hotspur</p>
+        <div id="tottenham-content"><p class="loading-text">Laster Tottenham-data…</p></div>
+    </div>
+</section>
+
 <!-- ────────────────── NEWS ────────────────────── -->
 <section id="nyheter">
     <div class="container">
@@ -666,6 +743,115 @@ function renderFootball(data) {
         <ul class="match-list">${rows}</ul>
         <a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank" class="fotball-link">Se fullstendig kampprogram →</a>
         <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  TOTTENHAM
+// ═══════════════════════════════════════════════
+async function loadTottenham() {
+    try {
+        const r = await fetch('data/tottenham.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderTottenham(await r.json());
+    } catch {
+        document.getElementById('tottenham-content').innerHTML =
+            '<p class="loading-text">Tottenham-data ikke tilgjengelig ennå — oppdateres kl. 07:00.</p>';
+    }
+}
+
+function renderTottenham(data) {
+    const { season, badge_url, recent_results, next_match, standings, updated } = data;
+    let html = '';
+
+    // ── Header ───────────────────────────────────────────────────────────────
+    html += `
+        <div class="spurs-header">
+            ${badge_url ? `<img src="${badge_url}" class="spurs-badge" alt="Tottenham Hotspur crest">` : '<span style="font-size:2.5rem">⚽</span>'}
+            <div>
+                <div class="spurs-club">Tottenham Hotspur</div>
+                ${season ? `<div class="spurs-sub">Premier League ${season}</div>` : ''}
+            </div>
+        </div>`;
+
+    // ── Next match ───────────────────────────────────────────────────────────
+    if (next_match && next_match.home) {
+        const dStr = next_match.date
+            ? new Date(next_match.date).toLocaleDateString('nb-NO', { weekday:'long', day:'numeric', month:'long' })
+            : '';
+        html += `
+            <div class="next-spurs-card">
+                <div class="next-spurs-label">Neste kamp</div>
+                <div class="next-spurs-teams">${next_match.home} — ${next_match.away}</div>
+                <div class="next-spurs-meta">
+                    ${dStr}${next_match.time ? ' kl. ' + next_match.time : ''}
+                    ${next_match.competition ? ' · ' + next_match.competition : ''}
+                    ${next_match.venue ? ' · ' + next_match.venue : ''}
+                </div>
+            </div>`;
+    }
+
+    // ── Two-column: results + table ──────────────────────────────────────────
+    html += '<div class="spurs-two-col">';
+
+    // Recent results
+    if (recent_results && recent_results.length) {
+        html += `<div>
+            <p class="section-label">Siste resultater</p>
+            <ul class="results-list">`;
+        for (const res of recent_results) {
+            const score = (res.home_score !== null && res.home_score !== undefined &&
+                           res.away_score !== null && res.away_score !== undefined)
+                ? `${res.home_score}–${res.away_score}` : '';
+            const shortComp = (res.competition || '')
+                .replace('English Premier League','PL').replace('Premier League','PL');
+            html += `
+                <li class="result-item">
+                    <span class="result-badge ${res.result}">${res.result}</span>
+                    <div class="result-teams">
+                        <div>${res.home}${score ? ' <strong>' + score + '</strong> ' : ' – '}${res.away}</div>
+                        <div class="result-comp">${shortComp}</div>
+                    </div>
+                    <div class="result-date">${res.date ? formatShortDateNo(res.date) : ''}</div>
+                </li>`;
+        }
+        html += '</ul></div>';
+    } else {
+        html += '<div><p class="loading-text">Ingen resultater tilgjengelig.</p></div>';
+    }
+
+    // PL standings table
+    if (standings && standings.length) {
+        html += `<div>
+            <p class="section-label">Tabellen</p>
+            <table class="pl-table">
+                <thead>
+                    <tr><th>#</th><th>Lag</th><th>K</th><th>V</th><th>U</th><th>T</th><th>MD</th><th>P</th></tr>
+                </thead>
+                <tbody>`;
+        for (const row of standings) {
+            const cls = row.is_spurs ? 'class="spurs-row"' : '';
+            const gd  = row.gd > 0 ? '+' + row.gd : row.gd;
+            html += `
+                <tr ${cls}>
+                    <td class="pl-pos">${row.pos}</td>
+                    <td>${row.team}</td>
+                    <td>${row.played}</td>
+                    <td>${row.won}</td>
+                    <td>${row.drawn}</td>
+                    <td>${row.lost}</td>
+                    <td>${gd}</td>
+                    <td><strong>${row.points}</strong></td>
+                </tr>`;
+        }
+        html += `</tbody></table></div>`;
+    } else {
+        html += '<div><p class="loading-text">Tabell ikke tilgjengelig.</p></div>';
+    }
+
+    html += '</div>'; // end two-col
+    html += `<p class="updated-note">Sist oppdatert: ${updated || 'ukjent'}</p>`;
+    document.getElementById('tottenham-content').innerHTML = html;
 }
 
 
@@ -899,6 +1085,7 @@ function initDonald() {
 // ═══════════════════════════════════════════════
 loadWeather();
 loadFootball();
+loadTottenham();
 loadNews();
 loadCountdowns();
 initCarousel();

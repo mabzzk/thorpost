@@ -38,6 +38,9 @@ jobs:
       - name: Hent kampprogram (Larvik Turn)
         run: python scripts/fetch_football.py
 
+      - name: Hent Tottenham-data
+        run: python scripts/fetch_tottenham.py
+
       - name: Commit og push oppdaterte data
         run: |
           git config user.email "thorpost-bot@users.noreply.github.com"
