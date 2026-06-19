@@ -1,5 +1,36 @@
 {
-  "updated": "",
-  "stories": [],
+  "updated": "2026-06-19",
+  "stories": [
+    {
+      "title": "Ber politiet se på skolekonkurs: Mistenker at studentene er utsatt for bedrageri",
+      "summary": "Styret ved Pilot Flight Academy kan ha brutt flere norske lover, ifølge en knallhard rapport fra bostyrer. Det avvises på det sterkeste av talspersonen til eierne.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/pilotskolen-pa-torp_-mistenker-at-studentene-er-utsatt-for-bedrageri-1.17926352",
+      "category": "Larvik"
+    },
+    {
+      "title": "Guttormsen på pallen i Qatar – jaktet på drømmegrense utendørs",
+      "summary": "Stavhopper Sondre Guttormsen tok en ny sterk tredjeplass i Diamond League-stevnet i Doha fredag. Han gikk over 5,92 meter og snuste på drømmegrensen seks meter.\nSki-gutten måtte riktignok ha tre forsøk på å svinge seg ov",
+      "url": "https://www.nrk.no/sport/guttormsen-pa-pallen-i-qatar-_-jaktet-pa-drommegrense-utendors-1.17929065",
+      "category": "Friidrett"
+    },
+    {
+      "title": "AFP: Algerie har levert Messi-klage til Fifa",
+      "summary": "Algerie har sendt inn en formell klage til Fifa vedrørende «urettferdighet fra dommeren» etter åpningskampen mot Argentina i VM. En kilde i Det algeriske fotballforbundet opplyser om klagen overfor nyhetsbyrået AFP freda",
+      "url": "https://www.nrk.no/sport/afp_-algerie-har-levert-messi-klage-til-fifa--1.17929129",
+      "category": "Sport"
+    },
+    {
+      "title": "Her blir dommaren redda av sylteagurksaft: – Utruleg audmjukande",
+      "summary": "USA har sikra seg sluttspel i VM, men etter kampen var det dommaren som fekk mest merksemd.",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-usa-feira-vilt-da-dei-skara-mot-australia-1.17929095",
+      "category": "Sport"
+    },
+    {
+      "title": "Golfstjerne fikk straff for raseriutbrudd",
+      "summary": "Golfspiller Joaquin Niemann kastet kølla i frustrasjon under US Open og fikk merke at golfsporten har tatt grep for å slå hardere ned på den typen oppførsel.\nFredag ble chilenske Niemann ilagt to straffeslag som følge av",
+      "url": "https://www.nrk.no/sport/golfstjerne-fikk-straff-for-raseriutbrudd-1.17929157",
+      "category": "Sport"
+    }
+  ],
   "archive": []
 }

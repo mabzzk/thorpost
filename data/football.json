@@ -1,7 +1,64 @@
 {
-  "updated": "",
+  "updated": "2026-06-19",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
-  "matches": []
+  "matches": [
+    {
+      "date": "2026-06-20",
+      "time": "16:00",
+      "home": "Larvik Turn",
+      "away": "Åsgårdstrand",
+      "venue": ""
+    },
+    {
+      "date": "2026-06-25",
+      "time": "19:30",
+      "home": "Runar",
+      "away": "Larvik Turn Haukerød KG A",
+      "venue": ""
+    },
+    {
+      "date": "2026-08-13",
+      "time": "19:30",
+      "home": "Sandar",
+      "away": "Larvik Turn Vesterøya B KG",
+      "venue": ""
+    },
+    {
+      "date": "2026-08-22",
+      "time": "14:00",
+      "home": "Larvik Turn",
+      "away": "Tønsberg FK Lovisenlund Stadion",
+      "venue": ""
+    },
+    {
+      "date": "2026-08-27",
+      "time": "19:00",
+      "home": "Teie",
+      "away": "Larvik Turn Teie Xpert KG",
+      "venue": ""
+    },
+    {
+      "date": "2026-09-05",
+      "time": "14:00",
+      "home": "Larvik Turn",
+      "away": "Sandefjord BK Lovisenlund Stadion",
+      "venue": ""
+    },
+    {
+      "date": "2026-09-12",
+      "time": "14:00",
+      "home": "Flint",
+      "away": "Larvik Turn Flint ESSO Arena A KG",
+      "venue": ""
+    },
+    {
+      "date": "2026-09-19",
+      "time": "14:00",
+      "home": "Larvik Turn",
+      "away": "Store Bergan Lovisenlund Stadion",
+      "venue": ""
+    }
+  ]
 }
