@@ -500,6 +500,120 @@
         }
         .donald-btn:hover { opacity: 0.75; }
 
+        /* ── THOUGHT OF THE DAY ────────────────────────── */
+        .masthead-thought {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-style: italic;
+            font-size: 0.9rem;
+            color: var(--muted);
+            margin-top: 0.6rem;
+            max-width: 560px;
+            margin-left: auto;
+            margin-right: auto;
+            line-height: 1.5;
+        }
+
+        /* ── SUN ROW ────────────────────────────────────── */
+        .sun-row {
+            display: flex;
+            gap: 2rem;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            font-size: 0.875rem;
+            color: var(--muted);
+        }
+        .sun-row span { display: flex; align-items: center; gap: 0.4rem; }
+        .sun-row strong { color: var(--text); }
+
+        /* ── HISTORY ────────────────────────────────────── */
+        .history-list { list-style: none; }
+        .history-item {
+            display: flex;
+            gap: 1.25rem;
+            padding: 1.1rem 0;
+            border-bottom: 1px solid var(--border);
+            align-items: baseline;
+        }
+        .history-item:last-child { border-bottom: none; }
+        .history-year {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.5rem;
+            font-weight: 400;
+            color: var(--muted);
+            min-width: 4rem;
+            flex-shrink: 0;
+            line-height: 1;
+        }
+        .history-text {
+            font-size: 0.9rem;
+            line-height: 1.55;
+        }
+        .history-text a {
+            color: inherit;
+            text-decoration: underline;
+            text-decoration-color: var(--border);
+        }
+        .history-text a:hover { text-decoration-color: var(--text); }
+
+        /* ── COMMODITY PRICES ───────────────────────────── */
+        .commodity-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        @media (max-width: 580px) { .commodity-grid { grid-template-columns: 1fr; } }
+
+        .commodity-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            padding: 1.25rem;
+        }
+        .commodity-name {
+            font-size: 0.72rem;
+            font-weight: 500;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--muted);
+            margin-bottom: 0.5rem;
+        }
+        .commodity-price {
+            font-family: 'Playfair Display', Georgia, serif;
+            font-size: 1.75rem;
+            font-weight: 400;
+            line-height: 1;
+        }
+        .commodity-unit { font-size: 0.75rem; color: var(--muted); }
+        .commodity-change {
+            font-size: 0.8rem;
+            margin-top: 0.4rem;
+            font-weight: 500;
+        }
+        .commodity-change.up   { color: #2d6a2d; }
+        .commodity-change.down { color: #a32020; }
+        .commodity-change.flat { color: var(--muted); }
+
+        /* ── LINKS (SUDOKU/CROSSWORD) ───────────────────── */
+        .links-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+        }
+        .link-btn {
+            display: inline-block;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            color: var(--text);
+            text-decoration: none;
+            padding: 0.85rem 1.5rem;
+            font-size: 0.82rem;
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            transition: border-color 0.15s, background 0.15s;
+        }
+        .link-btn:hover { border-color: var(--text); background: var(--text); color: var(--bg); }
+        .link-btn-icon { margin-right: 0.4rem; }
+
         /* ── FOOTER ────────────────────────────────────── */
         footer {
             padding: 2.5rem 0 3rem;
@@ -517,6 +631,7 @@
     <h1 class="masthead-title">Thorpost</h1>
     <p class="masthead-tagline">Din daglige oppdatering fra Larvik</p>
     <p class="masthead-date" id="header-date"></p>
+    <p class="masthead-thought" id="masthead-thought"></p>
 </header>
 
 <main>
@@ -529,12 +644,30 @@
     </div>
 </section>
 
+<!-- ────────────────── HISTORY ──────────────────── -->
+<section id="historien">
+    <div class="container">
+        <p class="section-label">I dag i historien</p>
+        <h2 class="section-title" id="history-title">På denne dag…</h2>
+        <div id="history-content"><p class="loading-text">Laster historiske hendelser…</p></div>
+    </div>
+</section>
+
 <!-- ────────────────── FOOTBALL ────────────────── -->
 <section id="fotball">
     <div class="container">
         <p class="section-label">Larvik Turn</p>
         <h2 class="section-title">Kommende kamper</h2>
         <div id="football-content"><p class="loading-text">Laster kampprogram…</p></div>
+    </div>
+</section>
+
+<!-- ────────────────── NORWAY ───────────────────── -->
+<section id="norge">
+    <div class="container">
+        <p class="section-label">Herrelandslaget</p>
+        <h2 class="section-title">Norge kommende kamper 🇳🇴</h2>
+        <div id="norway-content"><p class="loading-text">Laster kampprogram…</p></div>
     </div>
 </section>
 
@@ -560,12 +693,46 @@
     </div>
 </section>
 
+<!-- ────────────────── STEEL PRICES ────────────── -->
+<section id="ravarer">
+    <div class="container">
+        <p class="section-label">Råvarepriser</p>
+        <h2 class="section-title">Metaller &amp; Kull</h2>
+        <div id="steel-content"><p class="loading-text">Laster råvarepriser…</p></div>
+    </div>
+</section>
+
 <!-- ────────────────── COUNTDOWNS ──────────────── -->
 <section id="nedtellinger">
     <div class="container">
         <p class="section-label">Nedtellinger</p>
         <h2 class="section-title">Hva er i vente?</h2>
         <div class="countdown-grid" id="countdown-grid"></div>
+    </div>
+</section>
+
+<!-- ────────────────── DAGLIG LEK ──────────────── -->
+<section id="lek">
+    <div class="container">
+        <p class="section-label">Daglig lek</p>
+        <h2 class="section-title">Hjernetrim for dagen</h2>
+        <div class="links-grid">
+            <a href="https://www.vg.no/spill/sudoku/" target="_blank" rel="noopener" class="link-btn">
+                <span class="link-btn-icon">🔢</span> Sudoku (VG)
+            </a>
+            <a href="https://www.nrk.no/kryssord/" target="_blank" rel="noopener" class="link-btn">
+                <span class="link-btn-icon">🔤</span> Kryssord (NRK)
+            </a>
+            <a href="https://www.aftenposten.no/kryssord" target="_blank" rel="noopener" class="link-btn">
+                <span class="link-btn-icon">📰</span> Kryssord (Aftenposten)
+            </a>
+            <a href="https://www.vg.no/spill/wordle/" target="_blank" rel="noopener" class="link-btn">
+                <span class="link-btn-icon">💬</span> Wordle (VG)
+            </a>
+            <a href="https://www.nrk.no/spill/" target="_blank" rel="noopener" class="link-btn">
+                <span class="link-btn-icon">🎮</span> Alle spill (NRK)
+            </a>
+        </div>
     </div>
 </section>
 
@@ -669,12 +836,26 @@ async function loadWeather() {
 }
 
 function renderWeather(d) {
-    const { today: td, tomorrow: tm, water, remark, updated } = d;
+    const { today: td, tomorrow: tm, water, remark, thought, sun, updated } = d;
+
+    // Show thought of the day in masthead
+    if (thought) {
+        const el = document.getElementById('masthead-thought');
+        if (el) el.textContent = '“' + thought + '”';
+    }
     const swimNote = (water.ocean >= 22 || water.farris >= 22 || water.ulfsbakktjern >= 22)
         ? '<p class="swim-nudge">🏊 Badetemperatur! Vannet er over 22 grader – ta en dukkert, Thor!</p>' : '';
 
+    const sunRow = (sun && sun.sunrise)
+        ? `<div class="sun-row">
+               <span>🌅 Soloppgang <strong>${sun.sunrise}</strong></span>
+               <span>🌇 Solnedgang <strong>${sun.sunset}</strong></span>
+           </div>`
+        : '';
+
     document.getElementById('weather-content').innerHTML = `
         ${remark ? `<p class="weather-remark">${remark}</p>` : ''}
+        ${sunRow}
         <div class="weather-grid">
             <div class="weather-card">
                 <p class="weather-day-label">I dag</p>
@@ -751,6 +932,127 @@ function renderFootball(data) {
         <ul class="match-list">${rows}</ul>
         <a href="https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194" target="_blank" class="fotball-link">Se fullstendig kampprogram →</a>
         <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  HISTORY
+// ═══════════════════════════════════════════════
+async function loadHistory() {
+    try {
+        const r = await fetch('data/history.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderHistory(await r.json());
+    } catch {
+        document.getElementById('history-content').innerHTML =
+            '<p class="loading-text">Historiedata ikke tilgjengelig ennå — oppdateres kl. 07:00.</p>';
+    }
+}
+
+function renderHistory(data) {
+    const { events, month, day } = data;
+    if (!events || !events.length) {
+        document.getElementById('history-content').innerHTML =
+            '<p class="loading-text">Ingen historiske hendelser funnet for i dag.</p>';
+        return;
+    }
+    // Update section title with today's date
+    const titleEl = document.getElementById('history-title');
+    if (titleEl && month && day) {
+        const d = new Date(new Date().getFullYear(), month - 1, day);
+        titleEl.textContent = `${d.getDate()}. ${MONTHS_NO[d.getMonth()]} gjennom historien`;
+    }
+    const items = events.map(e => `
+        <li class="history-item">
+            <span class="history-year">${e.year}</span>
+            <span class="history-text">${e.url
+                ? `<a href="${e.url}" target="_blank" rel="noopener">${e.text}</a>`
+                : e.text}</span>
+        </li>`).join('');
+    document.getElementById('history-content').innerHTML =
+        `<ul class="history-list">${items}</ul>`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  NORWAY NATIONAL TEAM
+// ═══════════════════════════════════════════════
+async function loadNorway() {
+    try {
+        const r = await fetch('data/norway.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderNorway(await r.json());
+    } catch {
+        document.getElementById('norway-content').innerHTML =
+            '<p class="loading-text">Kampdata ikke tilgjengelig ennå.</p>' +
+            '<p style="margin-top:0.75rem"><a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se kampprogram på nff.no →</a></p>';
+    }
+}
+
+function renderNorway(data) {
+    const matches = data.matches || [];
+    if (!matches.length) {
+        document.getElementById('norway-content').innerHTML =
+            '<p class="loading-text">Ingen kommende kamper registrert for øyeblikket.</p>' +
+            '<p style="margin-top:0.75rem"><a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se kampprogram på nff.no →</a></p>';
+        return;
+    }
+    const rows = matches.slice(0, 5).map(m => `
+        <li class="match-item">
+            <div>
+                <div class="match-teams">${m.home} — ${m.away}</div>
+                ${m.competition ? `<div class="match-venue">${m.competition}</div>` : ''}
+                ${m.venue ? `<div class="match-venue">${m.venue}</div>` : ''}
+            </div>
+            <div class="match-meta">
+                <div>${formatShortDateNo(m.date)}</div>
+                ${m.time ? `<div>${m.time} UTC</div>` : ''}
+            </div>
+        </li>`).join('');
+    document.getElementById('norway-content').innerHTML = `
+        <ul class="match-list">${rows}</ul>
+        <a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se fullstendig kampprogram på nff.no →</a>
+        <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+}
+
+
+// ═══════════════════════════════════════════════
+//  STEEL / COMMODITY PRICES
+// ═══════════════════════════════════════════════
+async function loadSteel() {
+    try {
+        const r = await fetch('data/steel.json?_=' + Date.now());
+        if (!r.ok) throw new Error();
+        renderSteel(await r.json());
+    } catch {
+        document.getElementById('steel-content').innerHTML =
+            '<p class="loading-text">Råvarepriser ikke tilgjengelig ennå — oppdateres kl. 07:00.</p>';
+    }
+}
+
+function renderSteel(data) {
+    const { prices, updated } = data;
+    if (!prices || !prices.length) {
+        document.getElementById('steel-content').innerHTML =
+            '<p class="loading-text">Ingen prisdata tilgjengelig.</p>';
+        return;
+    }
+    const cards = prices.map(p => {
+        const up   = p.change > 0;
+        const down = p.change < 0;
+        const cls  = up ? 'up' : (down ? 'down' : 'flat');
+        const arrow = up ? '▲' : (down ? '▼' : '—');
+        return `
+        <div class="commodity-card">
+            <div class="commodity-name">${p.name}</div>
+            <div class="commodity-price">${p.price.toFixed(2)}</div>
+            <div class="commodity-unit">${p.currency} / ${p.unit || 't'}</div>
+            <div class="commodity-change ${cls}">${arrow} ${Math.abs(p.change).toFixed(2)} (${p.change_pct > 0 ? '+' : ''}${p.change_pct.toFixed(1)}%)</div>
+        </div>`;
+    }).join('');
+    document.getElementById('steel-content').innerHTML = `
+        <div class="commodity-grid">${cards}</div>
+        <p class="updated-note">Kilde: Yahoo Finance · Sist oppdatert: ${updated || 'ukjent'}</p>`;
 }
 
 
@@ -1096,9 +1398,12 @@ function initDonald() {
 //  BOOT
 // ═══════════════════════════════════════════════
 loadWeather();
+loadHistory();
 loadFootball();
+loadNorway();
 loadTottenham();
 loadNews();
+loadSteel();
 loadCountdowns();
 initCarousel();
 initDonald();

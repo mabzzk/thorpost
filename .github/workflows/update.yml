@@ -35,13 +35,24 @@ jobs:
       - name: Hent nyheter
         run: python scripts/fetch_news.py
 
+      - name: Hent historiske hendelser
+        run: python scripts/fetch_history.py
+
       - name: Hent kampprogram (Larvik Turn)
         run: python scripts/fetch_football.py
+
+      - name: Hent råvarepriser
+        run: python scripts/fetch_steel.py
 
       - name: Hent Tottenham-data
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
         run: python scripts/fetch_tottenham.py
+
+      - name: Hent Herrelandslaget-kamper
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: python scripts/fetch_norway.py
 
       - name: Commit og push oppdaterte data
         run: |
