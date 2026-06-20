@@ -132,16 +132,31 @@
         .weather-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
-            gap: 1.25rem;
-            margin-bottom: 2rem;
+            gap: 0;
+            margin-bottom: 1.5rem;
+            background: rgba(255,255,255,0.86);
+            border: 1px solid var(--border);
+            backdrop-filter: blur(6px);
+            border-radius: 4px;
+            overflow: hidden;
         }
         @media (max-width: 580px) { .weather-grid { grid-template-columns: 1fr; } }
 
         .weather-card {
-            background: rgba(255,255,255,0.82);
-            border: 1px solid var(--border);
-            padding: 1rem 1.25rem;
+            padding: 0.85rem 1.1rem;
+            border-right: 1px solid var(--border);
+        }
+        .weather-card:last-child { border-right: none; }
+        @media (max-width: 580px) { .weather-card { border-right: none; border-bottom: 1px solid var(--border); } }
+        .weather-text-backdrop {
+            display: inline-flex;
+            align-items: center;
+            gap: 1.5rem;
+            background: rgba(255,255,255,0.84);
             backdrop-filter: blur(4px);
+            padding: 0.45rem 0.9rem;
+            border-radius: 4px;
+            margin-bottom: 1rem;
         }
         .weather-day-label {
             font-size: 0.68rem;
@@ -239,18 +254,33 @@
         .fotball-link:hover { color: var(--text); }
 
         /* ── TOTTENHAM ───────────────────────────── */
+        #tottenham { background: #132257; }
+        #tottenham .section-label { color: rgba(255,255,255,0.5); }
+        #tottenham .section-label::after { background: rgba(255,255,255,0.15); }
+        #tottenham .updated-note { color: rgba(255,255,255,0.4); }
+        #tottenham .loading-text { color: rgba(255,255,255,0.6); }
         .spurs-header {
-            background: #132257;
-            color: #fff;
-            padding: 1.5rem;
             display: flex;
             align-items: center;
             gap: 1.25rem;
             margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid rgba(255,255,255,0.15);
         }
-        .spurs-badge { width: 54px; height: 54px; object-fit: contain; flex-shrink: 0; }
-        .spurs-club  { font-family: 'Playfair Display', Georgia, serif; font-size: 1.35rem; font-weight: 700; }
-        .spurs-sub   { font-size: 0.78rem; opacity: 0.65; margin-top: 0.2rem; letter-spacing: 0.08em; }
+        .spurs-badge { width: 72px; height: 72px; object-fit: contain; flex-shrink: 0; }
+        .spurs-club  { font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #fff; }
+        .spurs-sub   { font-size: 0.78rem; color: rgba(255,255,255,0.55); margin-top: 0.2rem; letter-spacing: 0.08em; }
+        .spurs-sheringham {
+            float: right;
+            width: 120px;
+            height: 150px;
+            object-fit: cover;
+            object-position: center top;
+            border-radius: 4px;
+            margin: 0 0 1rem 1.5rem;
+            opacity: 0.88;
+            border: 2px solid rgba(255,255,255,0.2);
+        }
 
         .spurs-two-col {
             display: grid;
@@ -261,26 +291,27 @@
         @media (max-width: 680px) { .spurs-two-col { grid-template-columns: 1fr; } }
 
         .next-spurs-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-left: 3px solid #132257;
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-left: 3px solid #99d6ff;
             padding: 1.25rem 1.5rem;
             margin-bottom: 2rem;
         }
         .next-spurs-label {
             font-size: 0.68rem; font-weight: 500; letter-spacing: 0.14em;
-            text-transform: uppercase; color: var(--muted); margin-bottom: 0.5rem;
+            text-transform: uppercase; color: rgba(255,255,255,0.5); margin-bottom: 0.5rem;
         }
         .next-spurs-teams {
             font-family: 'Playfair Display', Georgia, serif;
-            font-size: 1.25rem; font-weight: 600; line-height: 1.25;
+            font-size: 1.25rem; font-weight: 600; line-height: 1.25; color: #fff;
         }
-        .next-spurs-meta { font-size: 0.85rem; color: var(--muted); margin-top: 0.4rem; }
+        .next-spurs-meta { font-size: 0.85rem; color: rgba(255,255,255,0.55); margin-top: 0.4rem; }
 
         .results-list { list-style: none; }
         .result-item {
             display: flex; align-items: center; gap: 0.6rem;
-            padding: 0.65rem 0; border-bottom: 1px solid var(--border); font-size: 0.875rem;
+            padding: 0.65rem 0; border-bottom: 1px solid rgba(255,255,255,0.1); font-size: 0.875rem;
+            color: #fff;
         }
         .result-badge {
             font-size: 0.62rem; font-weight: 700; padding: 0.15rem 0.45rem;
@@ -291,21 +322,21 @@
         .result-badge.L { background: #a32020; color: #fff; }
         .result-teams   { flex: 1; }
         .result-score   { font-weight: 600; font-family: 'Playfair Display', serif; min-width: 2.5rem; text-align: center; }
-        .result-comp    { font-size: 0.7rem; color: var(--muted); margin-top: 0.1rem; }
-        .result-date    { font-size: 0.72rem; color: var(--muted); flex-shrink: 0; }
+        .result-comp    { font-size: 0.7rem; color: rgba(255,255,255,0.45); margin-top: 0.1rem; }
+        .result-date    { font-size: 0.72rem; color: rgba(255,255,255,0.45); flex-shrink: 0; }
 
-        .pl-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; }
+        .pl-table { width: 100%; border-collapse: collapse; font-size: 0.82rem; color: #fff; }
         .pl-table th {
             text-align: left; font-size: 0.65rem; font-weight: 500;
-            letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);
-            padding: 0.4rem 0.4rem 0.65rem; border-bottom: 1px solid var(--border);
+            letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.45);
+            padding: 0.4rem 0.4rem 0.65rem; border-bottom: 1px solid rgba(255,255,255,0.15);
         }
         .pl-table th:not(:first-child):not(:nth-child(2)) { text-align: center; }
-        .pl-table td { padding: 0.5rem 0.4rem; border-bottom: 1px solid var(--border); }
+        .pl-table td { padding: 0.5rem 0.4rem; border-bottom: 1px solid rgba(255,255,255,0.1); }
         .pl-table td:not(:first-child):not(:nth-child(2)) { text-align: center; }
-        .pl-table tr.spurs-row { background: #132257; color: #fff; }
-        .pl-table tr.spurs-row td { border-bottom-color: #1e3a8a; }
-        .pl-pos { color: var(--muted); font-size: 0.78rem; }
+        .pl-table tr.spurs-row { background: rgba(255,255,255,0.15); color: #fff; font-weight: 600; }
+        .pl-table tr.spurs-row td { border-bottom-color: rgba(255,255,255,0.2); }
+        .pl-pos { color: rgba(255,255,255,0.45); font-size: 0.78rem; }
 
         /* ── NEWS ──────────────────────────────────────── */
         .news-item {
@@ -457,6 +488,7 @@
             width: 100%;
             height: clamp(260px, 45vw, 520px);
             object-fit: cover;
+            object-position: center 25%;
             display: block;
             opacity: 0.88;
         }
@@ -575,16 +607,11 @@
         .pollen-level { color: var(--muted); }
 
         /* ── SUN ROW ────────────────────────────────────── */
-        .sun-row {
-            display: flex;
-            gap: 2rem;
-            align-items: center;
-            margin-bottom: 1.5rem;
-            font-size: 0.875rem;
-            color: var(--muted);
+        .sun-row-item {
+            display: flex; align-items: center; gap: 0.4rem;
+            font-size: 0.875rem; color: var(--muted);
         }
-        .sun-row span { display: flex; align-items: center; gap: 0.4rem; }
-        .sun-row strong { color: var(--text); }
+        .sun-row-item strong { color: var(--text); }
 
         /* ── HISTORY ────────────────────────────────────── */
         .history-list { list-style: none; }
@@ -938,11 +965,17 @@ function renderWeather(d) {
         ? '<p class="swim-nudge">🏊 Badetemperatur! Sjøen er over 22 grader – ta en dukkert, Thor!</p>' : '';
 
     const sunRow = (sun && sun.sunrise)
-        ? `<div class="sun-row">
-               <span>🌅 Soloppgang <strong>${sun.sunrise}</strong></span>
-               <span>🌇 Solnedgang <strong>${sun.sunset}</strong></span>
+        ? `<div class="weather-text-backdrop">
+               <span class="sun-row-item">🌅 Soloppgang <strong>${sun.sunrise}</strong></span>
+               <span class="sun-row-item">🌇 Solnedgang <strong>${sun.sunset}</strong></span>
            </div>`
         : '';
+
+    // Filter out junk pollen entries scraped from page chrome
+    const cleanPollen = (pollen || []).filter(p => {
+        const t = (p.type || '').toLowerCase();
+        return !t.includes('risiko') && !t.includes('graf') && !t.includes('luftkvalitet') && !t.includes('ulfsbakk');
+    });
 
     document.getElementById('weather-content').innerHTML = `
         ${remark ? `<p class="weather-remark">${remark}</p>` : ''}
@@ -963,7 +996,9 @@ function renderWeather(d) {
                 <div class="weather-desc">Vind ${tm.wind_speed.toFixed(1)} m/s${tm.precipitation > 0.5 ? ` &middot; Nedbør ${tm.precipitation} mm` : ''}</div>
             </div>
         </div>
-        <p class="section-label" style="margin-top:2rem">Vanntemperatur &amp; Pollen</p>
+        <div class="weather-text-backdrop" style="margin-top:1.5rem;margin-bottom:0.5rem;display:flex;">
+            <span style="font-size:0.7rem;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted)">Vanntemperatur &amp; Pollen</span>
+        </div>
         ${seasonalBanner()}
         <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:1rem">
             <div class="water-item" style="min-width:120px">
@@ -972,14 +1007,16 @@ function renderWeather(d) {
             </div>
         </div>
         ${swimNote}
-        ${pollen && pollen.length ? `
-            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:1.25rem;flex-wrap:wrap">
+        ${cleanPollen.length ? `
+            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:1rem;flex-wrap:wrap">
                 <img src="img/pollen_monster.png" alt="Pollenmonster"
-                     style="width:72px;height:72px;object-fit:contain;flex-shrink:0;border-radius:8px">
+                     style="width:68px;height:68px;object-fit:contain;flex-shrink:0;border-radius:8px">
                 <div style="flex:1;min-width:180px">
-                    <p class="section-label" style="margin-top:0">Pollenvarsel Ulfsbakk</p>
+                    <div class="weather-text-backdrop" style="margin-bottom:0.5rem;display:inline-flex;padding:0.3rem 0.7rem;">
+                        <span style="font-size:0.7rem;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted)">Pollenvarsel Ulfsbakk</span>
+                    </div>
                     <div class="pollen-grid">
-                        ${pollen.map(p => `
+                        ${cleanPollen.map(p => `
                             <div class="pollen-chip">
                                 <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
                                 <span class="pollen-name">${p.type}</span>
@@ -1088,12 +1125,23 @@ async function loadNorway() {
     }
 }
 
+function utcToOslo(timeStr, dateStr) {
+    if (!timeStr || timeStr === '00:00') return timeStr || '';
+    try {
+        const dt = new Date(`${dateStr}T${timeStr}:00Z`);
+        return dt.toLocaleTimeString('nb-NO', {
+            timeZone: 'Europe/Oslo',
+            hour: '2-digit', minute: '2-digit', hour12: false
+        });
+    } catch { return timeStr; }
+}
+
 function renderNorway(data) {
     const matches = data.matches || [];
     if (!matches.length) {
         document.getElementById('norway-content').innerHTML =
             '<p class="loading-text">Ingen kommende kamper registrert for øyeblikket.</p>' +
-            '<p style="margin-top:0.75rem"><a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se kampprogram på nff.no →</a></p>';
+            '<p style="margin-top:0.75rem"><a href="https://www.fotball.no/landslag/norge-a-herrer/" target="_blank" class="fotball-link">Se kampprogram på fotball.no →</a></p>';
         return;
     }
     const rows = matches.slice(0, 5).map(m => {
@@ -1107,6 +1155,7 @@ function renderNorway(data) {
                 <span class="odds-away">${m.away} ${odds.away_pct}%</span>
             </div>`;
         }
+        const localTime = utcToOslo(m.time, m.date);
         return `
         <li class="match-item" style="flex-direction:column;align-items:stretch;gap:0.5rem">
             <div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem">
@@ -1116,7 +1165,7 @@ function renderNorway(data) {
                 </div>
                 <div class="match-meta">
                     <div>${formatShortDateNo(m.date)}</div>
-                    ${m.time ? `<div>${m.time} UTC</div>` : ''}
+                    ${localTime ? `<div>${localTime}</div>` : ''}
                 </div>
             </div>
             ${oddsHtml}
@@ -1124,7 +1173,7 @@ function renderNorway(data) {
     }).join('');
     document.getElementById('norway-content').innerHTML = `
         <ul class="match-list">${rows}</ul>
-        <a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se fullstendig kampprogram på nff.no →</a>
+        <a href="https://www.fotball.no/landslag/norge-a-herrer/" target="_blank" class="fotball-link">Se fullstendig kampprogram på fotball.no →</a>
         <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'} · Odds: The Odds API</p>`;
 }
 
@@ -1143,6 +1192,28 @@ async function loadSteel() {
     }
 }
 
+const COMMODITY_SVG = {
+    'TIO=F': `<svg viewBox="0 0 48 36" width="44" height="33" xmlns="http://www.w3.org/2000/svg">
+        <polygon points="8,34 24,6 40,34" fill="#b87333" opacity="0.9"/>
+        <polygon points="0,34 10,16 20,34" fill="#8b5a2b" opacity="0.7"/>
+        <ellipse cx="24" cy="34" rx="22" ry="2.5" fill="#9e7a50" opacity="0.4"/>
+    </svg>`,
+    'HRC=F': `<svg viewBox="0 0 52 32" width="48" height="30" xmlns="http://www.w3.org/2000/svg">
+        <rect x="4" y="6" width="44" height="7" rx="1" fill="#888"/>
+        <rect x="4" y="19" width="44" height="7" rx="1" fill="#888"/>
+        <rect x="21" y="4" width="10" height="24" rx="1" fill="#aaa"/>
+    </svg>`,
+    'MTF=F': `<svg viewBox="0 0 48 36" width="44" height="33" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6,30 Q12,10 18,18 Q24,26 30,12 Q36,4 42,16 L42,30 Z" fill="#2c2c2c"/>
+        <path d="M10,30 Q16,14 22,20 Q28,26 34,14 Q38,8 44,20" fill="none" stroke="#555" stroke-width="1.5"/>
+        <ellipse cx="24" cy="30" rx="19" ry="2" fill="#1a1a1a" opacity="0.5"/>
+    </svg>`,
+};
+
+function getCommodityIcon(symbol) {
+    return COMMODITY_SVG[symbol] || '';
+}
+
 function renderSteel(data) {
     const { prices, updated } = data;
     if (!prices || !prices.length) {
@@ -1157,6 +1228,7 @@ function renderSteel(data) {
         const arrow = up ? '▲' : (down ? '▼' : '—');
         return `
         <div class="commodity-card">
+            <div style="margin-bottom:0.6rem">${getCommodityIcon(p.symbol)}</div>
             <div class="commodity-name">${p.name}</div>
             <div class="commodity-price">${p.price.toFixed(2)}</div>
             <div class="commodity-unit">${p.currency} / ${p.unit || 't'}</div>
@@ -1189,8 +1261,11 @@ function renderTottenham(data) {
 
     // ── Header ───────────────────────────────────────────────────────────────
     html += `
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Sheringham_1998.jpg"
+             class="spurs-sheringham" alt="Teddy Sheringham"
+             onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Teddy_Sheringham_2012.jpg/200px-Teddy_Sheringham_2012.jpg';this.onerror=null">
         <div class="spurs-header">
-            ${badge_url ? `<img src="${badge_url}" class="spurs-badge" alt="Tottenham Hotspur crest">` : '<span style="font-size:2.5rem">⚽</span>'}
+            ${badge_url ? `<img src="${badge_url}" class="spurs-badge" alt="Tottenham Hotspur crest">` : '<span style="font-size:2.5rem;color:#fff">⚽</span>'}
             <div>
                 <div class="spurs-club">Tottenham Hotspur</div>
                 ${season ? `<div class="spurs-sub">Premier League ${season}</div>` : ''}
@@ -1503,16 +1578,22 @@ function seasonalBanner() {
 }
 
 const IMAGES = [
-    'img/IMG_9687.PNG',
-    'img/att.2WlJKrV4GRi_hPNKpG7pGVABLYkpX6FJ8in1iHA79bA.JPG',
-    'img/att.FqHtkdC__qK6DxRai0owkDxppD2R2dcR4x0F3kpaiwA.JPG',
-    'img/att.FxgbhGcdJPL50CwmiYpBihvNvl7bKiiN0Pf5LzXBJOQ.JPG',
-    'img/att.Nx0c-ys2D8uSMapXDL-fZFt6HHHwTF9l8hVn3NLz1oU.JPG',
-    'img/att.iEN1D-QNW0N6e1vwJj9plif4VerxhDkcLwc_O3c-nuk.JPG',
-    'img/att.rxL5hsMmNh1K_IO5zdhOC50cJnOG4AQ0GLhv2EWlDZY.JPG',
-    'img/prev.AY0wkksvPwC1N4S5FxA2S33dBdlpc0LMHlUuDqAzFHs.JPG',
-    'img/prev.J2_cZutWMIifTz2g-taocHp4UNbh5AXwqfW_Kfc1mRE.JPG',
-    'img/prev.msWBIk9ZFyfSD2CZadqdB78V5KEc5XWPYDR_ZEVEwPY.JPG',
+    'img_larvik/karistranda.jpg',
+    'img_larvik/farrisbrua.jpg',
+    'img_larvik/nevlunghavn.jpg',
+    'img_larvik/farrisvannet-3.jpg',
+    'img_larvik/lovisenlund-foran-boekeskogen-og-larvik-sentrum.jpg',
+    'img_larvik/oversiktsbilde-larvik-2.jpg',
+    'img_larvik/kvlede-11.jpg',
+    'img_larvik/farrisbrua-3.jpg',
+    'img_larvik/lk-profil-22_026.jpg',
+    'img_larvik/lk-profil-22_100.jpg',
+    'img_larvik/lk-profil-22_110.jpg',
+    'img_larvik/lk-profil-22_134.jpg',
+    'img_larvik/lk-profil-22_137.jpg',
+    'img_larvik/lk-profil-22_161.jpg',
+    'img_larvik/lk-profil-22_168.jpg',
+    'img_larvik/lk-profil-22_169.jpg',
 ];
 
 let slide = 0;
