@@ -973,14 +973,20 @@ function renderWeather(d) {
         </div>
         ${swimNote}
         ${pollen && pollen.length ? `
-            <p class="section-label" style="margin-top:1.25rem">Pollenvarsel Ulfsbakk</p>
-            <div class="pollen-grid">
-                ${pollen.map(p => `
-                    <div class="pollen-chip">
-                        <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
-                        <span class="pollen-name">${p.type}</span>
-                        <span class="pollen-level">${p.level}</span>
-                    </div>`).join('')}
+            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:1.25rem;flex-wrap:wrap">
+                <img src="img/pollen_monster.png" alt="Pollenmonster"
+                     style="width:72px;height:72px;object-fit:contain;flex-shrink:0;border-radius:8px">
+                <div style="flex:1;min-width:180px">
+                    <p class="section-label" style="margin-top:0">Pollenvarsel Ulfsbakk</p>
+                    <div class="pollen-grid">
+                        ${pollen.map(p => `
+                            <div class="pollen-chip">
+                                <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
+                                <span class="pollen-name">${p.type}</span>
+                                <span class="pollen-level">${p.level}</span>
+                            </div>`).join('')}
+                    </div>
+                </div>
             </div>` : ''}
         <p class="updated-note">Sist oppdatert: ${updated || 'ukjent'}</p>
     `;
