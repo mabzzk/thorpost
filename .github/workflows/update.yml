@@ -32,6 +32,9 @@ jobs:
       - name: Hent værdata
         run: python scripts/fetch_weather.py
 
+      - name: Hent pollenvarsel
+        run: python scripts/fetch_pollen.py
+
       - name: Hent nyheter
         run: python scripts/fetch_news.py
 
@@ -53,6 +56,11 @@ jobs:
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
         run: python scripts/fetch_norway.py
+
+      - name: Hent odds for Herrelandslaget
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/fetch_odds.py
 
       - name: Commit og push oppdaterte data
         run: |

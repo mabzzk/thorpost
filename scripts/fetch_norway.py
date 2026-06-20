@@ -49,6 +49,13 @@ def fetch_fd(path):
         return None
 
 
+def is_norway_match(m):
+    """Return True only if Norway's national team is one of the sides."""
+    home = (m.get('homeTeam', {}).get('name') or '').lower()
+    away = (m.get('awayTeam', {}).get('name') or '').lower()
+    return 'norway' in home or 'norway' in away
+
+
 def get_upcoming_matches(limit=5):
     if not FD_KEY:
         print('  No FOOTBALL_API_KEY — skipping Norway fixtures')
@@ -56,11 +63,16 @@ def get_upcoming_matches(limit=5):
 
     # Try SCHEDULED first, then TIMED
     for status in ('SCHEDULED', 'TIMED'):
-        data = fetch_fd(f'/teams/{NORWAY_ID}/matches?status={status}&limit={limit}')
+        data = fetch_fd(f'/teams/{NORWAY_ID}/matches?status={status}&limit=20')
         if data and data.get('matches'):
-            matches = sorted(data['matches'], key=lambda x: x.get('utcDate', ''))
+            # Filter to only Norway's own matches
+            norway_matches = [m for m in data['matches'] if is_norway_match(m)]
+            if not norway_matches:
+                print(f'  {status}: got {len(data["matches"])} matches but none involve Norway — team ID {NORWAY_ID} may be wrong')
+                continue
+            norway_matches = sorted(norway_matches, key=lambda x: x.get('utcDate', ''))
             result = []
-            for m in matches[:limit]:
+            for m in norway_matches[:limit]:
                 utc = m.get('utcDate', '')
                 result.append({
                     'date':        utc[:10],

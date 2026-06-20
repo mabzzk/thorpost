@@ -513,6 +513,46 @@
             line-height: 1.5;
         }
 
+        /* ── WEATHER BACKGROUND ────────────────────────── */
+        #vaer {
+            position: relative;
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+        #vaer::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: rgba(245, 243, 238, 0.88);
+            pointer-events: none;
+        }
+        #vaer .container { position: relative; }
+
+        /* ── POLLEN ─────────────────────────────────────── */
+        .pollen-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.6rem;
+            margin-top: 0.5rem;
+        }
+        .pollen-chip {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.3rem 0.75rem;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            font-size: 0.8rem;
+        }
+        .pollen-dot {
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        .pollen-name { font-weight: 500; }
+        .pollen-level { color: var(--muted); }
+
         /* ── SUN ROW ────────────────────────────────────── */
         .sun-row {
             display: flex;
@@ -592,6 +632,20 @@
         .commodity-change.up   { color: #2d6a2d; }
         .commodity-change.down { color: #a32020; }
         .commodity-change.flat { color: var(--muted); }
+
+        /* ── ODDS BAR ───────────────────────────────────── */
+        .odds-bar {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.78rem;
+            padding: 0.4rem 0.6rem;
+            background: var(--bg);
+            border-left: 3px solid #1a6b1a;
+            flex-wrap: wrap;
+        }
+        .odds-home  { color: #1a6b1a; font-weight: 600; }
+        .odds-away  { color: #a32020; font-weight: 600; }
+        .odds-draw  { color: var(--muted); }
 
         /* ── LINKS (SUDOKU/CROSSWORD) ───────────────────── */
         .links-grid {
@@ -835,16 +889,45 @@ async function loadWeather() {
     }
 }
 
+// Images in img_larvik/ — rotated daily
+const LARVIK_IMGS = [
+    'img_larvik/farrisbrua-3.jpg',
+    'img_larvik/farrisbrua.jpg',
+    'img_larvik/farrisvannet-3.jpg',
+    'img_larvik/karistranda.jpg',
+    'img_larvik/kvlede-11.jpg',
+    'img_larvik/lk-profil-22_026.jpg',
+    'img_larvik/lk-profil-22_100.jpg',
+    'img_larvik/lk-profil-22_110.jpg',
+    'img_larvik/lk-profil-22_134.jpg',
+    'img_larvik/lk-profil-22_137.jpg',
+    'img_larvik/lk-profil-22_161.jpg',
+    'img_larvik/lk-profil-22_168.jpg',
+    'img_larvik/lk-profil-22_169.jpg',
+    'img_larvik/lovisenlund-foran-boekeskogen-og-larvik-sentrum.jpg',
+    'img_larvik/nevlunghavn.jpg',
+    'img_larvik/oversiktsbilde-larvik-2.jpg',
+];
+
+function setWeatherBackground() {
+    const dayOfYear = Math.floor((NOW - new Date(NOW.getFullYear(), 0, 0)) / 86400000);
+    const img = LARVIK_IMGS[dayOfYear % LARVIK_IMGS.length];
+    document.getElementById('vaer').style.backgroundImage = `url('${img}')`;
+}
+
 function renderWeather(d) {
-    const { today: td, tomorrow: tm, water, remark, thought, sun, updated } = d;
+    const { today: td, tomorrow: tm, water, remark, thought, sun, pollen, updated } = d;
+
+    // Rotate weather background photo
+    setWeatherBackground();
 
     // Show thought of the day in masthead
     if (thought) {
         const el = document.getElementById('masthead-thought');
-        if (el) el.textContent = '“' + thought + '”';
+        if (el) el.textContent = '”' + thought + '”';
     }
-    const swimNote = (water.ocean >= 22 || water.farris >= 22 || water.ulfsbakktjern >= 22)
-        ? '<p class="swim-nudge">🏊 Badetemperatur! Vannet er over 22 grader – ta en dukkert, Thor!</p>' : '';
+    const swimNote = (water && water.ocean >= 22)
+        ? '<p class="swim-nudge">🏊 Badetemperatur! Sjøen er over 22 grader – ta en dukkert, Thor!</p>' : '';
 
     const sunRow = (sun && sun.sunrise)
         ? `<div class="sun-row">
@@ -872,23 +955,25 @@ function renderWeather(d) {
                 <div class="weather-desc">Vind ${tm.wind_speed.toFixed(1)} m/s${tm.precipitation > 0.5 ? ` &middot; Nedbør ${tm.precipitation} mm` : ''}</div>
             </div>
         </div>
-        <p class="section-label" style="margin-top:2rem">Vanntemperaturer</p>
+        <p class="section-label" style="margin-top:2rem">Vanntemperatur &amp; Pollen</p>
         ${seasonalBanner()}
-        <div class="water-temps">
-            <div class="water-item">
-                <div class="water-value">${water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
-                <div class="water-label">Fjorden</div>
-            </div>
-            <div class="water-item">
-                <div class="water-value">${water.farris != null ? water.farris.toFixed(1) + '°' : '—'}</div>
-                <div class="water-label">Farris</div>
-            </div>
-            <div class="water-item">
-                <div class="water-value">${water.ulfsbakktjern != null ? water.ulfsbakktjern.toFixed(1) + '°' : '—'}</div>
-                <div class="water-label">Ulfsbakktjern</div>
+        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:1rem">
+            <div class="water-item" style="min-width:120px">
+                <div class="water-value">${water && water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
+                <div class="water-label">🌊 Sjøtemperatur</div>
             </div>
         </div>
         ${swimNote}
+        ${pollen && pollen.length ? `
+            <p class="section-label" style="margin-top:1.25rem">Pollenvarsel Ulfsbakk</p>
+            <div class="pollen-grid">
+                ${pollen.map(p => `
+                    <div class="pollen-chip">
+                        <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
+                        <span class="pollen-name">${p.type}</span>
+                        <span class="pollen-level">${p.level}</span>
+                    </div>`).join('')}
+            </div>` : ''}
         <p class="updated-note">Sist oppdatert: ${updated || 'ukjent'}</p>
     `;
 }
@@ -997,22 +1082,36 @@ function renderNorway(data) {
             '<p style="margin-top:0.75rem"><a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se kampprogram på nff.no →</a></p>';
         return;
     }
-    const rows = matches.slice(0, 5).map(m => `
-        <li class="match-item">
-            <div>
-                <div class="match-teams">${m.home} — ${m.away}</div>
-                ${m.competition ? `<div class="match-venue">${m.competition}</div>` : ''}
-                ${m.venue ? `<div class="match-venue">${m.venue}</div>` : ''}
+    const rows = matches.slice(0, 5).map(m => {
+        const odds = m.odds || {};
+        let oddsHtml = '';
+        if (odds.home_pct != null && odds.away_pct != null) {
+            const draw = odds.draw_pct != null ? `<span class="odds-draw">Uavgjort ${odds.draw_pct}%</span>` : '';
+            oddsHtml = `<div class="odds-bar">
+                <span class="odds-home">${m.home} ${odds.home_pct}%</span>
+                ${draw}
+                <span class="odds-away">${m.away} ${odds.away_pct}%</span>
+            </div>`;
+        }
+        return `
+        <li class="match-item" style="flex-direction:column;align-items:stretch;gap:0.5rem">
+            <div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem">
+                <div>
+                    <div class="match-teams">${m.home} — ${m.away}</div>
+                    ${m.competition ? `<div class="match-venue">${m.competition}</div>` : ''}
+                </div>
+                <div class="match-meta">
+                    <div>${formatShortDateNo(m.date)}</div>
+                    ${m.time ? `<div>${m.time} UTC</div>` : ''}
+                </div>
             </div>
-            <div class="match-meta">
-                <div>${formatShortDateNo(m.date)}</div>
-                ${m.time ? `<div>${m.time} UTC</div>` : ''}
-            </div>
-        </li>`).join('');
+            ${oddsHtml}
+        </li>`;
+    }).join('');
     document.getElementById('norway-content').innerHTML = `
         <ul class="match-list">${rows}</ul>
         <a href="https://www.nff.no/herrelandslaget/kampprogram/" target="_blank" class="fotball-link">Se fullstendig kampprogram på nff.no →</a>
-        <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'}</p>`;
+        <p class="updated-note">Sist oppdatert: ${data.updated || 'ukjent'} · Odds: The Odds API</p>`;
 }
 
 

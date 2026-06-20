@@ -173,16 +173,18 @@ def get_sunrise_sunset(date_str):
         return '', ''
 
 def fetch_ocean_temp():
-    url = 'https://seatemperature.info/larvik-water-temperature.html'
+    """Fetch sea surface temperature from met.no Ocean Forecast API."""
+    url = f'https://api.met.no/weatherapi/oceanforecast/2.0/complete?lat={LAT}&lon={LON}'
     try:
-        html = get(url)
-        m = re.search(r'Water temperature in Larvik today is (\d+\.?\d*)°C', html)
-        if m:
-            return float(m.group(1))
-        # Fallback: look for first standalone temperature number near "today"
-        m = re.search(r'today[^<]{0,80}?(\d+\.\d)°C', html, re.IGNORECASE | re.DOTALL)
-        if m:
-            return float(m.group(1))
+        txt = get(url)
+        data = json.loads(txt)
+        ts = data['properties']['timeseries']
+        # Use the first entry with a valid sea_water_temperature
+        for t in ts[:6]:
+            temp = t['data']['instant']['details'].get('sea_water_temperature')
+            if temp is not None:
+                print(f'  Ocean temp: {temp}°C')
+                return round(float(temp), 1)
     except Exception as e:
         print(f'  Warning: ocean temp fetch failed: {e}')
     return None
@@ -260,8 +262,6 @@ def main():
         'tomorrow': tm,
         'water': {
             'ocean': ocean,
-            'farris': None,          # No public automated source — update manually if needed
-            'ulfsbakktjern': None,   # No public automated source — update manually if needed
         },
         'sun': {'sunrise': sunrise, 'sunset': sunset},
         'remark': remark,
