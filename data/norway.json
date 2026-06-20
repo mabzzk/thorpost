@@ -3,13 +3,8 @@
   "team": "Herrelandslaget",
   "matches": [
     {
-<<<<<<< Updated upstream
       "date": "2026-06-23",
       "time": "00:00",
-=======
-      "date": "2026-06-26",
-      "time": "21:00",
->>>>>>> Stashed changes
       "home": "Norway",
       "away": "Senegal",
       "competition": "FIFA World Cup",
