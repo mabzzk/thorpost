@@ -1467,7 +1467,7 @@ async function loadCountdowns() {
         { name: 'Kjetils bursdag 🎂',        date: nextAnnual(5, 8) },
         { name: 'Stigs bursdag 🎂',          date: nextAnnual(27, 9) },
         { name: 'Onkel Bjørns bursdag 🎂',   date: nextAnnual(7, 12) },
-    ].filter(Boolean);
+    ].filter(Boolean).sort((a, b) => daysUntil(a.date) - daysUntil(b.date));
 
     document.getElementById('countdown-grid').innerHTML =
         events.map(e => countdownCard(e.name, e.date, e.note || null)).join('');
