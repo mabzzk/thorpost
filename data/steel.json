@@ -18,15 +18,6 @@
       "currency": "USD",
       "change": 36.0,
       "change_pct": 3.21
-    },
-    {
-      "name": "Kull (Newcastle)",
-      "symbol": "MTF=F",
-      "unit": "USD/t",
-      "price": 108.5,
-      "currency": "USD",
-      "change": -1.5,
-      "change_pct": -1.36
     }
   ]
 }

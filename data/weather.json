@@ -2,17 +2,17 @@
   "updated": "2026-06-20",
   "today": {
     "date": "2026-06-20",
-    "symbol": "partlycloudy_day",
-    "temp_max": 23.4,
-    "temp_min": 16.7,
-    "wind_speed": 4.2,
+    "symbol": "cloudy",
+    "temp_max": 23.7,
+    "temp_min": 17.0,
+    "wind_speed": 4.3,
     "precipitation": 0.0
   },
   "tomorrow": {
     "date": "2026-06-21",
     "symbol": "clearsky_day",
-    "temp_max": 24.1,
-    "temp_min": 13.9,
+    "temp_max": 23.3,
+    "temp_min": 13.4,
     "wind_speed": 3.2,
     "precipitation": 0.0
   },
@@ -23,7 +23,7 @@
     "sunrise": "04:05",
     "sunset": "22:37"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
   "thought": "En dag uten latter er en dag bortkastet. – Charlie Chaplin",
   "pollen": [
     {
