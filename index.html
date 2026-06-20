@@ -419,32 +419,32 @@
         /* ── COUNTDOWNS ────────────────────────────────── */
         .countdown-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 1rem;
+            grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            gap: 0.6rem;
         }
         .countdown-card {
             background: var(--bg-card);
             border: 1px solid var(--border);
-            padding: 1.5rem;
+            padding: 0.75rem 0.9rem;
         }
         .countdown-name {
-            font-size: 0.7rem;
+            font-size: 0.63rem;
             font-weight: 500;
-            letter-spacing: 0.1em;
+            letter-spacing: 0.08em;
             text-transform: uppercase;
             color: var(--muted);
-            margin-bottom: 0.6rem;
+            margin-bottom: 0.3rem;
         }
         .countdown-days {
             font-family: 'Playfair Display', Georgia, serif;
-            font-size: 3.5rem;
+            font-size: 2.2rem;
             font-weight: 700;
             line-height: 1;
         }
         .countdown-days.is-today { color: #c04040; }
-        .countdown-days.is-past { color: var(--muted); font-size: 2.2rem; }
-        .countdown-unit { font-size: 0.82rem; color: var(--muted); margin-top: 0.2rem; }
-        .countdown-date-str { font-size: 0.72rem; color: var(--muted); margin-top: 0.4rem; }
+        .countdown-days.is-past { color: var(--muted); font-size: 1.6rem; }
+        .countdown-unit { font-size: 0.72rem; color: var(--muted); margin-top: 0.15rem; }
+        .countdown-date-str { font-size: 0.65rem; color: var(--muted); margin-top: 0.25rem; }
 
         /* ── CAROUSEL ──────────────────────────────────── */
         #bilder { padding-bottom: 1.5rem; }
@@ -1455,12 +1455,18 @@ async function loadCountdowns() {
         nextMatch
             ? { name: 'Neste Larvik Turn-kamp', date: new Date(nextMatch.date), note: `${nextMatch.home} — ${nextMatch.away}` }
             : null,
-        { name: 'Thors bursdag 🎂',        date: nextAnnual(20, 6) },
-        { name: 'Andreas sin bursdag 🎂',  date: nextAnnual(10, 4) },
-        { name: 'Elins bursdag 🎂',        date: nextAnnual(11, 3) },
-        { name: 'Anne-Elisabeths bursdag 🎂', date: nextAnnual(28, 4) },
-        { name: 'Klaras bursdag 🎂',       date: nextAnnual(26, 4) },
-        { name: 'Ritus bursdag 🎂',        date: nextAnnual(17, 4) },
+        { name: 'Arbeidernes dag 🌹',          date: nextAnnual(1, 5) },
+        { name: 'Thors bursdag 🎂',           date: nextAnnual(20, 6) },
+        { name: 'Tante Marits bursdag 🎂',   date: nextAnnual(21, 6) },
+        { name: 'Andreas sin bursdag 🎂',    date: nextAnnual(10, 4) },
+        { name: 'Elins bursdag 🎂',          date: nextAnnual(11, 3) },
+        { name: 'Anne-Elisabeths bursdag 🎂',date: nextAnnual(28, 4) },
+        { name: 'Klaras bursdag 🎂',         date: nextAnnual(26, 4) },
+        { name: 'Ritus bursdag 🎂',          date: nextAnnual(17, 4) },
+        { name: 'Bryllupsdag 💍',            date: nextAnnual(17, 7) },
+        { name: 'Kjetils bursdag 🎂',        date: nextAnnual(5, 8) },
+        { name: 'Stigs bursdag 🎂',          date: nextAnnual(27, 9) },
+        { name: 'Onkel Bjørns bursdag 🎂',   date: nextAnnual(7, 12) },
     ].filter(Boolean);
 
     document.getElementById('countdown-grid').innerHTML =
@@ -1625,12 +1631,18 @@ function startAutoplay() {
 // ═══════════════════════════════════════════════
 function checkBirthdayBanner() {
     const birthdays = [
-        { name: 'Thor',          date: nextAnnual(20, 6) },
-        { name: 'Andreas',       date: nextAnnual(10, 4) },
-        { name: 'Elin',          date: nextAnnual(11, 3) },
-        { name: 'Anne-Elisabeth',date: nextAnnual(28, 4) },
-        { name: 'Klara',         date: nextAnnual(26, 4) },
-        { name: 'Ritu',          date: nextAnnual(17, 4) },
+        { name: 'Arbeidernes dag', date: nextAnnual(1, 5) },
+        { name: 'Thor',           date: nextAnnual(20, 6) },
+        { name: 'Tante Marit',    date: nextAnnual(21, 6) },
+        { name: 'Andreas',        date: nextAnnual(10, 4) },
+        { name: 'Elin',           date: nextAnnual(11, 3) },
+        { name: 'Anne-Elisabeth', date: nextAnnual(28, 4) },
+        { name: 'Klara',          date: nextAnnual(26, 4) },
+        { name: 'Ritu',           date: nextAnnual(17, 4) },
+        { name: 'Bryllupsdagen',  date: nextAnnual(17, 7) },
+        { name: 'Kjetil',         date: nextAnnual(5, 8) },
+        { name: 'Stig',           date: nextAnnual(27, 9) },
+        { name: 'Onkel Bjørn',    date: nextAnnual(7, 12) },
     ];
 
     const upcoming = birthdays
