@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "today": {
-    "date": "2026-06-19",
-    "symbol": "cloudy",
-    "temp_max": 18.0,
-    "temp_min": 18.0,
-    "wind_speed": 1.4,
+    "date": "2026-06-20",
+    "symbol": "partlycloudy_day",
+    "temp_max": 21.6,
+    "temp_min": 16.4,
+    "wind_speed": 4.2,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-20",
-    "symbol": "cloudy",
-    "temp_max": 20.9,
-    "temp_min": 16.8,
+    "date": "2026-06-21",
+    "symbol": "clearsky_day",
+    "temp_max": 23.2,
+    "temp_min": 13.7,
     "wind_speed": 3.2,
     "precipitation": 0.0
   },
@@ -23,8 +23,8 @@
   },
   "sun": {
     "sunrise": "04:05",
-    "sunset": "22:36"
+    "sunset": "22:37"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Morgenstund har gull i munn — spesielt i Larvik."
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "En dag uten latter er en dag bortkastet. – Charlie Chaplin"
 }

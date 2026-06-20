@@ -1,24 +1,24 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "month": 6,
-  "day": 19,
+  "day": 20,
   "events": [
     {
-      "year": 1850,
-      "text": "Princess Louise of the Netherlands marries Crown Prince Karl of Sweden–Norway.",
-      "url": "https://en.wikipedia.org/wiki/Louise_of_the_Netherlands",
+      "year": 1819,
+      "text": "The U.S. vessel SS Savannah arrives at Liverpool, United Kingdom. It is the first steam-propelled vessel to cross the Atlantic, although most of the journey is made under sail.",
+      "url": "https://en.wikipedia.org/wiki/SS_Savannah",
       "lang": "en"
     },
     {
-      "year": 1945,
-      "text": "The Smoke Tragedy leaves 355 workers dead in the underground copper mine of El Teniente, Chile.",
-      "url": "https://en.wikipedia.org/wiki/1945_El_Teniente_mining_accident",
+      "year": 1943,
+      "text": "World War II: The Royal Air Force launches Operation Bellicose, the first shuttle bombing raid of the war. Avro Lancaster bombers damage the V-2 rocket production facilities at the Zeppelin Works while en route to an air base in Algeria.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
       "lang": "en"
     },
     {
-      "year": 1988,
-      "text": "Pope John Paul II canonizes 117 Vietnamese Martyrs.",
-      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+      "year": 1975,
+      "text": "The film Jaws is released in the United States, becoming the highest-grossing film of that time and starting the trend of films known as \"summer blockbusters\".",
+      "url": "https://en.wikipedia.org/wiki/Jaws_(film)",
       "lang": "en"
     }
   ]

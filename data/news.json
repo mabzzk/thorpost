@@ -1,11 +1,11 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "stories": [
     {
-      "title": "Ber politiet se på skolekonkurs: Mistenker at studentene er utsatt for bedrageri",
-      "summary": "Styret ved Pilot Flight Academy kan ha brutt flere norske lover, ifølge en knallhard rapport fra bostyrer. Det avvises på det sterkeste av talspersonen til eierne.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/pilotskolen-pa-torp_-mistenker-at-studentene-er-utsatt-for-bedrageri-1.17926352",
-      "image": "https://gfx.nrk.no/KVucgx2t32McHYJCSGyTXwLXp9bWV5x5yzh0kpEfOkTw.jpg",
+      "title": "Kontantlause bussar skaper problem for flyktningar",
+      "summary": "Snart blir det ikkje mogleg å betale med kontantar på bussen i Vestfold. Det bekymrar mottaksleiar Knut Hammer ved Tønsberg asylmottak.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/kontantfrie-bussar-i-vestfold-skaper-utfordringar-for-flyktningar-utan-bankkort-1.17918757",
+      "image": "https://gfx.nrk.no/ubqQk1bESVGBL519TfZu1wwaBUYHBiA6ufyjRr6rSr_g.jpg",
       "category": "Larvik"
     },
     {
@@ -16,26 +16,67 @@
       "category": "Friidrett"
     },
     {
-      "title": "AFP: Algerie har levert Messi-klage til Fifa",
-      "summary": "Algerie har sendt inn en formell klage til Fifa vedrørende «urettferdighet fra dommeren» etter åpningskampen mot Argentina i VM. En kilde i Det algeriske fotballforbundet opplyser om klagen overfor nyhetsbyrået AFP freda",
-      "url": "https://www.nrk.no/sport/afp_-algerie-har-levert-messi-klage-til-fifa--1.17929129",
-      "image": "https://gfx.nrk.no/hfda_F2O-pg1QlrVcA8X2AALkwQV3NYv_vqufjIxDZJg.jpg",
+      "title": "Tyrkia i tårer: Røk ut av VM etter to kamper",
+      "summary": "Tyrkia tapte 0-1 mot Paraguay i sin andre gruppespillkamp, og er nå ute av VM.\nDa sluttsignalet gikk var flere tyrkiske spillere lei seg på gressmatta i San Fransisco.\nTyrkia tapte åpningskampen 0-2 mot Australia, og med",
+      "url": "https://www.nrk.no/sport/tyrkia-i-tarer_-rok-ut-av-vm-etter-to-kamper-1.17929239",
+      "image": "https://gfx.nrk.no/npHa0U0WOceLQn4W9s7gCANJYgde9C0F0RJB2Bo6Hexg.jpg",
       "category": "Sport"
     },
     {
-      "title": "Her blir dommaren redda av sylteagurksaft: – Utruleg audmjukande",
-      "summary": "USA har sikra seg sluttspel i VM, men etter kampen var det dommaren som fekk mest merksemd.",
-      "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-usa-feira-vilt-da-dei-skara-mot-australia-1.17929095",
-      "image": "https://gfx.nrk.no/UxuD2x_d-Wk5XL-2_8CmywANI-NJwAfsPsgmvirDoqVQ.jpg",
+      "title": "Beklaget etter VM-fiasko: – Vi ber om unnskyldning til hele det tyrkiske folk",
+      "summary": "Stemningen er grusom i Tyrkia etter en real VM-nedtur.",
+      "url": "https://www.nrk.no/fotballvm2026/tyrkias-superstjerne-arda-guler-beklaget-etter-vm-fiasko_-_-vi-ber-om-unnskyldning-1.17929247",
+      "image": "https://gfx.nrk.no/mjEaDm8K6RRsAuXIkcMVEg8yRy0Puvgyn6jf2vrhLwGQ.jpg",
       "category": "Sport"
     },
     {
-      "title": "Golfstjerne fikk straff for raseriutbrudd",
-      "summary": "Golfspiller Joaquin Niemann kastet kølla i frustrasjon under US Open og fikk merke at golfsporten har tatt grep for å slå hardere ned på den typen oppførsel.\nFredag ble chilenske Niemann ilagt to straffeslag som følge av",
-      "url": "https://www.nrk.no/sport/golfstjerne-fikk-straff-for-raseriutbrudd-1.17929157",
-      "image": "https://gfx.nrk.no/dhXIKQS2taxBshVRJHhcrw3l005O3A0C5xvMGqZlLACQ.jpg",
+      "title": "Forlot banen i tårer: Utvist etter å ha holdt seg for munnen",
+      "summary": "Paraguays superstjerne Miguel Almirón kommer aldri til å glemme VM-kampen mot Tyrkia.",
+      "url": "https://www.nrk.no/fotballvm2026/miguel-almiron-forlot-banen-i-tarer_-utvist-etter-a-ha-holdt-seg-for-munnen-1.17929222",
+      "image": "https://gfx.nrk.no/QEmBPPgaFLghBKr02fnH4AO7d_MjoPKF7g2aPRv0_3yw.jpg",
       "category": "Sport"
     }
   ],
-  "archive": []
+  "archive": [
+    {
+      "date": "2026-06-19",
+      "stories": [
+        {
+          "title": "Ber politiet se på skolekonkurs: Mistenker at studentene er utsatt for bedrageri",
+          "summary": "Styret ved Pilot Flight Academy kan ha brutt flere norske lover, ifølge en knallhard rapport fra bostyrer. Det avvises på det sterkeste av talspersonen til eierne.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/pilotskolen-pa-torp_-mistenker-at-studentene-er-utsatt-for-bedrageri-1.17926352",
+          "image": "https://gfx.nrk.no/KVucgx2t32McHYJCSGyTXwLXp9bWV5x5yzh0kpEfOkTw.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Guttormsen på pallen i Qatar – jaktet på drømmegrense utendørs",
+          "summary": "Stavhopper Sondre Guttormsen tok en ny sterk tredjeplass i Diamond League-stevnet i Doha fredag. Han gikk over 5,92 meter og snuste på drømmegrensen seks meter.\nSki-gutten måtte riktignok ha tre forsøk på å svinge seg ov",
+          "url": "https://www.nrk.no/sport/guttormsen-pa-pallen-i-qatar-_-jaktet-pa-drommegrense-utendors-1.17929065",
+          "image": "https://gfx.nrk.no/Jqu-tpOay_ojTaln5ya3AwyCuWwwx_ZPRGgv4Fu6dmXA.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "AFP: Algerie har levert Messi-klage til Fifa",
+          "summary": "Algerie har sendt inn en formell klage til Fifa vedrørende «urettferdighet fra dommeren» etter åpningskampen mot Argentina i VM. En kilde i Det algeriske fotballforbundet opplyser om klagen overfor nyhetsbyrået AFP freda",
+          "url": "https://www.nrk.no/sport/afp_-algerie-har-levert-messi-klage-til-fifa--1.17929129",
+          "image": "https://gfx.nrk.no/hfda_F2O-pg1QlrVcA8X2AALkwQV3NYv_vqufjIxDZJg.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Her blir dommaren redda av sylteagurksaft: – Utruleg audmjukande",
+          "summary": "USA har sikra seg sluttspel i VM, men etter kampen var det dommaren som fekk mest merksemd.",
+          "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-usa-feira-vilt-da-dei-skara-mot-australia-1.17929095",
+          "image": "https://gfx.nrk.no/UxuD2x_d-Wk5XL-2_8CmywANI-NJwAfsPsgmvirDoqVQ.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Golfstjerne fikk straff for raseriutbrudd",
+          "summary": "Golfspiller Joaquin Niemann kastet kølla i frustrasjon under US Open og fikk merke at golfsporten har tatt grep for å slå hardere ned på den typen oppførsel.\nFredag ble chilenske Niemann ilagt to straffeslag som følge av",
+          "url": "https://www.nrk.no/sport/golfstjerne-fikk-straff-for-raseriutbrudd-1.17929157",
+          "image": "https://gfx.nrk.no/dhXIKQS2taxBshVRJHhcrw3l005O3A0C5xvMGqZlLACQ.jpg",
+          "category": "Sport"
+        }
+      ]
+    }
+  ]
 }
