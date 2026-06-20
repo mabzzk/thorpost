@@ -134,16 +134,16 @@
             backdrop-filter: blur(10px);
             border: 1px solid var(--border);
             border-radius: 6px;
-            padding: 1.5rem;
+            padding: 1rem 1.1rem 0.75rem;
             overflow: hidden;
         }
-        .weather-big-card .section-label { margin-top: 0; }
+        .weather-big-card .section-label { margin-top: 0; margin-bottom: 0.5rem; }
 
         .weather-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 0;
-            margin: 1rem 0 1.25rem;
+            margin: 0.4rem 0 0;
             border: 1px solid var(--border);
             border-radius: 4px;
             overflow: hidden;
@@ -151,76 +151,47 @@
         @media (max-width: 580px) { .weather-grid { grid-template-columns: 1fr; } }
 
         .weather-card {
-            padding: 0.85rem 1.1rem;
+            padding: 0.55rem 0.85rem;
             border-right: 1px solid var(--border);
+            display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;
         }
         .weather-card:last-child { border-right: none; }
         @media (max-width: 580px) { .weather-card { border-right: none; border-bottom: 1px solid var(--border); } }
 
         .weather-divider {
             border: none; border-top: 1px solid var(--border);
-            margin: 1.25rem 0;
+            margin: 0.65rem 0;
         }
         .weather-day-label {
-            font-size: 0.68rem;
-            font-weight: 500;
-            letter-spacing: 0.12em;
-            text-transform: uppercase;
-            color: var(--muted);
-            margin-bottom: 0.4rem;
+            font-size: 0.63rem; font-weight: 500; letter-spacing: 0.1em;
+            text-transform: uppercase; color: var(--muted);
+            width: 100%; margin-bottom: 0.1rem;
         }
-        .weather-icon { font-size: 2rem; display: block; margin-bottom: 0.3rem; }
+        .weather-icon { font-size: 1.5rem; flex-shrink: 0; }
         .weather-temp {
             font-family: 'Playfair Display', Georgia, serif;
-            font-size: 2.2rem;
-            font-weight: 400;
-            line-height: 1;
+            font-size: 1.65rem; font-weight: 400; line-height: 1;
         }
-        .weather-desc { font-size: 0.82rem; color: var(--muted); margin-top: 0.3rem; }
+        .weather-desc { font-size: 0.78rem; color: var(--muted); }
 
         /* ── SEASONAL BANNER ────────────────────── */
         .seasonal-banner {
-            display: flex;
-            align-items: center;
-            gap: 1.5rem;
-            padding: 1.5rem;
-            border: 1px solid var(--border);
-            margin-bottom: 1.25rem;
+            display: flex; align-items: center; gap: 0.65rem;
+            padding: 0.45rem 0; margin-bottom: 0;
         }
-        .seasonal-icon-big { font-size: 2.8rem; flex-shrink: 0; }
+        .seasonal-icon-big { flex-shrink: 0; line-height: 1; }
         .seasonal-name {
             font-family: 'Playfair Display', Georgia, serif;
-            font-size: 1.25rem;
-            font-weight: 600;
-            line-height: 1.2;
+            font-size: 0.95rem; font-weight: 600;
         }
-        .seasonal-desc { font-size: 0.85rem; color: var(--muted); margin-top: 0.25rem; }
+        .seasonal-desc { font-size: 0.78rem; color: var(--muted); margin-top: 0.1rem; }
 
-        .water-temps {
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 1rem;
-            margin-top: 0;
-        }
-        @media (max-width: 480px) { .water-temps { grid-template-columns: 1fr; } }
-
-        .water-item {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            padding: 1.25rem;
-            text-align: center;
-        }
+        .water-item { display: inline-flex; align-items: baseline; gap: 0.4rem; }
         .water-value {
             font-family: 'Playfair Display', Georgia, serif;
-            font-size: 2rem;
-            font-weight: 400;
-            line-height: 1;
+            font-size: 1.25rem; font-weight: 400; line-height: 1;
         }
-        .water-label {
-            font-size: 0.78rem;
-            color: var(--muted);
-            margin-top: 0.3rem;
-        }
+        .water-label { font-size: 0.78rem; color: var(--muted); }
         .swim-nudge {
             margin-top: 1rem;
             font-size: 0.9rem;
@@ -1010,32 +981,29 @@ function renderWeather(d) {
             </div>
         </div>
         <hr class="weather-divider">
-        <p class="section-label" style="margin-top:0">Vanntemperatur &amp; Pollen</p>
-        ${seasonalBanner()}
-        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:1rem;margin-top:0.75rem">
-            <div class="water-item" style="min-width:120px">
-                <div class="water-value">${water && water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
-                <div class="water-label">🌊 Sjøtemperatur</div>
+        <div style="display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;margin-bottom:0.4rem">
+            ${seasonalBanner()}
+            <span style="color:var(--border);margin:0 0.2rem">·</span>
+            <div class="water-item">
+                <span class="water-value">${water && water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</span>
+                <span class="water-label">🌊 Sjøtemperatur</span>
             </div>
         </div>
-        ${swimNote}
+        ${swimNote ? `<p class="swim-nudge" style="margin:0.3rem 0">${swimNote.replace(/<p[^>]*>|<\/p>/g,'')}</p>` : ''}
         ${cleanPollen.length ? `
-            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:0.75rem;flex-wrap:wrap">
+            <div style="display:flex;align-items:center;gap:0.6rem;margin-top:0.4rem;flex-wrap:wrap">
                 <img src="img/pollen_monster.png" alt="Pollenmonster"
-                     style="width:60px;height:60px;object-fit:contain;flex-shrink:0;border-radius:6px">
-                <div style="flex:1;min-width:180px">
-                    <p class="section-label" style="margin-top:0;margin-bottom:0.5rem">Pollenvarsel Ulfsbakk</p>
-                    <div class="pollen-grid">
-                        ${cleanPollen.map(p => `
-                            <div class="pollen-chip">
-                                <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
-                                <span class="pollen-name">${p.type}</span>
-                                <span class="pollen-level">${p.level}</span>
-                            </div>`).join('')}
-                    </div>
+                     style="width:28px;height:28px;object-fit:contain;flex-shrink:0;border-radius:3px">
+                <div class="pollen-grid" style="margin-top:0">
+                    ${cleanPollen.map(p => `
+                        <div class="pollen-chip">
+                            <span class="pollen-dot" style="background:${p.color || '#aaa'}"></span>
+                            <span class="pollen-name">${p.type}</span>
+                            <span class="pollen-level">${p.level}</span>
+                        </div>`).join('')}
                 </div>
             </div>` : ''}
-        <p class="updated-note" style="margin-bottom:0">Sist oppdatert: ${updated || 'ukjent'}</p>
+        <p class="updated-note" style="margin-top:0.5rem;margin-bottom:0">Sist oppdatert: ${updated || 'ukjent'}</p>
     `;
 }
 
@@ -1275,7 +1243,7 @@ function renderTottenham(data) {
         <img src="img_tottenham/teddySheringham.png"
              class="spurs-sheringham" alt="Teddy Sheringham">
         <div class="spurs-header">
-            ${badge_url ? `<img src="${badge_url}" class="spurs-badge" alt="Tottenham Hotspur crest">` : '<span style="font-size:2.5rem;color:#fff">⚽</span>'}
+            <img src="img_tottenham/tottenham-hotspur-club-logo-white-symbol-premier-league-football-abstract-design-illustration-with-blue-background-free-vector.jpg" class="spurs-badge" alt="Tottenham Hotspur crest" onerror="this.src='${badge_url||''}';this.onerror=null">
             <div>
                 <div class="spurs-club">Tottenham Hotspur</div>
                 ${season ? `<div class="spurs-sub">Premier League ${season}</div>` : ''}
@@ -1552,11 +1520,12 @@ const SVG_FLOWER = `<svg viewBox="0 0 60 60" width="52" height="52" xmlns="http:
   <circle cx="30" cy="30" r="8" fill="#f5c518"/>
 </svg>`;
 
-function getSeasonSVG(month) {
-    if (month >= 5 && month <= 7) return SVG_SUN;
-    if (month >= 8 && month <= 10) return SVG_MUSHROOM;
-    if (month === 11 || month <= 1) return SVG_SKIER;
-    return SVG_FLOWER;
+function getSeasonSVG(month, size=32) {
+    const s = `width="${size}" height="${size}"`;
+    if (month >= 5 && month <= 7) return SVG_SUN.replace(/width="\d+" height="\d+"/, s);
+    if (month >= 8 && month <= 10) return SVG_MUSHROOM.replace(/width="\d+" height="\d+"/, s);
+    if (month === 11 || month <= 1) return SVG_SKIER.replace(/width="\d+" height="\d+"/, s);
+    return SVG_FLOWER.replace(/width="\d+" height="\d+"/, s);
 }
 
 const SEASON_DATA = [
