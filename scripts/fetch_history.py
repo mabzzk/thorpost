@@ -51,9 +51,16 @@ def format_event(e, lang):
     year = e.get('year', '')
     pages = e.get('pages', [])
     url = ''
+    thumbnail = ''
     if pages:
-        url = (pages[0].get('content_urls') or {}).get('desktop', {}).get('page', '')
-    return {'year': year, 'text': text, 'url': url, 'lang': lang}
+        p = pages[0]
+        url = (p.get('content_urls') or {}).get('desktop', {}).get('page', '')
+        thumb = p.get('thumbnail') or {}
+        src = thumb.get('source', '')
+        # Upscale small thumbnails to at least 200px width
+        if src:
+            thumbnail = src.replace('/80px-', '/200px-').replace('/100px-', '/200px-')
+    return {'year': year, 'text': text, 'url': url, 'thumbnail': thumbnail, 'lang': lang}
 
 
 def main():

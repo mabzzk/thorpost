@@ -129,14 +129,22 @@
             margin-bottom: 2rem;
         }
 
+        .weather-big-card {
+            background: rgba(255,255,255,0.91);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 1.5rem;
+            overflow: hidden;
+        }
+        .weather-big-card .section-label { margin-top: 0; }
+
         .weather-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 0;
-            margin-bottom: 1.5rem;
-            background: rgba(255,255,255,0.86);
+            margin: 1rem 0 1.25rem;
             border: 1px solid var(--border);
-            backdrop-filter: blur(6px);
             border-radius: 4px;
             overflow: hidden;
         }
@@ -148,15 +156,10 @@
         }
         .weather-card:last-child { border-right: none; }
         @media (max-width: 580px) { .weather-card { border-right: none; border-bottom: 1px solid var(--border); } }
-        .weather-text-backdrop {
-            display: inline-flex;
-            align-items: center;
-            gap: 1.5rem;
-            background: rgba(255,255,255,0.84);
-            backdrop-filter: blur(4px);
-            padding: 0.45rem 0.9rem;
-            border-radius: 4px;
-            margin-bottom: 1rem;
+
+        .weather-divider {
+            border: none; border-top: 1px solid var(--border);
+            margin: 1.25rem 0;
         }
         .weather-day-label {
             font-size: 0.68rem;
@@ -607,10 +610,11 @@
         .pollen-level { color: var(--muted); }
 
         /* ── SUN ROW ────────────────────────────────────── */
-        .sun-row-item {
-            display: flex; align-items: center; gap: 0.4rem;
-            font-size: 0.875rem; color: var(--muted);
+        .sun-row-inner {
+            display: flex; gap: 2rem; flex-wrap: wrap;
+            margin-bottom: 0.25rem; font-size: 0.875rem;
         }
+        .sun-row-item { display: flex; align-items: center; gap: 0.4rem; color: var(--muted); }
         .sun-row-item strong { color: var(--text); }
 
         /* ── HISTORY ────────────────────────────────────── */
@@ -620,7 +624,7 @@
             gap: 1.25rem;
             padding: 1.1rem 0;
             border-bottom: 1px solid var(--border);
-            align-items: baseline;
+            align-items: flex-start;
         }
         .history-item:last-child { border-bottom: none; }
         .history-year {
@@ -631,6 +635,13 @@
             min-width: 4rem;
             flex-shrink: 0;
             line-height: 1;
+            padding-top: 0.1rem;
+        }
+        .history-thumb {
+            width: 72px; height: 72px;
+            object-fit: cover; object-position: center top;
+            border-radius: 3px; flex-shrink: 0;
+            border: 1px solid var(--border);
         }
         .history-text {
             font-size: 0.9rem;
@@ -753,8 +764,10 @@
 <!-- ────────────────── WEATHER ─────────────────── -->
 <section id="vaer">
     <div class="container">
-        <p class="section-label">Været i Larvik</p>
-        <div id="weather-content"><p class="loading-text">Laster værdata…</p></div>
+        <div class="weather-big-card">
+            <p class="section-label">Været i Larvik</p>
+            <div id="weather-content"><p class="loading-text">Laster værdata…</p></div>
+        </div>
     </div>
 </section>
 
@@ -965,7 +978,7 @@ function renderWeather(d) {
         ? '<p class="swim-nudge">🏊 Badetemperatur! Sjøen er over 22 grader – ta en dukkert, Thor!</p>' : '';
 
     const sunRow = (sun && sun.sunrise)
-        ? `<div class="weather-text-backdrop">
+        ? `<div class="sun-row-inner">
                <span class="sun-row-item">🌅 Soloppgang <strong>${sun.sunrise}</strong></span>
                <span class="sun-row-item">🌇 Solnedgang <strong>${sun.sunset}</strong></span>
            </div>`
@@ -996,11 +1009,10 @@ function renderWeather(d) {
                 <div class="weather-desc">Vind ${tm.wind_speed.toFixed(1)} m/s${tm.precipitation > 0.5 ? ` &middot; Nedbør ${tm.precipitation} mm` : ''}</div>
             </div>
         </div>
-        <div class="weather-text-backdrop" style="margin-top:1.5rem;margin-bottom:0.5rem;display:flex;">
-            <span style="font-size:0.7rem;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted)">Vanntemperatur &amp; Pollen</span>
-        </div>
+        <hr class="weather-divider">
+        <p class="section-label" style="margin-top:0">Vanntemperatur &amp; Pollen</p>
         ${seasonalBanner()}
-        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:1rem">
+        <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:1rem;margin-top:0.75rem">
             <div class="water-item" style="min-width:120px">
                 <div class="water-value">${water && water.ocean != null ? water.ocean.toFixed(1) + '°' : '—'}</div>
                 <div class="water-label">🌊 Sjøtemperatur</div>
@@ -1008,13 +1020,11 @@ function renderWeather(d) {
         </div>
         ${swimNote}
         ${cleanPollen.length ? `
-            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:1rem;flex-wrap:wrap">
+            <div style="display:flex;align-items:flex-start;gap:1rem;margin-top:0.75rem;flex-wrap:wrap">
                 <img src="img/pollen_monster.png" alt="Pollenmonster"
-                     style="width:68px;height:68px;object-fit:contain;flex-shrink:0;border-radius:8px">
+                     style="width:60px;height:60px;object-fit:contain;flex-shrink:0;border-radius:6px">
                 <div style="flex:1;min-width:180px">
-                    <div class="weather-text-backdrop" style="margin-bottom:0.5rem;display:inline-flex;padding:0.3rem 0.7rem;">
-                        <span style="font-size:0.7rem;font-weight:500;letter-spacing:0.18em;text-transform:uppercase;color:var(--muted)">Pollenvarsel Ulfsbakk</span>
-                    </div>
+                    <p class="section-label" style="margin-top:0;margin-bottom:0.5rem">Pollenvarsel Ulfsbakk</p>
                     <div class="pollen-grid">
                         ${cleanPollen.map(p => `
                             <div class="pollen-chip">
@@ -1025,7 +1035,7 @@ function renderWeather(d) {
                     </div>
                 </div>
             </div>` : ''}
-        <p class="updated-note">Sist oppdatert: ${updated || 'ukjent'}</p>
+        <p class="updated-note" style="margin-bottom:0">Sist oppdatert: ${updated || 'ukjent'}</p>
     `;
 }
 
@@ -1101,6 +1111,7 @@ function renderHistory(data) {
     const items = events.map(e => `
         <li class="history-item">
             <span class="history-year">${e.year}</span>
+            ${e.thumbnail ? `<img class="history-thumb" src="${e.thumbnail}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
             <span class="history-text">${e.url
                 ? `<a href="${e.url}" target="_blank" rel="noopener">${e.text}</a>`
                 : e.text}</span>
@@ -1261,9 +1272,8 @@ function renderTottenham(data) {
 
     // ── Header ───────────────────────────────────────────────────────────────
     html += `
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Teddy_Sheringham_1998.jpg"
-             class="spurs-sheringham" alt="Teddy Sheringham"
-             onerror="this.src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Teddy_Sheringham_2012.jpg/200px-Teddy_Sheringham_2012.jpg';this.onerror=null">
+        <img src="img_tottenham/teddySheringham.png"
+             class="spurs-sheringham" alt="Teddy Sheringham">
         <div class="spurs-header">
             ${badge_url ? `<img src="${badge_url}" class="spurs-badge" alt="Tottenham Hotspur crest">` : '<span style="font-size:2.5rem;color:#fff">⚽</span>'}
             <div>
@@ -1578,6 +1588,21 @@ function seasonalBanner() {
 }
 
 const IMAGES = [
+    // Personal photos (img/)
+    'img/att.2WlJKrV4GRi_hPNKpG7pGVABLYkpX6FJ8in1iHA79bA.JPG',
+    'img/att.FqHtkdC__qK6DxRai0owkDxppD2R2dcR4x0F3kpaiwA.JPG',
+    'img/att.FxgbhGcdJPL50CwmiYpBihvNvl7bKiiN0Pf5LzXBJOQ.JPG',
+    'img/att.Nx0c-ys2D8uSMapXDL-fZFt6HHHwTF9l8hVn3NLz1oU.JPG',
+    'img/att.iEN1D-QNW0N6e1vwJj9plif4VerxhDkcLwc_O3c-nuk.JPG',
+    'img/att.rxL5hsMmNh1K_IO5zdhOC50cJnOG4AQ0GLhv2EWlDZY.JPG',
+    'img/prev.AY0wkksvPwC1N4S5FxA2S33dBdlpc0LMHlUuDqAzFHs.JPG',
+    'img/prev.J2_cZutWMIifTz2g-taocHp4UNbh5AXwqfW_Kfc1mRE.JPG',
+    'img/prev.msWBIk9ZFyfSD2CZadqdB78V5KEc5XWPYDR_ZEVEwPY.JPG',
+    'img/Screenshot 2026-06-20 at 11.59.30.png',
+    'img/Screenshot 2026-06-20 at 11.59.44.png',
+    'img/Screenshot 2026-06-20 at 12.00.15.png',
+    'img/Screenshot 2026-06-20 at 12.00.36.png',
+    // Larvik photos (img_larvik/)
     'img_larvik/karistranda.jpg',
     'img_larvik/farrisbrua.jpg',
     'img_larvik/nevlunghavn.jpg',
@@ -1585,12 +1610,10 @@ const IMAGES = [
     'img_larvik/lovisenlund-foran-boekeskogen-og-larvik-sentrum.jpg',
     'img_larvik/oversiktsbilde-larvik-2.jpg',
     'img_larvik/kvlede-11.jpg',
-    'img_larvik/farrisbrua-3.jpg',
     'img_larvik/lk-profil-22_026.jpg',
     'img_larvik/lk-profil-22_100.jpg',
     'img_larvik/lk-profil-22_110.jpg',
     'img_larvik/lk-profil-22_134.jpg',
-    'img_larvik/lk-profil-22_137.jpg',
     'img_larvik/lk-profil-22_161.jpg',
     'img_larvik/lk-profil-22_168.jpg',
     'img_larvik/lk-profil-22_169.jpg',
