@@ -3,12 +3,30 @@
   "team": "Herrelandslaget",
   "matches": [
     {
-      "date": "2026-06-26",
-      "time": "02:00",
-      "home": "Paraguay",
-      "away": "Australia",
+      "date": "2026-06-23",
+      "time": "00:00",
+      "home": "Norway",
+      "away": "Senegal",
       "competition": "FIFA World Cup",
-      "venue": ""
+      "venue": "",
+      "odds": {
+        "home_pct": 41.6,
+        "away_pct": 31.0,
+        "draw_pct": 27.5
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "time": "19:00",
+      "home": "Norway",
+      "away": "France",
+      "competition": "FIFA World Cup",
+      "venue": "",
+      "odds": {
+        "home_pct": 22.1,
+        "away_pct": 52.6,
+        "draw_pct": 25.3
+      }
     }
   ]
 }
