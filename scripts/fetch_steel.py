@@ -153,20 +153,36 @@ def fetch_price(c):
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     today = datetime.utcnow().strftime('%Y-%m-%d')
-    prices = []
+    path = os.path.join(DATA_DIR, 'steel.json')
 
+    # Load last known prices as fallback
+    last_known = {}
+    if os.path.exists(path):
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                old = json.load(f)
+            for p in old.get('prices', []):
+                last_known[p['symbol']] = p
+        except Exception:
+            pass
+
+    prices = []
     for c in COMMODITIES:
         result = fetch_price(c)
         if result:
             prices.append({
-                'name':       c['name'],
-                'symbol':     c['yf'],
-                'unit':       c['unit'],
+                'name':   c['name'],
+                'symbol': c['yf'],
+                'unit':   c['unit'],
                 **result,
             })
+        elif c['yf'] in last_known:
+            print(f"    → Using last known price for {c['name']}")
+            prices.append(last_known[c['yf']])
+        else:
+            print(f"    → No data available for {c['name']}")
 
     out = {'updated': today, 'prices': prices}
-    path = os.path.join(DATA_DIR, 'steel.json')
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
     print(f'Written: {path} ({len(prices)}/{len(COMMODITIES)} prices)')
