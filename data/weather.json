@@ -1,45 +1,45 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "today": {
-    "date": "2026-06-20",
-    "symbol": "cloudy",
-    "temp_max": 23.7,
-    "temp_min": 17.0,
-    "wind_speed": 4.3,
+    "date": "2026-06-21",
+    "symbol": "clearsky_day",
+    "temp_max": 24.2,
+    "temp_min": 16.4,
+    "wind_speed": 3.4,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-21",
-    "symbol": "clearsky_day",
-    "temp_max": 23.3,
-    "temp_min": 13.4,
-    "wind_speed": 3.2,
+    "date": "2026-06-22",
+    "symbol": "partlycloudy_day",
+    "temp_max": 21.0,
+    "temp_min": 13.2,
+    "wind_speed": 2.6,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 16.2
+    "ocean": 15.2
   },
   "sun": {
     "sunrise": "04:05",
     "sunset": "22:37"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "En dag uten latter er en dag bortkastet. – Charlie Chaplin",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "Det er i motgang vi finner ut hvem vi virkelig er.",
   "pollen": [
     {
-      "type": "Gress\tModerat",
+      "type": "Bjørk, Gress Og Salix\tBeskjeden",
+      "level": "I Morgen",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Gress\tKraftig",
       "level": "Bjørk Og Salix\tBeskjeden",
       "num": 0,
       "color": "#aaa"
     },
     {
       "type": "Bjørk Og Salix\tBeskjeden",
-      "level": "I Morgen",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Bjørk, Gress Og Salix\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-20"
+  "pollen_updated": "2026-06-21"
 }

@@ -1,24 +1,27 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "month": 6,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1819,
-      "text": "The U.S. vessel SS Savannah arrives at Liverpool, United Kingdom. It is the first steam-propelled vessel to cross the Atlantic, although most of the journey is made under sail.",
-      "url": "https://en.wikipedia.org/wiki/SS_Savannah",
+      "year": 1813,
+      "text": "Peninsular War: Wellington defeats Joseph Bonaparte at the Battle of Vitoria.",
+      "url": "https://en.wikipedia.org/wiki/Peninsular_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Peninsular_war_collage.jpg/330px-Peninsular_war_collage.jpg",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: The Royal Air Force launches Operation Bellicose, the first shuttle bombing raid of the war. Avro Lancaster bombers damage the V-2 rocket production facilities at the Zeppelin Works while en route to an air base in Algeria.",
+      "year": 1940,
+      "text": "World War II: Italy begins an unsuccessful invasion of France.",
       "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1975,
-      "text": "The film Jaws is released in the United States, becoming the highest-grossing film of that time and starting the trend of films known as \"summer blockbusters\".",
-      "url": "https://en.wikipedia.org/wiki/Jaws_(film)",
+      "year": 1982,
+      "text": "John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.",
+      "url": "https://en.wikipedia.org/wiki/John_Hinckley_Jr.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png/330px-John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png",
       "lang": "en"
     }
   ]

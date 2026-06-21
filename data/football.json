@@ -1,16 +1,9 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
-    {
-      "date": "2026-06-20",
-      "time": "16:00",
-      "home": "Larvik Turn",
-      "away": "Åsgårdstrand",
-      "venue": ""
-    },
     {
       "date": "2026-06-25",
       "time": "19:30",
@@ -58,6 +51,13 @@
       "time": "14:00",
       "home": "Larvik Turn",
       "away": "Store Bergan Lovisenlund Stadion",
+      "venue": ""
+    },
+    {
+      "date": "2026-09-26",
+      "time": "14:00",
+      "home": "Barkåker",
+      "away": "Larvik Turn Tønsberg Gressbane KG",
       "venue": ""
     }
   ]
