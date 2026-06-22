@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "month": 6,
-  "day": 21,
+  "day": 22,
   "events": [
     {
-      "year": 1813,
-      "text": "Peninsular War: Wellington defeats Joseph Bonaparte at the Battle of Vitoria.",
-      "url": "https://en.wikipedia.org/wiki/Peninsular_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Peninsular_war_collage.jpg/330px-Peninsular_war_collage.jpg",
+      "year": 1807,
+      "text": "In the Chesapeake–Leopard affair, the British warship HMS Leopard attacks and boards the American frigate USS Chesapeake.",
+      "url": "https://en.wikipedia.org/wiki/Chesapeake%E2%80%93Leopard_affair",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Leopardchesapeake.jpg/330px-Leopardchesapeake.jpg",
       "lang": "en"
     },
     {
       "year": 1940,
-      "text": "World War II: Italy begins an unsuccessful invasion of France.",
+      "text": "World War II: France is forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.",
       "url": "https://en.wikipedia.org/wiki/World_War_II",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1982,
-      "text": "John Hinckley is found not guilty by reason of insanity for the attempted assassination of U.S. President Ronald Reagan.",
-      "url": "https://en.wikipedia.org/wiki/John_Hinckley_Jr.",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png/330px-John_Hinckley%2C_Jr._Mugshot_%28colour_corrected%29.png",
+      "year": 1978,
+      "text": "Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy.",
+      "url": "https://en.wikipedia.org/wiki/Charon_(moon)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Charon_in_True_Color_-_High-Res.png/330px-Charon_in_True_Color_-_High-Res.png",
       "lang": "en"
     }
   ]
