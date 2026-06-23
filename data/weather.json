@@ -1,33 +1,33 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "today": {
-    "date": "2026-06-22",
+    "date": "2026-06-23",
     "symbol": "partlycloudy_day",
-    "temp_max": 20.5,
-    "temp_min": 13.9,
-    "wind_speed": 2.7,
+    "temp_max": 20.9,
+    "temp_min": 16.5,
+    "wind_speed": 3.0,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-23",
+    "date": "2026-06-24",
     "symbol": "clearsky_day",
-    "temp_max": 22.0,
-    "temp_min": 13.3,
-    "wind_speed": 2.2,
+    "temp_max": 24.3,
+    "temp_min": 15.5,
+    "wind_speed": 3.2,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 16.0
+    "ocean": 16.8
   },
   "sun": {
     "sunrise": "04:06",
     "sunset": "22:37"
   },
   "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "En optimist ser muligheten i hver vanskelighet.",
+  "thought": "Vennskap er ett hjerte i to kropper. – Aristoteles",
   "pollen": [
     {
-      "type": "Gress\tEkstrem",
+      "type": "Gress\tKraftig",
       "level": "Bjørk Og Salix\tBeskjeden",
       "num": 0,
       "color": "#aaa"
@@ -63,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-22"
+  "pollen_updated": "2026-06-23"
 }

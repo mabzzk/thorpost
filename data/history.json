@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "month": 6,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1807,
-      "text": "In the Chesapeake–Leopard affair, the British warship HMS Leopard attacks and boards the American frigate USS Chesapeake.",
-      "url": "https://en.wikipedia.org/wiki/Chesapeake%E2%80%93Leopard_affair",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Leopardchesapeake.jpg/330px-Leopardchesapeake.jpg",
+      "year": 1794,
+      "text": "Empress Catherine II of Russia grants Jews permission to settle in Kyiv.",
+      "url": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/330px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "World War II: France is forced to sign the Second Compiègne armistice with Germany, in the same railroad car in which the Germans signed the Armistice in 1918.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "year": 1938,
+      "text": "The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States.",
+      "url": "https://en.wikipedia.org/wiki/United_States_government_role_in_civil_aviation",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1978,
-      "text": "Charon, the first of Pluto's satellites to be discovered, was first seen at the United States Naval Observatory by James W. Christy.",
-      "url": "https://en.wikipedia.org/wiki/Charon_(moon)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Charon_in_True_Color_-_High-Res.png/330px-Charon_in_True_Color_-_High-Res.png",
+      "year": 1969,
+      "text": "IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.",
+      "url": "https://en.wikipedia.org/wiki/Software_industry",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
