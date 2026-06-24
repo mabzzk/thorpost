@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "month": 6,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1794,
-      "text": "Empress Catherine II of Russia grants Jews permission to settle in Kyiv.",
-      "url": "https://en.wikipedia.org/wiki/Catherine_the_Great",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg/330px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29.jpg",
+      "year": 1593,
+      "text": "The Dutch city of Geertruidenberg held by the Spanish, capitulates to a besieging Dutch and English army led by Maurice of Nassau.",
+      "url": "https://en.wikipedia.org/wiki/Geertruidenberg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Markt_-_stadhuis_-_Geertruidenberg.jpg/330px-Markt_-_stadhuis_-_Geertruidenberg.jpg",
       "lang": "en"
     },
     {
-      "year": 1938,
-      "text": "The Civil Aeronautics Act is signed into law, forming the Civil Aeronautics Authority in the United States.",
-      "url": "https://en.wikipedia.org/wiki/United_States_government_role_in_civil_aviation",
-      "thumbnail": "",
+      "year": 1913,
+      "text": "Greece and Serbia annul their alliance with Bulgaria.",
+      "url": "https://en.wikipedia.org/wiki/Serbia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/330px-Flag_of_Serbia.svg.png",
       "lang": "en"
     },
     {
-      "year": 1969,
-      "text": "IBM announces that effective January 1970 it will price its software and services separately from hardware thus creating the modern software industry.",
-      "url": "https://en.wikipedia.org/wiki/Software_industry",
-      "thumbnail": "",
+      "year": 1963,
+      "text": "The United Kingdom grants Zanzibar internal self-government.",
+      "url": "https://en.wikipedia.org/wiki/Zanzibar",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png",
       "lang": "en"
     }
   ]

@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-23",
+  "updated": "2026-06-24",
   "today": {
-    "date": "2026-06-23",
-    "symbol": "partlycloudy_day",
-    "temp_max": 20.9,
-    "temp_min": 16.5,
+    "date": "2026-06-24",
+    "symbol": "clearsky_day",
+    "temp_max": 24.7,
+    "temp_min": 18.8,
     "wind_speed": 3.0,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "symbol": "clearsky_day",
-    "temp_max": 24.3,
-    "temp_min": 15.5,
-    "wind_speed": 3.2,
+    "temp_max": 26.3,
+    "temp_min": 15.1,
+    "wind_speed": 2.7,
     "precipitation": 0.0
   },
   "water": {
@@ -23,23 +23,17 @@
     "sunrise": "04:06",
     "sunset": "22:37"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Vennskap er ett hjerte i to kropper. – Aristoteles",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "Norsk natur er som en god venn — alltid der, uansett vær.",
   "pollen": [
     {
-      "type": "Gress\tKraftig",
-      "level": "Bjørk Og Salix\tBeskjeden",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Bjørk Og Salix\tBeskjeden",
+      "type": "Bjørk, Gress Og Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
     },
     {
-      "type": "Gress\tKraftig",
+      "type": "Gress\tModerat",
       "level": "Bjørk Og Salix\tBeskjeden",
       "num": 0,
       "color": "#aaa"
@@ -63,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-23"
+  "pollen_updated": "2026-06-24"
 }
