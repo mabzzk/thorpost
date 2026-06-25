@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-24",
+  "updated": "2026-06-25",
   "month": 6,
-  "day": 24,
+  "day": 25,
   "events": [
     {
-      "year": 1593,
-      "text": "The Dutch city of Geertruidenberg held by the Spanish, capitulates to a besieging Dutch and English army led by Maurice of Nassau.",
-      "url": "https://en.wikipedia.org/wiki/Geertruidenberg",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Markt_-_stadhuis_-_Geertruidenberg.jpg/330px-Markt_-_stadhuis_-_Geertruidenberg.jpg",
+      "year": 1876,
+      "text": "American Indian Wars: Battle of the Little Bighorn: 300 men of the U.S. 7th Cavalry Regiment under Lieutenant Colonel George Armstrong Custer are wiped out by 5,000 Lakota, Cheyenne and Arapaho, led by Sitting Bull and Crazy Horse.",
+      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg",
       "lang": "en"
     },
     {
-      "year": 1913,
-      "text": "Greece and Serbia annul their alliance with Bulgaria.",
-      "url": "https://en.wikipedia.org/wiki/Serbia",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/330px-Flag_of_Serbia.svg.png",
+      "year": 1944,
+      "text": "World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Tali%E2%80%93Ihantala",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tali-Ihantala.jpg/330px-Tali-Ihantala.jpg",
       "lang": "en"
     },
     {
-      "year": 1963,
-      "text": "The United Kingdom grants Zanzibar internal self-government.",
-      "url": "https://en.wikipedia.org/wiki/Zanzibar",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png",
+      "year": 1991,
+      "text": "The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.",
+      "url": "https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Breakup_of_Yugoslavia.gif/330px-Breakup_of_Yugoslavia.gif",
       "lang": "en"
     }
   ]

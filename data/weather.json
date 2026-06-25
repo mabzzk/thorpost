@@ -1,33 +1,39 @@
 {
-  "updated": "2026-06-24",
+  "updated": "2026-06-25",
   "today": {
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "symbol": "clearsky_day",
-    "temp_max": 24.7,
-    "temp_min": 18.8,
-    "wind_speed": 3.0,
+    "temp_max": 25.8,
+    "temp_min": 17.8,
+    "wind_speed": 2.9,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-25",
-    "symbol": "clearsky_day",
-    "temp_max": 26.3,
-    "temp_min": 15.1,
-    "wind_speed": 2.7,
-    "precipitation": 0.0
+    "date": "2026-06-26",
+    "symbol": "fair_day",
+    "temp_max": 24.4,
+    "temp_min": 16.9,
+    "wind_speed": 4.2,
+    "precipitation": 0.1
   },
   "water": {
-    "ocean": 16.8
+    "ocean": 16.5
   },
   "sun": {
-    "sunrise": "04:06",
+    "sunrise": "04:07",
     "sunset": "22:37"
   },
   "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "Norsk natur er som en god venn — alltid der, uansett vær.",
+  "thought": "Tid er den dyreste valutaen — bruk den med omhu.",
   "pollen": [
     {
-      "type": "Bjørk, Gress Og Salix\tBeskjeden",
+      "type": "Gress\tModerat",
+      "level": "Bjørk Og Salix\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Bjørk Og Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-24"
+  "pollen_updated": "2026-06-25"
 }
