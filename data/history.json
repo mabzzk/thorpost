@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-25",
+  "updated": "2026-06-26",
   "month": 6,
-  "day": 25,
+  "day": 26,
   "events": [
     {
-      "year": 1876,
-      "text": "American Indian Wars: Battle of the Little Bighorn: 300 men of the U.S. 7th Cavalry Regiment under Lieutenant Colonel George Armstrong Custer are wiped out by 5,000 Lakota, Cheyenne and Arapaho, led by Sitting Bull and Crazy Horse.",
-      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg",
+      "year": 1723,
+      "text": "After a siege and bombardment by cannon, Baku surrenders to the Russians.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lansereships.jpg/330px-Lansereships.jpg",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: The Battle of Tali-Ihantala, the largest battle ever fought in the Nordic countries, begins.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Tali%E2%80%93Ihantala",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Tali-Ihantala.jpg/330px-Tali-Ihantala.jpg",
+      "year": 1941,
+      "text": "World War II: Soviet planes bomb Kassa, Hungary (now Košice, Slovakia), giving Hungary the impetus to declare war the next day.",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Kassa",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bombardovanie_Ko%C5%A1%C3%ADc_%E2%80%93_odstra%C5%88ovanie_%C5%A1k%C3%B4d.jpg/330px-Bombardovanie_Ko%C5%A1%C3%ADc_%E2%80%93_odstra%C5%88ovanie_%C5%A1k%C3%B4d.jpg",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "The breakup of Yugoslavia begins when Slovenia and Croatia declare their independence from Yugoslavia.",
-      "url": "https://en.wikipedia.org/wiki/Breakup_of_Yugoslavia",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Breakup_of_Yugoslavia.gif/330px-Breakup_of_Yugoslavia.gif",
+      "year": 1977,
+      "text": "Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana.",
+      "url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
       "lang": "en"
     }
   ]
