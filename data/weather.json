@@ -1,31 +1,37 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "today": {
-    "date": "2026-06-26",
-    "symbol": "fair_day",
-    "temp_max": 23.6,
-    "temp_min": 19.3,
-    "wind_speed": 4.7,
+    "date": "2026-06-27",
+    "symbol": "partlycloudy_day",
+    "temp_max": 25.6,
+    "temp_min": 18.8,
+    "wind_speed": 2.4,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-27",
-    "symbol": "partlycloudy_day",
-    "temp_max": 25.8,
-    "temp_min": 17.8,
-    "wind_speed": 3.2,
+    "date": "2026-06-28",
+    "symbol": "clearsky_day",
+    "temp_max": 23.3,
+    "temp_min": 18.1,
+    "wind_speed": 3.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.6
+    "ocean": 18.1
   },
   "sun": {
-    "sunrise": "04:07",
-    "sunset": "22:37"
+    "sunrise": "04:08",
+    "sunset": "22:36"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Et smil koster ingenting, men er verdt mye.",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Den som søker, finner — om han er tålmodig nok.",
   "pollen": [
+    {
+      "type": "Gress Og Salix\tBeskjeden",
+      "level": "I Morgen",
+      "num": 0,
+      "color": "#aaa"
+    },
     {
       "type": "Gress\tKraftig",
       "level": "Salix\tBeskjeden",
@@ -34,12 +40,6 @@
     },
     {
       "type": "Salix\tBeskjeden",
-      "level": "I Morgen",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Gress Og Salix\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-26"
+  "pollen_updated": "2026-06-27"
 }

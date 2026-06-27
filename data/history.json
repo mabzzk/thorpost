@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-26",
+  "updated": "2026-06-27",
   "month": 6,
-  "day": 26,
+  "day": 27,
   "events": [
     {
-      "year": 1723,
-      "text": "After a siege and bombardment by cannon, Baku surrenders to the Russians.",
-      "url": "https://en.wikipedia.org/wiki/Russo-Persian_War_(1722%E2%80%931723)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lansereships.jpg/330px-Lansereships.jpg",
+      "year": 1905,
+      "text": "During the Russo-Japanese War, sailors start a mutiny aboard the Russian battleship Potemkin.",
+      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RUSSOJAPANESEWARIMAGE.jpg/330px-RUSSOJAPANESEWARIMAGE.jpg",
       "lang": "en"
     },
     {
-      "year": 1941,
-      "text": "World War II: Soviet planes bomb Kassa, Hungary (now Košice, Slovakia), giving Hungary the impetus to declare war the next day.",
-      "url": "https://en.wikipedia.org/wiki/Bombing_of_Kassa",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Bombardovanie_Ko%C5%A1%C3%ADc_%E2%80%93_odstra%C5%88ovanie_%C5%A1k%C3%B4d.jpg/330px-Bombardovanie_Ko%C5%A1%C3%ADc_%E2%80%93_odstra%C5%88ovanie_%C5%A1k%C3%B4d.jpg",
+      "year": 1954,
+      "text": "The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.",
+      "url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/1954_FIFA_World_Cup.jpg",
       "lang": "en"
     },
     {
-      "year": 1977,
-      "text": "Elvis Presley holds what will prove to be his final concert at Market Square Arena in Indianapolis, Indiana.",
-      "url": "https://en.wikipedia.org/wiki/Elvis_Presley",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "year": 1988,
+      "text": "Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.",
+      "url": "https://en.wikipedia.org/wiki/Villa_Tunari_massacre",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
