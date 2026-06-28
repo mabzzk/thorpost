@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-27",
+  "updated": "2026-06-28",
   "month": 6,
-  "day": 27,
+  "day": 28,
   "events": [
     {
-      "year": 1905,
-      "text": "During the Russo-Japanese War, sailors start a mutiny aboard the Russian battleship Potemkin.",
-      "url": "https://en.wikipedia.org/wiki/Russo-Japanese_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RUSSOJAPANESEWARIMAGE.jpg/330px-RUSSOJAPANESEWARIMAGE.jpg",
+      "year": 1841,
+      "text": "The Paris Opera Ballet premieres Giselle in the Salle Le Peletier.",
+      "url": "https://en.wikipedia.org/wiki/Paris_Opera_Ballet",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Paris_Opera_Ballet_%28Transparent%29_Logo.png/330px-Paris_Opera_Ballet_%28Transparent%29_Logo.png",
       "lang": "en"
     },
     {
-      "year": 1954,
-      "text": "The FIFA World Cup quarterfinal match between Hungary and Brazil, highly anticipated to be exciting, instead turns violent, with three players ejected and further fighting continuing after the game.",
-      "url": "https://en.wikipedia.org/wiki/1954_FIFA_World_Cup",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1e/1954_FIFA_World_Cup.jpg",
+      "year": 1917,
+      "text": "World War I: Greece joins the Allied powers.",
+      "url": "https://en.wikipedia.org/wiki/Greece_during_World_War_I",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Serbia-WW1-4.jpg/330px-Serbia-WW1-4.jpg",
       "lang": "en"
     },
     {
-      "year": 1988,
-      "text": "Villa Tunari massacre: Bolivian anti-narcotics police kill nine to 12 and injure over a hundred protesting coca-growing peasants.",
-      "url": "https://en.wikipedia.org/wiki/Villa_Tunari_massacre",
-      "thumbnail": "",
+      "year": 1964,
+      "text": "Malcolm X forms the Organization of Afro-American Unity.",
+      "url": "https://en.wikipedia.org/wiki/Malcolm_X",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Malcolm_X_1963_press_photo.jpg/330px-Malcolm_X_1963_press_photo.jpg",
       "lang": "en"
     }
   ]

@@ -1,33 +1,39 @@
 {
-  "updated": "2026-06-27",
+  "updated": "2026-06-28",
   "today": {
-    "date": "2026-06-27",
+    "date": "2026-06-28",
     "symbol": "partlycloudy_day",
-    "temp_max": 25.6,
-    "temp_min": 18.8,
-    "wind_speed": 2.4,
+    "temp_max": 26.0,
+    "temp_min": 17.7,
+    "wind_speed": 3.8,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "symbol": "clearsky_day",
-    "temp_max": 23.3,
-    "temp_min": 18.1,
-    "wind_speed": 3.5,
+    "temp_max": 24.1,
+    "temp_min": 17.1,
+    "wind_speed": 4.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 18.1
+    "ocean": 18.0
   },
   "sun": {
-    "sunrise": "04:08",
+    "sunrise": "04:09",
     "sunset": "22:36"
   },
   "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Den som søker, finner — om han er tålmodig nok.",
+  "thought": "Norsk natur er som en god venn — alltid der, uansett vær.",
   "pollen": [
     {
-      "type": "Gress Og Salix\tBeskjeden",
+      "type": "Gress\tKraftig",
+      "level": "Salix\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-27"
+  "pollen_updated": "2026-06-28"
 }
