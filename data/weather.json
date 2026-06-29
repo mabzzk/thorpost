@@ -1,30 +1,30 @@
 {
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "today": {
-    "date": "2026-06-28",
+    "date": "2026-06-29",
     "symbol": "partlycloudy_day",
-    "temp_max": 26.0,
-    "temp_min": 17.7,
-    "wind_speed": 3.8,
+    "temp_max": 24.2,
+    "temp_min": 18.5,
+    "wind_speed": 4.8,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-06-29",
-    "symbol": "clearsky_day",
-    "temp_max": 24.1,
-    "temp_min": 17.1,
-    "wind_speed": 4.5,
+    "date": "2026-06-30",
+    "symbol": "cloudy",
+    "temp_max": 21.9,
+    "temp_min": 15.3,
+    "wind_speed": 3.0,
     "precipitation": 0.0
   },
   "water": {
     "ocean": 18.0
   },
   "sun": {
-    "sunrise": "04:09",
+    "sunrise": "04:10",
     "sunset": "22:36"
   },
   "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Norsk natur er som en god venn — alltid der, uansett vær.",
+  "thought": "Den største reisen begynner med et enkelt skritt. – Lao Tzu",
   "pollen": [
     {
       "type": "Gress\tKraftig",
@@ -63,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-06-28"
+  "pollen_updated": "2026-06-29"
 }

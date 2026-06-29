@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-28",
+  "updated": "2026-06-29",
   "month": 6,
-  "day": 28,
+  "day": 29,
   "events": [
     {
-      "year": 1841,
-      "text": "The Paris Opera Ballet premieres Giselle in the Salle Le Peletier.",
-      "url": "https://en.wikipedia.org/wiki/Paris_Opera_Ballet",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Paris_Opera_Ballet_%28Transparent%29_Logo.png/330px-Paris_Opera_Ballet_%28Transparent%29_Logo.png",
+      "year": 1659,
+      "text": "At the Battle of Konotop the Ukrainian armies of Ivan Vyhovsky defeat the Russians led by Prince Trubetskoy.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Konotop",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lucznik_tatarski.jpg/330px-Lucznik_tatarski.jpg",
       "lang": "en"
     },
     {
-      "year": 1917,
-      "text": "World War I: Greece joins the Allied powers.",
-      "url": "https://en.wikipedia.org/wiki/Greece_during_World_War_I",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Serbia-WW1-4.jpg/330px-Serbia-WW1-4.jpg",
+      "year": 1915,
+      "text": "The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.",
+      "url": "https://en.wikipedia.org/wiki/North_Saskatchewan_River_flood_of_1915",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Edmonton_daily_bulletin_1915_flood_cover.jpg/330px-Edmonton_daily_bulletin_1915_flood_cover.jpg",
       "lang": "en"
     },
     {
-      "year": 1964,
-      "text": "Malcolm X forms the Organization of Afro-American Unity.",
-      "url": "https://en.wikipedia.org/wiki/Malcolm_X",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Malcolm_X_1963_press_photo.jpg/330px-Malcolm_X_1963_press_photo.jpg",
+      "year": 1974,
+      "text": "Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.",
+      "url": "https://en.wikipedia.org/wiki/Mikhail_Baryshnikov",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
       "lang": "en"
     }
   ]
