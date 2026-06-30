@@ -1,27 +1,27 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-06-30",
   "month": 6,
-  "day": 29,
+  "day": 30,
   "events": [
     {
-      "year": 1659,
-      "text": "At the Battle of Konotop the Ukrainian armies of Ivan Vyhovsky defeat the Russians led by Prince Trubetskoy.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Konotop",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Lucznik_tatarski.jpg/330px-Lucznik_tatarski.jpg",
+      "year": 1805,
+      "text": "Under An act to divide the Indiana Territory into two separate governments, adopted by the U.S. Congress on January 11, 1805, the Michigan Territory is organized.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png",
       "lang": "en"
     },
     {
-      "year": 1915,
-      "text": "The North Saskatchewan River flood of 1915 is the worst flood in Edmonton history.",
-      "url": "https://en.wikipedia.org/wiki/North_Saskatchewan_River_flood_of_1915",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Edmonton_daily_bulletin_1915_flood_cover.jpg/330px-Edmonton_daily_bulletin_1915_flood_cover.jpg",
+      "year": 1934,
+      "text": "The Night of the Long Knives, Adolf Hitler's violent purge of his political rivals in Germany, takes place.",
+      "url": "https://en.wikipedia.org/wiki/Night_of_the_Long_Knives",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bundesarchiv_Bild_102-14886%2C_Kurt_Daluege%2C_Heinrich_Himmler%2C_Ernst_R%C3%B6hm.jpg/330px-Bundesarchiv_Bild_102-14886%2C_Kurt_Daluege%2C_Heinrich_Himmler%2C_Ernst_R%C3%B6hm.jpg",
       "lang": "en"
     },
     {
-      "year": 1974,
-      "text": "Mikhail Baryshnikov defects from the Soviet Union to Canada while on tour with the Kirov Ballet.",
-      "url": "https://en.wikipedia.org/wiki/Mikhail_Baryshnikov",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mikhail_Baryshnikov.jpg/330px-Mikhail_Baryshnikov.jpg",
+      "year": 1977,
+      "text": "The Southeast Asia Treaty Organization disbands.",
+      "url": "https://en.wikipedia.org/wiki/Southeast_Asia_Treaty_Organization",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_SEATO.svg/330px-Flag_of_SEATO.svg.png",
       "lang": "en"
     }
   ]
