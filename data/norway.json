@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "team": "Herrelandslaget",
   "matches": [
     {
-      "date": "2026-06-30",
-      "time": "17:00",
-      "home": "Ivory Coast",
+      "date": "2026-07-05",
+      "time": "20:00",
+      "home": "Brazil",
       "away": "Norway",
       "competition": "FIFA World Cup",
       "venue": "",
       "odds": {
-        "home_pct": 27.3,
-        "away_pct": 45.1,
-        "draw_pct": 27.7
+        "home_pct": 50.4,
+        "away_pct": 22.9,
+        "draw_pct": 26.7
       }
     }
   ]
