@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "team": "Herrelandslaget",
   "matches": [
     {
@@ -11,8 +11,8 @@
       "venue": "",
       "odds": {
         "home_pct": 50.4,
-        "away_pct": 22.9,
-        "draw_pct": 26.7
+        "away_pct": 23.5,
+        "draw_pct": 26.1
       }
     }
   ]

@@ -1,39 +1,45 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "today": {
-    "date": "2026-07-01",
-    "symbol": "clearsky_day",
-    "temp_max": 23.7,
-    "temp_min": 16.3,
-    "wind_speed": 2.6,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-07-02",
     "symbol": "heavyrain",
     "temp_max": 17.8,
-    "temp_min": 14.9,
-    "wind_speed": 3.6,
-    "precipitation": 7.3
+    "temp_min": 15.0,
+    "wind_speed": 4.8,
+    "precipitation": 8.5
+  },
+  "tomorrow": {
+    "date": "2026-07-03",
+    "symbol": "partlycloudy_day",
+    "temp_max": 22.8,
+    "temp_min": 14.3,
+    "wind_speed": 4.0,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.7
+    "ocean": 17.3
   },
   "sun": {
-    "sunrise": "04:11",
-    "sunset": "22:35"
+    "sunrise": "04:12",
+    "sunset": "22:34"
   },
-  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "Vis meg hvem du omgås, så skal jeg si deg hvem du er.",
+  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
+  "thought": "Morgenstund har gull i munn — spesielt i Larvik.",
   "pollen": [
     {
-      "type": "Gress Og Salix\tBeskjeden",
+      "type": "Gress\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
     },
     {
-      "type": "Gress\tBeskjeden",
+      "type": "Gress\tKraftig",
+      "level": "Salix\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Salix\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -51,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-01"
+  "pollen_updated": "2026-07-02"
 }

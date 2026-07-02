@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-01",
+  "updated": "2026-07-02",
   "month": 7,
-  "day": 1,
+  "day": 2,
   "events": [
     {
-      "year": 1867,
-      "text": "The British North America Act takes effect as the Province of Canada, New Brunswick, and Nova Scotia join into confederation to create the modern nation of Canada. John A. Macdonald is sworn in as the first Prime Minister of Canada. This date is commemorated annually in Canada as Canada Day, a national holiday.",
-      "url": "https://en.wikipedia.org/wiki/Constitution_Act%2C_1867",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coat_of_arms_of_the_United_Kingdom_%281837%29.svg/330px-Coat_of_arms_of_the_United_Kingdom_%281837%29.svg.png",
+      "year": 1645,
+      "text": "Wars of the Three Kingdoms: Battle of Alford.",
+      "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sir_Anthony_Van_Dyck_-_Charles_I_%281600-49%29_-_Google_Art_Project.jpg/330px-Sir_Anthony_Van_Dyck_-_Charles_I_%281600-49%29_-_Google_Art_Project.jpg",
       "lang": "en"
     },
     {
-      "year": 1931,
-      "text": "Wiley Post and Harold Gatty become the first people to circumnavigate the globe in a single-engined monoplane aircraft.",
-      "url": "https://en.wikipedia.org/wiki/Wiley_Post",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Wiley_Post_cph.3b33667.jpg/330px-Wiley_Post_cph.3b33667.jpg",
+      "year": 1921,
+      "text": "World War I: U.S. President Warren G. Harding signs the Knox–Porter Resolution formally ending the war between the United States and Germany.",
+      "url": "https://en.wikipedia.org/wiki/World_War_I",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
       "lang": "en"
     },
     {
-      "year": 1972,
-      "text": "The first Gay pride march in England takes place.",
-      "url": "https://en.wikipedia.org/wiki/Pride_(LGBTQ_culture)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Stonewall_Inn_5_pride_weekend_2016.jpg/330px-Stonewall_Inn_5_pride_weekend_2016.jpg",
+      "year": 1990,
+      "text": "In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.",
+      "url": "https://en.wikipedia.org/wiki/1990_Mecca_tunnel_tragedy",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mecca_tunnel.jpg/330px-Mecca_tunnel.jpg",
       "lang": "en"
     }
   ]
