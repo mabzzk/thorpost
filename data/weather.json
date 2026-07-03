@@ -1,39 +1,39 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "today": {
-    "date": "2026-07-02",
-    "symbol": "heavyrain",
-    "temp_max": 17.8,
-    "temp_min": 15.0,
-    "wind_speed": 4.8,
-    "precipitation": 8.5
+    "date": "2026-07-03",
+    "symbol": "cloudy",
+    "temp_max": 21.9,
+    "temp_min": 15.4,
+    "wind_speed": 3.8,
+    "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-03",
-    "symbol": "partlycloudy_day",
-    "temp_max": 22.8,
-    "temp_min": 14.3,
-    "wind_speed": 4.0,
+    "date": "2026-07-04",
+    "symbol": "clearsky_day",
+    "temp_max": 21.0,
+    "temp_min": 13.5,
+    "wind_speed": 3.2,
     "precipitation": 0.0
   },
   "water": {
     "ocean": 17.3
   },
   "sun": {
-    "sunrise": "04:12",
-    "sunset": "22:34"
+    "sunrise": "04:14",
+    "sunset": "22:33"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "Morgenstund har gull i munn — spesielt i Larvik.",
+  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
+  "thought": "Det finnes ikke dårlig vær — bare dårlige klær.",
   "pollen": [
     {
-      "type": "Gress\tBeskjeden",
+      "type": "Gress Og Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
     },
     {
-      "type": "Gress\tKraftig",
+      "type": "Gress\tModerat",
       "level": "Salix\tBeskjeden",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-02"
+  "pollen_updated": "2026-07-03"
 }

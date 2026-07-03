@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "team": "Herrelandslaget",
   "matches": [
     {
@@ -10,8 +10,8 @@
       "competition": "FIFA World Cup",
       "venue": "",
       "odds": {
-        "home_pct": 50.4,
-        "away_pct": 23.5,
+        "home_pct": 51.1,
+        "away_pct": 22.8,
         "draw_pct": 26.1
       }
     }

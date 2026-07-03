@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "month": 7,
-  "day": 2,
+  "day": 3,
   "events": [
     {
-      "year": 1645,
-      "text": "Wars of the Three Kingdoms: Battle of Alford.",
-      "url": "https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Sir_Anthony_Van_Dyck_-_Charles_I_%281600-49%29_-_Google_Art_Project.jpg/330px-Sir_Anthony_Van_Dyck_-_Charles_I_%281600-49%29_-_Google_Art_Project.jpg",
+      "year": 1778,
+      "text": "American Revolutionary War: The Iroquois, allied with Britain, massacre 360 Patriot soldiers during the Battle of Wyoming.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Wyoming",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alonzo_Chappel_-_Massacre_of_Wyoming_%28Pennsylvania%29.jpg/330px-Alonzo_Chappel_-_Massacre_of_Wyoming_%28Pennsylvania%29.jpg",
       "lang": "en"
     },
     {
-      "year": 1921,
-      "text": "World War I: U.S. President Warren G. Harding signs the Knox–Porter Resolution formally ending the war between the United States and Germany.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
+      "year": 1886,
+      "text": "The New-York Tribune becomes the first newspaper to use a linotype machine, eliminating typesetting by hand.",
+      "url": "https://en.wikipedia.org/wiki/New-York_Tribune",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nytrib1864.jpg/330px-Nytrib1864.jpg",
       "lang": "en"
     },
     {
-      "year": 1990,
-      "text": "In the 1990 Mecca tunnel tragedy, 1,400 Muslim pilgrims are suffocated to death and trampled upon in a pedestrian tunnel leading to the holy city of Mecca.",
-      "url": "https://en.wikipedia.org/wiki/1990_Mecca_tunnel_tragedy",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mecca_tunnel.jpg/330px-Mecca_tunnel.jpg",
+      "year": 1952,
+      "text": "The SS United States sets sail on her maiden voyage to Southampton. During the voyage, the ship takes the Blue Riband away from the RMS Queen Mary.",
+      "url": "https://en.wikipedia.org/wiki/SS_United_States",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/StateLibQld_1_169487_United_States_%28ship%29.jpg/330px-StateLibQld_1_169487_United_States_%28ship%29.jpg",
       "lang": "en"
     }
   ]
