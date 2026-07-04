@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "stories": [
     {
-      "title": "Klar advarsel til festivaldeltakere: – Elsparkesykkel og alkohol er en dårlig kombinasjon",
-      "summary": "I både Larvik og Tønsberg tas det nå kraftige grep for å forebygge ulykker ved elsparkesykler, under sommerens festivaler.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/innforer-begrensninger-for-elsparkesykler-under-festivalene-1.17943326",
-      "image": "https://gfx.nrk.no/RpAk27E91vTKworG6v1lXgw0AZBUwTouz7JzMrmdWMMw.jpg",
+      "title": "Skal du sove ute i sommar? Sjekk reglane først",
+      "summary": "Allemannsretten gir deg mange moglegheiter, men fleire populære nasjonalparkar har eigne forbodssoner for telting og overnatting.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/her-kan-du-ikkje-telte-i-vestfold-og-telemark-1.17939980",
+      "image": "https://gfx.nrk.no/SypRttoPigumRLyP3ijuIQ4-BYWeDfTZ5RXT3kWONhIw.jpg",
       "category": "Larvik"
     },
     {
-      "title": "Store profiler gir seg på landslaget etter VM-exit",
-      "summary": "Både algeries stjernespiller Riyad Mahrez og østerrikers Marko Arnautovic gir seg på landslaget etter nattens kamper.\nDet melder tyske Bild og NTB.\nArnautovic og Østerrike tapte 3–0 mot Spania og røk ut av sommerens mest",
-      "url": "https://www.nrk.no/sport/store-profiler-gir-seg-pa-landslaget-etter-vm-exit-1.17945913",
-      "image": "https://gfx.nrk.no/4Pbv-in52Wx60usvfxIYkgNAD4MG_UiV_OoSgI8RC6HA.jpg",
+      "title": "Ghana sjanseløse mot Colombia – hadde null (!) avslutninger på mål",
+      "summary": "Colombia var store favoritter mot Ghana, og Jhon Arias scoring tidlig i oppgjøret viste seg for å være nok til å sikre avansement.\nSøramerikanerne hadde svært god kontroll gjennom kampen, men tok ikke vare på mulighetene",
+      "url": "https://www.nrk.no/sport/ghana-sjanselose-mot-colombia-_-hadde-null-___-avslutninger-pa-mal-1.17947135",
+      "image": "https://gfx.nrk.no/GKoFwxqqYIpZwl0URAH_fA0KkcU2JaWxRDyoxhRKi9mg.jpg",
       "category": "Friidrett"
     },
     {
@@ -23,21 +23,61 @@
       "category": "Stål & Industri"
     },
     {
-      "title": "Tyske medier: Nagelsmann går av som landslagstrener",
-      "summary": "Ifølge den tyske avisen Bild, er Julian Nagelsmann ferdig som hovedtrener for det tyske herrelandslaget.\nNyheten er uansett ikke bekreftet fra verken Nagelsmann selv, eller det tyske fotballforbundet (DFB).\nNagelsmann ha",
-      "url": "https://www.nrk.no/sport/tyske-medier_-nagelsmann-gar-av-som-landslagstrener-1.17945866",
-      "image": "https://gfx.nrk.no/pzMPBw1o44V9GHHYw4TEogJsPzj7trfXO9q20KtIJEvA.jpg",
+      "title": "Raste over mulig kampflytting: – Et spark i magen",
+      "summary": "Norges kamp mot Brasil stod lenge i fare for å bli flyttet. Nå tyder mye på at den likevel spilles på opprinnelig oppsatt tidspunkt, ifølge NRKs opplysninger.",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-norges-kamp-mot-brasil-kan-bli-flyttet-1.17946998",
+      "image": "https://gfx.nrk.no/grzFZ0Om0351XpClS0wgqQ2VOi1kViPbRvO449fJ6oXA.jpg",
       "category": "Sport"
     },
     {
-      "title": "Sveits-profilens bom fikk ekspertene til å måpe: – Det er helt utrolig",
-      "summary": "For første gang på 88 år har Sveits fått noe å juble for i VM-sluttspillet – men én spiller kommer nok likevel til å sitte igjen med en litt dårlig følelse.",
-      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-utrolig-bom-da-sveits-vant-i-sluttspillet-for-forste-gang-siden-1938-1.17945762",
-      "image": "https://gfx.nrk.no/4UV0x9f932q1A5PIwwWwYgHHWm9qo9kQlZ5QlFurI-2g.jpg",
+      "title": "Kapp Verde rystet Argentina: – Et av de største sjokkene i fotballhistorien",
+      "summary": "Lionel Messi og Argentina måtte ut i ekstraomganger mot miniputten – som slo tilbake to ganger.",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-kapp-verde-rystet-argentina_-1.17947090",
+      "image": "https://gfx.nrk.no/cYnszOIB8Z5hxj_F-NhPhwnSfqAstR1XR-KJbu5P4f-Q.jpg",
       "category": "Sport"
     }
   ],
   "archive": [
+    {
+      "date": "2026-07-03",
+      "stories": [
+        {
+          "title": "Klar advarsel til festivaldeltakere: – Elsparkesykkel og alkohol er en dårlig kombinasjon",
+          "summary": "I både Larvik og Tønsberg tas det nå kraftige grep for å forebygge ulykker ved elsparkesykler, under sommerens festivaler.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/innforer-begrensninger-for-elsparkesykler-under-festivalene-1.17943326",
+          "image": "https://gfx.nrk.no/RpAk27E91vTKworG6v1lXgw0AZBUwTouz7JzMrmdWMMw.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Store profiler gir seg på landslaget etter VM-exit",
+          "summary": "Både algeries stjernespiller Riyad Mahrez og østerrikers Marko Arnautovic gir seg på landslaget etter nattens kamper.\nDet melder tyske Bild og NTB.\nArnautovic og Østerrike tapte 3–0 mot Spania og røk ut av sommerens mest",
+          "url": "https://www.nrk.no/sport/store-profiler-gir-seg-pa-landslaget-etter-vm-exit-1.17945913",
+          "image": "https://gfx.nrk.no/4Pbv-in52Wx60usvfxIYkgNAD4MG_UiV_OoSgI8RC6HA.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "US Department of Energy awards $75M to recover critical minerals from coal feedstocks",
+          "summary": "Five projects were selected for the Mines &#038; Metals Capacity Expansion Pilot.",
+          "url": "https://www.mining.com/us-department-of-energy-awards-75m-to-recover-critical-minerals-from-coal-feedstocks/",
+          "image": "",
+          "category": "Stål & Industri"
+        },
+        {
+          "title": "Tyske medier: Nagelsmann går av som landslagstrener",
+          "summary": "Ifølge den tyske avisen Bild, er Julian Nagelsmann ferdig som hovedtrener for det tyske herrelandslaget.\nNyheten er uansett ikke bekreftet fra verken Nagelsmann selv, eller det tyske fotballforbundet (DFB).\nNagelsmann ha",
+          "url": "https://www.nrk.no/sport/tyske-medier_-nagelsmann-gar-av-som-landslagstrener-1.17945866",
+          "image": "https://gfx.nrk.no/pzMPBw1o44V9GHHYw4TEogJsPzj7trfXO9q20KtIJEvA.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Sveits-profilens bom fikk ekspertene til å måpe: – Det er helt utrolig",
+          "summary": "For første gang på 88 år har Sveits fått noe å juble for i VM-sluttspillet – men én spiller kommer nok likevel til å sitte igjen med en litt dårlig følelse.",
+          "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-utrolig-bom-da-sveits-vant-i-sluttspillet-for-forste-gang-siden-1938-1.17945762",
+          "image": "https://gfx.nrk.no/4UV0x9f932q1A5PIwwWwYgHHWm9qo9kQlZ5QlFurI-2g.jpg",
+          "category": "Sport"
+        }
+      ]
+    },
     {
       "date": "2026-07-02",
       "stories": [

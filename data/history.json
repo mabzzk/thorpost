@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "month": 7,
-  "day": 3,
+  "day": 4,
   "events": [
     {
-      "year": 1778,
-      "text": "American Revolutionary War: The Iroquois, allied with Britain, massacre 360 Patriot soldiers during the Battle of Wyoming.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Wyoming",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Alonzo_Chappel_-_Massacre_of_Wyoming_%28Pennsylvania%29.jpg/330px-Alonzo_Chappel_-_Massacre_of_Wyoming_%28Pennsylvania%29.jpg",
+      "year": 1803,
+      "text": "The Louisiana Purchase is announced to the US people.",
+      "url": "https://en.wikipedia.org/wiki/Louisiana_Purchase",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louisiana_Purchase.png/330px-Louisiana_Purchase.png",
       "lang": "en"
     },
     {
-      "year": 1886,
-      "text": "The New-York Tribune becomes the first newspaper to use a linotype machine, eliminating typesetting by hand.",
-      "url": "https://en.wikipedia.org/wiki/New-York_Tribune",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nytrib1864.jpg/330px-Nytrib1864.jpg",
+      "year": 1903,
+      "text": "The Philippine–American War is officially concluded.",
+      "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Manila646_1899.jpg/330px-Manila646_1899.jpg",
       "lang": "en"
     },
     {
-      "year": 1952,
-      "text": "The SS United States sets sail on her maiden voyage to Southampton. During the voyage, the ship takes the Blue Riband away from the RMS Queen Mary.",
-      "url": "https://en.wikipedia.org/wiki/SS_United_States",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/StateLibQld_1_169487_United_States_%28ship%29.jpg/330px-StateLibQld_1_169487_United_States_%28ship%29.jpg",
+      "year": 1966,
+      "text": "U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year.",
+      "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/330px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
       "lang": "en"
     }
   ]

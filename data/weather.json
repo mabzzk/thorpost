@@ -1,33 +1,39 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "today": {
-    "date": "2026-07-03",
-    "symbol": "cloudy",
-    "temp_max": 21.9,
-    "temp_min": 15.4,
-    "wind_speed": 3.8,
+    "date": "2026-07-04",
+    "symbol": "fair_day",
+    "temp_max": 21.5,
+    "temp_min": 17.3,
+    "wind_speed": 3.2,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-04",
+    "date": "2026-07-05",
     "symbol": "clearsky_day",
-    "temp_max": 21.0,
-    "temp_min": 13.5,
-    "wind_speed": 3.2,
+    "temp_max": 23.5,
+    "temp_min": 15.1,
+    "wind_speed": 3.3,
     "precipitation": 0.0
   },
   "water": {
     "ocean": 17.3
   },
   "sun": {
-    "sunrise": "04:14",
-    "sunset": "22:33"
+    "sunrise": "04:15",
+    "sunset": "22:32"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Det finnes ikke dårlig vær — bare dårlige klær.",
+  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
+  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
   "pollen": [
     {
-      "type": "Gress Og Salix\tBeskjeden",
+      "type": "Gress\tModerat",
+      "level": "Salix\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-03"
+  "pollen_updated": "2026-07-04"
 }
