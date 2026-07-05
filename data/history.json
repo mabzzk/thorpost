@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "month": 7,
-  "day": 4,
+  "day": 5,
   "events": [
     {
-      "year": 1803,
-      "text": "The Louisiana Purchase is announced to the US people.",
-      "url": "https://en.wikipedia.org/wiki/Louisiana_Purchase",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Louisiana_Purchase.png/330px-Louisiana_Purchase.png",
+      "year": 1814,
+      "text": "War of 1812: Battle of Chippawa: American Major General Jacob Brown defeats British General Phineas Riall at Chippawa, Ontario.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chippawa",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Chippewa.jpg/330px-Chippewa.jpg",
       "lang": "en"
     },
     {
-      "year": 1903,
-      "text": "The Philippine–American War is officially concluded.",
-      "url": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Manila646_1899.jpg/330px-Manila646_1899.jpg",
+      "year": 1946,
+      "text": "Micheline Bernardini models the first modern bikini at a swimming pool in Paris.",
+      "url": "https://en.wikipedia.org/wiki/Micheline_Bernardini",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/MichelineBernardini.jpg",
       "lang": "en"
     },
     {
-      "year": 1966,
-      "text": "U.S. President Lyndon B. Johnson signs the Freedom of Information Act into United States law. The act went into effect the next year.",
-      "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/330px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg",
+      "year": 1987,
+      "text": "Sri Lankan Civil War: The LTTE uses suicide attacks on the Sri Lankan Army for the first time. The Black Tigers are born and, in the following years, will continue to kill with the tactic.",
+      "url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sri_Lanka_North_Eastern_Province_locator_map.svg/330px-Sri_Lanka_North_Eastern_Province_locator_map.svg.png",
       "lang": "en"
     }
   ]

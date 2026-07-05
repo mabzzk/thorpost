@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "today": {
-    "date": "2026-07-04",
-    "symbol": "fair_day",
-    "temp_max": 21.5,
-    "temp_min": 17.3,
-    "wind_speed": 3.2,
+    "date": "2026-07-05",
+    "symbol": "clearsky_day",
+    "temp_max": 24.3,
+    "temp_min": 14.6,
+    "wind_speed": 3.9,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-05",
+    "date": "2026-07-06",
     "symbol": "clearsky_day",
-    "temp_max": 23.5,
-    "temp_min": 15.1,
-    "wind_speed": 3.3,
+    "temp_max": 19.8,
+    "temp_min": 12.4,
+    "wind_speed": 3.6,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.3
+    "ocean": 17.8
   },
   "sun": {
-    "sunrise": "04:15",
-    "sunset": "22:32"
+    "sunrise": "04:16",
+    "sunset": "22:31"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "Lykke er ikke å få det du vil, men å ville det du har.",
   "pollen": [
     {
       "type": "Gress\tModerat",
@@ -63,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-04"
+  "pollen_updated": "2026-07-05"
 }

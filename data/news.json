@@ -1,43 +1,83 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "stories": [
     {
-      "title": "Skal du sove ute i sommar? Sjekk reglane først",
-      "summary": "Allemannsretten gir deg mange moglegheiter, men fleire populære nasjonalparkar har eigne forbodssoner for telting og overnatting.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/her-kan-du-ikkje-telte-i-vestfold-og-telemark-1.17939980",
-      "image": "https://gfx.nrk.no/SypRttoPigumRLyP3ijuIQ4-BYWeDfTZ5RXT3kWONhIw.jpg",
+      "title": "Systemfeil gav Eudice begge billettane: Sembo krev 30.000 for å rette opp",
+      "summary": "Da para frå Skien bestilte Brasil-tur, hamna Eudice sitt namn på begge billettane. Reisebyrået nektar å rette opp og krev at dei pungar ut for ny billett.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/sembo-nektar-a-rette-feil-pa-flybillettar-til-brasil-_-krev-30.000-kroner-1.17939966",
+      "image": "https://gfx.nrk.no/q9WTF4s_AUt1Q3lX2jMGUweWsK_jmH8oKPIiaOhdl2Qg.jpg",
       "category": "Larvik"
     },
     {
-      "title": "Ghana sjanseløse mot Colombia – hadde null (!) avslutninger på mål",
-      "summary": "Colombia var store favoritter mot Ghana, og Jhon Arias scoring tidlig i oppgjøret viste seg for å være nok til å sikre avansement.\nSøramerikanerne hadde svært god kontroll gjennom kampen, men tok ikke vare på mulighetene",
-      "url": "https://www.nrk.no/sport/ghana-sjanselose-mot-colombia-_-hadde-null-___-avslutninger-pa-mal-1.17947135",
-      "image": "https://gfx.nrk.no/GKoFwxqqYIpZwl0URAH_fA0KkcU2JaWxRDyoxhRKi9mg.jpg",
+      "title": "Tok et tøft valg før bryllupet: – Ville gjøre mitt fra dag én",
+      "summary": "Ekteparet Sara og Morten Pedersen-Thorsby har store ambisjoner på hver sin front. Dermed måtte de ta et tøft valg.",
+      "url": "https://www.nrk.no/sport/xl/sara-pedersen-thorsby-_28_-valgte-bort-luksuslivet-i-italia_-_-ville-gjore-mitt-fra-dag-en-1.17939699",
+      "image": "https://gfx.nrk.no/HW9WoBjXnSCyzrCwo1BXPAmkXSMiZGjoZtLa7CX3YEJw.jpg",
       "category": "Friidrett"
     },
     {
-      "title": "US Department of Energy awards $75M to recover critical minerals from coal feedstocks",
-      "summary": "Five projects were selected for the Mines &#038; Metals Capacity Expansion Pilot.",
-      "url": "https://www.mining.com/us-department-of-energy-awards-75m-to-recover-critical-minerals-from-coal-feedstocks/",
-      "image": "",
-      "category": "Stål & Industri"
-    },
-    {
-      "title": "Raste over mulig kampflytting: – Et spark i magen",
-      "summary": "Norges kamp mot Brasil stod lenge i fare for å bli flyttet. Nå tyder mye på at den likevel spilles på opprinnelig oppsatt tidspunkt, ifølge NRKs opplysninger.",
-      "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-norges-kamp-mot-brasil-kan-bli-flyttet-1.17946998",
-      "image": "https://gfx.nrk.no/grzFZ0Om0351XpClS0wgqQ2VOi1kViPbRvO449fJ6oXA.jpg",
+      "title": "Den norske trenden er «stjålet» fra Sverige: – Våre fans vet vi var først",
+      "summary": "Tror du roingen er noe unikt for norske fotballsupportere? Tro om igjen.",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-amon-amarths-frontvokalist-johan-hegg-hyller-norsk-roing-1.17946005",
+      "image": "https://gfx.nrk.no/m0Fu24zo8hfWJYNy8Vps0QHqjE_-qEVo47gwcXtCZ6FQ.jpg",
       "category": "Sport"
     },
     {
-      "title": "Kapp Verde rystet Argentina: – Et av de største sjokkene i fotballhistorien",
-      "summary": "Lionel Messi og Argentina måtte ut i ekstraomganger mot miniputten – som slo tilbake to ganger.",
-      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-kapp-verde-rystet-argentina_-1.17947090",
-      "image": "https://gfx.nrk.no/cYnszOIB8Z5hxj_F-NhPhwnSfqAstR1XR-KJbu5P4f-Q.jpg",
+      "title": "Reagerer kraftig på skitne triks: – De kan reise hjem i skam",
+      "summary": "I nesten 40 varmegrader var det ventet en svært het kamp mellom Frankrike og Paraguay, og det ble det – i dobbelt forstand.",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-eksperter-raste-etter-slag-mot-kylian-mbappe_-_-skulle-vaert-utvist-1.17947807",
+      "image": "https://gfx.nrk.no/_iZ5N00WBzwhW4ddETVmkg40fgfVpUawyDHjU8xvAsbQ.jpg",
+      "category": "Sport"
+    },
+    {
+      "title": "Opprørspoliti vokter Englands VM-hotell – sikkerheten økes i byen",
+      "summary": "Mer enn 100 politifolk med skuddsikre vester står utenfor hotellet der Englands spillere bor før VM-åttedelsfinalen mot Mexico. Laget fikk en «fiendtlig» velkomst til byen.\nEngland hadde til det lengste håpet å holde bos",
+      "url": "https://www.nrk.no/sport/opprorspoliti-vokter-englands-vm-hotell-_-sikkerheten-okes-i-byen-1.17947815",
+      "image": "https://gfx.nrk.no/WUAvlZ7Ilc98hICSlar0wACYblYO-Ie1LsKy__ofYfVQ.jpg",
       "category": "Sport"
     }
   ],
   "archive": [
+    {
+      "date": "2026-07-04",
+      "stories": [
+        {
+          "title": "Skal du sove ute i sommar? Sjekk reglane først",
+          "summary": "Allemannsretten gir deg mange moglegheiter, men fleire populære nasjonalparkar har eigne forbodssoner for telting og overnatting.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/her-kan-du-ikkje-telte-i-vestfold-og-telemark-1.17939980",
+          "image": "https://gfx.nrk.no/SypRttoPigumRLyP3ijuIQ4-BYWeDfTZ5RXT3kWONhIw.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Ghana sjanseløse mot Colombia – hadde null (!) avslutninger på mål",
+          "summary": "Colombia var store favoritter mot Ghana, og Jhon Arias scoring tidlig i oppgjøret viste seg for å være nok til å sikre avansement.\nSøramerikanerne hadde svært god kontroll gjennom kampen, men tok ikke vare på mulighetene",
+          "url": "https://www.nrk.no/sport/ghana-sjanselose-mot-colombia-_-hadde-null-___-avslutninger-pa-mal-1.17947135",
+          "image": "https://gfx.nrk.no/GKoFwxqqYIpZwl0URAH_fA0KkcU2JaWxRDyoxhRKi9mg.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "US Department of Energy awards $75M to recover critical minerals from coal feedstocks",
+          "summary": "Five projects were selected for the Mines &#038; Metals Capacity Expansion Pilot.",
+          "url": "https://www.mining.com/us-department-of-energy-awards-75m-to-recover-critical-minerals-from-coal-feedstocks/",
+          "image": "",
+          "category": "Stål & Industri"
+        },
+        {
+          "title": "Raste over mulig kampflytting: – Et spark i magen",
+          "summary": "Norges kamp mot Brasil stod lenge i fare for å bli flyttet. Nå tyder mye på at den likevel spilles på opprinnelig oppsatt tidspunkt, ifølge NRKs opplysninger.",
+          "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-norges-kamp-mot-brasil-kan-bli-flyttet-1.17946998",
+          "image": "https://gfx.nrk.no/grzFZ0Om0351XpClS0wgqQ2VOi1kViPbRvO449fJ6oXA.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Kapp Verde rystet Argentina: – Et av de største sjokkene i fotballhistorien",
+          "summary": "Lionel Messi og Argentina måtte ut i ekstraomganger mot miniputten – som slo tilbake to ganger.",
+          "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-kapp-verde-rystet-argentina_-1.17947090",
+          "image": "https://gfx.nrk.no/cYnszOIB8Z5hxj_F-NhPhwnSfqAstR1XR-KJbu5P4f-Q.jpg",
+          "category": "Sport"
+        }
+      ]
+    },
     {
       "date": "2026-07-03",
       "stories": [
