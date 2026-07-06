@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "today": {
-    "date": "2026-07-05",
-    "symbol": "clearsky_day",
-    "temp_max": 24.3,
-    "temp_min": 14.6,
-    "wind_speed": 3.9,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-07-06",
     "symbol": "clearsky_day",
-    "temp_max": 19.8,
-    "temp_min": 12.4,
+    "temp_max": 18.9,
+    "temp_min": 14.8,
     "wind_speed": 3.6,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-07-07",
+    "symbol": "partlycloudy_day",
+    "temp_max": 20.6,
+    "temp_min": 14.1,
+    "wind_speed": 3.1,
+    "precipitation": 0.0
+  },
   "water": {
-    "ocean": 17.8
+    "ocean": 17.9
   },
   "sun": {
-    "sunrise": "04:16",
-    "sunset": "22:31"
+    "sunrise": "04:17",
+    "sunset": "22:30"
   },
-  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "Lykke er ikke å få det du vil, men å ville det du har.",
+  "remark": "En grei dag i Larvik. God morgen, Thor!",
+  "thought": "Glede deles ikke, den mangedobles.",
   "pollen": [
     {
       "type": "Gress\tModerat",
@@ -39,13 +39,7 @@
       "color": "#aaa"
     },
     {
-      "type": "Gress\tModerat",
-      "level": "Salix\tBeskjeden",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Salix\tBeskjeden",
+      "type": "Gress Og Salix\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -63,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-05"
+  "pollen_updated": "2026-07-06"
 }
