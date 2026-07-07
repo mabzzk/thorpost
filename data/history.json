@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-06",
+  "updated": "2026-07-07",
   "month": 7,
-  "day": 6,
+  "day": 7,
   "events": [
     {
-      "year": 1573,
-      "text": "Córdoba, Argentina, is founded by Jerónimo Luis de Cabrera.",
-      "url": "https://en.wikipedia.org/wiki/C%C3%B3rdoba%2C_Argentina",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cathedral_Main_Square.jpg/330px-Cathedral_Main_Square.jpg",
+      "year": 1863,
+      "text": "The United States begins its first military draft; exemptions cost $300.",
+      "url": "https://en.wikipedia.org/wiki/Conscription",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conscription_map_of_the_world.svg/330px-Conscription_map_of_the_world.svg.png",
       "lang": "en"
     },
     {
-      "year": 1919,
-      "text": "The British dirigible R34 lands in New York, completing the first crossing of the Atlantic Ocean by an airship.",
-      "url": "https://en.wikipedia.org/wiki/R33-class_airship",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/R34.jpg/330px-R34.jpg",
+      "year": 1941,
+      "text": "The US occupation of Iceland replaces the UK's occupation.",
+      "url": "https://en.wikipedia.org/wiki/Allied_occupation_of_Iceland",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Atlantic_Fleet_Ships_steam_out_of_Reykjavik_harbour_in_July_1941.jpg/330px-US_Atlantic_Fleet_Ships_steam_out_of_Reykjavik_harbour_in_July_1941.jpg",
       "lang": "en"
     },
     {
-      "year": 1966,
-      "text": "Malawi becomes a republic, with Hastings Banda as its first President.",
-      "url": "https://en.wikipedia.org/wiki/Republic",
-      "thumbnail": "",
+      "year": 1985,
+      "text": "Boris Becker becomes the youngest male player ever to win Wimbledon at age 17.",
+      "url": "https://en.wikipedia.org/wiki/Boris_Becker",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/330px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
       "lang": "en"
     }
   ]
