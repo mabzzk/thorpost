@@ -1,33 +1,39 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "today": {
-    "date": "2026-07-07",
-    "symbol": "partlycloudy_day",
-    "temp_max": 19.8,
-    "temp_min": 15.1,
-    "wind_speed": 3.8,
+    "date": "2026-07-08",
+    "symbol": "clearsky_day",
+    "temp_max": 24.5,
+    "temp_min": 16.0,
+    "wind_speed": 2.6,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-08",
+    "date": "2026-07-09",
     "symbol": "clearsky_day",
-    "temp_max": 23.6,
-    "temp_min": 14.0,
-    "wind_speed": 3.0,
+    "temp_max": 22.4,
+    "temp_min": 13.9,
+    "wind_speed": 2.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 18.3
+    "ocean": 18.6
   },
   "sun": {
-    "sunrise": "04:19",
-    "sunset": "22:29"
+    "sunrise": "04:20",
+    "sunset": "22:28"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Den som tier, samtykker ikke — den tenker bare grundigere.",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "Latter er den korteste avstand mellom to mennesker. – Victor Borge",
   "pollen": [
     {
-      "type": "Gress Og Salix\tBeskjeden",
+      "type": "Gress\tModerat",
+      "level": "Salix\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Salix\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
@@ -57,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-07"
+  "pollen_updated": "2026-07-08"
 }

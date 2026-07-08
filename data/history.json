@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "month": 7,
-  "day": 7,
+  "day": 8,
   "events": [
     {
-      "year": 1863,
-      "text": "The United States begins its first military draft; exemptions cost $300.",
-      "url": "https://en.wikipedia.org/wiki/Conscription",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conscription_map_of_the_world.svg/330px-Conscription_map_of_the_world.svg.png",
+      "year": 1760,
+      "text": "British forces defeat French forces in the last naval battle in New France.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Restigouche",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Resticgouche-machault-demasted.jpg/330px-Resticgouche-machault-demasted.jpg",
       "lang": "en"
     },
     {
-      "year": 1941,
-      "text": "The US occupation of Iceland replaces the UK's occupation.",
-      "url": "https://en.wikipedia.org/wiki/Allied_occupation_of_Iceland",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/US_Atlantic_Fleet_Ships_steam_out_of_Reykjavik_harbour_in_July_1941.jpg/330px-US_Atlantic_Fleet_Ships_steam_out_of_Reykjavik_harbour_in_July_1941.jpg",
+      "year": 1898,
+      "text": "The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.",
+      "url": "https://en.wikipedia.org/wiki/Soapy_Smith",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Soapy_Smith_1898c.jpg/330px-Soapy_Smith_1898c.jpg",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "Boris Becker becomes the youngest male player ever to win Wimbledon at age 17.",
-      "url": "https://en.wikipedia.org/wiki/Boris_Becker",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Boris_Becker_-_240422_174721_%28cropped%29.jpg/330px-Boris_Becker_-_240422_174721_%28cropped%29.jpg",
+      "year": 1972,
+      "text": "Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.",
+      "url": "https://en.wikipedia.org/wiki/Mossad",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/330px-Mossad_seal.svg.png",
       "lang": "en"
     }
   ]
