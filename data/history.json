@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "month": 7,
-  "day": 8,
+  "day": 9,
   "events": [
     {
-      "year": 1760,
-      "text": "British forces defeat French forces in the last naval battle in New France.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Restigouche",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Resticgouche-machault-demasted.jpg/330px-Resticgouche-machault-demasted.jpg",
+      "year": 1755,
+      "text": "The Braddock Expedition is soundly defeated by a smaller French and Native American force in its attempt to capture Fort Duquesne in what is now downtown Pittsburgh.",
+      "url": "https://en.wikipedia.org/wiki/Braddock_Expedition",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Braddock_1755.jpg/330px-Braddock_1755.jpg",
       "lang": "en"
     },
     {
-      "year": 1898,
-      "text": "The death of crime boss Soapy Smith, killed in the Shootout on Juneau Wharf, releases Skagway, Alaska from his iron grip.",
-      "url": "https://en.wikipedia.org/wiki/Soapy_Smith",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Soapy_Smith_1898c.jpg/330px-Soapy_Smith_1898c.jpg",
+      "year": 1868,
+      "text": "The 14th Amendment to the United States Constitution is ratified, guaranteeing African Americans full citizenship and all persons in the United States due process of law.",
+      "url": "https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png",
       "lang": "en"
     },
     {
-      "year": 1972,
-      "text": "Israeli Mossad assassinate Palestinian writer Ghassan Kanafani.",
-      "url": "https://en.wikipedia.org/wiki/Mossad",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/330px-Mossad_seal.svg.png",
+      "year": 1958,
+      "text": "A 7.8 Mw strike-slip earthquake in Alaska causes a landslide that produces a megatsunami. The runup from the waves reached 525 m (1,722 ft) on the rim of Lituya Bay; five people were killed.",
+      "url": "https://en.wikipedia.org/wiki/1958_Lituya_Bay_earthquake_and_megatsunami",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/1958_Lituya_Bay_earthquake_and_megatsunami.jpg/330px-1958_Lituya_Bay_earthquake_and_megatsunami.jpg",
       "lang": "en"
     }
   ]

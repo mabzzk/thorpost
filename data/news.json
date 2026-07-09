@@ -1,43 +1,83 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "stories": [
     {
-      "title": "Funn av død mann i bil i Horten",
-      "summary": "Bilen har kjørt ned en skrent og inn i et tre. En forbipasserende meldte fra til nødetatene.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-mann-i-bil-i-horten-1.17951285",
-      "image": "https://gfx.nrk.no/b9gXniHXHuDM1eH3pVEHYglvIAaDMu3NaEffHzMTgc-Q.jpg",
+      "title": "Nå får politiet det travelt igjen: – Vi har styrket bemanningen ganske betydelig",
+      "summary": "Politiet sender ut folk fra egen reservebenk når Norge møter England til kvartfinale i VM.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/politiet-styrker-bemanningen-for-neste-vm-kamp-1.17950077",
+      "image": "https://gfx.nrk.no/PtgFdQU7Lg1wlv0heuQJQAKFKMvtTc2XYcXCYvNgBdFw.jpg",
       "category": "Larvik"
     },
     {
-      "title": "Friidrettsforbundet bekrefter: Ingebrigtsen gir seg som Nordås-trener",
-      "summary": "Mandag kveld ble Friidrettsforbundet informert om at Gjert Ingebrigtsen og Narve Gilje Nordås avslutter samarbeidet.",
-      "url": "https://www.nrk.no/sport/friidrettsforbundet-bekrefter_-gjert-ingebrigtsen-gir-seg-som-nordas-trener-1.17950801",
-      "image": "https://gfx.nrk.no/XzVBOy9K3Qp9HqB08-xiKQBl1jpJG4k65mbU8cxHsqdQ.jpg",
+      "title": "Jakob Ingebrigtsen stiller ikke i NM i Trondheim",
+      "summary": "Skade og sykdom hindrer Jakob Ingebrigtsen i å delta på NM i friidrett i Trondheim i juli.\nDet melder Adresseavisen.\nIngebrigtsen ble i starten av 2026 operert for en vond akilles, som han har slitt med over lengre tid.\n",
+      "url": "https://www.nrk.no/trondelag/jakob-ingebrigtsen-stiller-ikke-i-nm-i-trondheim-1.17951674",
+      "image": "https://gfx.nrk.no/BF2CdMqqYaueKkLs39sCggBMprze0yrbkDeU9hyF0pPg.jpg",
       "category": "Friidrett"
     },
     {
-      "title": "Fotballfeber i USA – TV-rekord da USA spilte mot Belgia",
-      "summary": "USAs åttedelsfinale mot Belgia i fotball-VM samlet 30 millioner TV-seere, og det er ny rekord for en fotballkamp i USA.\nDet er TV-kanalen Fox som opplyser om de solide tallene da USA ble slått 4–1. På det meste var 36,8 ",
-      "url": "https://www.nrk.no/sport/fotballfeber-i-usa-_-tv-rekord-da-usa-spilte-mot-belgia-1.17951231",
-      "image": "https://gfx.nrk.no/8nzqZsTHyI4KJdC2927A1AWBNXeYA_KKlGlGkyFDw9Qg.jpg",
+      "title": "Marokko-stjerne mister kvartfinalen",
+      "summary": "Marokko må klare seg uten stjernespiller Ismael Saibari i fredagens VM-kvartfinale mot Frankrike. 25-åringen sliter fortsatt med skaden han pådro seg mot Canada i åttedelsfinalen.\nDet bekreftet landslagssjef Mohamed Ouah",
+      "url": "https://www.nrk.no/sport/marokko-stjerne-mister-kvartfinalen-1.17952574",
+      "image": "https://gfx.nrk.no/ja2IOU-zWVkTDjLs1gDYBQLDfeJzD4YO4_T4XPghoWog.jpg",
       "category": "Sport"
     },
     {
-      "title": "Så mye er Haaland-effekten verdt: – Åpner alle dører",
-      "summary": "Erling Braut Haaland briljerer i VM. Det betyr enorme muligheter for hjemplassen Bryne, mener ekspert.",
-      "url": "https://www.nrk.no/rogaland/fotball-vm-2026_-sa-mye-er-haaland-effekten-verdt-for-bryne-1.17948830",
-      "image": "https://gfx.nrk.no/wTrrGVrLsrl7IaqxyA59XQxaDEpDdz6XBhDEd5YcJ-Ug.jpg",
-      "category": "Sport"
+      "title": "Schiff: ‘Trapped’ Fed sets up $200 silver, $10,000 gold",
+      "summary": "Peter Schiff says US debt, not interest rates, will drive precious metals sharply higher as the Fed loses room to act.",
+      "url": "https://www.mining.com/schiff-trapped-fed-sets-up-200-silver-10000-gold/",
+      "image": "",
+      "category": "Stål & Industri"
     },
     {
-      "title": "Etter hundre år er allting glemt",
-      "summary": "Kombinertsportens olympiske fall skyldes mest av alt ønsket om likestilling.",
-      "url": "https://www.nrk.no/sport/kombinert-ut-av-ol_-etter-hundre-ar-er-allting-glemt-1.17950866",
-      "image": "https://gfx.nrk.no/pjor29GelM9_a1uXOvzdqgFKma_dNPq-WJ1Fephiwqkw.jpg",
+      "title": "Nye tal avslørar Noregs VM-sjansar: – Gapet krympar fort",
+      "summary": "Eitt av åtte lag igjen i VM. No er tala for kvartfinalen klare. Kor store underdogs er eigentleg Noreg?",
+      "url": "https://www.nrk.no/fotballvm2026/fotball-vm-2026_-nye-tal-avslorar-noregs-vm-sjansar-mot-england-og-til-a-vinne-meisterskapet-1.17950609",
+      "image": "https://gfx.nrk.no/kxBUC5wLvWokzf9nEF4NPQMm0vadgBfTZpMz4RQ7zt0A.jpg",
       "category": "Sport"
     }
   ],
   "archive": [
+    {
+      "date": "2026-07-08",
+      "stories": [
+        {
+          "title": "Funn av død mann i bil i Horten",
+          "summary": "Bilen har kjørt ned en skrent og inn i et tre. En forbipasserende meldte fra til nødetatene.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/funn-av-dod-mann-i-bil-i-horten-1.17951285",
+          "image": "https://gfx.nrk.no/b9gXniHXHuDM1eH3pVEHYglvIAaDMu3NaEffHzMTgc-Q.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Friidrettsforbundet bekrefter: Ingebrigtsen gir seg som Nordås-trener",
+          "summary": "Mandag kveld ble Friidrettsforbundet informert om at Gjert Ingebrigtsen og Narve Gilje Nordås avslutter samarbeidet.",
+          "url": "https://www.nrk.no/sport/friidrettsforbundet-bekrefter_-gjert-ingebrigtsen-gir-seg-som-nordas-trener-1.17950801",
+          "image": "https://gfx.nrk.no/XzVBOy9K3Qp9HqB08-xiKQBl1jpJG4k65mbU8cxHsqdQ.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "Fotballfeber i USA – TV-rekord da USA spilte mot Belgia",
+          "summary": "USAs åttedelsfinale mot Belgia i fotball-VM samlet 30 millioner TV-seere, og det er ny rekord for en fotballkamp i USA.\nDet er TV-kanalen Fox som opplyser om de solide tallene da USA ble slått 4–1. På det meste var 36,8 ",
+          "url": "https://www.nrk.no/sport/fotballfeber-i-usa-_-tv-rekord-da-usa-spilte-mot-belgia-1.17951231",
+          "image": "https://gfx.nrk.no/8nzqZsTHyI4KJdC2927A1AWBNXeYA_KKlGlGkyFDw9Qg.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Så mye er Haaland-effekten verdt: – Åpner alle dører",
+          "summary": "Erling Braut Haaland briljerer i VM. Det betyr enorme muligheter for hjemplassen Bryne, mener ekspert.",
+          "url": "https://www.nrk.no/rogaland/fotball-vm-2026_-sa-mye-er-haaland-effekten-verdt-for-bryne-1.17948830",
+          "image": "https://gfx.nrk.no/wTrrGVrLsrl7IaqxyA59XQxaDEpDdz6XBhDEd5YcJ-Ug.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Etter hundre år er allting glemt",
+          "summary": "Kombinertsportens olympiske fall skyldes mest av alt ønsket om likestilling.",
+          "url": "https://www.nrk.no/sport/kombinert-ut-av-ol_-etter-hundre-ar-er-allting-glemt-1.17950866",
+          "image": "https://gfx.nrk.no/pjor29GelM9_a1uXOvzdqgFKma_dNPq-WJ1Fephiwqkw.jpg",
+          "category": "Sport"
+        }
+      ]
+    },
     {
       "date": "2026-07-07",
       "stories": [
