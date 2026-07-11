@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "today": {
-    "date": "2026-07-10",
-    "symbol": "clearsky_day",
-    "temp_max": 28.5,
-    "temp_min": 20.4,
-    "wind_speed": 2.4,
+    "date": "2026-07-11",
+    "symbol": "partlycloudy_day",
+    "temp_max": 26.4,
+    "temp_min": 19.1,
+    "wind_speed": 2.8,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-11",
+    "date": "2026-07-12",
     "symbol": "clearsky_day",
-    "temp_max": 25.9,
-    "temp_min": 17.6,
-    "wind_speed": 2.1,
+    "temp_max": 27.2,
+    "temp_min": 17.4,
+    "wind_speed": 4.1,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 18.4
+    "ocean": 18.6
   },
   "sun": {
-    "sunrise": "04:23",
-    "sunset": "22:26"
+    "sunrise": "04:25",
+    "sunset": "22:24"
   },
-  "remark": "Skikkelig varmt i dag, Thor! Husk solkrem, sitteputen og masse vann.",
-  "thought": "Et smil koster ingenting, men er verdt mye.",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Den største reisen begynner med et enkelt skritt. – Lao Tzu",
   "pollen": [
     {
       "type": "Gress\tModerat",
@@ -63,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-10"
+  "pollen_updated": "2026-07-11"
 }

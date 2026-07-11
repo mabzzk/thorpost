@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "month": 7,
-  "day": 10,
+  "day": 11,
   "events": [
     {
-      "year": 1806,
-      "text": "The Vellore Mutiny is the first instance of a mutiny by Indian sepoys against the British East India Company.",
-      "url": "https://en.wikipedia.org/wiki/Vellore_Mutiny",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/%E0%A7%A7%E0%A7%AE%E0%A7%A6%E0%A7%AC_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A7%8D%E0%A6%AD.jpg/330px-%E0%A7%A7%E0%A7%AE%E0%A7%A6%E0%A7%AC_%E0%A6%B8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A7%8B%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%B9%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AE%E0%A7%8D%E0%A6%AD.jpg",
+      "year": 1801,
+      "text": "French astronomer Jean-Louis Pons makes his first comet discovery. In the next 27 years he discovers another 36 comets, more than any other person in history.",
+      "url": "https://en.wikipedia.org/wiki/Jean-Louis_Pons",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pons_1.jpg/330px-Pons_1.jpg",
       "lang": "en"
     },
     {
-      "year": 1947,
-      "text": "Muhammad Ali Jinnah is recommended as the first Governor-General of Pakistan by the British Prime Minister, Clement Attlee.",
-      "url": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jinnah1945c.jpg/330px-Jinnah1945c.jpg",
+      "year": 1921,
+      "text": "The Red Army captures Mongolia from the White Army and establishes the Mongolian People's Republic.",
+      "url": "https://en.wikipedia.org/wiki/Red_Army",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Soviet_Red_Army_Hammer_and_Sickle.svg/330px-Soviet_Red_Army_Hammer_and_Sickle.svg.png",
       "lang": "en"
     },
     {
-      "year": 1997,
-      "text": "In London, scientists report the findings of the DNA analysis of a Neanderthal skeleton which supports the \"out of Africa theory\" of human evolution, placing an \"African Eve\" at 100,000 to 200,000 years ago.",
-      "url": "https://en.wikipedia.org/wiki/DNA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Chromosome_DNA_Gene_unannotated.svg/330px-Chromosome_DNA_Gene_unannotated.svg.png",
+      "year": 1971,
+      "text": "The nationalization of all large copper mines in Chile is completed.",
+      "url": "https://en.wikipedia.org/wiki/Chilean_nationalization_of_copper",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peso_Chileno_1933.jpg/330px-Peso_Chileno_1933.jpg",
       "lang": "en"
     }
   ]
