@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "month": 7,
-  "day": 11,
+  "day": 12,
   "events": [
     {
-      "year": 1801,
-      "text": "French astronomer Jean-Louis Pons makes his first comet discovery. In the next 27 years he discovers another 36 comets, more than any other person in history.",
-      "url": "https://en.wikipedia.org/wiki/Jean-Louis_Pons",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Pons_1.jpg/330px-Pons_1.jpg",
+      "year": 1562,
+      "text": "Fray Diego de Landa, acting Bishop of Yucatán, burns the sacred idols and books of the Maya.",
+      "url": "https://en.wikipedia.org/wiki/Diego_de_Landa",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Diego_de_Landa.jpg/330px-Diego_de_Landa.jpg",
       "lang": "en"
     },
     {
-      "year": 1921,
-      "text": "The Red Army captures Mongolia from the White Army and establishes the Mongolian People's Republic.",
-      "url": "https://en.wikipedia.org/wiki/Red_Army",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Soviet_Red_Army_Hammer_and_Sickle.svg/330px-Soviet_Red_Army_Hammer_and_Sickle.svg.png",
+      "year": 1913,
+      "text": "Serbian forces begin their siege of the Bulgarian city of Vidin; the siege is later called off when the war ends.",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Serbia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Serbia_%281882%E2%80%931918%29.svg/330px-Flag_of_Serbia_%281882%E2%80%931918%29.svg.png",
       "lang": "en"
     },
     {
-      "year": 1971,
-      "text": "The nationalization of all large copper mines in Chile is completed.",
-      "url": "https://en.wikipedia.org/wiki/Chilean_nationalization_of_copper",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Peso_Chileno_1933.jpg/330px-Peso_Chileno_1933.jpg",
+      "year": 1973,
+      "text": "A fire destroys the entire sixth floor of the National Personnel Records Center of the United States.",
+      "url": "https://en.wikipedia.org/wiki/National_Personnel_Records_Center_fire",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/78/NARAfire.jpg",
       "lang": "en"
     }
   ]
