@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "month": 7,
-  "day": 12,
+  "day": 13,
   "events": [
     {
-      "year": 1562,
-      "text": "Fray Diego de Landa, acting Bishop of Yucatán, burns the sacred idols and books of the Maya.",
-      "url": "https://en.wikipedia.org/wiki/Diego_de_Landa",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Diego_de_Landa.jpg/330px-Diego_de_Landa.jpg",
+      "year": 1798,
+      "text": "The French Armée d'Orient under Napoleon Bonaparte defeats a Mamluk army under Murad Bey in battle of Shubra Khit.",
+      "url": "https://en.wikipedia.org/wiki/Arm%C3%A9e_d'Orient_(1798)_order_of_battle",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bonaparte_en_Egypte.jpg/330px-Bonaparte_en_Egypte.jpg",
       "lang": "en"
     },
     {
-      "year": 1913,
-      "text": "Serbian forces begin their siege of the Bulgarian city of Vidin; the siege is later called off when the war ends.",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Serbia",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Serbia_%281882%E2%80%931918%29.svg/330px-Flag_of_Serbia_%281882%E2%80%931918%29.svg.png",
+      "year": 1930,
+      "text": "The inaugural FIFA World Cup begins in Uruguay.",
+      "url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uruguay_1930_World_Cup.jpg/330px-Uruguay_1930_World_Cup.jpg",
       "lang": "en"
     },
     {
-      "year": 1973,
-      "text": "A fire destroys the entire sixth floor of the National Personnel Records Center of the United States.",
-      "url": "https://en.wikipedia.org/wiki/National_Personnel_Records_Center_fire",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/78/NARAfire.jpg",
+      "year": 1995,
+      "text": "Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg",
       "lang": "en"
     }
   ]
