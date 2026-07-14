@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "month": 7,
-  "day": 13,
+  "day": 14,
   "events": [
     {
-      "year": 1798,
-      "text": "The French Armée d'Orient under Napoleon Bonaparte defeats a Mamluk army under Murad Bey in battle of Shubra Khit.",
-      "url": "https://en.wikipedia.org/wiki/Arm%C3%A9e_d'Orient_(1798)_order_of_battle",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bonaparte_en_Egypte.jpg/330px-Bonaparte_en_Egypte.jpg",
+      "year": 1791,
+      "text": "Beginning of Priestley Riots (to 17 July) in Birmingham targeting Joseph Priestley as a supporter of the French Revolution.",
+      "url": "https://en.wikipedia.org/wiki/Priestley_Riots",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Priestley_Riots_painting.jpg/330px-Priestley_Riots_painting.jpg",
       "lang": "en"
     },
     {
-      "year": 1930,
-      "text": "The inaugural FIFA World Cup begins in Uruguay.",
-      "url": "https://en.wikipedia.org/wiki/1930_FIFA_World_Cup",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Uruguay_1930_World_Cup.jpg/330px-Uruguay_1930_World_Cup.jpg",
+      "year": 1915,
+      "text": "Beginning of the McMahon–Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.",
+      "url": "https://en.wikipedia.org/wiki/McMahon%E2%80%93Hussein_correspondence",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1995,
-      "text": "Space Shuttle Discovery is launched on STS-70 to deploy the TDRS-7 satellite.",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg",
+      "year": 1960,
+      "text": "Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her study of chimpanzees in the wild.",
+      "url": "https://en.wikipedia.org/wiki/Jane_Goodall",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/330px-thumbnail.jpg",
       "lang": "en"
     }
   ]
