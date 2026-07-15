@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "month": 7,
-  "day": 14,
+  "day": 15,
   "events": [
     {
-      "year": 1791,
-      "text": "Beginning of Priestley Riots (to 17 July) in Birmingham targeting Joseph Priestley as a supporter of the French Revolution.",
-      "url": "https://en.wikipedia.org/wiki/Priestley_Riots",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Priestley_Riots_painting.jpg/330px-Priestley_Riots_painting.jpg",
+      "year": 1799,
+      "text": "The Rosetta Stone is found in the Egyptian village of Rosetta by French Captain Pierre-François Bouchard during Napoleon's Egyptian Campaign.",
+      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/330px-Rosetta_Stone.JPG",
       "lang": "en"
     },
     {
-      "year": 1915,
-      "text": "Beginning of the McMahon–Hussein Correspondence between Hussein bin Ali, Sharif of Mecca and the British official Henry McMahon concerning the Arab Revolt against the Ottoman Empire.",
-      "url": "https://en.wikipedia.org/wiki/McMahon%E2%80%93Hussein_correspondence",
+      "year": 1918,
+      "text": "World War I: The Second Battle of the Marne begins near the River Marne with a German attack.",
+      "url": "https://en.wikipedia.org/wiki/World_War_I",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
+      "lang": "en"
+    },
+    {
+      "year": 1983,
+      "text": "An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.",
+      "url": "https://en.wikipedia.org/wiki/1983_Orly_Airport_attack",
       "thumbnail": "",
-      "lang": "en"
-    },
-    {
-      "year": 1960,
-      "text": "Jane Goodall arrives at the Gombe Stream Reserve in present-day Tanzania to begin her study of chimpanzees in the wild.",
-      "url": "https://en.wikipedia.org/wiki/Jane_Goodall",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/330px-thumbnail.jpg",
       "lang": "en"
     }
   ]
