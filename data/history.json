@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "month": 7,
-  "day": 15,
+  "day": 16,
   "events": [
     {
-      "year": 1799,
-      "text": "The Rosetta Stone is found in the Egyptian village of Rosetta by French Captain Pierre-François Bouchard during Napoleon's Egyptian Campaign.",
-      "url": "https://en.wikipedia.org/wiki/Rosetta_Stone",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/330px-Rosetta_Stone.JPG",
+      "year": 1809,
+      "text": "The city of La Paz, in what is today Bolivia, declares its independence from the Spanish Crown during the La Paz revolution and forms the Junta Tuitiva, the first independent government in Spanish America, led by Pedro Domingo Murillo.",
+      "url": "https://en.wikipedia.org/wiki/La_Paz",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Vista_del_centro_de_La_Paz.jpg/330px-Vista_del_centro_de_La_Paz.jpg",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "World War I: The Second Battle of the Marne begins near the River Marne with a German attack.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg",
+      "year": 1941,
+      "text": "Joe DiMaggio hits safely for the 56th consecutive game, a streak that still stands as an MLB record.",
+      "url": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Joe_DiMaggio.jpg/330px-Joe_DiMaggio.jpg",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "An attack at Orly Airport in Paris is launched by Armenian militant organisation ASALA, leaving eight people dead and 55 injured.",
-      "url": "https://en.wikipedia.org/wiki/1983_Orly_Airport_attack",
-      "thumbnail": "",
+      "year": 1969,
+      "text": "The Apollo 11 lunar landing mission is launched from Cape Kennedy in Florida, USA.",
+      "url": "https://en.wikipedia.org/wiki/Apollo_11",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/330px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg",
       "lang": "en"
     }
   ]

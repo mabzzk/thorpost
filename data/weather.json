@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-15",
+  "updated": "2026-07-16",
   "today": {
-    "date": "2026-07-15",
-    "symbol": "partlycloudy_day",
-    "temp_max": 29.7,
-    "temp_min": 19.5,
-    "wind_speed": 2.2,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-07-16",
     "symbol": "partlycloudy_day",
-    "temp_max": 29.1,
-    "temp_min": 19.1,
+    "temp_max": 30.2,
+    "temp_min": 20.7,
     "wind_speed": 1.9,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-07-17",
+    "symbol": "clearsky_day",
+    "temp_max": 26.8,
+    "temp_min": 19.6,
+    "wind_speed": 2.4,
+    "precipitation": 0.0
+  },
   "water": {
-    "ocean": 19.5
+    "ocean": 19.7
   },
   "sun": {
-    "sunrise": "04:31",
-    "sunset": "22:18"
+    "sunrise": "04:33",
+    "sunset": "22:17"
   },
   "remark": "Skikkelig varmt i dag, Thor! Husk solkrem, sitteputen og masse vann.",
-  "thought": "Glede deles ikke, den mangedobles.",
+  "thought": "En dag uten latter er en dag bortkastet. – Charlie Chaplin",
   "pollen": [
     {
       "type": "Gress\tModerat",
@@ -63,5 +63,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-15"
+  "pollen_updated": "2026-07-16"
 }
