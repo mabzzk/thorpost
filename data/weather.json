@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-16",
+  "updated": "2026-07-17",
   "today": {
-    "date": "2026-07-16",
-    "symbol": "partlycloudy_day",
-    "temp_max": 30.2,
-    "temp_min": 20.7,
-    "wind_speed": 1.9,
+    "date": "2026-07-17",
+    "symbol": "clearsky_day",
+    "temp_max": 26.0,
+    "temp_min": 20.2,
+    "wind_speed": 2.8,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-17",
-    "symbol": "clearsky_day",
-    "temp_max": 26.8,
-    "temp_min": 19.6,
-    "wind_speed": 2.4,
-    "precipitation": 0.0
+    "date": "2026-07-18",
+    "symbol": "lightrain",
+    "temp_max": 19.8,
+    "temp_min": 13.7,
+    "wind_speed": 5.9,
+    "precipitation": 7.1
   },
   "water": {
-    "ocean": 19.7
+    "ocean": 19.9
   },
   "sun": {
-    "sunrise": "04:33",
-    "sunset": "22:17"
+    "sunrise": "04:35",
+    "sunset": "22:15"
   },
-  "remark": "Skikkelig varmt i dag, Thor! Husk solkrem, sitteputen og masse vann.",
-  "thought": "En dag uten latter er en dag bortkastet. – Charlie Chaplin",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "Alt som er verdt å gjøre, er verdt å gjøre med hjertet.",
   "pollen": [
     {
       "type": "Gress\tModerat",
@@ -35,18 +35,6 @@
     {
       "type": "Burot\tBeskjeden",
       "level": "I Morgen",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Gress\tModerat",
-      "level": "Burot\tBeskjeden",
-      "num": 0,
-      "color": "#aaa"
-    },
-    {
-      "type": "Burot\tBeskjeden",
-      "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
     },
@@ -63,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-16"
+  "pollen_updated": "2026-07-17"
 }
