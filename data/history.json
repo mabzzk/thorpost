@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "month": 7,
-  "day": 17,
+  "day": 18,
   "events": [
     {
-      "year": 1771,
-      "text": "Bloody Falls massacre: Chipewyan chief Matonabbee, traveling as the guide to Samuel Hearne on his Arctic overland journey, massacres a group of unsuspecting Inuit.",
-      "url": "https://en.wikipedia.org/wiki/Bloody_Falls_massacre",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Transparentadicon.png/330px-Transparentadicon.png",
+      "year": 1723,
+      "text": "Johann Sebastian Bach leads the first performance of his cantata Erforsche mich, Gott, und erfahre mein Herz, BWV 136, in Leipzig on the eighth Sunday after Trinity.",
+      "url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/330px-Johann_Sebastian_Bach.jpg",
       "lang": "en"
     },
     {
-      "year": 1938,
-      "text": "Douglas Corrigan takes off from Brooklyn to fly the \"wrong way\" to Ireland and becomes known as \"Wrong Way\" Corrigan.",
-      "url": "https://en.wikipedia.org/wiki/Douglas_Corrigan",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Doug_Corrigan_at_airport_LCCN2016873893_Crop.jpg/330px-Doug_Corrigan_at_airport_LCCN2016873893_Crop.jpg",
+      "year": 1942,
+      "text": "World War II: During the Beisfjord massacre in Norway, 15 Norwegian paramilitary guards help members of the SS to kill 288 political prisoners from Yugoslavia.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1994,
-      "text": "Brazil win their fourth World Cup title, defeating Italy 3–2 on penalties.",
-      "url": "https://en.wikipedia.org/wiki/Brazil_national_football_team",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg/330px-Confedera%C3%A7%C3%A3o_Brasileira_de_Futebol_logo_%282020%29.svg.png",
+      "year": 1984,
+      "text": "McDonald's massacre in San Ysidro, California: James Oliver Huberty kills 21 people and injures 19 others before being shot dead by police.",
+      "url": "https://en.wikipedia.org/wiki/San_Ysidro_McDonald's_massacre",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
