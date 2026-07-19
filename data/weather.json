@@ -1,33 +1,45 @@
 {
-  "updated": "2026-07-18",
+  "updated": "2026-07-19",
   "today": {
-    "date": "2026-07-18",
-    "symbol": "heavyrain",
-    "temp_max": 16.2,
-    "temp_min": 12.0,
-    "wind_speed": 7.9,
-    "precipitation": 21.4
-  },
-  "tomorrow": {
     "date": "2026-07-19",
     "symbol": "cloudy",
-    "temp_max": 18.8,
-    "temp_min": 10.6,
-    "wind_speed": 4.7,
-    "precipitation": 5.2
+    "temp_max": 16.1,
+    "temp_min": 9.8,
+    "wind_speed": 4.2,
+    "precipitation": 1.0
+  },
+  "tomorrow": {
+    "date": "2026-07-20",
+    "symbol": "clearsky_day",
+    "temp_max": 23.6,
+    "temp_min": 10.0,
+    "wind_speed": 2.7,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 19.6
+    "ocean": 18.7
   },
   "sun": {
-    "sunrise": "04:37",
-    "sunset": "22:13"
+    "sunrise": "04:39",
+    "sunset": "22:11"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
   "thought": "Gode minner er den beste arven vi kan gi videre.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
+      "level": "I Morgen",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Gress\tModerat",
+      "level": "Burot\tBeskjeden",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Burot\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -45,5 +57,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-18"
+  "pollen_updated": "2026-07-19"
 }
