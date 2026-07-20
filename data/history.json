@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-19",
+  "updated": "2026-07-20",
   "month": 7,
-  "day": 19,
+  "day": 20,
   "events": [
     {
-      "year": 1821,
-      "text": "Coronation of George IV of the United Kingdom.",
-      "url": "https://en.wikipedia.org/wiki/George_IV",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/King_George_IV_of_the_United_Kingdom_in_Coronation_Robes_%28by_Thomas_Lawrence%29_-_Royal_Collection_%28RCIN_405918%29.jpg/330px-King_George_IV_of_the_United_Kingdom_in_Coronation_Robes_%28by_Thomas_Lawrence%29_-_Royal_Collection_%28RCIN_405918%29.jpg",
+      "year": 1866,
+      "text": "Austro-Prussian War: Battle of Lissa: The Austrian Navy, led by Admiral Wilhelm von Tegetthoff, defeats the Italian Navy near the island of Vis in the Adriatic Sea.",
+      "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg/330px-Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "World War II: Army order 112 forms the Intelligence Corps of the British Army.",
-      "url": "https://en.wikipedia.org/wiki/Intelligence_Corps_(United_Kingdom)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/08/Intelligence_Corps_UK_Badge.png",
+      "year": 1944,
+      "text": "World War II: Adolf Hitler survives an assassination attempt led by German Army Colonel Claus von Stauffenberg.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1979,
-      "text": "The Sandinista rebels overthrow the government of the Somoza family in Nicaragua.",
-      "url": "https://en.wikipedia.org/wiki/Sandinista_National_Liberation_Front",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/FSLN_%28Nicaragua%29_logo.png",
+      "year": 1981,
+      "text": "Somali Airlines Flight 40 crashes in Balad, Somalia, killing 50 people.",
+      "url": "https://en.wikipedia.org/wiki/Somali_Airlines_Flight_40",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg/330px-Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg",
       "lang": "en"
     }
   ]
