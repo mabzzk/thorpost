@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "month": 7,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1866,
-      "text": "Austro-Prussian War: Battle of Lissa: The Austrian Navy, led by Admiral Wilhelm von Tegetthoff, defeats the Italian Navy near the island of Vis in the Adriatic Sea.",
-      "url": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg/330px-Schlacht-bei-koeniggraetz-von-georg-bleibtreu.jpg",
+      "year": 1831,
+      "text": "Inauguration of Leopold I of Belgium, first king of the Belgians.",
+      "url": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NICAISE_Leopold_ANV.jpg/330px-NICAISE_Leopold_ANV.jpg",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: Adolf Hitler survives an assassination attempt led by German Army Colonel Claus von Stauffenberg.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "year": 1949,
+      "text": "The United States Senate ratifies the North Atlantic Treaty.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png",
       "lang": "en"
     },
     {
-      "year": 1981,
-      "text": "Somali Airlines Flight 40 crashes in Balad, Somalia, killing 50 people.",
-      "url": "https://en.wikipedia.org/wiki/Somali_Airlines_Flight_40",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg/330px-Somali_Airlines_Fokker_F27-600_Friendship_Groves.jpg",
+      "year": 1977,
+      "text": "The start of the four-day-long Libyan–Egyptian War.",
+      "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Libyan_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Libya_and_Egypt_%281977%29.svg/330px-Map_of_Libya_and_Egypt_%281977%29.svg.png",
       "lang": "en"
     }
   ]

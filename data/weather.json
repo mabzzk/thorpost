@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-20",
+  "updated": "2026-07-21",
   "today": {
-    "date": "2026-07-20",
-    "symbol": "fair_day",
-    "temp_max": 24.0,
-    "temp_min": 15.6,
-    "wind_speed": 2.8,
+    "date": "2026-07-21",
+    "symbol": "clearsky_day",
+    "temp_max": 23.1,
+    "temp_min": 15.5,
+    "wind_speed": 4.3,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-21",
-    "symbol": "partlycloudy_day",
-    "temp_max": 23.5,
-    "temp_min": 13.5,
-    "wind_speed": 3.1,
+    "date": "2026-07-22",
+    "symbol": "fair_day",
+    "temp_max": 24.6,
+    "temp_min": 16.0,
+    "wind_speed": 4.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 19.0
+    "ocean": 18.1
   },
   "sun": {
-    "sunrise": "04:41",
-    "sunset": "22:09"
+    "sunrise": "04:43",
+    "sunset": "22:08"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Alt som er verdt å gjøre, er verdt å gjøre med hjertet.",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "En klok mann snakker fordi han har noe å si; en tosk fordi han må si noe. – Platon",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-20"
+  "pollen_updated": "2026-07-21"
 }
