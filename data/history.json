@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "month": 7,
-  "day": 21,
+  "day": 22,
   "events": [
     {
-      "year": 1831,
-      "text": "Inauguration of Leopold I of Belgium, first king of the Belgians.",
-      "url": "https://en.wikipedia.org/wiki/Leopold_I_of_Belgium",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NICAISE_Leopold_ANV.jpg/330px-NICAISE_Leopold_ANV.jpg",
+      "year": 1686,
+      "text": "Albany, New York is formally chartered as a municipality by Governor Thomas Dongan.",
+      "url": "https://en.wikipedia.org/wiki/Albany%2C_New_York",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Albany%2C_New_York.jpg/330px-Albany%2C_New_York.jpg",
       "lang": "en"
     },
     {
-      "year": 1949,
-      "text": "The United States Senate ratifies the North Atlantic Treaty.",
-      "url": "https://en.wikipedia.org/wiki/United_States_Senate",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png",
+      "year": 1921,
+      "text": "Rif War: The Spanish Army suffers its worst military defeat in modern times to the Berbers of the Rif region of Spanish Morocco.",
+      "url": "https://en.wikipedia.org/wiki/Rif_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Infobox_collage_for_Rif_War.jpg/330px-Infobox_collage_for_Rif_War.jpg",
       "lang": "en"
     },
     {
-      "year": 1977,
-      "text": "The start of the four-day-long Libyan–Egyptian War.",
-      "url": "https://en.wikipedia.org/wiki/Egyptian%E2%80%93Libyan_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Libya_and_Egypt_%281977%29.svg/330px-Map_of_Libya_and_Egypt_%281977%29.svg.png",
+      "year": 1976,
+      "text": "Japan completes its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.",
+      "url": "https://en.wikipedia.org/wiki/Philippines",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png",
       "lang": "en"
     }
   ]
