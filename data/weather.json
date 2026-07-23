@@ -1,30 +1,55 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "today": {
-    "date": "2026-07-22",
+    "date": "2026-07-23",
     "symbol": "clearsky_day",
-    "temp_max": 24.6,
-    "temp_min": 16.3,
-    "wind_speed": 3.9,
+    "temp_max": 21.4,
+    "temp_min": 15.3,
+    "wind_speed": 3.2,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-07-23",
-    "symbol": "clearsky_day",
-    "temp_max": 21.5,
-    "temp_min": 13.2,
+    "date": "2026-07-24",
+    "symbol": "partlycloudy_day",
+    "temp_max": 25.2,
+    "temp_min": 14.0,
     "wind_speed": 3.3,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 18.4
+    "ocean": 18.2
   },
   "sun": {
-    "sunrise": "04:45",
-    "sunset": "22:06"
+    "sunrise": "04:47",
+    "sunset": "22:04"
   },
-  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "Det finnes ikke dårlig vær — bare dårlige klær.",
-  "pollen": [],
-  "pollen_updated": "2026-07-22"
+  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
+  "thought": "Den som gir av seg selv, blir aldri fattig.",
+  "pollen": [
+    {
+      "type": "Burot Og Gress\tBeskjeden",
+      "level": "I Morgen",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Burot Og Gress\tBeskjeden",
+      "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Lite Eller Ingen Risiko For Helseeffekter.",
+      "level": "Graf Som Viser Luftkvalitet For Ulfsbakk",
+      "num": 0,
+      "color": "#aaa"
+    },
+    {
+      "type": "Graf Som Viser Luftkvalitet For Ulfsbakk",
+      "level": "Lite",
+      "num": 0,
+      "color": "#aaa"
+    }
+  ],
+  "pollen_updated": "2026-07-23"
 }

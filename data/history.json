@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-22",
+  "updated": "2026-07-23",
   "month": 7,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1686,
-      "text": "Albany, New York is formally chartered as a municipality by Governor Thomas Dongan.",
-      "url": "https://en.wikipedia.org/wiki/Albany%2C_New_York",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Albany%2C_New_York.jpg/330px-Albany%2C_New_York.jpg",
+      "year": 1900,
+      "text": "Pressed by expanding immigration, Canada closes its doors to paupers and criminals.",
+      "url": "https://en.wikipedia.org/wiki/Canada",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png",
       "lang": "en"
     },
     {
-      "year": 1921,
-      "text": "Rif War: The Spanish Army suffers its worst military defeat in modern times to the Berbers of the Rif region of Spanish Morocco.",
-      "url": "https://en.wikipedia.org/wiki/Rif_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Infobox_collage_for_Rif_War.jpg/330px-Infobox_collage_for_Rif_War.jpg",
+      "year": 1952,
+      "text": "General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.",
+      "url": "https://en.wikipedia.org/wiki/Mohamed_Naguib",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muhammad_Naguib.jpg/330px-Muhammad_Naguib.jpg",
       "lang": "en"
     },
     {
-      "year": 1976,
-      "text": "Japan completes its last reparation to the Philippines for war crimes committed during imperial Japan's conquest of the country in the Second World War.",
-      "url": "https://en.wikipedia.org/wiki/Philippines",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/330px-Flag_of_the_Philippines.svg.png",
+      "year": 1988,
+      "text": "General Ne Win, effective ruler of Burma since 1962, resigns after pro-democracy protests.",
+      "url": "https://en.wikipedia.org/wiki/Ne_Win",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ne_Win_in_1959%2C_Jerusalem.jpg/330px-Ne_Win_in_1959%2C_Jerusalem.jpg",
       "lang": "en"
     }
   ]
