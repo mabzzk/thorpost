@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-23",
+  "updated": "2026-07-24",
   "month": 7,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1900,
-      "text": "Pressed by expanding immigration, Canada closes its doors to paupers and criminals.",
-      "url": "https://en.wikipedia.org/wiki/Canada",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/330px-Flag_of_Canada_%28Pantone%29.svg.png",
+      "year": 1864,
+      "text": "American Civil War: Battle of Kernstown: Confederate General Jubal Early defeats Union troops led by General George Crook in an effort to keep them out of the Shenandoah Valley.",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
       "lang": "en"
     },
     {
-      "year": 1952,
-      "text": "General Muhammad Naguib leads the Free Officers Movement (formed by Gamal Abdel Nasser, the real power behind the coup) in overthrowing King Farouk of Egypt.",
-      "url": "https://en.wikipedia.org/wiki/Mohamed_Naguib",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Muhammad_Naguib.jpg/330px-Muhammad_Naguib.jpg",
+      "year": 1943,
+      "text": "World War II: Operation Gomorrah begins: British and Canadian aeroplanes bomb Hamburg by night, and American planes bomb the city by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1988,
-      "text": "General Ne Win, effective ruler of Burma since 1962, resigns after pro-democracy protests.",
-      "url": "https://en.wikipedia.org/wiki/Ne_Win",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Ne_Win_in_1959%2C_Jerusalem.jpg/330px-Ne_Win_in_1959%2C_Jerusalem.jpg",
+      "year": 1983,
+      "text": "George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the \"Pine Tar Incident\".",
+      "url": "https://en.wikipedia.org/wiki/George_Brett",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/George_Brett_by_Gage_Skidmore_2.jpg/330px-George_Brett_by_Gage_Skidmore_2.jpg",
       "lang": "en"
     }
   ]
