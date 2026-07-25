@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "month": 7,
-  "day": 24,
+  "day": 25,
   "events": [
     {
-      "year": 1864,
-      "text": "American Civil War: Battle of Kernstown: Confederate General Jubal Early defeats Union troops led by General George Crook in an effort to keep them out of the Shenandoah Valley.",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+      "year": 1609,
+      "text": "The English ship Sea Venture, en route to Virginia, is deliberately driven ashore during a storm at Bermuda to prevent its sinking; the survivors go on to found a new colony there.",
+      "url": "https://en.wikipedia.org/wiki/Sea_Venture",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stamp_Bermuda_1910_3p.jpg/330px-Stamp_Bermuda_1910_3p.jpg",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: Operation Gomorrah begins: British and Canadian aeroplanes bomb Hamburg by night, and American planes bomb the city by day. By the end of the operation in November, 9,000 tons of explosives will have killed more than 30,000 people and destroyed 280,000 buildings.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
+      "year": 1894,
+      "text": "The First Sino-Japanese War begins when the Japanese fire upon a Chinese warship.",
+      "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%E6%97%85%E9%A1%BA%E6%B5%B7%E5%86%9B%E5%85%AC%E6%89%80.jpg/330px-%E6%97%85%E9%A1%BA%E6%B5%B7%E5%86%9B%E5%85%AC%E6%89%80.jpg",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "George Brett playing for the Kansas City Royals against the New York Yankees, has a game-winning home run nullified in the \"Pine Tar Incident\".",
-      "url": "https://en.wikipedia.org/wiki/George_Brett",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/George_Brett_by_Gage_Skidmore_2.jpg/330px-George_Brett_by_Gage_Skidmore_2.jpg",
+      "year": 1965,
+      "text": "Bob Dylan goes electric at the Newport Folk Festival, signaling a major change in folk and rock music.",
+      "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
       "lang": "en"
     }
   ]

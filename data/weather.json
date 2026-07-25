@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-24",
+  "updated": "2026-07-25",
   "today": {
-    "date": "2026-07-24",
-    "symbol": "partlycloudy_day",
-    "temp_max": 24.9,
-    "temp_min": 16.1,
-    "wind_speed": 3.5,
-    "precipitation": 0.0
+    "date": "2026-07-25",
+    "symbol": "cloudy",
+    "temp_max": 17.6,
+    "temp_min": 13.0,
+    "wind_speed": 5.4,
+    "precipitation": 3.6
   },
   "tomorrow": {
-    "date": "2026-07-25",
-    "symbol": "rain",
-    "temp_max": 18.1,
-    "temp_min": 14.6,
-    "wind_speed": 4.7,
-    "precipitation": 5.8
+    "date": "2026-07-26",
+    "symbol": "clearsky_day",
+    "temp_max": 21.1,
+    "temp_min": 11.5,
+    "wind_speed": 4.2,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 18.4
+    "ocean": 18.1
   },
   "sun": {
-    "sunrise": "04:49",
-    "sunset": "22:02"
+    "sunrise": "04:51",
+    "sunset": "22:00"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Norske fjorder har lært oss at dybde er vakker.",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "Havet er alltid like vakkert, uansett om solen skinner eller regnet faller.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-24"
+  "pollen_updated": "2026-07-25"
 }
