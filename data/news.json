@@ -1,43 +1,83 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "stories": [
     {
-      "title": "18 år og sjef på øya: – Kanskje den beste sommarjobben i verda",
-      "summary": "Færder fyr har lyst opp Oslofjorden i over 300 år. Nå blir det ikoniske landemerket halde i gang av frivillige krefter, med 18 år gamle Olav Myhre Mørkkåsa i spissen.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/18-ar-og-sjef-pa-oya_-_-kanskje-den-beste-sommarjobben-i-verda-1.17963546",
-      "image": "https://gfx.nrk.no/l4MAPBeS3kBEw0IakgSp-wlfzlSsWj3xnXst3Jer_X5w.jpg",
+      "title": "Tok grep etter hjarteinfarktet – nå suser han forbi alle",
+      "summary": "Etter den dramatiske opplevinga i 2018 måtte Rullerolf Kristoffersen endre vanane sine. Løysinga blei eit pedaldrive lyn.",
+      "url": "https://www.nrk.no/vestfoldogtelemark/fekk-hjarteinfarkt-_-bytet-ut-bilen-med-ein-heilt-spesiell-sykkel-1.17964360",
+      "image": "https://gfx.nrk.no/ThNdek4c9BnyixaCiWOoCgEybsfEvwuMNNEvEj9rNY6w.jpg",
       "category": "Larvik"
     },
     {
-      "title": "Sondre Guttormsen med historisk NM-rekord",
-      "summary": "Sondre Guttormsen hadde aldri hoppet over seks meter utendørs før dagens NM.\nI Trondheim hoppet 27-åringen seks meter på sitt andre forsøk.\n– Dette var helt sykt – jeg tror det nesten er verdensrekord i den temperaturen ",
-      "url": "https://www.nrk.no/sport/sondre-guttormsen-med-historisk-nm-rekord-1.17968632",
-      "image": "https://gfx.nrk.no/qS-wj0HxvgrI3a8xLKWqOAAhrItnOGhWVSu4BrSVLDkA.jpg",
+      "title": "Skjelv i buksene før Noreg-kamp: – Kan vi tilsette Drillo?",
+      "summary": "Dei danske naboane våre er vande til å vere storebror på fotballbanen. Nå gruer dei seg til Ullevaal-besøket i september.",
+      "url": "https://www.nrk.no/fotballvm2026/danskane-skjelv-i-buksene-for-dei-skal-mote-noreg-i-nasjonsligaen-1.17958777",
+      "image": "https://gfx.nrk.no/dfU7XG3yL8h6Bn8PEe_0EAjOym0pV8M63ltW-Bw3E2ig.jpg",
       "category": "Friidrett"
     },
     {
-      "title": "Manchester United lekte seg mot Rosenborg",
-      "summary": "En ivrig gjeng med unggutter sørget for målrush under showkampen mellom Manchester United og Rosenborg.\nGjestene fra England vant 5–0.\nUnited stilte med flere etablerte førstelagsspillere fra start, men det var de unge t",
-      "url": "https://www.nrk.no/sport/manchester-united-lekte-seg-mot-rosenborg-1.17968567",
-      "image": "https://gfx.nrk.no/nPhElU3-loxNSdzqLemwignJKQuOipdKM2mL8rOlpf4A.jpg",
+      "title": "Guttormsen og Jæger tok kongepokaler",
+      "summary": "Stavhopperen Sondre Guttormsen fikk herrenes kongepokal etter sitt NM-hopp på 6,00 meter.\nIkke uventet gikk kvinnenes pokal til Henriette Jæger, som vant fredagens 400 meter på 50,41. som er norsk rekord.\nHun vant lørdag",
+      "url": "https://www.nrk.no/sport/guttormsen-og-jaeger-tok-kongepokaler-1.17969240",
+      "image": "https://gfx.nrk.no/3FALsXyxoqO29brCWNN6gwfRPqbVouik0SpyLSeeCTFw.jpg",
       "category": "Sport"
     },
     {
-      "title": "Haaland-feber i sosiale medium: – Marknadsverdien veks astronomisk",
-      "summary": "Sjølv om VM-entusiasmen har lagt seg, lever Erling Braut Haaland-hysteriet i beste velgåande.",
-      "url": "https://www.nrk.no/sport/internettfenomenet-erling-braut-haaland-tar-verda-med-storm-1.17966728",
-      "image": "https://gfx.nrk.no/E5c31PYeJr0NkB6Ep0RgYAjRf4a74T_S6PvZWkNnc1Tw.jpg",
+      "title": "Tjalve vant suverent NM-gull",
+      "summary": "Tjalves kvinner med Amalie Iuel på ankeretappen tok som ventet klart NM-gull på 1000 meter stafett.\nVinnerlaget besto av Nora Aune, Maren Bakke Amundsen, Lakeri Ertzgaard og Iuel.\nAmalie Iuel skal gi seg på internasjonal",
+      "url": "https://www.nrk.no/sport/tjalve-vant-suverent-nm-gull-1.17969225",
+      "image": "https://gfx.nrk.no/vRXuhlUOWo1nX-AWwelZZww_mYQELPkDnxCAZDktQFJg.jpg",
       "category": "Sport"
     },
     {
-      "title": "Guttormsen brøt magisk grense: – Dette var helt sykt",
-      "summary": "Han har aldri hoppet over 6 meter utendørs, men under tøffe forhold i Trondheim kunne endelig Sondre Guttormsen juble.",
-      "url": "https://www.nrk.no/sport/guttormsen-brot-magisk-grense_-__dette-var-helt-sykt-1.17968656",
-      "image": "https://gfx.nrk.no/qS-wj0HxvgrI3a8xLKWqOAAhrItnOGhWVSu4BrSVLDkA.jpg",
+      "title": "Trønderen vant på hjemmebane",
+      "summary": "Trønderen Sondre Nordstad Moen løper riktignok for Vidar, men «hjemme» i Trondheim vant han 10.000 meter i NM.\nZerei Kbrom Mezngi var sjanseløs da Moen satte inn en langspurt 500 meter fra mål.\n– Jeg kunne ikke håpe på n",
+      "url": "https://www.nrk.no/sport/tronderen-vant-pa-hjemmebane-1.17969187",
+      "image": "",
       "category": "Sport"
     }
   ],
   "archive": [
+    {
+      "date": "2026-07-25",
+      "stories": [
+        {
+          "title": "18 år og sjef på øya: – Kanskje den beste sommarjobben i verda",
+          "summary": "Færder fyr har lyst opp Oslofjorden i over 300 år. Nå blir det ikoniske landemerket halde i gang av frivillige krefter, med 18 år gamle Olav Myhre Mørkkåsa i spissen.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/18-ar-og-sjef-pa-oya_-_-kanskje-den-beste-sommarjobben-i-verda-1.17963546",
+          "image": "https://gfx.nrk.no/l4MAPBeS3kBEw0IakgSp-wlfzlSsWj3xnXst3Jer_X5w.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Sondre Guttormsen med historisk NM-rekord",
+          "summary": "Sondre Guttormsen hadde aldri hoppet over seks meter utendørs før dagens NM.\nI Trondheim hoppet 27-åringen seks meter på sitt andre forsøk.\n– Dette var helt sykt – jeg tror det nesten er verdensrekord i den temperaturen ",
+          "url": "https://www.nrk.no/sport/sondre-guttormsen-med-historisk-nm-rekord-1.17968632",
+          "image": "https://gfx.nrk.no/qS-wj0HxvgrI3a8xLKWqOAAhrItnOGhWVSu4BrSVLDkA.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "Manchester United lekte seg mot Rosenborg",
+          "summary": "En ivrig gjeng med unggutter sørget for målrush under showkampen mellom Manchester United og Rosenborg.\nGjestene fra England vant 5–0.\nUnited stilte med flere etablerte førstelagsspillere fra start, men det var de unge t",
+          "url": "https://www.nrk.no/sport/manchester-united-lekte-seg-mot-rosenborg-1.17968567",
+          "image": "https://gfx.nrk.no/nPhElU3-loxNSdzqLemwignJKQuOipdKM2mL8rOlpf4A.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Haaland-feber i sosiale medium: – Marknadsverdien veks astronomisk",
+          "summary": "Sjølv om VM-entusiasmen har lagt seg, lever Erling Braut Haaland-hysteriet i beste velgåande.",
+          "url": "https://www.nrk.no/sport/internettfenomenet-erling-braut-haaland-tar-verda-med-storm-1.17966728",
+          "image": "https://gfx.nrk.no/E5c31PYeJr0NkB6Ep0RgYAjRf4a74T_S6PvZWkNnc1Tw.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Guttormsen brøt magisk grense: – Dette var helt sykt",
+          "summary": "Han har aldri hoppet over 6 meter utendørs, men under tøffe forhold i Trondheim kunne endelig Sondre Guttormsen juble.",
+          "url": "https://www.nrk.no/sport/guttormsen-brot-magisk-grense_-__dette-var-helt-sykt-1.17968656",
+          "image": "https://gfx.nrk.no/qS-wj0HxvgrI3a8xLKWqOAAhrItnOGhWVSu4BrSVLDkA.jpg",
+          "category": "Sport"
+        }
+      ]
+    },
     {
       "date": "2026-07-24",
       "stories": [
@@ -1194,46 +1234,6 @@
           "summary": "USA var gruppevinnere allerede før møtet med Tyrkia, mens Tyrkia var slått ut før kampen ble sparket i gang.\nDet hindret ikke tyrkerne å gjøre sitt beste for å ødelegge den amerikanske festen på hjemmebane. Åtte minutter",
           "url": "https://www.nrk.no/sport/usa-smell-i-siste-sekund-_-vant-likevel-gruppa-1.17936797",
           "image": "https://gfx.nrk.no/604wlVdQfiQjqXKlYz3J_AOjYEFr9kFfP1TU13_EhUMQ.jpg",
-          "category": "Sport"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-25",
-      "stories": [
-        {
-          "title": "Jordskjelv i Venezuela: – Akkurat nå er jeg i sjokk",
-          "summary": "",
-          "url": "https://www.nrk.no/vestfoldogtelemark/jordskjelv-i-venezuela_-_-akkurat-na-er-jeg-i-sjokk--1.17935162",
-          "image": "https://gfx.nrk.no/PEpYpHV7KIdWKli4pn3mOwPnqsX2vHT_S6M6lnN9c8Cg.jpg",
-          "category": "Larvik"
-        },
-        {
-          "title": "Historisk avansement: – Svar til de som har vært store i kjeften",
-          "summary": "– Jeg er veldig stolt over prestasjonen til laget mitt. Vi ga et svar til de som har vært store i kjeften de siste ukene, som mente vi måtte forandre noe, sier Sør-Afrika-sjef Hugo Bross etter nattens triumf.\nSør-Afrika ",
-          "url": "https://www.nrk.no/kultur/historisk-avansement_-_-svar-til-de-som-har-vaert-store-i-kjeften--1.17935040",
-          "image": "https://gfx.nrk.no/97fItJk50oY-PZm__rjOUgBSn9kb54vmSCvMhwQYnKEA.jpg",
-          "category": "Friidrett"
-        },
-        {
-          "title": "Debutanten hamret ballen i krysset: – VMs vakreste scoring",
-          "summary": "Wilson Isidor ville skrive VM-historie med Haiti. Utførelsen hans var det i hvert fall ingenting å si på.",
-          "url": "https://www.nrk.no/fotballvm2026/valgte-seg-haiti-i-mars_-i-natt-laget-wilson-isidor-turneringens-hittil-vakreste-mal-1.17934993",
-          "image": "https://gfx.nrk.no/SWuEBchK1QaBbsizfTuR3gQ8KVM4C6zjbS95pjZJ-H7w.jpg",
-          "category": "Sport"
-        },
-        {
-          "title": "Mexicos keeperlegende bytt inn: – Eit vakkert siste kapittel",
-          "summary": "Guillermo Ochoa (40) fekk eit høgt hylla innhopp for Mexico i 3-0-sigeren over Tsjekkia. Og det på heimebane, på den mektige Azteca-stadion i Mexico by.\n– Min første kamp; Azteca. Min siste kamp; Azteca. Eit vakkert sist",
-          "url": "https://www.nrk.no/sport/mexicos-keeperlegende-bytt-inn_-_-eit-vakkert-siste-kapittel--1.17935042",
-          "image": "https://gfx.nrk.no/HRLqMd-8GtGIDwawsmG3swbo8P5jjsaoZ-LQX9xfkzyQ.jpg",
-          "category": "Sport"
-        },
-        {
-          "title": "Emosjonelt comeback for Neymar – feira med familien",
-          "summary": "Det var eit kjensleladd møte med familien etter Neymar sitt innhopp i nattas VM-kamp.",
-          "url": "https://www.nrk.no/fotballvm2026/fotball-vm_-skottland-forsvaret-gjekk-pa-ein-kjempetabbe-mot-brasil-_-sluttspeldraumen-kan-ryke-1.17934969",
-          "image": "https://gfx.nrk.no/Z0HriDdQU6fwm1FFfGzPEgH4KW-YKNwW42vRw2rN5HvA.jpg",
           "category": "Sport"
         }
       ]

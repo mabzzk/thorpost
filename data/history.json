@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "month": 7,
-  "day": 25,
+  "day": 26,
   "events": [
     {
-      "year": 1609,
-      "text": "The English ship Sea Venture, en route to Virginia, is deliberately driven ashore during a storm at Bermuda to prevent its sinking; the survivors go on to found a new colony there.",
-      "url": "https://en.wikipedia.org/wiki/Sea_Venture",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Stamp_Bermuda_1910_3p.jpg/330px-Stamp_Bermuda_1910_3p.jpg",
+      "year": 1822,
+      "text": "José de San Martín arrives in Guayaquil, Ecuador, to meet with Simón Bolívar.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Retrato_m%C3%A1s_can%C3%B3nico_de_Jos%C3%A9_de_San_Mart%C3%ADn.jpg/330px-Retrato_m%C3%A1s_can%C3%B3nico_de_Jos%C3%A9_de_San_Mart%C3%ADn.jpg",
       "lang": "en"
     },
     {
-      "year": 1894,
-      "text": "The First Sino-Japanese War begins when the Japanese fire upon a Chinese warship.",
-      "url": "https://en.wikipedia.org/wiki/First_Sino-Japanese_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%E6%97%85%E9%A1%BA%E6%B5%B7%E5%86%9B%E5%85%AC%E6%89%80.jpg/330px-%E6%97%85%E9%A1%BA%E6%B5%B7%E5%86%9B%E5%85%AC%E6%89%80.jpg",
+      "year": 1941,
+      "text": "World War II: Battle of Grand Harbour, British forces on Malta destroy an attack by the Italian Decima Flottiglia MAS. Fort St Elmo Bridge covering the harbour is demolished in the process.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg",
       "lang": "en"
     },
     {
-      "year": 1965,
-      "text": "Bob Dylan goes electric at the Newport Folk Festival, signaling a major change in folk and rock music.",
-      "url": "https://en.wikipedia.org/wiki/Bob_Dylan",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
+      "year": 1963,
+      "text": "Syncom 2, the world's first geosynchronous satellite, is launched from Cape Canaveral on a Delta B booster.",
+      "url": "https://en.wikipedia.org/wiki/Syncom",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Syncom_colour.jpg/330px-Syncom_colour.jpg",
       "lang": "en"
     }
   ]
