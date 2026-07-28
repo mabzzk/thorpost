@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-28",
   "month": 7,
-  "day": 27,
+  "day": 28,
   "events": [
     {
-      "year": 1775,
-      "text": "Founding of the U.S. Army Medical Department:  The Second Continental Congress passes legislation establishing \"an hospital for an army consisting of 20,000 men.\"",
-      "url": "https://en.wikipedia.org/wiki/Army_Medical_Department_(United_States)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AMEDD_Regimental_Flag-Revised.png/330px-AMEDD_Regimental_Flag-Revised.png",
+      "year": 1821,
+      "text": "José de San Martín declares the independence of Peru from Spain.",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_de_San_Mart%C3%ADn",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Retrato_m%C3%A1s_can%C3%B3nico_de_Jos%C3%A9_de_San_Mart%C3%ADn.jpg/330px-Retrato_m%C3%A1s_can%C3%B3nico_de_Jos%C3%A9_de_San_Mart%C3%ADn.jpg",
       "lang": "en"
     },
     {
-      "year": 1919,
-      "text": "The Chicago Race Riot erupts after a racial incident occurred on a South Side beach, leading to 38 fatalities and 537 injuries over a five-day period.",
-      "url": "https://en.wikipedia.org/wiki/Chicago_race_riot_of_1919",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/1919_Chicago_Race_Riot.jpg/330px-1919_Chicago_Race_Riot.jpg",
+      "year": 1935,
+      "text": "First flight of the Boeing B-17 Flying Fortress.",
+      "url": "https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/B17_-_Chino_Airshow_2014_%28framed%29.jpg/330px-B17_-_Chino_Airshow_2014_%28framed%29.jpg",
       "lang": "en"
     },
     {
-      "year": 1964,
-      "text": "Vietnam War: Five thousand more American military advisers are sent to South Vietnam bringing the total number of United States forces in Vietnam to 21,000.",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg",
+      "year": 1976,
+      "text": "The Tangshan earthquake measuring between 7.8 and 8.2 moment magnitude flattens Tangshan in the People's Republic of China, killing 242,769 and injuring 164,851.",
+      "url": "https://en.wikipedia.org/wiki/1976_Tangshan_earthquake",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tangshan_earthquake.jpg/330px-Tangshan_earthquake.jpg",
       "lang": "en"
     }
   ]
