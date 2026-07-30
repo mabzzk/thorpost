@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-29",
+  "updated": "2026-07-30",
   "month": 7,
-  "day": 29,
+  "day": 30,
   "events": [
     {
-      "year": 1818,
-      "text": "French physicist Augustin Fresnel submits his prizewinning \"Memoir on the Diffraction of Light\", precisely accounting for the limited extent to which light spreads into shadows, and thereby demolishing the oldest objection to the wave theory of light.",
-      "url": "https://en.wikipedia.org/wiki/Augustin-Jean_Fresnel",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Augustin_Fresnel.jpg/330px-Augustin_Fresnel.jpg",
+      "year": 1729,
+      "text": "Founding of Baltimore, Maryland.",
+      "url": "https://en.wikipedia.org/wiki/Baltimore",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/330px-Fell%27s_Point_Aerial_2022.jpg",
       "lang": "en"
     },
     {
       "year": 1932,
-      "text": "Great Depression: In Washington, D.C., troops disperse the last of the \"Bonus Army\" of World War I veterans using arson, bayonets, sabers, tanks, tear gas, and vomit gas.",
-      "url": "https://en.wikipedia.org/wiki/Great_Depression",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg/330px-Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone%2C_02-1931_-_NARA_-_541927.jpg",
+      "text": "Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short.",
+      "url": "https://en.wikipedia.org/wiki/Walt_Disney",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG",
       "lang": "en"
     },
     {
-      "year": 1976,
-      "text": "In New York City, David Berkowitz (a.k.a. the \"Son of Sam\") kills one person and seriously wounds another in the first of a series of attacks.",
-      "url": "https://en.wikipedia.org/wiki/David_Berkowitz",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/David_Berkowitz_Arrested_August_10_1977_Mount_Vernon_Argus.jpg/330px-David_Berkowitz_Arrested_August_10_1977_Mount_Vernon_Argus.jpg",
+      "year": 1980,
+      "text": "Israel's Knesset passes the Jerusalem Law.",
+      "url": "https://en.wikipedia.org/wiki/Knesset",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Israeli_Knesset_Current_Composition.svg/330px-Israeli_Knesset_Current_Composition.svg.png",
       "lang": "en"
     }
   ]
