@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "today": {
-    "date": "2026-07-30",
-    "symbol": "rain",
-    "temp_max": 21.2,
-    "temp_min": 17.8,
-    "wind_speed": 2.7,
-    "precipitation": 1.8
-  },
-  "tomorrow": {
     "date": "2026-07-31",
     "symbol": "clearsky_day",
-    "temp_max": 21.3,
-    "temp_min": 13.3,
-    "wind_speed": 4.2,
+    "temp_max": 21.4,
+    "temp_min": 15.0,
+    "wind_speed": 4.8,
+    "precipitation": 0.0
+  },
+  "tomorrow": {
+    "date": "2026-08-01",
+    "symbol": "clearsky_day",
+    "temp_max": 20.3,
+    "temp_min": 11.8,
+    "wind_speed": 4.6,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.4
+    "ocean": 17.0
   },
   "sun": {
-    "sunrise": "05:02",
-    "sunset": "21:49"
+    "sunrise": "05:04",
+    "sunset": "21:46"
   },
-  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
-  "thought": "Det er aldri for sent å bli den du kunne ha vært. – George Eliot",
+  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
+  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-30"
+  "pollen_updated": "2026-07-31"
 }

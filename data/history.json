@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "month": 7,
-  "day": 30,
+  "day": 31,
   "events": [
     {
-      "year": 1729,
-      "text": "Founding of Baltimore, Maryland.",
-      "url": "https://en.wikipedia.org/wiki/Baltimore",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fell%27s_Point_Aerial_2022.jpg/330px-Fell%27s_Point_Aerial_2022.jpg",
+      "year": 1667,
+      "text": "The treaty of Breda ends the second Anglo-Dutch War and grants England in possession of New Amsterdam.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Breda_(1667)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Congress_of_Breda.jpg/330px-Congress_of_Breda.jpg",
       "lang": "en"
     },
     {
-      "year": 1932,
-      "text": "Premiere of Walt Disney's Flowers and Trees, the first cartoon short to use Technicolor and the first Academy Award winning cartoon short.",
-      "url": "https://en.wikipedia.org/wiki/Walt_Disney",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG",
+      "year": 1938,
+      "text": "Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis.",
+      "url": "https://en.wikipedia.org/wiki/Gold",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/330px-Gold-crystals.jpg",
       "lang": "en"
     },
     {
-      "year": 1980,
-      "text": "Israel's Knesset passes the Jerusalem Law.",
-      "url": "https://en.wikipedia.org/wiki/Knesset",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Israeli_Knesset_Current_Composition.svg/330px-Israeli_Knesset_Current_Composition.svg.png",
+      "year": 1988,
+      "text": "Thirty-two people are killed and 1,674 injured when a bridge at the Sultan Abdul Halim ferry terminal collapses in Butterworth, Penang, Malaysia.",
+      "url": "https://en.wikipedia.org/wiki/Sultan_Abdul_Halim_ferry_terminal_bridge_collapse",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e8/Sultan_Abdul_Halim_ferry_terminal_bridge_collapse.jpg",
       "lang": "en"
     }
   ]
