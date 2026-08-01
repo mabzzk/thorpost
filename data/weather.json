@@ -1,30 +1,30 @@
 {
-  "updated": "2026-07-31",
+  "updated": "2026-08-01",
   "today": {
-    "date": "2026-07-31",
+    "date": "2026-08-01",
     "symbol": "clearsky_day",
-    "temp_max": 21.4,
-    "temp_min": 15.0,
-    "wind_speed": 4.8,
+    "temp_max": 19.3,
+    "temp_min": 13.6,
+    "wind_speed": 5.4,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-01",
-    "symbol": "clearsky_day",
-    "temp_max": 20.3,
-    "temp_min": 11.8,
-    "wind_speed": 4.6,
+    "date": "2026-08-02",
+    "symbol": "fair_day",
+    "temp_max": 21.0,
+    "temp_min": 12.4,
+    "wind_speed": 4.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.0
+    "ocean": 16.7
   },
   "sun": {
-    "sunrise": "05:04",
-    "sunset": "21:46"
+    "sunrise": "05:06",
+    "sunset": "21:44"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "remark": "En grei dag i Larvik. God morgen, Thor!",
+  "thought": "Alt som er verdt å gjøre, er verdt å gjøre med hjertet.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-07-31"
+  "pollen_updated": "2026-08-01"
 }

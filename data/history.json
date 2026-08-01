@@ -1,27 +1,27 @@
 {
-  "updated": "2026-07-31",
-  "month": 7,
-  "day": 31,
+  "updated": "2026-08-01",
+  "month": 8,
+  "day": 1,
   "events": [
     {
-      "year": 1667,
-      "text": "The treaty of Breda ends the second Anglo-Dutch War and grants England in possession of New Amsterdam.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Breda_(1667)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Congress_of_Breda.jpg/330px-Congress_of_Breda.jpg",
+      "year": 1800,
+      "text": "The Acts of Union 1800 are passed which merge the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.",
+      "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1800",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/330px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png",
       "lang": "en"
     },
     {
-      "year": 1938,
-      "text": "Archaeologists discover engraved gold and silver plates from King Darius the Great in Persepolis.",
-      "url": "https://en.wikipedia.org/wiki/Gold",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gold-crystals.jpg/330px-Gold-crystals.jpg",
+      "year": 1933,
+      "text": "Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Tesch_(antifascist)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG/330px-Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG",
       "lang": "en"
     },
     {
-      "year": 1988,
-      "text": "Thirty-two people are killed and 1,674 injured when a bridge at the Sultan Abdul Halim ferry terminal collapses in Butterworth, Penang, Malaysia.",
-      "url": "https://en.wikipedia.org/wiki/Sultan_Abdul_Halim_ferry_terminal_bridge_collapse",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e8/Sultan_Abdul_Halim_ferry_terminal_bridge_collapse.jpg",
+      "year": 1974,
+      "text": "Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the \"Green Line\", dividing Cyprus into two zones.",
+      "url": "https://en.wikipedia.org/wiki/Cyprus_problem",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_map_of_Cyprus.svg/330px-Flag_map_of_Cyprus.svg.png",
       "lang": "en"
     }
   ]
