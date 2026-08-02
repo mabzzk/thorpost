@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "month": 8,
-  "day": 1,
+  "day": 2,
   "events": [
     {
-      "year": 1800,
-      "text": "The Acts of Union 1800 are passed which merge the Kingdom of Great Britain and the Kingdom of Ireland into the United Kingdom of Great Britain and Ireland.",
-      "url": "https://en.wikipedia.org/wiki/Acts_of_Union_1800",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/330px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png",
+      "year": 1776,
+      "text": "American Revolution: The signing of the United States Declaration of Independence by the Second Continental Congress takes place.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolution",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/330px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
       "lang": "en"
     },
     {
-      "year": 1933,
-      "text": "Anti-Fascist activists Bruno Tesch, Walter Möller, Karl Wolff and August Lütgens are executed by the Nazi regime in Altona.",
-      "url": "https://en.wikipedia.org/wiki/Bruno_Tesch_(antifascist)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG/330px-Stolperstein_Max-Brauer-Allee_89_%28Bruno_Tesch%29_in_Hamburg-Altona-Nord.JPG",
+      "year": 1916,
+      "text": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.",
+      "url": "https://en.wikipedia.org/wiki/Austria-Hungary",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg/330px-Coat_of_arms_of_Austria-Hungary_%281914%29.svg.png",
       "lang": "en"
     },
     {
-      "year": 1974,
-      "text": "Cyprus dispute: The United Nations Security Council authorizes the UNFICYP to create the \"Green Line\", dividing Cyprus into two zones.",
-      "url": "https://en.wikipedia.org/wiki/Cyprus_problem",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_map_of_Cyprus.svg/330px-Flag_map_of_Cyprus.svg.png",
+      "year": 1947,
+      "text": "A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.",
+      "url": "https://en.wikipedia.org/wiki/British_South_American_Airways",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
