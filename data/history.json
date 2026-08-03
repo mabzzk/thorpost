@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "month": 8,
-  "day": 2,
+  "day": 3,
   "events": [
     {
-      "year": 1776,
-      "text": "American Revolution: The signing of the United States Declaration of Independence by the Second Continental Congress takes place.",
-      "url": "https://en.wikipedia.org/wiki/American_Revolution",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/330px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+      "year": 1678,
+      "text": "Robert LaSalle builds the Le Griffon, the first known ship built on the Great Lakes.",
+      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9-Robert_Cavelier%2C_Sieur_de_La_Salle",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cavelier_de_la_salle.jpg/330px-Cavelier_de_la_salle.jpg",
       "lang": "en"
     },
     {
-      "year": 1916,
-      "text": "World War I: Austrian sabotage causes the sinking of the Italian battleship Leonardo da Vinci in Taranto.",
-      "url": "https://en.wikipedia.org/wiki/Austria-Hungary",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg/330px-Coat_of_arms_of_Austria-Hungary_%281914%29.svg.png",
+      "year": 1921,
+      "text": "Major League Baseball Commissioner Kenesaw Mountain Landis confirms the ban of the eight Chicago Black Sox, the day after they were acquitted by a Chicago court.",
+      "url": "https://en.wikipedia.org/wiki/Commissioner_of_Baseball",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rob_Manfred_7-15-2014.jpg/330px-Rob_Manfred_7-15-2014.jpg",
       "lang": "en"
     },
     {
-      "year": 1947,
-      "text": "A British South American Airways Avro Lancastrian airliner crashes into a mountain during a flight from Buenos Aires, Argentina to Santiago, Chile. The wreckage would not be found until 1998.",
-      "url": "https://en.wikipedia.org/wiki/British_South_American_Airways",
-      "thumbnail": "",
+      "year": 1981,
+      "text": "Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.",
+      "url": "https://en.wikipedia.org/wiki/Senegal",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png",
       "lang": "en"
     }
   ]

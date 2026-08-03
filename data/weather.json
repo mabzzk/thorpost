@@ -1,33 +1,33 @@
 {
-  "updated": "2026-08-02",
+  "updated": "2026-08-03",
   "today": {
-    "date": "2026-08-02",
-    "symbol": "fair_day",
-    "temp_max": 20.9,
-    "temp_min": 14.1,
-    "wind_speed": 4.9,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-08-03",
-    "symbol": "partlycloudy_day",
-    "temp_max": 19.5,
-    "temp_min": 11.8,
+    "symbol": "fair_day",
+    "temp_max": 20.7,
+    "temp_min": 15.5,
     "wind_speed": 3.2,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-08-04",
+    "symbol": "partlycloudy_day",
+    "temp_max": 20.1,
+    "temp_min": 13.5,
+    "wind_speed": 2.7,
+    "precipitation": 3.2
+  },
   "water": {
-    "ocean": 16.6
+    "ocean": 16.7
   },
   "sun": {
-    "sunrise": "05:08",
-    "sunset": "21:41"
+    "sunrise": "05:11",
+    "sunset": "21:39"
   },
   "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "thought": "Den beste tid å plante et tre var for tjue år siden. Den nest beste er i dag.",
   "pollen": [
     {
-      "type": "Burot Og Gress\tBeskjeden",
+      "type": "Gress\tBeskjeden",
       "level": "I Morgen",
       "num": 0,
       "color": "#aaa"
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-02"
+  "pollen_updated": "2026-08-03"
 }
