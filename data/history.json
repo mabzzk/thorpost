@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "month": 8,
-  "day": 3,
+  "day": 4,
   "events": [
     {
-      "year": 1678,
-      "text": "Robert LaSalle builds the Le Griffon, the first known ship built on the Great Lakes.",
-      "url": "https://en.wikipedia.org/wiki/Ren%C3%A9-Robert_Cavelier%2C_Sieur_de_La_Salle",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cavelier_de_la_salle.jpg/330px-Cavelier_de_la_salle.jpg",
+      "year": 1791,
+      "text": "The Treaty of Sistova is signed, ending the Ottoman–Habsburg wars.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Sistova",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Heinrich_Friedrich_F%C3%BCger_007.png/330px-Heinrich_Friedrich_F%C3%BCger_007.png",
       "lang": "en"
     },
     {
-      "year": 1921,
-      "text": "Major League Baseball Commissioner Kenesaw Mountain Landis confirms the ban of the eight Chicago Black Sox, the day after they were acquitted by a Chicago court.",
-      "url": "https://en.wikipedia.org/wiki/Commissioner_of_Baseball",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rob_Manfred_7-15-2014.jpg/330px-Rob_Manfred_7-15-2014.jpg",
+      "year": 1922,
+      "text": "Enver Pasha dies in a skirmish between the Bolshevik Red Army and Basmachi troops, to whom he had defected earlier.",
+      "url": "https://en.wikipedia.org/wiki/Enver_Pasha",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Enver_Pasha_1911.jpg/330px-Enver_Pasha_1911.jpg",
       "lang": "en"
     },
     {
-      "year": 1981,
-      "text": "Senegalese opposition parties, under the leadership of Mamadou Dia, launch the Antiimperialist Action Front – Suxxali Reew Mi.",
-      "url": "https://en.wikipedia.org/wiki/Senegal",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/330px-Flag_of_Senegal.svg.png",
+      "year": 1975,
+      "text": "The Japanese Red Army takes more than 50 hostages at the AIA Building housing several embassies in Kuala Lumpur, Malaysia. The hostages include the U.S. consul and the Swedish Chargé d'affaires. The gunmen win the release of five imprisoned comrades and fly with them to Libya.",
+      "url": "https://en.wikipedia.org/wiki/Japanese_Red_Army",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Japanese_Red_Army_flag.png/330px-Japanese_Red_Army_flag.png",
       "lang": "en"
     }
   ]
