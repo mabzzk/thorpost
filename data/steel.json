@@ -1,23 +1,23 @@
 {
-  "updated": "2026-08-04",
+  "updated": "2026-08-05",
   "prices": [
     {
       "name": "Jernmalm (SGX)",
       "symbol": "TIO=F",
       "unit": "USD/t",
-      "price": 98.0,
+      "price": 93.7,
       "currency": "USD",
-      "change": -0.25,
-      "change_pct": -0.25
+      "change": 0.04,
+      "change_pct": 0.04
     },
     {
       "name": "Stål HRC (USA)",
       "symbol": "HRC=F",
       "unit": "USD/t",
-      "price": 1191.0,
+      "price": 1193.0,
       "currency": "USD",
-      "change": -2.0,
-      "change_pct": -0.17
+      "change": 3.0,
+      "change_pct": 0.25
     },
     {
       "name": "Kull (Newcastle)",
