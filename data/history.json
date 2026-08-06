@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "month": 8,
-  "day": 5,
+  "day": 6,
   "events": [
     {
-      "year": 1735,
-      "text": "Freedom of the press: New York Weekly Journal writer John Peter Zenger is acquitted of seditious libel against the royal governor of New York, on the basis that what he had published was true.",
-      "url": "https://en.wikipedia.org/wiki/Freedom_of_the_press",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Press_freedom_index_rsf%2C_World%2C_2021_%28cropped%29.svg/330px-Press_freedom_index_rsf%2C_World%2C_2021_%28cropped%29.svg.png",
+      "year": 1824,
+      "text": "Peruvian War of Independence: Patriot forces led by Simón Bolívar defeat the Spanish Royalist army in the Battle of Junín.",
+      "url": "https://en.wikipedia.org/wiki/Peruvian_War_of_Independence",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Peruvian_War_of_Independence_1.png/330px-Peruvian_War_of_Independence_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1914,
-      "text": "World War I: The German minelayer SS Königin Luise lays a minefield about 40 miles (64 km) off the Thames Estuary (Lowestoft). She is intercepted and sunk by the British light-cruiser HMS Amphion.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1917,
+      "text": "World War I: Battle of Mărășești between the Romanian and German armies begins.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti_on_Aug_6%2C_1917.svg/330px-Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti_on_Aug_6%2C_1917.svg.png",
       "lang": "en"
     },
     {
-      "year": 1964,
-      "text": "Vietnam War: Operation Pierce Arrow: American aircraft from carriers USS Ticonderoga and USS Constellation bomb North Vietnam in retaliation for strikes against U.S. destroyers in the Gulf of Tonkin.",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1986,
+      "text": "A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.",
+      "url": "https://en.wikipedia.org/wiki/New_South_Wales",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/330px-Flag_of_New_South_Wales.svg.png",
       "lang": "en"
     }
   ]
