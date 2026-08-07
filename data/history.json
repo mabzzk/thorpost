@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "month": 8,
-  "day": 6,
+  "day": 7,
   "events": [
     {
-      "year": 1824,
-      "text": "Peruvian War of Independence: Patriot forces led by Simón Bolívar defeat the Spanish Royalist army in the Battle of Junín.",
-      "url": "https://en.wikipedia.org/wiki/Peruvian_War_of_Independence",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Peruvian_War_of_Independence_1.png/330px-Peruvian_War_of_Independence_1.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1791,
+      "text": "American troops destroy the Miami town of Kenapacomaqua near the site of present-day Logansport, Indiana in the Northwest Indian War.",
+      "url": "https://en.wikipedia.org/wiki/Miami_people",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kee-m%C3%B3n-saw%2C_Little_Chief%2C_a_Chief_%28George_Catlin%29.jpg/330px-Kee-m%C3%B3n-saw%2C_Little_Chief%2C_a_Chief_%28George_Catlin%29.jpg",
       "lang": "en"
     },
     {
-      "year": 1917,
-      "text": "World War I: Battle of Mărășești between the Romanian and German armies begins.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti_on_Aug_6%2C_1917.svg/330px-Battle_of_M%C4%83r%C4%83%C8%99e%C8%99ti_on_Aug_6%2C_1917.svg.png",
+      "year": 1947,
+      "text": "Thor Heyerdahl's balsa wood raft, the Kon-Tiki, smashes into the reef at Raroia in the Tuamotu Islands after a 101-day, 7,000 kilometres (4,300 mi) journey across the Pacific Ocean in an attempt to prove that pre-historic peoples could have traveled from South America.",
+      "url": "https://en.wikipedia.org/wiki/Thor_Heyerdahl",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ThorHeyerdahl.jpg/330px-ThorHeyerdahl.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1986,
-      "text": "A low-pressure system that redeveloped off the New South Wales coast dumps a record 328 millimeters (13 inches) of rain in a day on Sydney, New South Wales, Australia.",
-      "url": "https://en.wikipedia.org/wiki/New_South_Wales",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_New_South_Wales.svg/330px-Flag_of_New_South_Wales.svg.png",
+      "year": 1987,
+      "text": "Cold War: Lynne Cox becomes the first person to swim from the United States to the Soviet Union, crossing the Bering Strait from Little Diomede Island in Alaska to Big Diomede in the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Cold_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

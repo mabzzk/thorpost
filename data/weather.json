@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "today": {
-    "date": "2026-08-06",
-    "symbol": "partlycloudy_day",
-    "temp_max": 20.0,
-    "temp_min": 14.7,
-    "wind_speed": 4.6,
+    "date": "2026-08-07",
+    "symbol": "cloudy",
+    "temp_max": 20.4,
+    "temp_min": 15.3,
+    "wind_speed": 3.1,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-07",
-    "symbol": "cloudy",
-    "temp_max": 20.5,
-    "temp_min": 13.9,
-    "wind_speed": 2.7,
+    "date": "2026-08-08",
+    "symbol": "partlycloudy_day",
+    "temp_max": 21.8,
+    "temp_min": 13.1,
+    "wind_speed": 5.0,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.4
+    "ocean": 16.6
   },
   "sun": {
-    "sunrise": "05:17",
-    "sunset": "21:32"
+    "sunrise": "05:20",
+    "sunset": "21:29"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Den som ikke risikerer noe, risikerer alt.",
+  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
+  "thought": "Kjærligheten er den eneste skatten som øker når den deles ut.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-06"
+  "pollen_updated": "2026-08-07"
 }
