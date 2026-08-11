@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-10",
+  "updated": "2026-08-11",
   "month": 8,
-  "day": 10,
+  "day": 11,
   "events": [
     {
-      "year": 1680,
-      "text": "The Pueblo Revolt begins in New Mexico.",
-      "url": "https://en.wikipedia.org/wiki/Pueblo_Revolt",
-      "thumbnail": "",
+      "year": 1786,
+      "text": "Captain Francis Light establishes the British colony of Penang in Malaysia.",
+      "url": "https://en.wikipedia.org/wiki/Francis_Light",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fort_Cornwallis%2C_Penang_2023_09.jpg/330px-Fort_Cornwallis%2C_Penang_2023_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: The Battle of Narva on the Eastern Front ends with a defensive German victory.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Narva_(1944)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Narva_1944.jpg/330px-Narva_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "Actress Hedy Lamarr and composer George Antheil receive a patent for a Frequency-hopping spread spectrum communication system that later became the basis for modern technologies in wireless telephones, two-way radio communications, and Wi-Fi.",
+      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg/330px-Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1995,
-      "text": "Oklahoma City bombing: Timothy McVeigh and Terry Nichols are indicted for the bombing. Michael Fortier pleads guilty in a plea-bargain for his testimony.",
-      "url": "https://en.wikipedia.org/wiki/Oklahoma_City_bombing",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Oklahomacitybombing-DF-ST-98-01356.jpg/330px-Oklahomacitybombing-DF-ST-98-01356.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1982,
+      "text": "A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.",
+      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_830",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg/330px-Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
