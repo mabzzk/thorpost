@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "month": 8,
-  "day": 11,
+  "day": 12,
   "events": [
     {
-      "year": 1786,
-      "text": "Captain Francis Light establishes the British colony of Penang in Malaysia.",
-      "url": "https://en.wikipedia.org/wiki/Francis_Light",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fort_Cornwallis%2C_Penang_2023_09.jpg/330px-Fort_Cornwallis%2C_Penang_2023_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1788,
+      "text": "The Anjala conspiracy is signed.",
+      "url": "https://en.wikipedia.org/wiki/Anjala_League",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johan_Henrik_Hastesko.jpg/330px-Johan_Henrik_Hastesko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "Actress Hedy Lamarr and composer George Antheil receive a patent for a Frequency-hopping spread spectrum communication system that later became the basis for modern technologies in wireless telephones, two-way radio communications, and Wi-Fi.",
-      "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg/330px-Hedy_Lamarr_Publicity_Photo_for_The_Heavenly_Body_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.",
+      "url": "https://en.wikipedia.org/wiki/Alen%C3%A7on",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hotel_de_ville_Alencon.jpg/330px-Hotel_de_ville_Alencon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1982,
-      "text": "A bomb explodes on Pan Am Flight 830, en route from Tokyo, Japan to Honolulu, Hawaii, killing one passenger and injuring 15 others.",
-      "url": "https://en.wikipedia.org/wiki/Pan_Am_Flight_830",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg/330px-Boeing_747-121%2C_Pan_American_World_Airways_-_Pan_Am_AN1937372.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1981,
+      "text": "The IBM Personal Computer is released.",
+      "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/IBM_Personal_Computer_badge_recreation.svg/330px-IBM_Personal_Computer_badge_recreation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
