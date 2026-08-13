@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "month": 8,
-  "day": 12,
+  "day": 13,
   "events": [
     {
-      "year": 1788,
-      "text": "The Anjala conspiracy is signed.",
-      "url": "https://en.wikipedia.org/wiki/Anjala_League",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Johan_Henrik_Hastesko.jpg/330px-Johan_Henrik_Hastesko.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1624,
+      "text": "The French king Louis XIII appoints Cardinal Richelieu as prime minister.",
+      "url": "https://en.wikipedia.org/wiki/Louis_XIII",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/330px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "Alençon is liberated by General Philippe Leclerc de Hauteclocque, the first city in France to be liberated from the Nazis by French forces.",
-      "url": "https://en.wikipedia.org/wiki/Alen%C3%A7on",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hotel_de_ville_Alencon.jpg/330px-Hotel_de_ville_Alencon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1900,
+      "text": "The steamer Deutschland of Hamburg America Lines sets a new record for the eastward passage when it docks in Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.",
+      "url": "https://en.wikipedia.org/wiki/SS_Deutschland_(1900)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SS_Deutschland_%281900%29.jpg/330px-SS_Deutschland_%281900%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1981,
-      "text": "The IBM Personal Computer is released.",
-      "url": "https://en.wikipedia.org/wiki/IBM_Personal_Computer",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/IBM_Personal_Computer_badge_recreation.svg/330px-IBM_Personal_Computer_badge_recreation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1961,
+      "text": "Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.",
+      "url": "https://en.wikipedia.org/wiki/Cold_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
