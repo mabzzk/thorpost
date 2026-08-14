@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-13",
+  "updated": "2026-08-14",
   "month": 8,
-  "day": 13,
+  "day": 14,
   "events": [
     {
-      "year": 1624,
-      "text": "The French king Louis XIII appoints Cardinal Richelieu as prime minister.",
-      "url": "https://en.wikipedia.org/wiki/Louis_XIII",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg/330px-Luis_XIII%2C_rey_de_Francia_%28Philippe_de_Champaigne%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1790,
+      "text": "The Treaty of Wereloe ends the 1788–1790 Russo-Swedish War.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_V%C3%A4r%C3%A4l%C3%A4",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ilmoitus_Varalanrauhasta.png/330px-Ilmoitus_Varalanrauhasta.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1900,
-      "text": "The steamer Deutschland of Hamburg America Lines sets a new record for the eastward passage when it docks in Plymouth, England, five days, 11 hours and 45 minutes after sailing from New York, breaking by three hours, six minutes its previous mark in its maiden voyage in July.",
-      "url": "https://en.wikipedia.org/wiki/SS_Deutschland_(1900)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/SS_Deutschland_%281900%29.jpg/330px-SS_Deutschland_%281900%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1920,
+      "text": "The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.",
+      "url": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1961,
-      "text": "Cold War: East Germany closes the border between the eastern and western sectors of Berlin to thwart its inhabitants' attempts to escape to the West, and construction of the Berlin Wall is started. The day is known as Barbed Wire Sunday.",
-      "url": "https://en.wikipedia.org/wiki/Cold_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1980,
+      "text": "Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.",
+      "url": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg/330px-03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
