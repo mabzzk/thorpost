@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "month": 8,
-  "day": 14,
+  "day": 15,
   "events": [
     {
-      "year": 1790,
-      "text": "The Treaty of Wereloe ends the 1788–1790 Russo-Swedish War.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_V%C3%A4r%C3%A4l%C3%A4",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ilmoitus_Varalanrauhasta.png/330px-Ilmoitus_Varalanrauhasta.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1483,
+      "text": "Pope Sixtus IV consecrates the Sistine Chapel.",
+      "url": "https://en.wikipedia.org/wiki/Pope_Sixtus_IV",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg/330px-Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1920,
-      "text": "The 1920 Summer Olympics, having started four months earlier, officially open in Antwerp, Belgium, with the newly adopted Olympic flag and the Olympic oath being raised and taken at the Opening Ceremony for the first time in Olympic history.",
-      "url": "https://en.wikipedia.org/wiki/1920_Summer_Olympics",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/73/1920_olympics_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1914,
+      "text": "World War I: Beginning of the Battle of Cer, the first Allied victory of World War I.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Cer",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Battle_of_Cer.jpg/330px-Battle_of_Cer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1980,
-      "text": "Lech Wałęsa leads strikes at the Gdańsk, Poland shipyards.",
-      "url": "https://en.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg/330px-03.17_%E7%B8%BD%E7%B5%B1%E6%8E%A5%E8%A6%8B%E3%80%8C%E6%B3%A2%E8%98%AD%E5%89%8D%E7%B8%BD%E7%B5%B1%E8%8F%AF%E5%8B%92%E6%B2%99%E4%B9%99%E8%A1%8C%E3%80%8D_-_55151702432_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1970,
+      "text": "Patricia Palinkas becomes the first woman to play professionally in an American football game.",
+      "url": "https://en.wikipedia.org/wiki/Patricia_Palinkas",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
