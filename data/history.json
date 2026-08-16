@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "month": 8,
-  "day": 15,
+  "day": 16,
   "events": [
     {
-      "year": 1483,
-      "text": "Pope Sixtus IV consecrates the Sistine Chapel.",
-      "url": "https://en.wikipedia.org/wiki/Pope_Sixtus_IV",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg/330px-Pedro_Berruguete_-_Portrait_of_Pope_Sixtus_IV_della_Rovere_-_1916.815_-_Cleveland_Museum_of_ArtFXD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1837,
+      "text": "Three African soldiers in the 1st West India Regiment – Daaga, Edward Coffin and Maurice Ogston – are executed for their role in the St. Joseph Mutiny in the British colony of Trinidad.",
+      "url": "https://en.wikipedia.org/wiki/West_India_Regiments",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/8thWIR.jpg/330px-8thWIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1914,
-      "text": "World War I: Beginning of the Battle of Cer, the first Allied victory of World War I.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Cer",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Battle_of_Cer.jpg/330px-Battle_of_Cer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1918,
+      "text": "The Battle of Lake Baikal is fought between the Czechoslovak Legion and the Red Army.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Lake_Baikal",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png/330px-Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1970,
-      "text": "Patricia Palinkas becomes the first woman to play professionally in an American football game.",
-      "url": "https://en.wikipedia.org/wiki/Patricia_Palinkas",
-      "thumbnail": "",
+      "year": 1960,
+      "text": "Cyprus gains its independence from the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/Cyprus",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/330px-Flag_of_Cyprus.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

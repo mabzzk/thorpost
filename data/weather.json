@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "today": {
-    "date": "2026-08-15",
-    "symbol": "clearsky_day",
-    "temp_max": 26.3,
-    "temp_min": 16.8,
-    "wind_speed": 3.8,
+    "date": "2026-08-16",
+    "symbol": "partlycloudy_day",
+    "temp_max": 22.7,
+    "temp_min": 16.7,
+    "wind_speed": 2.5,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-16",
-    "symbol": "cloudy",
-    "temp_max": 21.5,
-    "temp_min": 15.2,
-    "wind_speed": 2.9,
+    "date": "2026-08-17",
+    "symbol": "partlycloudy_day",
+    "temp_max": 19.5,
+    "temp_min": 14.0,
+    "wind_speed": 3.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.4
+    "ocean": 17.2
   },
   "sun": {
-    "sunrise": "05:38",
-    "sunset": "21:08"
+    "sunrise": "05:40",
+    "sunset": "21:06"
   },
-  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "Det er aldri for sent å bli den du kunne ha vært. – George Eliot",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Hvert eneste menneske har en gave — noen finner den tidlig, andre sent.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-15"
+  "pollen_updated": "2026-08-16"
 }
