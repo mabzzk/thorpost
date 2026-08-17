@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-16",
+  "updated": "2026-08-17",
   "month": 8,
-  "day": 16,
+  "day": 17,
   "events": [
     {
-      "year": 1837,
-      "text": "Three African soldiers in the 1st West India Regiment – Daaga, Edward Coffin and Maurice Ogston – are executed for their role in the St. Joseph Mutiny in the British colony of Trinidad.",
-      "url": "https://en.wikipedia.org/wiki/West_India_Regiments",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/8thWIR.jpg/330px-8thWIR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1807,
+      "text": "Robert Fulton's North River Steamboat leaves New York City for Albany, New York, on the Hudson River, inaugurating the first commercial steamboat service in the world.",
+      "url": "https://en.wikipedia.org/wiki/Robert_Fulton",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg/330px-Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "The Battle of Lake Baikal is fought between the Czechoslovak Legion and the Red Army.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Lake_Baikal",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png/330px-Trailer_boats_batteries_of_the_Czechoslovakian_ships_on_Baikal%2C_Battle_of_Baikal_Lake.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1960,
-      "text": "Cyprus gains its independence from the United Kingdom.",
-      "url": "https://en.wikipedia.org/wiki/Cyprus",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/330px-Flag_of_Cyprus.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1969,
+      "text": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.",
+      "url": "https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
