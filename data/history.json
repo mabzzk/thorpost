@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-17",
+  "updated": "2026-08-18",
   "month": 8,
-  "day": 17,
+  "day": 18,
   "events": [
     {
-      "year": 1807,
-      "text": "Robert Fulton's North River Steamboat leaves New York City for Albany, New York, on the Hudson River, inaugurating the first commercial steamboat service in the world.",
-      "url": "https://en.wikipedia.org/wiki/Robert_Fulton",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg/330px-Robert_Fulton%2C_1806%2C_London%2C_England%2C_painted_by_Benjamin_West%2C_American%2C_1738-1820_Fenimore_Art_Museum%2C_Cooperstown%2C_N.Y._N0218.1961.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1809,
+      "text": "The Senate of Finland is established in the Grand Duchy of Finland after the official adoption of the Statute of the Government Council by Tsar Alexander I of Russia.",
+      "url": "https://en.wikipedia.org/wiki/Senate_of_Finland",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Suomen_Senaatin_paperisinetti_1809%E2%80%931918.png/330px-Suomen_Senaatin_paperisinetti_1809%E2%80%931918.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: U.S. Marines raid the Japanese-held Pacific island of Makin.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1937,
+      "text": "A lightning strike starts the Blackwater Fire of 1937 in Shoshone National Forest, killing 15 firefighters within three days and prompting the United States Forest Service to develop their smokejumper program.",
+      "url": "https://en.wikipedia.org/wiki/Blackwater_Fire_of_1937",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Blackwater_fire_1.jpg/330px-Blackwater_fire_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1969,
-      "text": "Category 5 Hurricane Camille hits the U.S. Gulf Coast, killing 256 and causing $1.42 billion in damage.",
-      "url": "https://en.wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale",
-      "thumbnail": "",
+      "year": 1973,
+      "text": "Aeroflot Flight A-13 crashes after takeoff from Baku-Bina International Airport in Azerbaijan, killing 56 people and injuring eight.",
+      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_A-13",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aeroflot_Antonov_An-24B_Goetting-1.jpg/330px-Aeroflot_Antonov_An-24B_Goetting-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
