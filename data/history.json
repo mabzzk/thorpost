@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "month": 8,
-  "day": 19,
+  "day": 20,
   "events": [
     {
-      "year": 1745,
-      "text": "Ottoman–Persian War: In the Battle of Kars, the Ottoman army is routed by Persian forces led by Nader Shah.",
-      "url": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Persian_War_(1743%E2%80%931746)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/City_Gate_%2C_Tabriz_by_Eug%C3%A8ne_Flandin.jpg/330px-City_Gate_%2C_Tabriz_by_Eug%C3%A8ne_Flandin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1794,
+      "text": "Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.",
+      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/330px-Treaty_of_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1934,
-      "text": "The German referendum of 1934 approves Adolf Hitler's appointment as head of state with the title of Führer.",
-      "url": "https://en.wikipedia.org/wiki/1934_German_head_of_state_referendum",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Map_1934_Germany_referendum_results.svg/330px-Map_1934_Germany_referendum_results.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "World War II: One hundred sixty-eight captured allied airmen, including Phil Lamason, accused by the Gestapo of being \"terror fliers\", arrive at Buchenwald concentration camp.",
+      "url": "https://en.wikipedia.org/wiki/Allied_airmen_at_Buchenwald_concentration_camp",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1981,
-      "text": "Gulf of Sidra Incident: United States F-14A Tomcat fighters intercept and shoot down two Libyan Sukhoi Su-22 fighter jets over the Gulf of Sidra.",
-      "url": "https://en.wikipedia.org/wiki/Gulf_of_Sidra_incident_(1981)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/1981_Gulf_of_Sidra_incident._F-14_Fast_Eagle_107%2C_from_VF-41_about_to_shoot_down_a_Libyan_Su-22_with_an_AIM-9_Sidewinde.png/330px-1981_Gulf_of_Sidra_incident._F-14_Fast_Eagle_107%2C_from_VF-41_about_to_shoot_down_a_Libyan_Su-22_with_an_AIM-9_Sidewinde.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
+      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
