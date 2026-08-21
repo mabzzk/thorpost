@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "month": 8,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1794,
-      "text": "Northwest Indian War: United States troops force a confederacy of Shawnee, Mingo, Delaware, Wyandot, Miami, Ottawa, Chippewa, and Potawatomi warriors into a disorganized retreat at the Battle of Fallen Timbers.",
-      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/330px-Treaty_of_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1808,
+      "text": "Battle of Vimeiro: British and Portuguese forces led by General Arthur Wellesley defeat French force under Major-General Jean-Andoche Junot near the village of Vimeiro, Portugal, the first Anglo-Portuguese victory of the Peninsular War.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Vimeiro",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_20th_Light_Dragoons_at_the_Battle_of_Vimeiro%2C_21st_August_1808.jpg/330px-The_20th_Light_Dragoons_at_the_Battle_of_Vimeiro%2C_21st_August_1808.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: One hundred sixty-eight captured allied airmen, including Phil Lamason, accused by the Gestapo of being \"terror fliers\", arrive at Buchenwald concentration camp.",
-      "url": "https://en.wikipedia.org/wiki/Allied_airmen_at_Buchenwald_concentration_camp",
-      "thumbnail": "",
+      "year": 1911,
+      "text": "The Mona Lisa is stolen by Vincenzo Peruggia, a Louvre employee.",
+      "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/330px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "Dissolution of the Soviet Union, August Coup: More than 100,000 people rally outside the Soviet Union's parliament building protesting the coup aiming to depose President Mikhail Gorbachev.",
-      "url": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Map_of_USSR_with_SSR_names.svg/330px-Map_of_USSR_with_SSR_names.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1971,
+      "text": "A bomb exploded in the Liberal Party campaign rally in Plaza Miranda, Manila, Philippines with several anti-Marcos political candidates injured.",
+      "url": "https://en.wikipedia.org/wiki/Liberal_Party_(Philippines)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Liberal_Party_of_the_Philippines_%28LP%29.svg/330px-Liberal_Party_of_the_Philippines_%28LP%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
