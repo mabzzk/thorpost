@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "today": {
-    "date": "2026-08-21",
-    "symbol": "clearsky_day",
-    "temp_max": 20.8,
+    "date": "2026-08-22",
+    "symbol": "partlycloudy_day",
+    "temp_max": 20.1,
     "temp_min": 13.4,
-    "wind_speed": 2.7,
+    "wind_speed": 4.0,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-22",
-    "symbol": "clearsky_day",
-    "temp_max": 21.5,
-    "temp_min": 12.5,
-    "wind_speed": 3.9,
+    "date": "2026-08-23",
+    "symbol": "partlycloudy_day",
+    "temp_max": 23.7,
+    "temp_min": 13.4,
+    "wind_speed": 3.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 16.8
+    "ocean": 17.4
   },
   "sun": {
-    "sunrise": "05:52",
-    "sunset": "20:52"
+    "sunrise": "05:54",
+    "sunset": "20:49"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Den som har helse, har alt. Den som ikke har helse, har ett ønske.",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Tid er den dyreste valutaen — bruk den med omhu.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-21"
+  "pollen_updated": "2026-08-22"
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [],
@@ -14,6 +14,17 @@
   "standings": [
     {
       "pos": 1,
+      "team": "Arsenal FC",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 3,
+      "points": 3,
+      "is_spurs": false
+    },
+    {
+      "pos": 2,
       "team": "AFC Bournemouth",
       "played": 0,
       "won": 0,
@@ -24,18 +35,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
-      "team": "Arsenal FC",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 0,
-      "points": 0,
-      "is_spurs": false
-    },
-    {
-      "pos": 1,
+      "pos": 2,
       "team": "Aston Villa FC",
       "played": 0,
       "won": 0,
@@ -46,7 +46,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Brentford FC",
       "played": 0,
       "won": 0,
@@ -57,7 +57,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Brighton & Hove Albion FC",
       "played": 0,
       "won": 0,
@@ -68,7 +68,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Chelsea FC",
       "played": 0,
       "won": 0,
@@ -79,18 +79,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
-      "team": "Coventry City FC",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 0,
-      "points": 0,
-      "is_spurs": false
-    },
-    {
-      "pos": 1,
+      "pos": 2,
       "team": "Crystal Palace FC",
       "played": 0,
       "won": 0,
@@ -101,7 +90,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Everton FC",
       "played": 0,
       "won": 0,
@@ -112,7 +101,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Fulham FC",
       "played": 0,
       "won": 0,
@@ -123,7 +112,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Hull City AFC",
       "played": 0,
       "won": 0,
@@ -134,7 +123,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Ipswich Town FC",
       "played": 0,
       "won": 0,
@@ -145,7 +134,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Leeds United FC",
       "played": 0,
       "won": 0,
@@ -156,7 +145,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Liverpool FC",
       "played": 0,
       "won": 0,
@@ -167,7 +156,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Manchester City FC",
       "played": 0,
       "won": 0,
@@ -178,7 +167,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Manchester United FC",
       "played": 0,
       "won": 0,
@@ -189,7 +178,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Newcastle United FC",
       "played": 0,
       "won": 0,
@@ -200,7 +189,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Nottingham Forest FC",
       "played": 0,
       "won": 0,
@@ -211,7 +200,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Sunderland AFC",
       "played": 0,
       "won": 0,
@@ -222,7 +211,7 @@
       "is_spurs": false
     },
     {
-      "pos": 1,
+      "pos": 2,
       "team": "Tottenham Hotspur FC",
       "played": 0,
       "won": 0,
@@ -231,6 +220,17 @@
       "gd": 0,
       "points": 0,
       "is_spurs": true
+    },
+    {
+      "pos": 20,
+      "team": "Coventry City FC",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "gd": -3,
+      "points": 0,
+      "is_spurs": false
     }
   ]
 }
