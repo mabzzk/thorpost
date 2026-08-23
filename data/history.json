@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "month": 8,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1777,
-      "text": "British forces abandon the Siege of Fort Stanwix after hearing rumors of Continental Army reinforcements.",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_Fort_Stanwix",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fost_areal_image007.jpg/330px-Fost_areal_image007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1775,
+      "text": "American Revolutionary War: King George III delivers his Proclamation of Rebellion to the Court of St James's stating that the American colonies have proceeded to a state of open and avowed rebellion.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1922,
-      "text": "Michael Collins, Commander-in-chief of the Irish Free State Army, is shot dead in an ambush during the Irish Civil War.",
-      "url": "https://en.wikipedia.org/wiki/Michael_Collins_(Irish_leader)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Michael_Collins.jpg/330px-Michael_Collins.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1929,
+      "text": "Hebron Massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine occur, continuing until the next day, resulting in the death of 65–68 Jews and the remaining Jews being forced to leave the city.",
+      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1978,
-      "text": "Nicaraguan Revolution: The FSLN seizes the National Congress of Nicaragua, along with over a thousand hostages.",
-      "url": "https://en.wikipedia.org/wiki/Nicaraguan_Revolution",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Revoluci%C3%B3n_sandinista.png/330px-Revoluci%C3%B3n_sandinista.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1975,
+      "text": "The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan.",
+      "url": "https://en.wikipedia.org/wiki/Pontiac_Silverdome",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Silverdome_2.jpg/330px-Silverdome_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

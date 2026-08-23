@@ -1,16 +1,9 @@
 {
-  "updated": "2026-08-22",
+  "updated": "2026-08-23",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
-    {
-      "date": "2026-08-22",
-      "time": "14:00",
-      "home": "Larvik Turn",
-      "away": "Tønsberg FK Lovisenlund Stadion",
-      "venue": ""
-    },
     {
       "date": "2026-08-27",
       "time": "19:00",
