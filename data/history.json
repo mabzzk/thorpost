@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "month": 8,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1775,
-      "text": "American Revolutionary War: King George III delivers his Proclamation of Rebellion to the Court of St James's stating that the American colonies have proceeded to a state of open and avowed rebellion.",
+      "year": 1781,
+      "text": "American Revolutionary War: A small force of Pennsylvania militia is ambushed and overwhelmed by an American Indian group, which forces George Rogers Clark to abandon his attempt to attack Detroit.",
       "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1929,
-      "text": "Hebron Massacre during the 1929 Palestine riots: Arab attacks on the Jewish community in Hebron in the British Mandate of Palestine occur, continuing until the next day, resulting in the death of 65–68 Jews and the remaining Jews being forced to leave the city.",
-      "url": "https://en.wikipedia.org/wiki/1929_Hebron_massacre",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0b/1929_Hebron_massacre_infobox.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1936,
+      "text": "The Australian Antarctic Territory is created.",
+      "url": "https://en.wikipedia.org/wiki/Australian_Antarctic_Territory",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Antarctica%2C_Australia_territorial_claim.svg/330px-Antarctica%2C_Australia_territorial_claim.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1975,
-      "text": "The Pontiac Silverdome opens in Pontiac, Michigan, 30 miles (48 km) northwest of Detroit, Michigan.",
-      "url": "https://en.wikipedia.org/wiki/Pontiac_Silverdome",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Silverdome_2.jpg/330px-Silverdome_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "Ukraine declares itself independent from the Soviet Union.",
+      "url": "https://en.wikipedia.org/wiki/Ukraine",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
