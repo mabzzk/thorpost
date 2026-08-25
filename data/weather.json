@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "today": {
-    "date": "2026-08-24",
+    "date": "2026-08-25",
     "symbol": "clearsky_day",
-    "temp_max": 21.9,
-    "temp_min": 13.6,
-    "wind_speed": 2.7,
+    "temp_max": 24.1,
+    "temp_min": 13.3,
+    "wind_speed": 2.3,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-25",
-    "symbol": "clearsky_day",
-    "temp_max": 23.5,
-    "temp_min": 13.0,
-    "wind_speed": 2.5,
+    "date": "2026-08-26",
+    "symbol": "fair_day",
+    "temp_max": 24.2,
+    "temp_min": 12.9,
+    "wind_speed": 2.1,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.5
+    "ocean": 17.6
   },
   "sun": {
-    "sunrise": "05:58",
-    "sunset": "20:44"
+    "sunrise": "06:01",
+    "sunset": "20:41"
   },
-  "remark": "Perfekt dag ute, Thor – ikke mange som disse i Norge. Nyt hvert minutt!",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
+  "thought": "En god latter er solskinn i et hus. – William Makepeace Thackeray",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-24"
+  "pollen_updated": "2026-08-25"
 }
