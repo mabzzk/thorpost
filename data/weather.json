@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "today": {
-    "date": "2026-08-25",
-    "symbol": "clearsky_day",
-    "temp_max": 24.1,
-    "temp_min": 13.3,
-    "wind_speed": 2.3,
+    "date": "2026-08-26",
+    "symbol": "partlycloudy_day",
+    "temp_max": 23.4,
+    "temp_min": 14.4,
+    "wind_speed": 2.2,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-26",
+    "date": "2026-08-27",
     "symbol": "fair_day",
-    "temp_max": 24.2,
-    "temp_min": 12.9,
-    "wind_speed": 2.1,
+    "temp_max": 21.7,
+    "temp_min": 14.9,
+    "wind_speed": 2.4,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.6
+    "ocean": 17.5
   },
   "sun": {
-    "sunrise": "06:01",
-    "sunset": "20:41"
+    "sunrise": "06:03",
+    "sunset": "20:38"
   },
-  "remark": "Fin sommerdag i Larvik! Shorts er obligatorisk, og en tur langs fjorden er å anbefale.",
-  "thought": "En god latter er solskinn i et hus. – William Makepeace Thackeray",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Det er ikke vinden som bestemmer retningen, men seilet.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
@@ -33,7 +33,7 @@
       "color": "#aaa"
     },
     {
-      "type": "Burot Og Gress\tBeskjeden",
+      "type": "Gress\tBeskjeden",
       "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
@@ -51,5 +51,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-25"
+  "pollen_updated": "2026-08-26"
 }

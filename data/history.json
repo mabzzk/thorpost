@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "month": 8,
-  "day": 25,
+  "day": 26,
   "events": [
     {
-      "year": 1825,
-      "text": "The Thirty-Three Orientals declare the independence of Uruguay from Brazil.",
-      "url": "https://en.wikipedia.org/wiki/Thirty-Three_Orientals",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg/330px-Juan_Manuel_Blanes_-_El_Juramento_de_los_Treinta_y_Tres_Orientales.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1768,
+      "text": "Captain James Cook sets sail from England on board HMS Endeavour.",
+      "url": "https://en.wikipedia.org/wiki/James_Cook",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Captainjamescookportrait.jpg/330px-Captainjamescookportrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "World War II: The first Bombing of Berlin by the British Royal Air Force.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1920,
+      "text": "The 19th amendment to United States Constitution, giving women the right to vote, is certified.",
+      "url": "https://en.wikipedia.org/wiki/Nineteenth_Amendment_to_the_United_States_Constitution",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "Bar Harbor Airlines Flight 1808 crashes near Auburn/Lewiston Municipal Airport in Auburn, Maine, killing all eight people on board including peace activist and child actress Samantha Smith.",
-      "url": "https://en.wikipedia.org/wiki/Bar_Harbor_Airlines_Flight_1808",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg/330px-N4381Y_Beech_99_Aerodynamics_Worldwide_Inc_%2839564952325%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1981,
+      "text": "Aeropesca Flight 221 crashes in Colombia's Huila Department, killing all 50 people on board.",
+      "url": "https://en.wikipedia.org/wiki/Aeropesca_Flight_221",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BMA_Viscount_at_LHR_G-BFZL_%2815938588750%29.jpg/330px-BMA_Viscount_at_LHR_G-BFZL_%2815938588750%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
