@@ -1,43 +1,83 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "stories": [
     {
-      "title": "Den einaste tapetgiganten i Noreg låg i Tønsberg: No har den gløymde historia blitt film",
-      "summary": "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar. No er historia foreviga – på same stad som alt blei knust under krigen.",
-      "url": "https://www.nrk.no/vestfoldogtelemark/vallo-tapetfabrikk-i-tonsberg-blir-dokumentarfilm-1.18000725",
-      "image": "https://gfx.nrk.no/1xRlwpPP8I_TcWT001SO6QtH_BSrgxGTEO7Zrqmf3x9Q.jpg",
+      "title": "Kronprinsens besøk til Færder avlyst",
+      "summary": "",
+      "url": "https://www.nrk.no/vestfoldogtelemark/kronprinsens-besok-til-nasjonalparken-avlyses-1.18003085",
+      "image": "https://gfx.nrk.no/90tSJZVYLcQA06HhqsLAMg3QG_Cns7gyjvaXruy40lrQ.jpg",
       "category": "Larvik"
     },
     {
-      "title": "Gjert Ingebrigtsen usikker etter beklagelse: – Vet ikke hva jeg skal forvente",
-      "summary": "Friidrettstrener Gjert Ingebrigtsen stilte tirsdag kveld opp i et nytt intervju.",
-      "url": "https://www.nrk.no/rogaland/gjert-ingebrigtsen-usikker-etter-beklagelse_-_-vet-ikke-hva-jeg-skal-forvente-1.18001356",
-      "image": "https://gfx.nrk.no/0uBprV_IfVukgqHQyW9zngdHgfD0GR91CzfT8uiWASAQ.jpg",
+      "title": "Robot smadret Bolts verdensrekord på 100 meter – brukte 8,64 sekunder",
+      "summary": "Usain Bolt regnes som tidenes raskeste mann og har verdensrekorden på 100 meter. I Robot Olympics gikk det enda raskere da den lynraske roboten Tiangong Ultra løp på 8,64.\nRoboten hadde også tidligere i mesterskapet satt",
+      "url": "https://www.nrk.no/sport/robot-smadret-bolts-verdensrekord-pa-100-meter-_-brukte-8_64-sekunder-1.18003324",
+      "image": "https://gfx.nrk.no/QV0PtdU4B-xA7s5RtSbUqw8buBlvIDSjmG0EIAF4ZuJw.jpg",
       "category": "Friidrett"
     },
     {
-      "title": "Norsk suksessduo forbløffar utlandet: – Det er jo heilt unikt",
-      "summary": "Ein altoppslukande unik leiarstil får Europa til å undre. Sjølv er dei ikkje i tvil om at det funkar.",
-      "url": "https://www.nrk.no/sport/bjarte-lunde-aarsheim-og-morten-jensen-utgjer-unik-trenarduo-i-viking-1.17994382",
-      "image": "https://gfx.nrk.no/Uzt8XCRFO2OYVQGUwZYV-wBo4QrdoKMtotq9zj5FQv8A.jpg",
+      "title": "Tidligere Tottenham-manager får ny rolle",
+      "summary": "Thomas Frank blir ambassadør for et nytt dansk fotballinitiativ. Det er hans første nye verv i fotballen siden Tottenham-exiten.\nFrank blir ambassadør for Det danske fotballforbundets (DBU) satsing «Hele Danmarks Klubhus",
+      "url": "https://www.nrk.no/sport/tidligere-tottenham-manager-far-ny-rolle-1.18003037",
+      "image": "https://gfx.nrk.no/uMWddfOr8T3b3k8HXMJjiQ-c9sqcdBvXbUI7RqIsrqbQ.jpg",
       "category": "Sport"
     },
     {
-      "title": "Syvert (24) sikra seg plass på eit av verdas fremste universitet heime i garasjen",
-      "summary": "På prestisjeskulen Yale levde Syvert Senumstad (24) i ei «Harry Potter-verd» og kjende seg som Erling Braut Haaland.",
-      "url": "https://www.nrk.no/sport/roaren-syvert-senumstad-gjekk-pa-prestisjeuniversitetet-yale-1.17999525",
-      "image": "https://gfx.nrk.no/CSnCpYYpNC3FJu3udwuFLAs2YgejtrbrK99DK-wjarnA.jpg",
+      "title": "The Athletic: Liverpool enig med Paris Saint-Germain om gigantovergang",
+      "summary": "The Athletic melder om enigheten som foreligger mellom klubbene. Barcola har vært ryktet til Liverpool i lengre tid.\nLiverpool-ledelsen har jobbet intenst for å forsterke angrepsrekke i sommerens overgangsvindu. Barcola ",
+      "url": "https://www.nrk.no/sport/the-athletic_-liverpool-enig-med-paris-saint-germain-om-gigantovergang-1.18003290",
+      "image": "https://gfx.nrk.no/LOo3lKUbB2j95uVa0AjufQfwC7_-5gmY2JaCta1ddZew.jpg",
       "category": "Sport"
     },
     {
-      "title": "Ruud ute av dobbelturneringen – Kjær ett steg nærmere singelturneringen",
-      "summary": "Casper Ruud og doublemakkeren Diana Shnaider vant den første runden, før det sa stopp i nummer to av US Open-turneringen for blandet lag.\nDuoen startet med et oppgjør mot amerikanerne Taylor Fritz og Jessica Pegula, som ",
-      "url": "https://www.nrk.no/sport/ruud-ute-av-dobbelturneringen-_-kjaer-ett-steg-naermere-singelturneringen--1.18001626",
-      "image": "https://gfx.nrk.no/hmWILcpdQzo2H8Sklk_4IQcasTHkKqi619aRNyqLHTJQ.jpg",
+      "title": "Budkov Kjær ute av US Open-kvalifiseringen",
+      "summary": "Nicolai Budkov Kjær røk ut i andre kvalifiseringsrunde til US Open etter 0-2-tap for australske Christopher O'Connell onsdag.\nDen norske 19-åringen tapte settene 5-7, 4–6 mot O'Connell etter 1 time og 42 minutters spill ",
+      "url": "https://www.nrk.no/sport/budkov-kjaer-ute-av-us-open-kvalifiseringen-1.18003034",
+      "image": "https://gfx.nrk.no/18EKVmOGckvNN1qAKIyzQQSOFb4cJyKhzOthtCuFmzjA.jpg",
       "category": "Sport"
     }
   ],
   "archive": [
+    {
+      "date": "2026-08-26",
+      "stories": [
+        {
+          "title": "Den einaste tapetgiganten i Noreg låg i Tønsberg: No har den gløymde historia blitt film",
+          "summary": "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar. No er historia foreviga – på same stad som alt blei knust under krigen.",
+          "url": "https://www.nrk.no/vestfoldogtelemark/vallo-tapetfabrikk-i-tonsberg-blir-dokumentarfilm-1.18000725",
+          "image": "https://gfx.nrk.no/1xRlwpPP8I_TcWT001SO6QtH_BSrgxGTEO7Zrqmf3x9Q.jpg",
+          "category": "Larvik"
+        },
+        {
+          "title": "Gjert Ingebrigtsen usikker etter beklagelse: – Vet ikke hva jeg skal forvente",
+          "summary": "Friidrettstrener Gjert Ingebrigtsen stilte tirsdag kveld opp i et nytt intervju.",
+          "url": "https://www.nrk.no/rogaland/gjert-ingebrigtsen-usikker-etter-beklagelse_-_-vet-ikke-hva-jeg-skal-forvente-1.18001356",
+          "image": "https://gfx.nrk.no/0uBprV_IfVukgqHQyW9zngdHgfD0GR91CzfT8uiWASAQ.jpg",
+          "category": "Friidrett"
+        },
+        {
+          "title": "Norsk suksessduo forbløffar utlandet: – Det er jo heilt unikt",
+          "summary": "Ein altoppslukande unik leiarstil får Europa til å undre. Sjølv er dei ikkje i tvil om at det funkar.",
+          "url": "https://www.nrk.no/sport/bjarte-lunde-aarsheim-og-morten-jensen-utgjer-unik-trenarduo-i-viking-1.17994382",
+          "image": "https://gfx.nrk.no/Uzt8XCRFO2OYVQGUwZYV-wBo4QrdoKMtotq9zj5FQv8A.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Syvert (24) sikra seg plass på eit av verdas fremste universitet heime i garasjen",
+          "summary": "På prestisjeskulen Yale levde Syvert Senumstad (24) i ei «Harry Potter-verd» og kjende seg som Erling Braut Haaland.",
+          "url": "https://www.nrk.no/sport/roaren-syvert-senumstad-gjekk-pa-prestisjeuniversitetet-yale-1.17999525",
+          "image": "https://gfx.nrk.no/CSnCpYYpNC3FJu3udwuFLAs2YgejtrbrK99DK-wjarnA.jpg",
+          "category": "Sport"
+        },
+        {
+          "title": "Ruud ute av dobbelturneringen – Kjær ett steg nærmere singelturneringen",
+          "summary": "Casper Ruud og doublemakkeren Diana Shnaider vant den første runden, før det sa stopp i nummer to av US Open-turneringen for blandet lag.\nDuoen startet med et oppgjør mot amerikanerne Taylor Fritz og Jessica Pegula, som ",
+          "url": "https://www.nrk.no/sport/ruud-ute-av-dobbelturneringen-_-kjaer-ett-steg-naermere-singelturneringen--1.18001626",
+          "image": "https://gfx.nrk.no/hmWILcpdQzo2H8Sklk_4IQcasTHkKqi619aRNyqLHTJQ.jpg",
+          "category": "Sport"
+        }
+      ]
+    },
     {
       "date": "2026-08-25",
       "stories": [
@@ -1194,46 +1234,6 @@
           "summary": "Tromsø må tåle godt over 30 grader når laget skal kjempe om avansement i europaligakvalifiseringen i Tsjekkia denne uken.\nTIL skal torsdag møte Hradec Králové i den andre kvalifiseringsrunden til Europaligaen. Den første",
           "url": "https://www.nrk.no/sport/hetesjokk-venter-for-tromso_-_-en-stor-kontrast-1.17970888",
           "image": "https://gfx.nrk.no/bryG1VRQ9EMI565xGyrdyggHHgX9MIuCAj3PT05Bo9HQ.jpg",
-          "category": "Sport"
-        }
-      ]
-    },
-    {
-      "date": "2026-07-27",
-      "stories": [
-        {
-          "title": "Sommerparadis er hinderløype for sterkt svaksynte Brit",
-          "summary": "Blindeforbundet mener det står for dårlig til i flere norske byer. Nå tar en av de største feriebyene tak i problemene.",
-          "url": "https://www.nrk.no/vestfoldogtelemark/universell-utforming_-svaksynte-brit-ber-om-flere-ledelinjer-_-na-tar-kragero-kommune-tak-1.17964491",
-          "image": "https://gfx.nrk.no/GTnnj-BJa_yeEMmQ5N97SQ0hGJS-n2d-U9YKBIq2D9kw.jpg",
-          "category": "Larvik"
-        },
-        {
-          "title": "Infantino angriper VM-kritikere: – Dere sprer hat",
-          "summary": "Fifa-president Gianni Infantino går hardt ut mot kritikerne av sommerens VM i et 15 sider langt Instagram-innlegg. Der anklager han dem for å spre hat og falske rykter i stedet for å glede seg over mesterskapet.\n– Noen g",
-          "url": "https://www.nrk.no/sport/infantino-angriper-vm-kritikere_-_-dere-sprer-hat-1.17969932",
-          "image": "https://gfx.nrk.no/B8O2VRbneeNlqN3bvpcBMwNFvtoCgom30g3bQCDVgjDQ.jpg",
-          "category": "Friidrett"
-        },
-        {
-          "title": "Pogačar ble historisk: – Tidenes beste syklist",
-          "summary": "Slovenske Tadej Pogačar skrev historie da han krysset målstreken på Champs-Élysées.\n27-åringen tok sin femte sammenlagtseier i Tour de France - bare fire andre ryttere i historien har gjort det samme.\nI årets tour fikk P",
-          "url": "https://www.nrk.no/sport/poga_ar-ble-historisk_-_-tidenes-beste-syklist-1.17969761",
-          "image": "https://gfx.nrk.no/XZybxnXsPVDh3X4z0f0umwCOyn2p12CDd26mvQct3UnA.jpg",
-          "category": "Sport"
-        },
-        {
-          "title": "Olmo avviser unnskyldning fra Argentina-assistent: – Han lyver",
-          "summary": "Spanias Dani Olmo avviser unnskyldningen fra Argentinas assistenttrener Roberto Ayala. Han mener Ayala lyver når han hevder at sammenstøtet skyldtes noe Olmo sa.\nAyala beklaget forrige uke konfrontasjonen som oppsto ette",
-          "url": "https://www.nrk.no/sport/olmo-avviser-unnskyldning-fra-argentina-assistent_-_-han-lyver-1.17969890",
-          "image": "https://gfx.nrk.no/xXCvqB5IczAgmFhAS0qNOw0SGCwScS-PMZdZ9S2DH24A.jpg",
-          "category": "Sport"
-        },
-        {
-          "title": "Frykta det verste: «Å nei, no ryk alt»",
-          "summary": "Dei mørke tankane tok Amalie Iuel rett før hennar siste meisterskap.",
-          "url": "https://www.nrk.no/sport/amalie-iuel-trudde-alt-skulle-ryke-da-ho-blei-sjuk-for-nm-og-em-1.17968939",
-          "image": "https://gfx.nrk.no/TXNjGvbb7CNRc3Wer3IRGAJw9OyxwywLIe6-0TtJNvsQ.jpg",
           "category": "Sport"
         }
       ]
