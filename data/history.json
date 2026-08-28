@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "month": 8,
-  "day": 27,
+  "day": 28,
   "events": [
     {
-      "year": 1813,
-      "text": "French Emperor Napoleon I defeats a larger force of Austrians, Russians, and Prussians at the Battle of Dresden.",
-      "url": "https://en.wikipedia.org/wiki/Napoleon",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/330px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1810,
+      "text": "Napoleonic Wars: The French Navy accepts the surrender of a British Royal Navy fleet at the Battle of Grand Port.",
+      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "Mexican Revolution: Battle of Ambos Nogales: U.S. Army forces skirmish against Mexican Carrancistas as part of the Mexican Border War.",
-      "url": "https://en.wikipedia.org/wiki/Mexican_Revolution",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Decena_tr%C3%A1gica.JPG/330px-Decena_tr%C3%A1gica.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1914,
+      "text": "World War I: The Royal Navy defeats the German fleet in the Battle of Heligoland Bight.",
+      "url": "https://en.wikipedia.org/wiki/World_War_I",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1971,
-      "text": "An attempted coup d'état fails in the African nation of Chad. The Government of Chad accuses Egypt of playing a role in the attempt and breaks off diplomatic relations.",
-      "url": "https://en.wikipedia.org/wiki/Coup_d'%C3%A9tat",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1973,
+      "text": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome.",
+      "url": "https://en.wikipedia.org/wiki/Norrmalmstorg_robbery",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Norrmalmstorgsdramat%2C_AK4_skytt.png/330px-Norrmalmstorgsdramat%2C_AK4_skytt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

@@ -1,16 +1,9 @@
 {
-  "updated": "2026-08-27",
+  "updated": "2026-08-28",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
-    {
-      "date": "2026-08-27",
-      "time": "19:00",
-      "home": "Teie",
-      "away": "Larvik Turn Teie Xpert KG",
-      "venue": ""
-    },
     {
       "date": "2026-09-05",
       "time": "14:00",
