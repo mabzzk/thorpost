@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "month": 8,
-  "day": 28,
+  "day": 29,
   "events": [
     {
-      "year": 1810,
-      "text": "Napoleonic Wars: The French Navy accepts the surrender of a British Royal Navy fleet at the Battle of Grand Port.",
-      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1741,
+      "text": "The eruption of Oshima–Ōshima and the Kampo tsunami: At least 2,000 people along the Japanese coast drown in a tsunami caused by the eruption of Oshima.",
+      "url": "https://en.wikipedia.org/wiki/1741_eruption_of_Oshima%E2%80%93%C5%8Cshima_and_the_Kampo_tsunami",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ganpo_tsunami_map.png/330px-Ganpo_tsunami_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1914,
-      "text": "World War I: The Royal Navy defeats the German fleet in the Battle of Heligoland Bight.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1911,
+      "text": "Ishi, considered the last Native American to make contact with European Americans, emerges from the wilderness of northeastern California.",
+      "url": "https://en.wikipedia.org/wiki/Ishi",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ishi_portrait.jpg/330px-Ishi_portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1973,
-      "text": "Norrmalmstorg robbery: Stockholm police secure the surrenders of hostage-takers Jan-Erik Olsson and Clark Olofsson, defusing the Norrmalmstorg hostage crisis. The behaviours of the hostages later give rise to the term Stockholm syndrome.",
-      "url": "https://en.wikipedia.org/wiki/Norrmalmstorg_robbery",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Norrmalmstorgsdramat%2C_AK4_skytt.png/330px-Norrmalmstorgsdramat%2C_AK4_skytt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1966,
+      "text": "The Beatles perform their last concert before paying fans at Candlestick Park in San Francisco.",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg/330px-The_Beatles_1963_Dezo_Hoffman_Capitol_Records_press_photo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

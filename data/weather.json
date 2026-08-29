@@ -1,34 +1,34 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "today": {
-    "date": "2026-08-28",
-    "symbol": "cloudy",
-    "temp_max": 18.8,
-    "temp_min": 15.2,
-    "wind_speed": 4.5,
-    "precipitation": 29.9
-  },
-  "tomorrow": {
     "date": "2026-08-29",
     "symbol": "rain",
-    "temp_max": 18.0,
-    "temp_min": 15.7,
-    "wind_speed": 4.5,
-    "precipitation": 7.2
+    "temp_max": 17.3,
+    "temp_min": 15.8,
+    "wind_speed": 5.5,
+    "precipitation": 1.2
+  },
+  "tomorrow": {
+    "date": "2026-08-30",
+    "symbol": "cloudy",
+    "temp_max": 17.5,
+    "temp_min": 15.2,
+    "wind_speed": 2.9,
+    "precipitation": 0.0
   },
   "water": {
     "ocean": 17.8
   },
   "sun": {
-    "sunrise": "06:08",
-    "sunset": "20:32"
+    "sunrise": "06:10",
+    "sunset": "20:29"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "Store drømmer starter med små skritt.",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "En optimist ser muligheten i hver vanskelighet.",
   "pollen": [
     {
       "type": "Burot Og Gress\tBeskjeden",
-      "level": "I Morgen",
+      "level": "Se Flere Detaljer På Naaf.No/Pollenvarsel/",
       "num": 0,
       "color": "#aaa"
     },
@@ -45,5 +45,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-28"
+  "pollen_updated": "2026-08-29"
 }

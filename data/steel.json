@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "prices": [
     {
       "name": "Jernmalm (SGX)",
@@ -14,10 +14,10 @@
       "name": "Stål HRC (USA)",
       "symbol": "HRC=F",
       "unit": "USD/t",
-      "price": 1203.0,
+      "price": NaN,
       "currency": "USD",
-      "change": 4.0,
-      "change_pct": 0.33
+      "change": NaN,
+      "change_pct": NaN
     },
     {
       "name": "Kull (Newcastle)",
