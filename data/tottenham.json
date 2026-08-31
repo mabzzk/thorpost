@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -55,6 +55,28 @@
     },
     {
       "pos": 3,
+      "team": "Chelsea FC",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 2,
+      "points": 6,
+      "is_spurs": false
+    },
+    {
+      "pos": 4,
+      "team": "Brentford FC",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 0,
+      "gd": 3,
+      "points": 4,
+      "is_spurs": false
+    },
+    {
+      "pos": 5,
       "team": "Newcastle United FC",
       "played": 2,
       "won": 1,
@@ -65,7 +87,7 @@
       "is_spurs": false
     },
     {
-      "pos": 4,
+      "pos": 6,
       "team": "Everton FC",
       "played": 2,
       "won": 1,
@@ -76,18 +98,29 @@
       "is_spurs": false
     },
     {
-      "pos": 5,
+      "pos": 7,
+      "team": "Leeds United FC",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 0,
+      "gd": 1,
+      "points": 4,
+      "is_spurs": false
+    },
+    {
+      "pos": 8,
       "team": "Brighton & Hove Albion FC",
-      "played": 1,
+      "played": 2,
       "won": 1,
       "drawn": 0,
-      "lost": 0,
-      "gd": 4,
+      "lost": 1,
+      "gd": 3,
       "points": 3,
       "is_spurs": false
     },
     {
-      "pos": 6,
+      "pos": 9,
       "team": "Arsenal FC",
       "played": 1,
       "won": 1,
@@ -98,51 +131,40 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
-      "team": "Brentford FC",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 3,
-      "points": 3,
-      "is_spurs": false
-    },
-    {
-      "pos": 8,
-      "team": "Chelsea FC",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 1,
-      "points": 3,
-      "is_spurs": false
-    },
-    {
-      "pos": 9,
-      "team": "Ipswich Town FC",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 1,
-      "points": 3,
-      "is_spurs": false
-    },
-    {
       "pos": 10,
-      "team": "Leeds United FC",
-      "played": 1,
+      "team": "Manchester United FC",
+      "played": 2,
       "won": 1,
       "drawn": 0,
-      "lost": 0,
+      "lost": 1,
       "gd": 1,
       "points": 3,
       "is_spurs": false
     },
     {
       "pos": 11,
+      "team": "Sunderland AFC",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "gd": 0,
+      "points": 3,
+      "is_spurs": false
+    },
+    {
+      "pos": 12,
+      "team": "Ipswich Town FC",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "gd": -2,
+      "points": 3,
+      "is_spurs": false
+    },
+    {
+      "pos": 13,
       "team": "Liverpool FC",
       "played": 2,
       "won": 0,
@@ -153,7 +175,7 @@
       "is_spurs": false
     },
     {
-      "pos": 12,
+      "pos": 14,
       "team": "AFC Bournemouth",
       "played": 2,
       "won": 0,
@@ -164,7 +186,7 @@
       "is_spurs": false
     },
     {
-      "pos": 12,
+      "pos": 14,
       "team": "Nottingham Forest FC",
       "played": 2,
       "won": 0,
@@ -175,34 +197,12 @@
       "is_spurs": false
     },
     {
-      "pos": 14,
-      "team": "Fulham FC",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "gd": -1,
-      "points": 0,
-      "is_spurs": false
-    },
-    {
-      "pos": 15,
-      "team": "Sunderland AFC",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "gd": -1,
-      "points": 0,
-      "is_spurs": false
-    },
-    {
       "pos": 16,
-      "team": "Manchester United FC",
-      "played": 1,
+      "team": "Fulham FC",
+      "played": 2,
       "won": 0,
       "drawn": 0,
-      "lost": 1,
+      "lost": 2,
       "gd": -2,
       "points": 0,
       "is_spurs": false

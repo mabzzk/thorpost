@@ -1,37 +1,31 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "today": {
-    "date": "2026-08-30",
-    "symbol": "cloudy",
-    "temp_max": 18.2,
-    "temp_min": 14.6,
-    "wind_speed": 2.6,
+    "date": "2026-08-31",
+    "symbol": "partlycloudy_day",
+    "temp_max": 20.1,
+    "temp_min": 13.2,
+    "wind_speed": 2.1,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "symbol": "partlycloudy_day",
-    "temp_max": 19.4,
-    "temp_min": 12.4,
-    "wind_speed": 2.4,
+    "temp_max": 20.4,
+    "temp_min": 12.2,
+    "wind_speed": 2.0,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 17.5
+    "ocean": 16.5
   },
   "sun": {
-    "sunrise": "06:12",
-    "sunset": "20:27"
+    "sunrise": "06:14",
+    "sunset": "20:24"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Vær den forandringen du vil se i verden. – Mahatma Gandhi",
+  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
+  "thought": "Mot er ikke fravær av frykt, men å gå videre til tross for den.",
   "pollen": [
-    {
-      "type": "Burot Og Gress\tBeskjeden",
-      "level": "I Morgen",
-      "num": 0,
-      "color": "#aaa"
-    },
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
       "level": "Graf Som Viser Luftkvalitet For Ulfsbakk",
@@ -45,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-30"
+  "pollen_updated": "2026-08-31"
 }

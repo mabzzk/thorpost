@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "month": 8,
-  "day": 30,
+  "day": 31,
   "events": [
     {
-      "year": 1799,
-      "text": "The entire Dutch fleet is captured by British forces under the command of Sir Ralph Abercromby and Admiral Sir Charles Mitchell during the War of the Second Coalition.",
-      "url": "https://en.wikipedia.org/wiki/Vlieter_incident",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Texel%2C_1799_RCIN_735079_%28cropped%29.jpg/330px-Texel%2C_1799_RCIN_735079_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1876,
+      "text": "Ottoman Sultan Murad V is deposed and succeeded by his brother, Abdul Hamid II.",
+      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_the_Ottoman_Empire",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/330px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "Fanni Kaplan shoots and seriously injures Bolshevik leader Vladimir Lenin, which, along with the assassination of Bolshevik senior official Moisei Uritsky days earlier, prompts the decree for Red Terror.",
-      "url": "https://en.wikipedia.org/wiki/Fanny_Kaplan",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%D0%A4%D0%B0%D0%BD%D0%BD%D0%B8_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD.jpg/330px-%D0%A4%D0%B0%D0%BD%D0%BD%D0%B8_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0_%D0%9A%D0%B0%D0%BF%D0%BB%D0%B0%D0%BD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1949,
+      "text": "The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.",
+      "url": "https://en.wikipedia.org/wiki/Democratic_Army_of_Greece",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DSE_badge.svg/330px-DSE_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1974,
-      "text": "A powerful bomb explodes at the Mitsubishi Heavy Industries headquarters in Marunouchi, Tokyo. Eight are killed, 378 are injured. Eight left-wing activists are arrested on May 19, 1975, by Japanese authorities.",
-      "url": "https://en.wikipedia.org/wiki/1974_Mitsubishi_Heavy_Industries_bombing",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Marunouchi_2chome_Building_2012-10-08.JPG/330px-Marunouchi_2chome_Building_2012-10-08.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1993,
+      "text": "Russia completes removing its troops from Lithuania.",
+      "url": "https://en.wikipedia.org/wiki/Lithuania",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/330px-Flag_of_Lithuania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
