@@ -1,27 +1,27 @@
 {
-  "updated": "2026-08-31",
-  "month": 8,
-  "day": 31,
+  "updated": "2026-09-01",
+  "month": 9,
+  "day": 1,
   "events": [
     {
-      "year": 1876,
-      "text": "Ottoman Sultan Murad V is deposed and succeeded by his brother, Abdul Hamid II.",
-      "url": "https://en.wikipedia.org/wiki/List_of_sultans_of_the_Ottoman_Empire",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg/330px-Coat_of_arms_of_the_Ottoman_Empire_%281882%E2%80%931922%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1610,
+      "text": "Claudio Monteverdi's musical work Vespro della Beata Vergine (Vespers for the Blessed Virgin) is first published, printed in Venice and dedicated to Pope Paul V.",
+      "url": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/330px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1949,
-      "text": "The retreat of the Democratic Army of Greece into Albania after its defeat on Gramos mountain marks the end of the Greek Civil War.",
-      "url": "https://en.wikipedia.org/wiki/Democratic_Army_of_Greece",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/DSE_badge.svg/330px-DSE_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1862,
+      "text": "American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign.",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1993,
-      "text": "Russia completes removing its troops from Lithuania.",
-      "url": "https://en.wikipedia.org/wiki/Lithuania",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/330px-Flag_of_Lithuania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "World War II: Launch of Operation Ratweek, complicating German retreat.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

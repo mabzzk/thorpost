@@ -1,20 +1,20 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "prices": [
     {
       "name": "Jernmalm (SGX)",
       "symbol": "TIO=F",
       "unit": "USD/t",
-      "price": 95.84,
+      "price": 96.05,
       "currency": "USD",
-      "change": 0.16,
-      "change_pct": 0.17
+      "change": 0.21,
+      "change_pct": 0.22
     },
     {
       "name": "Stål HRC (USA)",
       "symbol": "HRC=F",
       "unit": "USD/t",
-      "price": 1205.0,
+      "price": 1207.0,
       "currency": "USD",
       "change": 2.0,
       "change_pct": 0.17

@@ -1,30 +1,30 @@
 {
-  "updated": "2026-08-31",
+  "updated": "2026-09-01",
   "today": {
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "symbol": "partlycloudy_day",
-    "temp_max": 20.1,
-    "temp_min": 13.2,
-    "wind_speed": 2.1,
+    "temp_max": 19.4,
+    "temp_min": 13.5,
+    "wind_speed": 2.3,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-09-01",
-    "symbol": "partlycloudy_day",
-    "temp_max": 20.4,
-    "temp_min": 12.2,
-    "wind_speed": 2.0,
+    "date": "2026-09-02",
+    "symbol": "clearsky_day",
+    "temp_max": 20.2,
+    "temp_min": 11.3,
+    "wind_speed": 3.6,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 16.5
+    "ocean": 17.1
   },
   "sun": {
-    "sunrise": "06:14",
-    "sunset": "20:24"
+    "sunrise": "06:17",
+    "sunset": "20:21"
   },
   "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Mot er ikke fravær av frykt, men å gå videre til tross for den.",
+  "thought": "Lykken er ikke et mål, men en reisefølge.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-08-31"
+  "pollen_updated": "2026-09-01"
 }
