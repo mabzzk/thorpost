@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-01",
+  "updated": "2026-09-02",
   "month": 9,
-  "day": 1,
+  "day": 2,
   "events": [
     {
-      "year": 1610,
-      "text": "Claudio Monteverdi's musical work Vespro della Beata Vergine (Vespers for the Blessed Virgin) is first published, printed in Venice and dedicated to Pope Paul V.",
-      "url": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/330px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1807,
+      "text": "Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1807)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg/330px-Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1862,
-      "text": "American Civil War: Confederate forces under General Stonewall Jackson inflict heavy casualties in the Battle of Chantilly during the Union withdrawal from the Northern Virginia campaign.",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1945,
+      "text": "World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.",
+      "url": "https://en.wikipedia.org/wiki/Japanese_Instrument_of_Surrender",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/330px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: Launch of Operation Ratweek, complicating German retreat.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1992,
+      "text": "The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).",
+      "url": "https://en.wikipedia.org/wiki/1992_Nicaragua_earthquake",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
