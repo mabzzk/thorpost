@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "month": 9,
-  "day": 2,
+  "day": 3,
   "events": [
     {
-      "year": 1807,
-      "text": "Napoleonic Wars: The British Royal Navy bombards Copenhagen with fire bombs and phosphorus rockets to prevent Denmark from surrendering its fleet to Napoleon.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1807)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg/330px-Copenhagen_on_fire_1807_by_CW_Eckersberg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1783,
+      "text": "American Revolutionary War: The war ends with the signing of the Treaty of Paris by the United States and the Kingdom of Great Britain.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_of_Paris_%281783%29.jpg/330px-Treaty_of_Paris_%281783%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1945,
-      "text": "World War II: The Japanese Instrument of Surrender is signed by Japan and the major warring powers aboard the battleship USS Missouri in Tokyo Bay, thus marking the official end to the war.",
-      "url": "https://en.wikipedia.org/wiki/Japanese_Instrument_of_Surrender",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg/330px-Surrender_of_Japan_-_USS_Missouri_%28restored%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1914,
+      "text": "French composer Albéric Magnard is killed defending his estate against invading German soldiers.",
+      "url": "https://en.wikipedia.org/wiki/Alb%C3%A9ric_Magnard",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lucien_Alb%C3%A9ric_Magnard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1992,
-      "text": "The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms–Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3–8 meters (9.8–26.2 ft).",
-      "url": "https://en.wikipedia.org/wiki/1992_Nicaragua_earthquake",
-      "thumbnail": "",
+      "year": 1954,
+      "text": "The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.",
+      "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/China_Emblem_PLA_shaded.svg/330px-China_Emblem_PLA_shaded.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
