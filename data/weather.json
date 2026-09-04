@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "today": {
-    "date": "2026-09-03",
-    "symbol": "partlycloudy_day",
+    "date": "2026-09-04",
+    "symbol": "cloudy",
     "temp_max": 16.4,
-    "temp_min": 9.3,
-    "wind_speed": 2.0,
-    "precipitation": 0.0
+    "temp_min": 11.5,
+    "wind_speed": 2.3,
+    "precipitation": 1.4
   },
   "tomorrow": {
-    "date": "2026-09-04",
+    "date": "2026-09-05",
     "symbol": "partlycloudy_day",
-    "temp_max": 17.2,
-    "temp_min": 11.1,
+    "temp_max": 17.4,
+    "temp_min": 10.9,
     "wind_speed": 1.9,
-    "precipitation": 2.6
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 15.8
+    "ocean": 16.9
   },
   "sun": {
-    "sunrise": "06:21",
-    "sunset": "20:15"
+    "sunrise": "06:23",
+    "sunset": "20:12"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "En optimist ser muligheten i hver vanskelighet.",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "Den beste tid å plante et tre var for tjue år siden. Den nest beste er i dag.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-09-03"
+  "pollen_updated": "2026-09-04"
 }

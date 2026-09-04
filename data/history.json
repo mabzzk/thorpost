@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-04",
   "month": 9,
-  "day": 3,
+  "day": 4,
   "events": [
     {
-      "year": 1783,
-      "text": "American Revolutionary War: The war ends with the signing of the Treaty of Paris by the United States and the Kingdom of Great Britain.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1783)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Treaty_of_Paris_%281783%29.jpg/330px-Treaty_of_Paris_%281783%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1812,
+      "text": "War of 1812: The Siege of Fort Harrison begins when the fort is set on fire.",
+      "url": "https://en.wikipedia.org/wiki/War_of_1812",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1914,
-      "text": "French composer Albéric Magnard is killed defending his estate against invading German soldiers.",
-      "url": "https://en.wikipedia.org/wiki/Alb%C3%A9ric_Magnard",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lucien_Alb%C3%A9ric_Magnard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1941,
+      "text": "World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.",
+      "url": "https://en.wikipedia.org/wiki/USS_Greer",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/USS_Greer%3B0514502.jpg/330px-USS_Greer%3B0514502.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1954,
-      "text": "The People's Liberation Army begins shelling the Republic of China-controlled islands of Quemoy, starting the First Taiwan Strait Crisis.",
-      "url": "https://en.wikipedia.org/wiki/People's_Liberation_Army",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/China_Emblem_PLA_shaded.svg/330px-China_Emblem_PLA_shaded.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1972,
+      "text": "Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.",
+      "url": "https://en.wikipedia.org/wiki/Mark_Spitz",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mark_Spitz.jpg/330px-Mark_Spitz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
