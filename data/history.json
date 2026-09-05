@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "month": 9,
-  "day": 4,
+  "day": 5,
   "events": [
     {
-      "year": 1812,
-      "text": "War of 1812: The Siege of Fort Harrison begins when the fort is set on fire.",
-      "url": "https://en.wikipedia.org/wiki/War_of_1812",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/330px-War_of_1812_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1816,
+      "text": "Louis XVIII of France has to dissolve the Chambre introuvable (\"Unobtainable Chamber\").",
+      "url": "https://en.wikipedia.org/wiki/Louis_XVIII",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg/330px-G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1941,
-      "text": "World War II: A German submarine makes the first attack of the war against a United States warship, the USS Greer.",
-      "url": "https://en.wikipedia.org/wiki/USS_Greer",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/USS_Greer%3B0514502.jpg/330px-USS_Greer%3B0514502.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "World War II: In the Pacific Theater, the 503rd Parachute Infantry Regiment lands and occupies Lae Nadzab Airport, near Lae during the Salamaua–Lae campaign.",
+      "url": "https://en.wikipedia.org/wiki/Pacific_War",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/330px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1972,
-      "text": "Mark Spitz becomes the first competitor to win seven medals at a single Olympic Games.",
-      "url": "https://en.wikipedia.org/wiki/Mark_Spitz",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mark_Spitz.jpg/330px-Mark_Spitz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1978,
+      "text": "Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.",
+      "url": "https://en.wikipedia.org/wiki/Camp_David_Accords",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-330px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
