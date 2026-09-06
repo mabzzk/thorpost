@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "month": 9,
-  "day": 5,
+  "day": 6,
   "events": [
     {
-      "year": 1816,
-      "text": "Louis XVIII of France has to dissolve the Chambre introuvable (\"Unobtainable Chamber\").",
-      "url": "https://en.wikipedia.org/wiki/Louis_XVIII",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg/330px-G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1901,
+      "text": "Leon Czolgosz, an unemployed anarchist, shoots and fatally wounds US president William McKinley at the Pan-American Exposition in Buffalo, New York.",
+      "url": "https://en.wikipedia.org/wiki/Leon_Czolgosz",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leon_Czolgosz_ca_1900.jpg/330px-Leon_Czolgosz_ca_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: In the Pacific Theater, the 503rd Parachute Infantry Regiment lands and occupies Lae Nadzab Airport, near Lae during the Salamaua–Lae campaign.",
-      "url": "https://en.wikipedia.org/wiki/Pacific_War",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg/330px-Raising_the_Flag_on_Iwo_Jima%2C_larger_-_edit1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1962,
+      "text": "The United States government begins the Exercise Spade Fork nuclear readiness drill.",
+      "url": "https://en.wikipedia.org/wiki/Federal_Emergency_Plan_D-Minus",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1978,
-      "text": "Camp David Accords: Menachem Begin and Anwar Sadat begin peace discussions at Camp David, Maryland.",
-      "url": "https://en.wikipedia.org/wiki/Camp_David_Accords",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif/lossy-page1-330px-Close_up_of_Menahem_Begin%2C_Jimmy_Carter_and_Anwar_Sadat_at_Camp_David.%2C_09-07-1978_-_NARA_-_181133.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "The Russian parliament approves the name change of Leningrad back to Saint Petersburg. The change is effective October 1.",
+      "url": "https://en.wikipedia.org/wiki/Saint_Petersburg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg/330px-Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

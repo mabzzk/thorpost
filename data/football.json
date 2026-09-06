@@ -1,16 +1,9 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
-    {
-      "date": "2026-09-05",
-      "time": "14:00",
-      "home": "Larvik Turn",
-      "away": "Sandefjord BK Lovisenlund Stadion",
-      "venue": ""
-    },
     {
       "date": "2026-09-12",
       "time": "14:00",
