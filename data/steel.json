@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "prices": [
     {
       "name": "Jernmalm (SGX)",
@@ -16,8 +16,8 @@
       "unit": "USD/t",
       "price": 1243.0,
       "currency": "USD",
-      "change": 20.0,
-      "change_pct": 1.64
+      "change": 17.0,
+      "change_pct": 1.39
     },
     {
       "name": "Kull (Newcastle)",

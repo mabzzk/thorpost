@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "month": 9,
-  "day": 6,
+  "day": 7,
   "events": [
     {
-      "year": 1901,
-      "text": "Leon Czolgosz, an unemployed anarchist, shoots and fatally wounds US president William McKinley at the Pan-American Exposition in Buffalo, New York.",
-      "url": "https://en.wikipedia.org/wiki/Leon_Czolgosz",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Leon_Czolgosz_ca_1900.jpg/330px-Leon_Czolgosz_ca_1900.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1818,
+      "text": "Carl III of Sweden–Norway is crowned king of Norway, in Trondheim.",
+      "url": "https://en.wikipedia.org/wiki/Charles_XIV_John",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png/330px-Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1962,
-      "text": "The United States government begins the Exercise Spade Fork nuclear readiness drill.",
-      "url": "https://en.wikipedia.org/wiki/Federal_Emergency_Plan_D-Minus",
-      "thumbnail": "",
+      "year": 1923,
+      "text": "The International Criminal Police Organization (INTERPOL) is formed.",
+      "url": "https://en.wikipedia.org/wiki/Interpol",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/INTERPOL_Logo.svg/330px-INTERPOL_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "The Russian parliament approves the name change of Leningrad back to Saint Petersburg. The change is effective October 1.",
-      "url": "https://en.wikipedia.org/wiki/Saint_Petersburg",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg/330px-Spb_06-2017_img20_StMichael_Castle_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1977,
+      "text": "The Torrijos–Carter Treaties between Panama and the United States on the status of the Panama Canal are signed. The United States agrees to transfer control of the canal to Panama at the end of the 20th century.",
+      "url": "https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jimmy_Carter_and_General_Omar_Torrijos_signing_the_Panama_Canal_Treaty.jpg/330px-Jimmy_Carter_and_General_Omar_Torrijos_signing_the_Panama_Canal_Treaty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

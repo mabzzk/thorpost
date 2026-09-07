@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -53,6 +53,17 @@
     },
     {
       "pos": 2,
+      "team": "Arsenal FC",
+      "played": 3,
+      "won": 3,
+      "drawn": 0,
+      "lost": 0,
+      "gd": 5,
+      "points": 9,
+      "is_spurs": false
+    },
+    {
+      "pos": 3,
       "team": "Hull City AFC",
       "played": 3,
       "won": 2,
@@ -63,24 +74,13 @@
       "is_spurs": false
     },
     {
-      "pos": 3,
-      "team": "Arsenal FC",
-      "played": 2,
-      "won": 2,
-      "drawn": 0,
-      "lost": 0,
-      "gd": 4,
-      "points": 6,
-      "is_spurs": false
-    },
-    {
       "pos": 4,
       "team": "Chelsea FC",
-      "played": 2,
+      "played": 3,
       "won": 2,
       "drawn": 0,
-      "lost": 0,
-      "gd": 2,
+      "lost": 1,
+      "gd": 1,
       "points": 6,
       "is_spurs": false
     },
@@ -119,6 +119,17 @@
     },
     {
       "pos": 8,
+      "team": "Everton FC",
+      "played": 3,
+      "won": 1,
+      "drawn": 2,
+      "lost": 0,
+      "gd": 2,
+      "points": 5,
+      "is_spurs": false
+    },
+    {
+      "pos": 9,
       "team": "Leeds United FC",
       "played": 3,
       "won": 1,
@@ -129,7 +140,7 @@
       "is_spurs": false
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Brighton & Hove Albion FC",
       "played": 3,
       "won": 1,
@@ -140,18 +151,18 @@
       "is_spurs": false
     },
     {
-      "pos": 10,
-      "team": "Everton FC",
-      "played": 2,
+      "pos": 11,
+      "team": "Manchester United FC",
+      "played": 3,
       "won": 1,
       "drawn": 1,
-      "lost": 0,
-      "gd": 2,
+      "lost": 1,
+      "gd": 1,
       "points": 4,
       "is_spurs": false
     },
     {
-      "pos": 11,
+      "pos": 12,
       "team": "Sunderland AFC",
       "played": 3,
       "won": 1,
@@ -159,17 +170,6 @@
       "lost": 1,
       "gd": 0,
       "points": 4,
-      "is_spurs": false
-    },
-    {
-      "pos": 12,
-      "team": "Manchester United FC",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "gd": 1,
-      "points": 3,
       "is_spurs": false
     },
     {
