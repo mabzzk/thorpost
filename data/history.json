@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "month": 9,
-  "day": 7,
+  "day": 8,
   "events": [
     {
-      "year": 1818,
-      "text": "Carl III of Sweden–Norway is crowned king of Norway, in Trondheim.",
-      "url": "https://en.wikipedia.org/wiki/Charles_XIV_John",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png/330px-Karl_XIV_Johan%2C_Sveriges_och_Norges_konung._Portr%C3%A4tt_av_Frederic_Westin%2C_cirka_1843._-_kopia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1761,
+      "text": "Marriage of King George III of the United Kingdom to Duchess Charlotte of Mecklenburg-Strelitz.",
+      "url": "https://en.wikipedia.org/wiki/George_III",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/330px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1923,
-      "text": "The International Criminal Police Organization (INTERPOL) is formed.",
-      "url": "https://en.wikipedia.org/wiki/Interpol",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/INTERPOL_Logo.svg/330px-INTERPOL_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1898,
+      "text": "Seven hundred Greek civilians, 17 British guards and the British Consul of Crete are killed by a Turkish mob.",
+      "url": "https://en.wikipedia.org/wiki/Candia_massacre",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Herakleion.Street.After.Massacre.of.1898.jpg/330px-Herakleion.Street.After.Massacre.of.1898.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1977,
-      "text": "The Torrijos–Carter Treaties between Panama and the United States on the status of the Panama Canal are signed. The United States agrees to transfer control of the canal to Panama at the end of the 20th century.",
-      "url": "https://en.wikipedia.org/wiki/Torrijos%E2%80%93Carter_Treaties",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jimmy_Carter_and_General_Omar_Torrijos_signing_the_Panama_Canal_Treaty.jpg/330px-Jimmy_Carter_and_General_Omar_Torrijos_signing_the_Panama_Canal_Treaty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1962,
+      "text": "Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.",
+      "url": "https://en.wikipedia.org/wiki/Pines_Express",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shoscombe_%26_Single_Hill_Halt_%27Pines_Express%27_Relief_nearing_geograph-2671505-by-Ben-Brooksbank.jpg/330px-Shoscombe_%26_Single_Hill_Halt_%27Pines_Express%27_Relief_nearing_geograph-2671505-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
