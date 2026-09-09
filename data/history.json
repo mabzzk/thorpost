@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "month": 9,
-  "day": 8,
+  "day": 9,
   "events": [
     {
-      "year": 1761,
-      "text": "Marriage of King George III of the United Kingdom to Duchess Charlotte of Mecklenburg-Strelitz.",
-      "url": "https://en.wikipedia.org/wiki/George_III",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg/330px-Allan_Ramsay_-_King_George_III_in_coronation_robes_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1801,
+      "text": "Alexander I of Russia confirms the privileges of Baltic provinces.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg/330px-Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1898,
-      "text": "Seven hundred Greek civilians, 17 British guards and the British Consul of Crete are killed by a Turkish mob.",
-      "url": "https://en.wikipedia.org/wiki/Candia_massacre",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Herakleion.Street.After.Massacre.of.1898.jpg/330px-Herakleion.Street.After.Massacre.of.1898.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1940,
+      "text": "George Stibitz pioneers the first remote operation of a computer.",
+      "url": "https://en.wikipedia.org/wiki/George_Stibitz",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/George_Stibitz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1962,
-      "text": "Last run of the famous Pines Express over the Somerset and Dorset Railway line (UK) fittingly using the last steam locomotive built by British Railways, BR Standard Class 9F 92220 Evening Star.",
-      "url": "https://en.wikipedia.org/wiki/Pines_Express",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Shoscombe_%26_Single_Hill_Halt_%27Pines_Express%27_Relief_nearing_geograph-2671505-by-Ben-Brooksbank.jpg/330px-Shoscombe_%26_Single_Hill_Halt_%27Pines_Express%27_Relief_nearing_geograph-2671505-by-Ben-Brooksbank.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1972,
+      "text": "In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.",
+      "url": "https://en.wikipedia.org/wiki/Kentucky",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/330px-Flag_of_Kentucky.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
