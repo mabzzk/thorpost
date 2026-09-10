@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "month": 9,
-  "day": 9,
+  "day": 10,
   "events": [
     {
-      "year": 1801,
-      "text": "Alexander I of Russia confirms the privileges of Baltic provinces.",
-      "url": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg/330px-Alexander_I_of_Russia_by_G.Dawe_%28c._1818-1825%2C_Royal_coll._of_UK%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1622,
+      "text": "Fifty-five Christians are executed in Nagasaki during the Great Genna Martyrdom.",
+      "url": "https://en.wikipedia.org/wiki/Nagasaki",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Nagasaki_City_View_from_Glover_Garden%2C_Nagasaki_2014.jpg/330px-Nagasaki_City_View_from_Glover_Garden%2C_Nagasaki_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "George Stibitz pioneers the first remote operation of a computer.",
-      "url": "https://en.wikipedia.org/wiki/George_Stibitz",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/George_Stibitz.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1932,
+      "text": "The New York City Subway's third competing subway system, the municipally owned IND, is opened.",
+      "url": "https://en.wikipedia.org/wiki/Independent_Subway_System",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Nostalgia_Train_%288892314767%29.jpg/330px-Nostalgia_Train_%288892314767%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1972,
-      "text": "In Kentucky's Mammoth Cave National Park, a Cave Research Foundation exploration and mapping team discovers a link between the Mammoth and Flint Ridge cave systems, making it the longest known cave passageway in the world.",
-      "url": "https://en.wikipedia.org/wiki/Kentucky",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_Kentucky.svg/330px-Flag_of_Kentucky.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1976,
+      "text": "A British Airways Hawker Siddeley Trident and an Inex-Adria DC-9 collide near Zagreb, Yugoslavia, killing 176.",
+      "url": "https://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Trident_3_-_G-AWZT_-_tragic_ending_%2839469585575%29.jpg/330px-Trident_3_-_G-AWZT_-_tragic_ending_%2839469585575%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
