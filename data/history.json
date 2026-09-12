@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "month": 9,
-  "day": 11,
+  "day": 12,
   "events": [
     {
-      "year": 1789,
-      "text": "Alexander Hamilton is appointed the first United States Secretary of the Treasury.",
-      "url": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Alexander_Hamilton_%28NPG%29.jpg/330px-Alexander_Hamilton_%28NPG%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1890,
+      "text": "Salisbury, Rhodesia, is founded.",
+      "url": "https://en.wikipedia.org/wiki/Harare",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Crowne_Plaza%2C_Harare.png/330px-Crowne_Plaza%2C_Harare.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1922,
-      "text": "The Treaty of Kars is ratified in Yerevan, Armenia.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Kars",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/TreatyofKarsMap.jpg/330px-TreatyofKarsMap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1959,
+      "text": "Bonanza, the first regularly scheduled TV program presented in color, is launched in the United States.",
+      "url": "https://en.wikipedia.org/wiki/Bonanza",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/f/f1/Bonanza_title_screen.jpg/330px-Bonanza_title_screen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1982,
-      "text": "The international forces that were guaranteeing the safety of Palestinian refugees following Israel's 1982 Invasion of Lebanon leave Beirut. Five days later, several thousand refugees are massacred in the Sabra and Shatila refugee camps by Phalange forces.",
-      "url": "https://en.wikipedia.org/wiki/Palestinian_refugees",
-      "thumbnail": "",
+      "year": 1991,
+      "text": "NASA launches Space Shuttle Discovery on STS-48 to deploy the Upper Atmosphere Research Satellite.",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Discovery",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg/330px-STS-133_Space_Shuttle_Discovery_after_undocking_3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
