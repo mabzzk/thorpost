@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "today": {
-    "date": "2026-09-12",
-    "symbol": "cloudy",
-    "temp_max": 16.5,
-    "temp_min": 12.6,
-    "wind_speed": 3.5,
-    "precipitation": 2.0
+    "date": "2026-09-13",
+    "symbol": "fair_day",
+    "temp_max": 19.5,
+    "temp_min": 11.4,
+    "wind_speed": 2.3,
+    "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-09-13",
-    "symbol": "partlycloudy_day",
-    "temp_max": 19.3,
-    "temp_min": 10.8,
-    "wind_speed": 2.0,
+    "date": "2026-09-14",
+    "symbol": "cloudy",
+    "temp_max": 17.3,
+    "temp_min": 10.6,
+    "wind_speed": 1.8,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 15.6
+    "ocean": 15.1
   },
   "sun": {
-    "sunrise": "06:41",
-    "sunset": "19:49"
+    "sunrise": "06:44",
+    "sunset": "19:46"
   },
-  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
-  "thought": "Lykke er ikke å få det du vil, men å ville det du har.",
+  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
+  "thought": "Vær den forandringen du vil se i verden. – Mahatma Gandhi",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-09-12"
+  "pollen_updated": "2026-09-13"
 }

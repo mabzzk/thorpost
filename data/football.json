@@ -1,16 +1,9 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
-    {
-      "date": "2026-09-12",
-      "time": "14:00",
-      "home": "Flint",
-      "away": "Larvik Turn Flint ESSO Arena A KG",
-      "venue": ""
-    },
     {
       "date": "2026-09-19",
       "time": "14:00",
