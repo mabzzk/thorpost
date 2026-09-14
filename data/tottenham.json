@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -63,12 +63,12 @@
     {
       "pos": 2,
       "team": "Manchester City FC",
-      "played": 3,
-      "won": 3,
+      "played": 4,
+      "won": 4,
       "drawn": 0,
       "lost": 0,
-      "gd": 5,
-      "points": 9,
+      "gd": 6,
+      "points": 12,
       "is_spurs": false
     },
     {
@@ -84,6 +84,17 @@
     },
     {
       "pos": 4,
+      "team": "Brighton & Hove Albion FC",
+      "played": 4,
+      "won": 2,
+      "drawn": 1,
+      "lost": 1,
+      "gd": 8,
+      "points": 7,
+      "is_spurs": false
+    },
+    {
+      "pos": 5,
       "team": "Chelsea FC",
       "played": 4,
       "won": 2,
@@ -94,7 +105,7 @@
       "is_spurs": false
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "Brentford FC",
       "played": 4,
       "won": 1,
@@ -105,7 +116,7 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Liverpool FC",
       "played": 4,
       "won": 1,
@@ -116,7 +127,7 @@
       "is_spurs": false
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Everton FC",
       "played": 4,
       "won": 1,
@@ -127,7 +138,7 @@
       "is_spurs": false
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Ipswich Town FC",
       "played": 4,
       "won": 2,
@@ -138,7 +149,7 @@
       "is_spurs": false
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Newcastle United FC",
       "played": 3,
       "won": 1,
@@ -149,7 +160,7 @@
       "is_spurs": false
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Leeds United FC",
       "played": 3,
       "won": 1,
@@ -160,7 +171,7 @@
       "is_spurs": false
     },
     {
-      "pos": 11,
+      "pos": 12,
       "team": "Nottingham Forest FC",
       "played": 4,
       "won": 1,
@@ -171,24 +182,13 @@
       "is_spurs": false
     },
     {
-      "pos": 12,
-      "team": "Brighton & Hove Albion FC",
-      "played": 3,
-      "won": 1,
-      "drawn": 1,
-      "lost": 1,
-      "gd": 3,
-      "points": 4,
-      "is_spurs": false
-    },
-    {
       "pos": 13,
       "team": "Manchester United FC",
-      "played": 3,
+      "played": 4,
       "won": 1,
       "drawn": 1,
-      "lost": 1,
-      "gd": 1,
+      "lost": 2,
+      "gd": 0,
       "points": 4,
       "is_spurs": false
     },
@@ -261,11 +261,11 @@
     {
       "pos": 20,
       "team": "Coventry City FC",
-      "played": 3,
+      "played": 4,
       "won": 0,
       "drawn": 0,
-      "lost": 3,
-      "gd": -5,
+      "lost": 4,
+      "gd": -10,
       "points": 0,
       "is_spurs": false
     }
