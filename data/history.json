@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "month": 9,
-  "day": 14,
+  "day": 15,
   "events": [
     {
-      "year": 1741,
-      "text": "George Frideric Handel completes his oratorio Messiah.",
-      "url": "https://en.wikipedia.org/wiki/George_Frideric_Handel",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/George_Frideric_Handel_by_Balthasar_Denner.jpg/330px-George_Frideric_Handel_by_Balthasar_Denner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1816,
+      "text": "HMS Whiting runs aground on the Doom Bar.",
+      "url": "https://en.wikipedia.org/wiki/HMS_Whiting_(1812)",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1939,
-      "text": "World War II: The Estonian military boards the Polish submarine ORP Orzeł in Tallinn, sparking a diplomatic incident that the Soviet Union will later use to justify the annexation of Estonia.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.",
+      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1992,
-      "text": "The Constitutional Court of Bosnia and Herzegovina declares the breakaway Croatian Republic of Herzeg-Bosnia to be illegal.",
-      "url": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/330px-Flag_of_Bosnia_and_Herzegovina.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1971,
+      "text": "The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.",
+      "url": "https://en.wikipedia.org/wiki/Greenpeace",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Greenpeace_offices_world_map.svg/330px-Greenpeace_offices_world_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

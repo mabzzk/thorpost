@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -73,6 +73,17 @@
     },
     {
       "pos": 3,
+      "team": "Leeds United FC",
+      "played": 4,
+      "won": 2,
+      "drawn": 2,
+      "lost": 0,
+      "gd": 4,
+      "points": 8,
+      "is_spurs": false
+    },
+    {
+      "pos": 4,
       "team": "Hull City AFC",
       "played": 4,
       "won": 2,
@@ -83,7 +94,7 @@
       "is_spurs": false
     },
     {
-      "pos": 4,
+      "pos": 5,
       "team": "Brighton & Hove Albion FC",
       "played": 4,
       "won": 2,
@@ -94,7 +105,7 @@
       "is_spurs": false
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "Chelsea FC",
       "played": 4,
       "won": 2,
@@ -105,7 +116,7 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Brentford FC",
       "played": 4,
       "won": 1,
@@ -116,7 +127,7 @@
       "is_spurs": false
     },
     {
-      "pos": 7,
+      "pos": 8,
       "team": "Liverpool FC",
       "played": 4,
       "won": 1,
@@ -127,7 +138,7 @@
       "is_spurs": false
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Everton FC",
       "played": 4,
       "won": 1,
@@ -138,7 +149,7 @@
       "is_spurs": false
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Ipswich Town FC",
       "played": 4,
       "won": 2,
@@ -149,35 +160,24 @@
       "is_spurs": false
     },
     {
-      "pos": 10,
-      "team": "Newcastle United FC",
-      "played": 3,
-      "won": 1,
-      "drawn": 2,
-      "lost": 0,
-      "gd": 2,
-      "points": 5,
-      "is_spurs": false
-    },
-    {
       "pos": 11,
-      "team": "Leeds United FC",
-      "played": 3,
-      "won": 1,
-      "drawn": 2,
-      "lost": 0,
-      "gd": 1,
-      "points": 5,
-      "is_spurs": false
-    },
-    {
-      "pos": 12,
       "team": "Nottingham Forest FC",
       "played": 4,
       "won": 1,
       "drawn": 2,
       "lost": 1,
       "gd": 0,
+      "points": 5,
+      "is_spurs": false
+    },
+    {
+      "pos": 12,
+      "team": "Newcastle United FC",
+      "played": 4,
+      "won": 1,
+      "drawn": 2,
+      "lost": 1,
+      "gd": -1,
       "points": 5,
       "is_spurs": false
     },
