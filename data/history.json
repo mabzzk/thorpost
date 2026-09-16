@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "month": 9,
-  "day": 15,
+  "day": 16,
   "events": [
     {
-      "year": 1816,
-      "text": "HMS Whiting runs aground on the Doom Bar.",
-      "url": "https://en.wikipedia.org/wiki/HMS_Whiting_(1812)",
-      "thumbnail": "",
+      "year": 1914,
+      "text": "World War I: The Siege of Przemyśl (present-day Poland) begins.",
+      "url": "https://en.wikipedia.org/wiki/World_War_I",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "Franklin D. Roosevelt and Winston Churchill meet in Quebec as part of the Octagon Conference to discuss strategy.",
-      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1966,
+      "text": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.",
+      "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(Lincoln_Center)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/MET_Opera_%2848047450723%29.jpg/330px-MET_Opera_%2848047450723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1971,
-      "text": "The first Greenpeace ship departs from Vancouver to protest against the upcoming Cannikin nuclear weapon test in Alaska.",
-      "url": "https://en.wikipedia.org/wiki/Greenpeace",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Greenpeace_offices_world_map.svg/330px-Greenpeace_offices_world_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1992,
+      "text": "Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.",
+      "url": "https://en.wikipedia.org/wiki/Black_Wednesday",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/D_GBPDEM_1992.PNG/330px-D_GBPDEM_1992.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
