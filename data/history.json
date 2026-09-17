@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "month": 9,
-  "day": 16,
+  "day": 17,
   "events": [
     {
-      "year": 1914,
-      "text": "World War I: The Siege of Przemyśl (present-day Poland) begins.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1794,
+      "text": "Flanders Campaign: France completes its conquest of the Austrian Netherlands at the Battle of Sprimont.",
+      "url": "https://en.wikipedia.org/wiki/Low_Countries_theatre_of_the_War_of_the_First_Coalition",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1794-1795_Franse_invasie_in_de_Nederlanden.svg/330px-1794-1795_Franse_invasie_in_de_Nederlanden.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1966,
-      "text": "The Metropolitan Opera House opens at Lincoln Center in New York City with the world premiere of Samuel Barber's opera Antony and Cleopatra.",
-      "url": "https://en.wikipedia.org/wiki/Metropolitan_Opera_House_(Lincoln_Center)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/MET_Opera_%2848047450723%29.jpg/330px-MET_Opera_%2848047450723%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1930,
+      "text": "The Kurdish Ararat rebellion is suppressed by the Turks.",
+      "url": "https://en.wikipedia.org/wiki/Ararat_rebellion",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Halis-Ihsan_Nuri-Ferzende.jpg/330px-Halis-Ihsan_Nuri-Ferzende.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1992,
-      "text": "Black Wednesday: The British pound is forced out of the European Exchange Rate Mechanism by currency speculators and is forced to devalue against the German mark.",
-      "url": "https://en.wikipedia.org/wiki/Black_Wednesday",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/D_GBPDEM_1992.PNG/330px-D_GBPDEM_1992.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1965,
+      "text": "The Battle of Chawinda is fought between Pakistan and India.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Chawinda",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sculpture_showing_Indo-Pak_war.jpg/330px-Sculpture_showing_Indo-Pak_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "today": {
-    "date": "2026-09-16",
-    "symbol": "partlycloudy_day",
-    "temp_max": 19.2,
-    "temp_min": 12.5,
-    "wind_speed": 4.0,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-09-17",
     "symbol": "partlycloudy_day",
-    "temp_max": 14.3,
-    "temp_min": 10.0,
-    "wind_speed": 2.6,
-    "precipitation": 6.1
+    "temp_max": 15.1,
+    "temp_min": 9.9,
+    "wind_speed": 2.9,
+    "precipitation": 2.6
+  },
+  "tomorrow": {
+    "date": "2026-09-18",
+    "symbol": "partlycloudy_day",
+    "temp_max": 15.5,
+    "temp_min": 11.3,
+    "wind_speed": 4.5,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 15.3
+    "ocean": 14.7
   },
   "sun": {
-    "sunrise": "06:50",
-    "sunset": "19:37"
+    "sunrise": "06:53",
+    "sunset": "19:34"
   },
-  "remark": "Behagelig og lunt, selv om sola gjemmer seg litt. Grillkveld kanskje?",
-  "thought": "Lykken er ikke et mål, men en reisefølge.",
+  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
+  "thought": "Havet er alltid like vakkert, uansett om solen skinner eller regnet faller.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-09-16"
+  "pollen_updated": "2026-09-17"
 }
