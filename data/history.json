@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "month": 9,
-  "day": 17,
+  "day": 18,
   "events": [
     {
-      "year": 1794,
-      "text": "Flanders Campaign: France completes its conquest of the Austrian Netherlands at the Battle of Sprimont.",
-      "url": "https://en.wikipedia.org/wiki/Low_Countries_theatre_of_the_War_of_the_First_Coalition",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1794-1795_Franse_invasie_in_de_Nederlanden.svg/330px-1794-1795_Franse_invasie_in_de_Nederlanden.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1867,
+      "text": "The first provincial election for the Nova Scotia Legislative Assembly after Canada's Confederation returns a large majority for the Anti-Confederation Party, led by William Annand, who becomes Premier.",
+      "url": "https://en.wikipedia.org/wiki/Nova_Scotia_House_of_Assembly",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nova_Scotia_House_of_Assembly_%28Layout_Chart_by_Party_Affiliation%29.svg/330px-Nova_Scotia_House_of_Assembly_%28Layout_Chart_by_Party_Affiliation%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1930,
-      "text": "The Kurdish Ararat rebellion is suppressed by the Turks.",
-      "url": "https://en.wikipedia.org/wiki/Ararat_rebellion",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Halis-Ihsan_Nuri-Ferzende.jpg/330px-Halis-Ihsan_Nuri-Ferzende.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1939,
+      "text": "World War II: The radio show Germany Calling begins transmitting Nazi propaganda.",
+      "url": "https://en.wikipedia.org/wiki/Germany_Calling",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1965,
-      "text": "The Battle of Chawinda is fought between Pakistan and India.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Chawinda",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Sculpture_showing_Indo-Pak_war.jpg/330px-Sculpture_showing_Indo-Pak_war.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1977,
+      "text": "Voyager I takes the first distant photograph of the Earth and the Moon together.",
+      "url": "https://en.wikipedia.org/wiki/Voyager_1",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
