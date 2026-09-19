@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -73,6 +73,17 @@
     },
     {
       "pos": 3,
+      "team": "Brentford FC",
+      "played": 5,
+      "won": 2,
+      "drawn": 3,
+      "lost": 0,
+      "gd": 6,
+      "points": 9,
+      "is_spurs": false
+    },
+    {
+      "pos": 4,
       "team": "Leeds United FC",
       "played": 4,
       "won": 2,
@@ -83,7 +94,7 @@
       "is_spurs": false
     },
     {
-      "pos": 4,
+      "pos": 5,
       "team": "Hull City AFC",
       "played": 4,
       "won": 2,
@@ -94,7 +105,7 @@
       "is_spurs": false
     },
     {
-      "pos": 5,
+      "pos": 6,
       "team": "Brighton & Hove Albion FC",
       "played": 4,
       "won": 2,
@@ -105,25 +116,14 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Chelsea FC",
-      "played": 4,
+      "played": 5,
       "won": 2,
       "drawn": 1,
-      "lost": 1,
-      "gd": 1,
+      "lost": 2,
+      "gd": -2,
       "points": 7,
-      "is_spurs": false
-    },
-    {
-      "pos": 7,
-      "team": "Brentford FC",
-      "played": 4,
-      "won": 1,
-      "drawn": 3,
-      "lost": 0,
-      "gd": 3,
-      "points": 6,
       "is_spurs": false
     },
     {

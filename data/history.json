@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "month": 9,
-  "day": 18,
+  "day": 19,
   "events": [
     {
-      "year": 1867,
-      "text": "The first provincial election for the Nova Scotia Legislative Assembly after Canada's Confederation returns a large majority for the Anti-Confederation Party, led by William Annand, who becomes Premier.",
-      "url": "https://en.wikipedia.org/wiki/Nova_Scotia_House_of_Assembly",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nova_Scotia_House_of_Assembly_%28Layout_Chart_by_Party_Affiliation%29.svg/330px-Nova_Scotia_House_of_Assembly_%28Layout_Chart_by_Party_Affiliation%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1862,
+      "text": "American Civil War: Union troops under William Rosecrans defeat a Confederate force commanded by Sterling Price.",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1939,
-      "text": "World War II: The radio show Germany Calling begins transmitting Nazi propaganda.",
-      "url": "https://en.wikipedia.org/wiki/Germany_Calling",
-      "thumbnail": "",
+      "year": 1946,
+      "text": "The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.",
+      "url": "https://en.wikipedia.org/wiki/Council_of_Europe",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1977,
-      "text": "Voyager I takes the first distant photograph of the Earth and the Moon together.",
-      "url": "https://en.wikipedia.org/wiki/Voyager_1",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Voyager_spacecraft_model.png/330px-Voyager_spacecraft_model.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.",
+      "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Otzi-Quinson.jpg/330px-Otzi-Quinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
