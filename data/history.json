@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "month": 9,
-  "day": 19,
+  "day": 20,
   "events": [
     {
-      "year": 1862,
-      "text": "American Civil War: Union troops under William Rosecrans defeat a Confederate force commanded by Sterling Price.",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1835,
+      "text": "The decade-long Ragamuffin War starts when rebels capture Porto Alegre in Brazil.",
+      "url": "https://en.wikipedia.org/wiki/Ragamuffin_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Carga_de_Cavalaria_by_Guilherme_Litran.jpg/330px-Carga_de_Cavalaria_by_Guilherme_Litran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
       "year": 1946,
-      "text": "The Council of Europe is founded following a speech by Winston Churchill at the University of Zurich.",
-      "url": "https://en.wikipedia.org/wiki/Council_of_Europe",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/330px-Flag_of_Europe.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.",
+      "url": "https://en.wikipedia.org/wiki/1946_Faroese_independence_referendum",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1946-09-14_F%C3%B3lkaatkv%C3%B8%C3%B0an_-_1946_Faroese_independence_referendum.svg/330px-1946-09-14_F%C3%B3lkaatkv%C3%B8%C3%B0an_-_1946_Faroese_independence_referendum.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "Ötzi the Iceman is discovered in the Alps on the border between Italy and Austria.",
-      "url": "https://en.wikipedia.org/wiki/%C3%96tzi",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Otzi-Quinson.jpg/330px-Otzi-Quinson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1984,
+      "text": "A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.",
+      "url": "https://en.wikipedia.org/wiki/1984_US_embassy_bombing_in_Beirut",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/US_Embassy_in_Beirut%2C_Lebanon_%28Muslim_West_side%29_in_September%2C_1984_Photo_by_Nancy_Wong.tif/lossy-page1-330px-US_Embassy_in_Beirut%2C_Lebanon_%28Muslim_West_side%29_in_September%2C_1984_Photo_by_Nancy_Wong.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
