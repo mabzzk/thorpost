@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "month": 9,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1835,
-      "text": "The decade-long Ragamuffin War starts when rebels capture Porto Alegre in Brazil.",
-      "url": "https://en.wikipedia.org/wiki/Ragamuffin_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Carga_de_Cavalaria_by_Guilherme_Litran.jpg/330px-Carga_de_Cavalaria_by_Guilherme_Litran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1862,
+      "text": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.",
+      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/330px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1946,
-      "text": "Six days after a referendum, King Christian X of Denmark annuls the declaration of independence of the Faroe Islands.",
-      "url": "https://en.wikipedia.org/wiki/1946_Faroese_independence_referendum",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1946-09-14_F%C3%B3lkaatkv%C3%B8%C3%B0an_-_1946_Faroese_independence_referendum.svg/330px-1946-09-14_F%C3%B3lkaatkv%C3%B8%C3%B0an_-_1946_Faroese_independence_referendum.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1957,
+      "text": "Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.",
+      "url": "https://en.wikipedia.org/wiki/Pamir_(ship)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pamir_-_nla.pic-vn3257373-v.jpg/330px-Pamir_-_nla.pic-vn3257373-v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1984,
-      "text": "A suicide bomber in a car attacks the U.S. embassy in Beirut, Lebanon, killing twenty-two people.",
-      "url": "https://en.wikipedia.org/wiki/1984_US_embassy_bombing_in_Beirut",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/US_Embassy_in_Beirut%2C_Lebanon_%28Muslim_West_side%29_in_September%2C_1984_Photo_by_Nancy_Wong.tif/lossy-page1-330px-US_Embassy_in_Beirut%2C_Lebanon_%28Muslim_West_side%29_in_September%2C_1984_Photo_by_Nancy_Wong.tif.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1993,
+      "text": "Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.",
+      "url": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

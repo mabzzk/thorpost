@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "today": {
-    "date": "2026-09-20",
-    "symbol": "cloudy",
-    "temp_max": 17.4,
-    "temp_min": 12.1,
-    "wind_speed": 6.0,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-09-21",
-    "symbol": "fair_day",
-    "temp_max": 20.1,
-    "temp_min": 9.6,
+    "symbol": "clearsky_day",
+    "temp_max": 19.4,
+    "temp_min": 10.1,
     "wind_speed": 3.1,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-09-22",
+    "symbol": "partlycloudy_day",
+    "temp_max": 16.0,
+    "temp_min": 8.0,
+    "wind_speed": 2.0,
+    "precipitation": 0.0
+  },
   "water": {
-    "ocean": 14.9
+    "ocean": 15.1
   },
   "sun": {
-    "sunrise": "06:59",
-    "sunset": "19:25"
+    "sunrise": "07:01",
+    "sunset": "19:22"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Den beste tid å plante et tre var for tjue år siden. Den nest beste er i dag.",
+  "remark": "En grei dag i Larvik. God morgen, Thor!",
+  "thought": "Gode minner er den beste arven vi kan gi videre.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-09-20"
+  "pollen_updated": "2026-09-21"
 }

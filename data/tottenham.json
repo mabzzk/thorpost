@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20",
+  "updated": "2026-09-21",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -61,12 +61,12 @@
     {
       "pos": 1,
       "team": "Manchester City FC",
-      "played": 4,
-      "won": 4,
+      "played": 5,
+      "won": 5,
       "drawn": 0,
       "lost": 0,
-      "gd": 6,
-      "points": 12,
+      "gd": 8,
+      "points": 15,
       "is_spurs": false
     },
     {
@@ -104,6 +104,28 @@
     },
     {
       "pos": 5,
+      "team": "Leeds United FC",
+      "played": 5,
+      "won": 2,
+      "drawn": 3,
+      "lost": 0,
+      "gd": 4,
+      "points": 9,
+      "is_spurs": false
+    },
+    {
+      "pos": 6,
+      "team": "Liverpool FC",
+      "played": 5,
+      "won": 2,
+      "drawn": 3,
+      "lost": 0,
+      "gd": 3,
+      "points": 9,
+      "is_spurs": false
+    },
+    {
+      "pos": 7,
       "team": "Everton FC",
       "played": 5,
       "won": 2,
@@ -114,18 +136,7 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
-      "team": "Leeds United FC",
-      "played": 4,
-      "won": 2,
-      "drawn": 2,
-      "lost": 0,
-      "gd": 4,
-      "points": 8,
-      "is_spurs": false
-    },
-    {
-      "pos": 7,
+      "pos": 8,
       "team": "Hull City AFC",
       "played": 5,
       "won": 2,
@@ -136,7 +147,7 @@
       "is_spurs": false
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Newcastle United FC",
       "played": 5,
       "won": 2,
@@ -147,7 +158,7 @@
       "is_spurs": false
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Chelsea FC",
       "played": 5,
       "won": 2,
@@ -155,17 +166,6 @@
       "lost": 2,
       "gd": -2,
       "points": 7,
-      "is_spurs": false
-    },
-    {
-      "pos": 10,
-      "team": "Liverpool FC",
-      "played": 4,
-      "won": 1,
-      "drawn": 3,
-      "lost": 0,
-      "gd": 2,
-      "points": 6,
       "is_spurs": false
     },
     {
@@ -181,6 +181,17 @@
     },
     {
       "pos": 12,
+      "team": "Manchester United FC",
+      "played": 5,
+      "won": 1,
+      "drawn": 2,
+      "lost": 2,
+      "gd": 0,
+      "points": 5,
+      "is_spurs": false
+    },
+    {
+      "pos": 13,
       "team": "Nottingham Forest FC",
       "played": 5,
       "won": 1,
@@ -191,30 +202,19 @@
       "is_spurs": false
     },
     {
-      "pos": 13,
-      "team": "Manchester United FC",
-      "played": 4,
-      "won": 1,
-      "drawn": 1,
-      "lost": 2,
-      "gd": 0,
-      "points": 4,
-      "is_spurs": false
-    },
-    {
       "pos": 14,
       "team": "Sunderland AFC",
-      "played": 4,
+      "played": 5,
       "won": 1,
       "drawn": 1,
-      "lost": 2,
-      "gd": -2,
+      "lost": 3,
+      "gd": -4,
       "points": 4,
       "is_spurs": false
     },
     {
       "pos": 15,
-      "team": "Aston Villa FC",
+      "team": "Crystal Palace FC",
       "played": 5,
       "won": 1,
       "drawn": 1,
@@ -225,23 +225,23 @@
     },
     {
       "pos": 16,
-      "team": "AFC Bournemouth",
-      "played": 4,
-      "won": 0,
-      "drawn": 3,
-      "lost": 1,
-      "gd": -1,
-      "points": 3,
+      "team": "Aston Villa FC",
+      "played": 5,
+      "won": 1,
+      "drawn": 1,
+      "lost": 3,
+      "gd": -5,
+      "points": 4,
       "is_spurs": false
     },
     {
       "pos": 17,
-      "team": "Crystal Palace FC",
-      "played": 4,
-      "won": 1,
-      "drawn": 0,
-      "lost": 3,
-      "gd": -5,
+      "team": "AFC Bournemouth",
+      "played": 5,
+      "won": 0,
+      "drawn": 3,
+      "lost": 2,
+      "gd": -2,
       "points": 3,
       "is_spurs": false
     },
@@ -258,6 +258,17 @@
     },
     {
       "pos": 19,
+      "team": "Fulham FC",
+      "played": 5,
+      "won": 0,
+      "drawn": 2,
+      "lost": 3,
+      "gd": -3,
+      "points": 2,
+      "is_spurs": false
+    },
+    {
+      "pos": 20,
       "team": "Tottenham Hotspur FC",
       "played": 5,
       "won": 0,
@@ -266,17 +277,6 @@
       "gd": -6,
       "points": 2,
       "is_spurs": true
-    },
-    {
-      "pos": 20,
-      "team": "Fulham FC",
-      "played": 4,
-      "won": 0,
-      "drawn": 1,
-      "lost": 3,
-      "gd": -3,
-      "points": 1,
-      "is_spurs": false
     }
   ]
 }
