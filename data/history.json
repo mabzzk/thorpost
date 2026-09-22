@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "month": 9,
-  "day": 21,
+  "day": 22,
   "events": [
     {
-      "year": 1862,
-      "text": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.",
-      "url": "https://en.wikipedia.org/wiki/Taiping_Rebellion",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Regaining_the_Provincial_City_Anqing2.jpg/330px-Regaining_the_Provincial_City_Anqing2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1789,
+      "text": "Battle of Rymnik: Alexander Suvorov's Russian and allied army defeats superior Ottoman Empire forces.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Rymnik",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg/330px-%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1957,
-      "text": "Pamir, a four-masted barque, was shipwrecked and sank off the Azores during Hurricane Carrie.",
-      "url": "https://en.wikipedia.org/wiki/Pamir_(ship)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Pamir_-_nla.pic-vn3257373-v.jpg/330px-Pamir_-_nla.pic-vn3257373-v.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1919,
+      "text": "The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.",
+      "url": "https://en.wikipedia.org/wiki/1919_General_Steel_Strike",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cossacks_in_action_unprovoked_assault_upon_individual_during_the_Great_Steel_Strike_of_1919.jpg/330px-Cossacks_in_action_unprovoked_assault_upon_individual_during_the_Great_Steel_Strike_of_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1993,
-      "text": "Russian president Boris Yeltsin triggers a constitutional crisis when he suspends parliament and scraps the constitution.",
-      "url": "https://en.wikipedia.org/wiki/Boris_Yeltsin",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Boris_Yeltsin_%283x4_cropped%29.jpg/330px-Boris_Yeltsin_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1976,
+      "text": "Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.",
+      "url": "https://en.wikipedia.org/wiki/Scarlet_GN",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Scarlet_GN.svg/330px-Scarlet_GN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
