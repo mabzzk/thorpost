@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "month": 9,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1789,
-      "text": "Battle of Rymnik: Alexander Suvorov's Russian and allied army defeats superior Ottoman Empire forces.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Rymnik",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg/330px-%D0%A1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B8_%D0%A0%D1%8B%D0%BC%D0%BD%D0%B8%D0%BA%D0%B5._%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1846,
+      "text": "Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.",
+      "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/47/Le_Verrier_colored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1919,
-      "text": "The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States.",
-      "url": "https://en.wikipedia.org/wiki/1919_General_Steel_Strike",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Cossacks_in_action_unprovoked_assault_upon_individual_during_the_Great_Steel_Strike_of_1919.jpg/330px-Cossacks_in_action_unprovoked_assault_upon_individual_during_the_Great_Steel_Strike_of_1919.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1976,
-      "text": "Red Dye No. 4 is banned by the US Food and Drug Administration after it is discovered that it causes tumors in the bladders of dogs.",
-      "url": "https://en.wikipedia.org/wiki/Scarlet_GN",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Scarlet_GN.svg/330px-Scarlet_GN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1967,
+      "text": "Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hits Lake Michigan during Michigan's first coho salmon sport fishing season.",
+      "url": "https://en.wikipedia.org/wiki/1967_coho_salmon_fishing_disaster",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/NW_lower_Michigan_shoreline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]
