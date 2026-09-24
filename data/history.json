@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "month": 9,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1846,
-      "text": "Astronomers Urbain Le Verrier, John Couch Adams and Johann Gottfried Galle collaborate on the discovery of Neptune.",
-      "url": "https://en.wikipedia.org/wiki/Urbain_Le_Verrier",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/47/Le_Verrier_colored.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1869,
+      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.",
+      "url": "https://en.wikipedia.org/wiki/Black_Friday_(1869)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Black_Friday_1869.jpg/330px-Black_Friday_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: The Matanikau action on Guadalcanal begins: U.S. Marines attack Japanese units along the Matanikau River.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1946,
+      "text": "The top-secret Clifford-Elsey Report on the Soviet Union is delivered to President Truman.",
+      "url": "https://en.wikipedia.org/wiki/X_Article",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/George_F._Kennan_1947.jpg/330px-George_F._Kennan_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1967,
-      "text": "Seven people die, 46 people are injured, and more than 150 boats capsize when a squall hits Lake Michigan during Michigan's first coho salmon sport fishing season.",
-      "url": "https://en.wikipedia.org/wiki/1967_coho_salmon_fishing_disaster",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3f/NW_lower_Michigan_shoreline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1993,
+      "text": "The Cambodian monarchy is restored, with Norodom Sihanouk as king.",
+      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Cambodia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_Standard_of_the_King_of_Cambodia.svg/330px-Royal_Standard_of_the_King_of_Cambodia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
