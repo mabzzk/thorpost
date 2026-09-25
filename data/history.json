@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "month": 9,
-  "day": 24,
+  "day": 25,
   "events": [
     {
-      "year": 1869,
-      "text": "Black Friday (1869): Gold prices plummet after United States President Ulysses S. Grant orders the Treasury to sell large quantities of gold after Jay Gould and James Fisk plot to control the market.",
-      "url": "https://en.wikipedia.org/wiki/Black_Friday_(1869)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Black_Friday_1869.jpg/330px-Black_Friday_1869.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1775,
+      "text": "American Revolutionary War: Benedict Arnold's expedition to Quebec sets off to join the American invasion.",
+      "url": "https://en.wikipedia.org/wiki/Benedict_Arnold",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Benedict_Arnold_1color.jpg/330px-Benedict_Arnold_1color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1946,
-      "text": "The top-secret Clifford-Elsey Report on the Soviet Union is delivered to President Truman.",
-      "url": "https://en.wikipedia.org/wiki/X_Article",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/George_F._Kennan_1947.jpg/330px-George_F._Kennan_1947.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1926,
+      "text": "The international Convention to Suppress the Slave Trade and Slavery is first signed.",
+      "url": "https://en.wikipedia.org/wiki/1926_Slavery_Convention",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1993,
-      "text": "The Cambodian monarchy is restored, with Norodom Sihanouk as king.",
-      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Cambodia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Royal_Standard_of_the_King_of_Cambodia.svg/330px-Royal_Standard_of_the_King_of_Cambodia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1974,
+      "text": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
+      "url": "https://en.wikipedia.org/wiki/Frank_Jobe",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]
