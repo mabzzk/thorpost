@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "team": "Herrelandslaget",
   "matches": [
     {
@@ -10,9 +10,22 @@
       "competition": "UEFA Nations League",
       "venue": "",
       "odds": {
-        "home_pct": 38.3,
-        "away_pct": 36.3,
-        "draw_pct": 25.3
+        "home_pct": 38.0,
+        "away_pct": 36.5,
+        "draw_pct": 25.5
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "time": "18:45",
+      "home": "Wales",
+      "away": "Norway",
+      "competition": "UEFA Nations League",
+      "venue": "",
+      "odds": {
+        "home_pct": 26.4,
+        "away_pct": 47.8,
+        "draw_pct": 25.7
       }
     }
   ]

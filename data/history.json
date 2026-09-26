@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "month": 9,
-  "day": 25,
+  "day": 26,
   "events": [
     {
-      "year": 1775,
-      "text": "American Revolutionary War: Benedict Arnold's expedition to Quebec sets off to join the American invasion.",
-      "url": "https://en.wikipedia.org/wiki/Benedict_Arnold",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Benedict_Arnold_1color.jpg/330px-Benedict_Arnold_1color.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1688,
+      "text": "The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.",
+      "url": "https://en.wikipedia.org/wiki/Glorious_Revolution",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg/330px-William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1926,
-      "text": "The international Convention to Suppress the Slave Trade and Slavery is first signed.",
-      "url": "https://en.wikipedia.org/wiki/1926_Slavery_Convention",
-      "thumbnail": "",
+      "year": 1933,
+      "text": "As gangster Machine Gun Kelly surrenders to the FBI, he shouts out, \"Don't shoot, G-Men!\", which becomes a nickname for FBI agents.",
+      "url": "https://en.wikipedia.org/wiki/Machine_Gun_Kelly_(gangster)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/George_%E2%80%9CMachine_Gun%E2%80%9D_Kelly.jpg/330px-George_%E2%80%9CMachine_Gun%E2%80%9D_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1974,
-      "text": "Dr. Frank Jobe performs first ulnar collateral ligament replacement surgery (better known as Tommy John surgery) on baseball player Tommy John.",
-      "url": "https://en.wikipedia.org/wiki/Frank_Jobe",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e0/Frank_Jobe.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1984,
+      "text": "The United Kingdom and China agree to a transfer of sovereignty over Hong Kong, to take place in 1997.",
+      "url": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg/330px-Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

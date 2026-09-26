@@ -1,14 +1,14 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "prices": [
     {
       "name": "Jernmalm (SGX)",
       "symbol": "TIO=F",
       "unit": "USD/t",
-      "price": 97.14,
+      "price": 97.06,
       "currency": "USD",
-      "change": -0.1,
-      "change_pct": -0.1
+      "change": -0.08,
+      "change_pct": -0.08
     },
     {
       "name": "Stål HRC (USA)",
