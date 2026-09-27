@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "month": 9,
-  "day": 26,
+  "day": 27,
   "events": [
     {
-      "year": 1688,
-      "text": "The city council of Amsterdam votes to support William of Orange's invasion of England, which became the Glorious Revolution.",
-      "url": "https://en.wikipedia.org/wiki/Glorious_Revolution",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg/330px-William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1825,
+      "text": "The world's first public railway to use steam locomotives, the Stockton and Darlington Railway, is ceremonially opened with the engine Locomotion pulling wagons with coal and passengers from Shildon to Darlington to Stockton.",
+      "url": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg/330px-Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1933,
-      "text": "As gangster Machine Gun Kelly surrenders to the FBI, he shouts out, \"Don't shoot, G-Men!\", which becomes a nickname for FBI agents.",
-      "url": "https://en.wikipedia.org/wiki/Machine_Gun_Kelly_(gangster)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/George_%E2%80%9CMachine_Gun%E2%80%9D_Kelly.jpg/330px-George_%E2%80%9CMachine_Gun%E2%80%9D_Kelly.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.",
+      "url": "https://en.wikipedia.org/wiki/Actions_along_the_Matanikau",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/GuadPatrol.jpg/330px-GuadPatrol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1984,
-      "text": "The United Kingdom and China agree to a transfer of sovereignty over Hong Kong, to take place in 1997.",
-      "url": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg/330px-Image_shows_the_Union_and_Chinese_Flags_together._MOD_45157410.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1993,
+      "text": "The Sukhumi massacre takes place in Abkhazia.",
+      "url": "https://en.wikipedia.org/wiki/Ethnic_cleansing_of_Georgians_in_Sukhumi",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
