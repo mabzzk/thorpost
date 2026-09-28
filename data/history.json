@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "month": 9,
-  "day": 27,
+  "day": 28,
   "events": [
     {
-      "year": 1825,
-      "text": "The world's first public railway to use steam locomotives, the Stockton and Darlington Railway, is ceremonially opened with the engine Locomotion pulling wagons with coal and passengers from Shildon to Darlington to Stockton.",
-      "url": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg/330px-Tracts_vol_57_p252_1821_Plan_of_intended_Stockton_and_Darlington_Railway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1781,
+      "text": "American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: Last day of the Matanikau action on Guadalcanal as United States Marines barely escape after being surrounded by Japanese forces.",
-      "url": "https://en.wikipedia.org/wiki/Actions_along_the_Matanikau",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/GuadPatrol.jpg/330px-GuadPatrol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1928,
+      "text": "Alexander Fleming notices a bacteria-killing mold growing in his laboratory, discovering what later became known as penicillin.",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/330px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1993,
-      "text": "The Sukhumi massacre takes place in Abkhazia.",
-      "url": "https://en.wikipedia.org/wiki/Ethnic_cleansing_of_Georgians_in_Sukhumi",
-      "thumbnail": "",
+      "year": 1994,
+      "text": "The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.",
+      "url": "https://en.wikipedia.org/wiki/MS_Estonia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/MS_Estonia.png/330px-MS_Estonia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
