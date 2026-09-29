@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-09-29",
   "month": 9,
-  "day": 28,
+  "day": 29,
   "events": [
     {
-      "year": 1781,
-      "text": "American Revolutionary War: French and American forces backed by a French fleet begin the siege of Yorktown.",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1789,
+      "text": "The United States Department of War first establishes a regular army with a strength of several hundred men.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Seal_of_the_United_States_Department_of_War.png/330px-Seal_of_the_United_States_Department_of_War.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1928,
-      "text": "Alexander Fleming notices a bacteria-killing mold growing in his laboratory, discovering what later became known as penicillin.",
-      "url": "https://en.wikipedia.org/wiki/Alexander_Fleming",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Synthetic_Production_of_Penicillin_TR1468.jpg/330px-Synthetic_Production_of_Penicillin_TR1468.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1923,
+      "text": "The Mandate for Syria and Lebanon takes effect.",
+      "url": "https://en.wikipedia.org/wiki/Mandate_for_Syria_and_the_Lebanon",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mandate_for_Syria_and_the_Lebanon.djvu/page1-330px-Mandate_for_Syria_and_the_Lebanon.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1994,
-      "text": "The cruise ferry MS Estonia sinks in the Baltic Sea, killing 852 people.",
-      "url": "https://en.wikipedia.org/wiki/MS_Estonia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/MS_Estonia.png/330px-MS_Estonia.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1990,
+      "text": "The YF-22, which would later become the F-22 Raptor, flies for the first time.",
+      "url": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/YF-22_test_flight.jpg/330px-YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
