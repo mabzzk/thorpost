@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "month": 9,
-  "day": 29,
+  "day": 30,
   "events": [
     {
-      "year": 1789,
-      "text": "The United States Department of War first establishes a regular army with a strength of several hundred men.",
-      "url": "https://en.wikipedia.org/wiki/United_States_Department_of_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Seal_of_the_United_States_Department_of_War.png/330px-Seal_of_the_United_States_Department_of_War.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1791,
+      "text": "France's National Constituent Assembly is dissolved, to be replaced the next day by the National Legislative Assembly.",
+      "url": "https://en.wikipedia.org/wiki/National_Constituent_Assembly_(France)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Emblem_of_the_French_national_assembly_%281789-1792%29.svg/330px-Emblem_of_the_French_national_assembly_%281789-1792%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1923,
-      "text": "The Mandate for Syria and Lebanon takes effect.",
-      "url": "https://en.wikipedia.org/wiki/Mandate_for_Syria_and_the_Lebanon",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Mandate_for_Syria_and_the_Lebanon.djvu/page1-330px-Mandate_for_Syria_and_the_Lebanon.djvu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1938,
+      "text": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\".",
+      "url": "https://en.wikipedia.org/wiki/League_of_Nations",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1990,
-      "text": "The YF-22, which would later become the F-22 Raptor, flies for the first time.",
-      "url": "https://en.wikipedia.org/wiki/Lockheed_YF-22",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/YF-22_test_flight.jpg/330px-YF-22_test_flight.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1968,
+      "text": "The Boeing 747 is rolled out and shown to the public for the first time.",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/B-747_Iberia.jpg/330px-B-747_Iberia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

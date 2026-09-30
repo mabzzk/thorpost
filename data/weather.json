@@ -1,30 +1,30 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "today": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "symbol": "partlycloudy_day",
     "temp_max": 15.1,
-    "temp_min": 13.7,
-    "wind_speed": 2.8,
+    "temp_min": 13.1,
+    "wind_speed": 4.3,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "symbol": "partlycloudy_day",
-    "temp_max": 16.7,
-    "temp_min": 12.8,
+    "temp_max": 17.7,
+    "temp_min": 11.9,
     "wind_speed": 4.1,
-    "precipitation": 0.0
+    "precipitation": 1.6
   },
   "water": {
-    "ocean": 15.4
+    "ocean": 15.2
   },
   "sun": {
-    "sunrise": "07:19",
-    "sunset": "18:59"
+    "sunrise": "07:22",
+    "sunset": "18:56"
   },
   "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Gjør deg ikke større enn du er, men heller ikke mindre.",
+  "thought": "Den som gir av seg selv, blir aldri fattig.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-09-29"
+  "pollen_updated": "2026-09-30"
 }
