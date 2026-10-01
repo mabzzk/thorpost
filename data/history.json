@@ -1,27 +1,27 @@
 {
-  "updated": "2026-09-30",
-  "month": 9,
-  "day": 30,
+  "updated": "2026-10-01",
+  "month": 10,
+  "day": 1,
   "events": [
     {
-      "year": 1791,
-      "text": "France's National Constituent Assembly is dissolved, to be replaced the next day by the National Legislative Assembly.",
-      "url": "https://en.wikipedia.org/wiki/National_Constituent_Assembly_(France)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Emblem_of_the_French_national_assembly_%281789-1792%29.svg/330px-Emblem_of_the_French_national_assembly_%281789-1792%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1910,
+      "text": "A large bomb destroys the Los Angeles Times building, killing 21.",
+      "url": "https://en.wikipedia.org/wiki/Los_Angeles_Times_bombing",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Photo-los-angeles-times-building-post-bombing.jpg/330px-Photo-los-angeles-times-building-post-bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1938,
-      "text": "The League of Nations unanimously outlaws \"intentional bombings of civilian populations\".",
-      "url": "https://en.wikipedia.org/wiki/League_of_Nations",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Flag_of_the_League_of_Nations_%281939%29.svg/330px-Flag_of_the_League_of_Nations_%281939%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1957,
+      "text": "The motto In God We Trust first appears on U.S. paper currency.",
+      "url": "https://en.wikipedia.org/wiki/In_God_We_Trust",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1in_god_we_trust.jpg/330px-1in_god_we_trust.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1968,
-      "text": "The Boeing 747 is rolled out and shown to the public for the first time.",
-      "url": "https://en.wikipedia.org/wiki/Boeing_747",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/B-747_Iberia.jpg/330px-B-747_Iberia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1985,
+      "text": "Israel-Palestinian conflict: Israel attacks the Palestine Liberation Organization's Tunisia headquarters during Operation Wooden Leg.",
+      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "team": "Larvik Turn",
   "source": "https://www.fotball.no/fotballdata/lag/hjem/?fiksId=194",
   "note": "Oppdateres daglig. Klikk lenken for fullstendig oversikt.",
   "matches": [
     {
       "date": "2026-10-01",
-      "time": "19:30",
+      "time": "20:00",
       "home": "Larvik Turn",
       "away": "Ørn Horten",
       "venue": ""
