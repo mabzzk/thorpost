@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "month": 10,
-  "day": 1,
+  "day": 2,
   "events": [
     {
-      "year": 1910,
-      "text": "A large bomb destroys the Los Angeles Times building, killing 21.",
-      "url": "https://en.wikipedia.org/wiki/Los_Angeles_Times_bombing",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Photo-los-angeles-times-building-post-bombing.jpg/330px-Photo-los-angeles-times-building-post-bombing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1780,
+      "text": "American Revolutionary War: John André, a British Army officer, is hanged as a spy by the Continental Army.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1957,
-      "text": "The motto In God We Trust first appears on U.S. paper currency.",
-      "url": "https://en.wikipedia.org/wiki/In_God_We_Trust",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/1in_god_we_trust.jpg/330px-1in_god_we_trust.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "World War II: German troops end the Warsaw Uprising.",
+      "url": "https://en.wikipedia.org/wiki/Warsaw_Uprising",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Warsaw_Uprising.png/330px-Warsaw_Uprising.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "Israel-Palestinian conflict: Israel attacks the Palestine Liberation Organization's Tunisia headquarters during Operation Wooden Leg.",
-      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1996,
+      "text": "Aeroperú Flight 603 crashes into the ocean near Peru, killing all 70 people on board.",
+      "url": "https://en.wikipedia.org/wiki/Aeroper%C3%BA_Flight_603",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Aeroper%C3%BA_Boeing_757-200_N52AW_MIA_1996-1-8.png/330px-Aeroper%C3%BA_Boeing_757-200_N52AW_MIA_1996-1-8.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
