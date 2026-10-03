@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "today": {
-    "date": "2026-10-02",
-    "symbol": "cloudy",
-    "temp_max": 16.3,
-    "temp_min": 10.7,
-    "wind_speed": 2.6,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-10-03",
     "symbol": "cloudy",
     "temp_max": 15.3,
-    "temp_min": 10.5,
+    "temp_min": 10.2,
+    "wind_speed": 5.6,
+    "precipitation": 0.0
+  },
+  "tomorrow": {
+    "date": "2026-10-04",
+    "symbol": "partlycloudy_day",
+    "temp_max": 14.9,
+    "temp_min": 7.1,
     "wind_speed": 4.7,
-    "precipitation": 0.5
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 15.1
+    "ocean": 15.0
   },
   "sun": {
-    "sunrise": "07:26",
-    "sunset": "18:50"
+    "sunrise": "07:29",
+    "sunset": "18:47"
   },
   "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Den som søker, finner — om han er tålmodig nok.",
+  "thought": "Kjærligheten er den eneste skatten som øker når den deles ut.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-02"
+  "pollen_updated": "2026-10-03"
 }
