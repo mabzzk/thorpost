@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "month": 10,
-  "day": 3,
+  "day": 4,
   "events": [
     {
-      "year": 1789,
-      "text": "George Washington proclaims Thursday November 26, 1789 as Thanksgiving Day.",
-      "url": "https://en.wikipedia.org/wiki/George_Washington",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/330px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1824,
+      "text": "Mexico adopts a new constitution and becomes a federal republic.",
+      "url": "https://en.wikipedia.org/wiki/1824_Constitution_of_Mexico",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Constitucion_federal_de_los_Estados_Unidos_Mexicanos_1824.jpg/330px-Constitucion_federal_de_los_Estados_Unidos_Mexicanos_1824.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: German forces murder 92 civilians in Lingiades, Greece.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1925,
+      "text": "S2, a Finnish Sokol class torpedo boat, sinks during a fierce storm near the coast of Pori in the Gulf of Bothnia, taking with it the whole crew of 53.",
+      "url": "https://en.wikipedia.org/wiki/Finnish_torpedo_boat_S2",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Torpedovene_S2.jpg/330px-Torpedovene_S2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1990,
-      "text": "The German Democratic Republic is abolished and becomes part of the Federal Republic of Germany; the event is afterwards celebrated as German Unity Day.",
-      "url": "https://en.wikipedia.org/wiki/East_Germany",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/330px-Flag_of_the_German_Democratic_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1985,
+      "text": "The Free Software Foundation is founded.",
+      "url": "https://en.wikipedia.org/wiki/Free_Software_Foundation",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
