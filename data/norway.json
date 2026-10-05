@@ -1,19 +1,5 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "team": "Herrelandslaget",
-  "matches": [
-    {
-      "date": "2026-10-04",
-      "time": "18:45",
-      "home": "Portugal",
-      "away": "Norway",
-      "competition": "UEFA Nations League",
-      "venue": "",
-      "odds": {
-        "home_pct": 58.1,
-        "away_pct": 20.4,
-        "draw_pct": 21.6
-      }
-    }
-  ]
+  "matches": []
 }

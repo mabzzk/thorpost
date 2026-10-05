@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "today": {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "symbol": "cloudy",
-    "temp_max": 14.1,
-    "temp_min": 13.0,
-    "wind_speed": 6.1,
+    "temp_max": 16.7,
+    "temp_min": 11.5,
+    "wind_speed": 5.8,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-10-05",
-    "symbol": "partlycloudy_day",
-    "temp_max": 16.2,
-    "temp_min": 11.7,
-    "wind_speed": 6.4,
+    "date": "2026-10-06",
+    "symbol": "clearsky_day",
+    "temp_max": 16.6,
+    "temp_min": 7.9,
+    "wind_speed": 4.2,
     "precipitation": 0.0
   },
   "water": {
     "ocean": 14.4
   },
   "sun": {
-    "sunrise": "07:31",
-    "sunset": "18:44"
+    "sunrise": "07:33",
+    "sunset": "18:41"
   },
   "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Den største reisen begynner med et enkelt skritt. – Lao Tzu",
+  "thought": "Ingenting er umulig for den som ikke selv skal gjøre det.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-04"
+  "pollen_updated": "2026-10-05"
 }
