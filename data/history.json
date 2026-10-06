@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "month": 10,
-  "day": 5,
+  "day": 6,
   "events": [
     {
-      "year": 1869,
-      "text": "The Eastman tunnel, in Minnesota, United States, collapses during construction, causing a landslide that nearly destroys St. Anthony Falls.",
-      "url": "https://en.wikipedia.org/wiki/Eastman_tunnel",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Hennepin_Island_Tunnel_collapse_1.JPG/330px-Hennepin_Island_Tunnel_collapse_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1789,
+      "text": "French Revolution: King Louis XVI is forced to change his residence from Versailles to the Tuileries Palace.",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Anonymous_-_Prise_de_la_Bastille.jpg/330px-Anonymous_-_Prise_de_la_Bastille.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: Pacific Theater: Ninety-eight American POWs are executed by Japanese forces on Wake Island.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1923,
+      "text": "The Turkish National Movement enters Constantinople.",
+      "url": "https://en.wikipedia.org/wiki/Turkish_National_Movement",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Bekir_Sami_Mustafa_Kemal.jpg/330px-Bekir_Sami_Mustafa_Kemal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1978,
-      "text": "Brother Eddie Villanueva and 15 others from the Polytechnic University of the Philippines begin the Jesus Is Lord Church.",
-      "url": "https://en.wikipedia.org/wiki/Eddie_Villanueva",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Rep._Eduardo_Villanueva_%2820th_Congress%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1979,
+      "text": "Pope John Paul II becomes the first pontiff to visit the White House.",
+      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
