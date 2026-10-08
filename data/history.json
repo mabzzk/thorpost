@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "month": 10,
-  "day": 7,
+  "day": 8,
   "events": [
     {
-      "year": 1840,
-      "text": "Willem II becomes King of the Netherlands.",
-      "url": "https://en.wikipedia.org/wiki/William_II_of_the_Netherlands",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/King_Willem_II.jpg/330px-King_Willem_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1829,
+      "text": "Stephenson's Rocket wins the Rainhill Trials.",
+      "url": "https://en.wikipedia.org/wiki/Stephenson's_Rocket",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Stephenson%27s_Rocket_drawing.jpg/330px-Stephenson%27s_Rocket_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1950,
-      "text": "Mother Teresa establishes the Missionaries of Charity.",
-      "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/330px-Mother_Teresa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.",
+      "url": "https://en.wikipedia.org/wiki/Kallikratis_executions",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "Croatian War of Independence: Bombing of the Banski Dvori in Zagreb, Croatia.",
-      "url": "https://en.wikipedia.org/wiki/Bombing_of_the_Banski_Dvori",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Iz_Banskih_dvora_raketiranje_1991_MGZ_080209.jpg/330px-Iz_Banskih_dvora_raketiranje_1991_MGZ_080209.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1978,
+      "text": "Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.",
+      "url": "https://en.wikipedia.org/wiki/Ken_Warby",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/SpiritOfAustraliaModelBloweringDam.jpg/330px-SpiritOfAustraliaModelBloweringDam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

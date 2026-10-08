@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "today": {
-    "date": "2026-10-07",
-    "symbol": "clearsky_day",
-    "temp_max": 12.7,
-    "temp_min": 4.8,
-    "wind_speed": 1.9,
-    "precipitation": 13.5
+    "date": "2026-10-08",
+    "symbol": "cloudy",
+    "temp_max": 8.9,
+    "temp_min": 6.0,
+    "wind_speed": 6.9,
+    "precipitation": 1.6
   },
   "tomorrow": {
-    "date": "2026-10-08",
-    "symbol": "rain",
-    "temp_max": 9.3,
-    "temp_min": 6.4,
-    "wind_speed": 6.6,
-    "precipitation": 7.3
+    "date": "2026-10-09",
+    "symbol": "partlycloudy_day",
+    "temp_max": 9.5,
+    "temp_min": 4.7,
+    "wind_speed": 2.8,
+    "precipitation": 2.2
   },
   "water": {
-    "ocean": 13.4
+    "ocean": 14.4
   },
   "sun": {
-    "sunrise": "07:38",
-    "sunset": "18:35"
+    "sunrise": "07:40",
+    "sunset": "18:33"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "Norske fjorder har lært oss at dybde er vakker.",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "Det er ikke lengden på livet, men dybden i det som teller. – Ralph Waldo Emerson",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-07"
+  "pollen_updated": "2026-10-08"
 }
