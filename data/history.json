@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "month": 10,
-  "day": 8,
+  "day": 9,
   "events": [
     {
-      "year": 1829,
-      "text": "Stephenson's Rocket wins the Rainhill Trials.",
-      "url": "https://en.wikipedia.org/wiki/Stephenson's_Rocket",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Stephenson%27s_Rocket_drawing.jpg/330px-Stephenson%27s_Rocket_drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1804,
+      "text": "Hobart, capital of Tasmania, is founded.",
+      "url": "https://en.wikipedia.org/wiki/Hobart",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Franklin_Wharf_2015_b_%28cropped%29.jpg/330px-Franklin_Wharf_2015_b_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: Around 30 civilians are executed by Friedrich Schubert's paramilitary group in Kallikratis, Crete.",
-      "url": "https://en.wikipedia.org/wiki/Kallikratis_executions",
-      "thumbnail": "",
+      "year": 1914,
+      "text": "World War I: The Siege of Antwerp comes to an end.",
+      "url": "https://en.wikipedia.org/wiki/World_War_I",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1978,
-      "text": "Australia's Ken Warby sets the current world water speed record of 275.97 knots at Blowering Dam, Australia.",
-      "url": "https://en.wikipedia.org/wiki/Ken_Warby",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/SpiritOfAustraliaModelBloweringDam.jpg/330px-SpiritOfAustraliaModelBloweringDam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1980,
+      "text": "Pope John Paul II greets the Dalai Lama during a private audience in Vatican City.",
+      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
