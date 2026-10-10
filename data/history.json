@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "month": 10,
-  "day": 9,
+  "day": 10,
   "events": [
     {
-      "year": 1804,
-      "text": "Hobart, capital of Tasmania, is founded.",
-      "url": "https://en.wikipedia.org/wiki/Hobart",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Franklin_Wharf_2015_b_%28cropped%29.jpg/330px-Franklin_Wharf_2015_b_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1846,
+      "text": "Triton, the largest moon of the planet Neptune, is discovered by English astronomer William Lassell.",
+      "url": "https://en.wikipedia.org/wiki/Triton_(moon)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Triton-usgs23-with-frame.jpg/330px-Triton-usgs23-with-frame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1914,
-      "text": "World War I: The Siege of Antwerp comes to an end.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1957,
+      "text": "U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant.",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
       "year": 1980,
-      "text": "Pope John Paul II greets the Dalai Lama during a private audience in Vatican City.",
-      "url": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg/330px-ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "text": "The Farabundo Martí National Liberation Front is founded in El Salvador.",
+      "url": "https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD_National_Liberation_Front",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_of_the_FMLN.svg/330px-Logo_of_the_FMLN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

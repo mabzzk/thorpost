@@ -1,29 +1,29 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "today": {
-    "date": "2026-10-09",
-    "symbol": "partlycloudy_day",
-    "temp_max": 10.3,
-    "temp_min": 4.1,
-    "wind_speed": 1.9,
-    "precipitation": 0.6
+    "date": "2026-10-10",
+    "symbol": "rain",
+    "temp_max": 5.4,
+    "temp_min": 3.9,
+    "wind_speed": 4.5,
+    "precipitation": 4.2
   },
   "tomorrow": {
-    "date": "2026-10-10",
-    "symbol": "lightrain",
-    "temp_max": 7.1,
-    "temp_min": 3.9,
-    "wind_speed": 4.8,
-    "precipitation": 13.2
+    "date": "2026-10-11",
+    "symbol": "cloudy",
+    "temp_max": 5.9,
+    "temp_min": 4.3,
+    "wind_speed": 4.5,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 13.5
+    "ocean": 14.0
   },
   "sun": {
-    "sunrise": "07:42",
-    "sunset": "18:30"
+    "sunrise": "07:45",
+    "sunset": "18:27"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
   "thought": "Ingenting er umulig for den som ikke selv skal gjøre det.",
   "pollen": [
     {
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-09"
+  "pollen_updated": "2026-10-10"
 }
