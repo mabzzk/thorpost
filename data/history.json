@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "month": 10,
-  "day": 10,
+  "day": 11,
   "events": [
     {
-      "year": 1846,
-      "text": "Triton, the largest moon of the planet Neptune, is discovered by English astronomer William Lassell.",
-      "url": "https://en.wikipedia.org/wiki/Triton_(moon)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Triton-usgs23-with-frame.jpg/330px-Triton-usgs23-with-frame.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1811,
+      "text": "The Juliana begins operation as the first steam-powered ferry in New York harbor.",
+      "url": "https://en.wikipedia.org/wiki/John_Stevens_(inventor%2C_born_1749)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stevens_by_an_unidentified_artist%2C_c._1830%2C_oil_on_canvas%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_75_13Stevens_d1.jpg/330px-John_Stevens_by_an_unidentified_artist%2C_c._1830%2C_oil_on_canvas%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_75_13Stevens_d1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1957,
-      "text": "U.S. President Dwight D. Eisenhower apologizes to Ghanaian finance minister Komla Agbeli Gbedemah after he is refused service in a Delaware restaurant.",
-      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1937,
+      "text": "The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.",
+      "url": "https://en.wikipedia.org/wiki/Edward_VIII",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg/330px-HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1980,
-      "text": "The Farabundo Martí National Liberation Front is founded in El Salvador.",
-      "url": "https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD_National_Liberation_Front",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_of_the_FMLN.svg/330px-Logo_of_the_FMLN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1984,
+      "text": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.",
+      "url": "https://en.wikipedia.org/wiki/Kathryn_D._Sullivan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg/330px-Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
