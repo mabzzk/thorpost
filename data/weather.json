@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "today": {
-    "date": "2026-10-11",
-    "symbol": "cloudy",
-    "temp_max": 6.6,
-    "temp_min": 3.4,
-    "wind_speed": 5.0,
-    "precipitation": 0.1
-  },
-  "tomorrow": {
     "date": "2026-10-12",
     "symbol": "clearsky_day",
-    "temp_max": 9.3,
-    "temp_min": 1.9,
-    "wind_speed": 2.3,
+    "temp_max": 9.9,
+    "temp_min": 2.5,
+    "wind_speed": 2.0,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-10-13",
+    "symbol": "rain",
+    "temp_max": 12.4,
+    "temp_min": 4.5,
+    "wind_speed": 6.7,
+    "precipitation": 15.9
+  },
   "water": {
-    "ocean": 13.5
+    "ocean": 12.9
   },
   "sun": {
-    "sunrise": "07:47",
-    "sunset": "18:24"
+    "sunrise": "07:49",
+    "sunset": "18:21"
   },
-  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
-  "thought": "Den som har helse, har alt. Den som ikke har helse, har ett ønske.",
+  "remark": "Klarvær men frisk luft – husk et ekstra lag, Thor.",
+  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-11"
+  "pollen_updated": "2026-10-12"
 }

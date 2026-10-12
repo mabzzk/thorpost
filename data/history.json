@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "month": 10,
-  "day": 11,
+  "day": 12,
   "events": [
     {
-      "year": 1811,
-      "text": "The Juliana begins operation as the first steam-powered ferry in New York harbor.",
-      "url": "https://en.wikipedia.org/wiki/John_Stevens_(inventor%2C_born_1749)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stevens_by_an_unidentified_artist%2C_c._1830%2C_oil_on_canvas%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_75_13Stevens_d1.jpg/330px-John_Stevens_by_an_unidentified_artist%2C_c._1830%2C_oil_on_canvas%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_75_13Stevens_d1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1822,
+      "text": "Pedro I of Brazil is proclaimed the emperor.",
+      "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/DpedroI-brasil-full_%28cropped%29.jpg/330px-DpedroI-brasil-full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1937,
-      "text": "The Duke and Duchess of Windsor tour Nazi Germany for 12 days and meet Adolf Hitler on 22 October.",
-      "url": "https://en.wikipedia.org/wiki/Edward_VIII",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg/330px-HRH_The_Prince_of_Wales_No_4_%28HS85-10-36416%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1960,
+      "text": "Soviet Premier Nikita Khrushchev pounds his shoe on a desk at the United Nations to protest a Philippine assertion.",
+      "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/330px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1984,
-      "text": "Aboard the Space Shuttle Challenger, astronaut Kathryn D. Sullivan becomes the first American woman to perform a space walk.",
-      "url": "https://en.wikipedia.org/wiki/Kathryn_D._Sullivan",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg/330px-Kathryn_Sullivan%2C_PCAST_Member_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1994,
+      "text": "Iran Aseman Airlines Flight 746 crashes near Natanz, Iran, killing all 66 people on board.",
+      "url": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_746",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Iran_Aseman_Airlines_Fokker_F-28-4000_Fellowship_EP-ASE_1036766.jpg/330px-Iran_Aseman_Airlines_Fokker_F-28-4000_Fellowship_EP-ASE_1036766.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
