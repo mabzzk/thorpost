@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -171,11 +171,11 @@
     {
       "pos": 11,
       "team": "Newcastle United FC",
-      "played": 5,
+      "played": 6,
       "won": 2,
       "drawn": 2,
-      "lost": 1,
-      "gd": 0,
+      "lost": 2,
+      "gd": -3,
       "points": 8,
       "is_spurs": false
     },
@@ -203,6 +203,17 @@
     },
     {
       "pos": 14,
+      "team": "Coventry City FC",
+      "played": 6,
+      "won": 2,
+      "drawn": 0,
+      "lost": 4,
+      "gd": -6,
+      "points": 6,
+      "is_spurs": false
+    },
+    {
+      "pos": 15,
       "team": "Nottingham Forest FC",
       "played": 6,
       "won": 1,
@@ -213,7 +224,7 @@
       "is_spurs": false
     },
     {
-      "pos": 15,
+      "pos": 16,
       "team": "Aston Villa FC",
       "played": 6,
       "won": 1,
@@ -224,7 +235,7 @@
       "is_spurs": false
     },
     {
-      "pos": 16,
+      "pos": 17,
       "team": "Sunderland AFC",
       "played": 6,
       "won": 1,
@@ -235,7 +246,7 @@
       "is_spurs": false
     },
     {
-      "pos": 17,
+      "pos": 18,
       "team": "AFC Bournemouth",
       "played": 6,
       "won": 0,
@@ -246,7 +257,7 @@
       "is_spurs": false
     },
     {
-      "pos": 18,
+      "pos": 19,
       "team": "Tottenham Hotspur FC",
       "played": 6,
       "won": 0,
@@ -255,17 +266,6 @@
       "gd": -6,
       "points": 3,
       "is_spurs": true
-    },
-    {
-      "pos": 19,
-      "team": "Coventry City FC",
-      "played": 5,
-      "won": 1,
-      "drawn": 0,
-      "lost": 4,
-      "gd": -9,
-      "points": 3,
-      "is_spurs": false
     },
     {
       "pos": 20,

@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "month": 10,
-  "day": 12,
+  "day": 13,
   "events": [
     {
-      "year": 1822,
-      "text": "Pedro I of Brazil is proclaimed the emperor.",
-      "url": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/DpedroI-brasil-full_%28cropped%29.jpg/330px-DpedroI-brasil-full_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1775,
+      "text": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).",
+      "url": "https://en.wikipedia.org/wiki/Continental_Navy",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg/330px-Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1960,
-      "text": "Soviet Premier Nikita Khrushchev pounds his shoe on a desk at the United Nations to protest a Philippine assertion.",
-      "url": "https://en.wikipedia.org/wiki/Nikita_Khrushchev",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg/330px-1956_Press_Photo_Communist_Party_Secretary_Nikita_S._Khrushchev_in_Moscow_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1911,
+      "text": "Prince Arthur, Duke of Connaught and Strathearn, becomes the first Governor General of Canada of royal descent.",
+      "url": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg/330px-Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1994,
-      "text": "Iran Aseman Airlines Flight 746 crashes near Natanz, Iran, killing all 66 people on board.",
-      "url": "https://en.wikipedia.org/wiki/Iran_Aseman_Airlines_Flight_746",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Iran_Aseman_Airlines_Fokker_F-28-4000_Fellowship_EP-ASE_1036766.jpg/330px-Iran_Aseman_Airlines_Fokker_F-28-4000_Fellowship_EP-ASE_1036766.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1972,
+      "text": "The flag of Okinawa Prefecture, Japan, was officially adopted.",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/330px-Flag_of_Okinawa_Prefecture.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

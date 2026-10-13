@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "today": {
-    "date": "2026-10-12",
-    "symbol": "clearsky_day",
-    "temp_max": 9.9,
-    "temp_min": 2.5,
-    "wind_speed": 2.0,
-    "precipitation": 0.0
+    "date": "2026-10-13",
+    "symbol": "cloudy",
+    "temp_max": 12.3,
+    "temp_min": 9.0,
+    "wind_speed": 7.1,
+    "precipitation": 20.1
   },
   "tomorrow": {
-    "date": "2026-10-13",
-    "symbol": "rain",
-    "temp_max": 12.4,
-    "temp_min": 4.5,
-    "wind_speed": 6.7,
-    "precipitation": 15.9
+    "date": "2026-10-14",
+    "symbol": "clearsky_day",
+    "temp_max": 14.0,
+    "temp_min": 7.5,
+    "wind_speed": 3.1,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 12.9
+    "ocean": 12.8
   },
   "sun": {
-    "sunrise": "07:49",
-    "sunset": "18:21"
+    "sunrise": "07:52",
+    "sunset": "18:18"
   },
-  "remark": "Klarvær men frisk luft – husk et ekstra lag, Thor.",
-  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
+  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
+  "thought": "Den beste tid å plante et tre var for tjue år siden. Den nest beste er i dag.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-12"
+  "pollen_updated": "2026-10-13"
 }
