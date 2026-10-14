@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "month": 10,
-  "day": 13,
+  "day": 14,
   "events": [
     {
-      "year": 1775,
-      "text": "The Continental Congress establishes the Continental Navy (predecessor of the United States Navy).",
-      "url": "https://en.wikipedia.org/wiki/Continental_Navy",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg/330px-Naval_jack_of_the_United_States_%281776%E2%80%931777%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1888,
+      "text": "Louis Le Prince films the first motion picture, Roundhay Garden Scene.",
+      "url": "https://en.wikipedia.org/wiki/Louis_Le_Prince",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Louisleprincerestored.png/330px-Louisleprincerestored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1911,
-      "text": "Prince Arthur, Duke of Connaught and Strathearn, becomes the first Governor General of Canada of royal descent.",
-      "url": "https://en.wikipedia.org/wiki/Prince_Arthur%2C_Duke_of_Connaught_and_Strathearn",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg/330px-Prince_Arthur%2C_1st_Duke_of_Connaught_and_Strathearn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "World War II: The Second Philippine Republic, a puppet state of Japan, is inaugurated with José P. Laurel as its president.",
+      "url": "https://en.wikipedia.org/wiki/Second_Philippine_Republic",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_the_Philippines_%281943%E2%80%931945%29.svg/330px-Flag_of_the_Philippines_%281943%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1972,
-      "text": "The flag of Okinawa Prefecture, Japan, was officially adopted.",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Okinawa_Prefecture",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Okinawa_Prefecture.svg/330px-Flag_of_Okinawa_Prefecture.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1979,
+      "text": "The first National March on Washington for Lesbian and Gay Rights draws approximately 100,000 people.",
+      "url": "https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
