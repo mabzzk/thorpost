@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "month": 10,
-  "day": 14,
+  "day": 15,
   "events": [
     {
-      "year": 1888,
-      "text": "Louis Le Prince films the first motion picture, Roundhay Garden Scene.",
-      "url": "https://en.wikipedia.org/wiki/Louis_Le_Prince",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Louisleprincerestored.png/330px-Louisleprincerestored.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1864,
+      "text": "American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces.",
+      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: The Second Philippine Republic, a puppet state of Japan, is inaugurated with José P. Laurel as its president.",
-      "url": "https://en.wikipedia.org/wiki/Second_Philippine_Republic",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Flag_of_the_Philippines_%281943%E2%80%931945%29.svg/330px-Flag_of_the_Philippines_%281943%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1956,
+      "text": "FORTRAN, the first modern computer language, is first shared with the coding community.",
+      "url": "https://en.wikipedia.org/wiki/Fortran",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/330px-Fortran_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1979,
-      "text": "The first National March on Washington for Lesbian and Gay Rights draws approximately 100,000 people.",
-      "url": "https://en.wikipedia.org/wiki/National_March_on_Washington_for_Lesbian_and_Gay_Rights",
-      "thumbnail": "",
+      "year": 1991,
+      "text": "The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.",
+      "url": "https://en.wikipedia.org/wiki/Baltic_states",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Estonia-latvia-lithuania-in-northern-europe.png/330px-Estonia-latvia-lithuania-in-northern-europe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
