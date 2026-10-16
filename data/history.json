@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "month": 10,
-  "day": 15,
+  "day": 16,
   "events": [
     {
-      "year": 1864,
-      "text": "American Civil War: The Union garrison of Glasgow, Missouri surrenders to Confederate forces.",
-      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1817,
+      "text": "Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela.",
+      "url": "https://en.wikipedia.org/wiki/Manuel_Piar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Manuel_Carlos_Piar_2012_000.jpg/330px-Manuel_Carlos_Piar_2012_000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1956,
-      "text": "FORTRAN, the first modern computer language, is first shared with the coding community.",
-      "url": "https://en.wikipedia.org/wiki/Fortran",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/330px-Fortran_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1923,
+      "text": "Walt Disney and his brother, Roy, found the Disney Brothers Cartoon Studio, today known as The Walt Disney Company.",
+      "url": "https://en.wikipedia.org/wiki/Walt_Disney",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "The leaders of the Baltic States, Arnold Rüütel of Estonia, Anatolijs Gorbunovs of Latvia and Vytautas Landsbergis of Lithuania, signed the OSCE Final Act in Helsinki, Finland.",
-      "url": "https://en.wikipedia.org/wiki/Baltic_states",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Estonia-latvia-lithuania-in-northern-europe.png/330px-Estonia-latvia-lithuania-in-northern-europe.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1968,
+      "text": "Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.",
+      "url": "https://en.wikipedia.org/wiki/Yasunari_Kawabata",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Yasunari_Kawabata_1938.jpg/330px-Yasunari_Kawabata_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
