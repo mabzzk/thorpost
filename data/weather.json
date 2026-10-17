@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "today": {
-    "date": "2026-10-16",
-    "symbol": "cloudy",
-    "temp_max": 11.2,
-    "temp_min": 7.8,
-    "wind_speed": 2.0,
+    "date": "2026-10-17",
+    "symbol": "clearsky_day",
+    "temp_max": 9.8,
+    "temp_min": 3.5,
+    "wind_speed": 3.6,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-10-17",
-    "symbol": "clearsky_day",
-    "temp_max": 10.1,
-    "temp_min": 4.6,
-    "wind_speed": 3.9,
+    "date": "2026-10-18",
+    "symbol": "partlycloudy_day",
+    "temp_max": 10.3,
+    "temp_min": 3.1,
+    "wind_speed": 1.9,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 10.9
+    "ocean": 12.3
   },
   "sun": {
-    "sunrise": "07:59",
-    "sunset": "18:10"
+    "sunrise": "08:01",
+    "sunset": "18:07"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Vis meg hvem du omgås, så skal jeg si deg hvem du er.",
+  "remark": "Klarvær men frisk luft – husk et ekstra lag, Thor.",
+  "thought": "Det er ikke hva vi har, men hvem vi er, som gjør oss rike.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-16"
+  "pollen_updated": "2026-10-17"
 }

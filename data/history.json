@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "month": 10,
-  "day": 16,
+  "day": 17,
   "events": [
     {
-      "year": 1817,
-      "text": "Simón Bolívar sentences Manuel Piar to death for challenging the racial-caste in Venezuela.",
-      "url": "https://en.wikipedia.org/wiki/Manuel_Piar",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Manuel_Carlos_Piar_2012_000.jpg/330px-Manuel_Carlos_Piar_2012_000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1781,
+      "text": "American Revolutionary War: British General Charles, Earl Cornwallis surrenders at the Siege of Yorktown.",
+      "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1923,
-      "text": "Walt Disney and his brother, Roy, found the Disney Brothers Cartoon Studio, today known as The Walt Disney Company.",
-      "url": "https://en.wikipedia.org/wiki/Walt_Disney",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Walt_Disney_1946_%28cropped2%29.JPG/330px-Walt_Disney_1946_%28cropped2%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "The Burma Railway (Burma–Thailand Railway) is completed.",
+      "url": "https://en.wikipedia.org/wiki/Burma_Railway",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/330px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1968,
-      "text": "Yasunari Kawabata becomes the first Japanese person to be awarded the Nobel Prize in Literature.",
-      "url": "https://en.wikipedia.org/wiki/Yasunari_Kawabata",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Yasunari_Kawabata_1938.jpg/330px-Yasunari_Kawabata_1938.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1980,
+      "text": "As part of the Holy See–United Kingdom relations a British monarch makes the first state visit to the Vatican.",
+      "url": "https://en.wikipedia.org/wiki/Holy_See%E2%80%93United_Kingdom_relations",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Holy_See_United_Kingdom_Locator.png/330px-Holy_See_United_Kingdom_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
