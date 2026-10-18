@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "month": 10,
-  "day": 17,
+  "day": 18,
   "events": [
     {
-      "year": 1781,
-      "text": "American Revolutionary War: British General Charles, Earl Cornwallis surrenders at the Siege of Yorktown.",
-      "url": "https://en.wikipedia.org/wiki/Siege_of_Yorktown",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/330px-Surrender_of_Lord_Cornwallis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1565,
+      "text": "Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.",
+      "url": "https://en.wikipedia.org/wiki/Matsura_clan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Japanese_Crest_Matsura_mitu_Hosi.svg/330px-Japanese_Crest_Matsura_mitu_Hosi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "The Burma Railway (Burma–Thailand Railway) is completed.",
-      "url": "https://en.wikipedia.org/wiki/Burma_Railway",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Bridge_on_the_River_Kwai_-_tourist_plaza.JPG/330px-Bridge_on_the_River_Kwai_-_tourist_plaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1898,
+      "text": "The United States takes possession of Puerto Rico from Spain.",
+      "url": "https://en.wikipedia.org/wiki/Puerto_Rico",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/330px-Flag_of_Puerto_Rico.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1980,
-      "text": "As part of the Holy See–United Kingdom relations a British monarch makes the first state visit to the Vatican.",
-      "url": "https://en.wikipedia.org/wiki/Holy_See%E2%80%93United_Kingdom_relations",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Holy_See_United_Kingdom_Locator.png/330px-Holy_See_United_Kingdom_Locator.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1954,
+      "text": "Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.",
+      "url": "https://en.wikipedia.org/wiki/Regency_TR-1",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Regency_TR-1.jpg/330px-Regency_TR-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
