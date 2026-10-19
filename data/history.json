@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "month": 10,
-  "day": 18,
+  "day": 19,
   "events": [
     {
-      "year": 1565,
-      "text": "Ships belonging to the Matsura clan of Japan fail to capture the Portuguese trading carrack in the Battle of Fukuda Bay, the first recorded naval battle between Japan and the West.",
-      "url": "https://en.wikipedia.org/wiki/Matsura_clan",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Japanese_Crest_Matsura_mitu_Hosi.svg/330px-Japanese_Crest_Matsura_mitu_Hosi.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1791,
+      "text": "Treaty of Drottningholm, between Sweden and Russia",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Drottningholm",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Drottningholmpalace.jpg/330px-Drottningholmpalace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1898,
-      "text": "The United States takes possession of Puerto Rico from Spain.",
-      "url": "https://en.wikipedia.org/wiki/Puerto_Rico",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/330px-Flag_of_Puerto_Rico.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1936,
+      "text": "New York World-Telegram reporter Herbert Ekins won a race against two other New York newspaper journalists to travel around the world on commercial airline flights. He accomplished the feat in 18 ½ days. His opponents were New York Evening Journal reporter Dorothy Kilgallen, who finished in second place, and New York Times reporter Leo Kieran.",
+      "url": "https://en.wikipedia.org/wiki/New_York_World-Telegram",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/de/New_York_World-Telegram_8-07-1945.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1954,
-      "text": "Texas Instruments announces the Regency TR-1, the first mass-produced transistor radio.",
-      "url": "https://en.wikipedia.org/wiki/Regency_TR-1",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Regency_TR-1.jpg/330px-Regency_TR-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1974,
+      "text": "Niue becomes a self-governing colony of New Zealand.",
+      "url": "https://en.wikipedia.org/wiki/Niue_Constitution_Act",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Coat_of_arms_of_New_Zealand.svg/330px-Coat_of_arms_of_New_Zealand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

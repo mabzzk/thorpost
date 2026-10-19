@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "today": {
-    "date": "2026-10-18",
-    "symbol": "partlycloudy_day",
-    "temp_max": 10.7,
-    "temp_min": 2.2,
-    "wind_speed": 1.8,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-10-19",
     "symbol": "clearsky_day",
-    "temp_max": 11.6,
-    "temp_min": 2.7,
+    "temp_max": 11.1,
+    "temp_min": 2.0,
     "wind_speed": 1.5,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-10-20",
+    "symbol": "cloudy",
+    "temp_max": 6.6,
+    "temp_min": 4.3,
+    "wind_speed": 4.1,
+    "precipitation": 1.5
+  },
   "water": {
-    "ocean": 11.5
+    "ocean": 10.6
   },
   "sun": {
-    "sunrise": "08:04",
-    "sunset": "18:04"
+    "sunrise": "08:06",
+    "sunset": "18:02"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Det finnes ikke dårlig vær — bare dårlige klær.",
+  "remark": "En grei dag i Larvik. God morgen, Thor!",
+  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-18"
+  "pollen_updated": "2026-10-19"
 }
