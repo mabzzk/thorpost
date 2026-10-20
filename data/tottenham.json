@@ -1,8 +1,17 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
+    {
+      "date": "2026-10-19",
+      "home": "Tottenham Hotspur FC",
+      "away": "Coventry City FC",
+      "home_score": 3,
+      "away_score": 1,
+      "competition": "Premier League",
+      "result": "W"
+    },
     {
       "date": "2026-10-10",
       "home": "Manchester United FC",
@@ -38,22 +47,13 @@
       "away_score": 0,
       "competition": "Premier League",
       "result": "D"
-    },
-    {
-      "date": "2026-08-29",
-      "home": "Tottenham Hotspur FC",
-      "away": "Newcastle United FC",
-      "home_score": 0,
-      "away_score": 2,
-      "competition": "Premier League",
-      "result": "L"
     }
   ],
   "next_match": {
-    "date": "2026-10-19",
-    "time": "19:00",
-    "home": "Tottenham Hotspur FC",
-    "away": "Coventry City FC",
+    "date": "2026-10-24",
+    "time": "16:30",
+    "home": "Chelsea FC",
+    "away": "Tottenham Hotspur FC",
     "competition": "Premier League",
     "venue": ""
   },
@@ -225,17 +225,28 @@
     },
     {
       "pos": 16,
+      "team": "Tottenham Hotspur FC",
+      "played": 7,
+      "won": 1,
+      "drawn": 3,
+      "lost": 3,
+      "gd": -4,
+      "points": 6,
+      "is_spurs": true
+    },
+    {
+      "pos": 17,
       "team": "Coventry City FC",
-      "played": 6,
+      "played": 7,
       "won": 2,
       "drawn": 0,
-      "lost": 4,
-      "gd": -6,
+      "lost": 5,
+      "gd": -8,
       "points": 6,
       "is_spurs": false
     },
     {
-      "pos": 17,
+      "pos": 18,
       "team": "Fulham FC",
       "played": 7,
       "won": 1,
@@ -246,7 +257,7 @@
       "is_spurs": false
     },
     {
-      "pos": 18,
+      "pos": 19,
       "team": "Nottingham Forest FC",
       "played": 7,
       "won": 1,
@@ -257,7 +268,7 @@
       "is_spurs": false
     },
     {
-      "pos": 19,
+      "pos": 20,
       "team": "Sunderland AFC",
       "played": 7,
       "won": 1,
@@ -266,17 +277,6 @@
       "gd": -8,
       "points": 4,
       "is_spurs": false
-    },
-    {
-      "pos": 20,
-      "team": "Tottenham Hotspur FC",
-      "played": 6,
-      "won": 0,
-      "drawn": 3,
-      "lost": 3,
-      "gd": -6,
-      "points": 3,
-      "is_spurs": true
     }
   ]
 }
