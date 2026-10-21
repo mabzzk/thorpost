@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "today": {
-    "date": "2026-10-20",
-    "symbol": "cloudy",
-    "temp_max": 7.2,
-    "temp_min": 2.6,
-    "wind_speed": 4.6,
-    "precipitation": 1.8
-  },
-  "tomorrow": {
     "date": "2026-10-21",
     "symbol": "rain",
-    "temp_max": 10.7,
-    "temp_min": 5.5,
+    "temp_max": 11.6,
+    "temp_min": 6.2,
     "wind_speed": 4.3,
-    "precipitation": 14.5
+    "precipitation": 20.6
+  },
+  "tomorrow": {
+    "date": "2026-10-22",
+    "symbol": "heavyrain",
+    "temp_max": 11.6,
+    "temp_min": 8.5,
+    "wind_speed": 5.2,
+    "precipitation": 21.0
   },
   "water": {
-    "ocean": 11.4
+    "ocean": 11.7
   },
   "sun": {
-    "sunrise": "08:08",
-    "sunset": "17:59"
+    "sunrise": "08:11",
+    "sunset": "17:56"
   },
-  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
-  "thought": "Morgenstund har gull i munn — spesielt i Larvik.",
+  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
+  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-20"
+  "pollen_updated": "2026-10-21"
 }

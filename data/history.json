@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "month": 10,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1904,
-      "text": "Chile and Bolivia sign the Treaty of Peace and Friendship, delimiting the border between the two countries.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Peace_and_Friendship_(1904)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Bolivia_Chile_Border.jpg/330px-Bolivia_Chile_Border.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1854,
+      "text": "Florence Nightingale and a staff of 38 nurses are sent to the Crimean War.",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/330px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1952,
-      "text": "The Governor of Kenya Evelyn Baring declares a state of emergency and begins arresting hundreds of suspected leaders of the Mau Mau Uprising.",
-      "url": "https://en.wikipedia.org/wiki/Evelyn_Baring%2C_1st_Baron_Howick_of_Glendale",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg/330px-Evelyn_Baring%2C_I_baron_Howick_of_Glendale1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1944,
+      "text": "World War II: The first kamikaze attack damages HMAS Australia as the Battle of Leyte Gulf begins.",
+      "url": "https://en.wikipedia.org/wiki/HMAS_Australia_(D84)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HMAS_Australia_Oct_1937_SLV_straightened.jpg/330px-HMAS_Australia_Oct_1937_SLV_straightened.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "A 6.8 Mw earthquake strikes the Uttarkashi region of India, killing more than 1,000 people.",
-      "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
-      "thumbnail": "",
+      "year": 1979,
+      "text": "Moshe Dayan resigns from the Israeli government because of strong disagreements with Prime Minister Menachem Begin over policy towards the Arabs.",
+      "url": "https://en.wikipedia.org/wiki/Moshe_Dayan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Moshe_Dayan%2C_Chief_of_General_Staff.jpg/330px-Moshe_Dayan%2C_Chief_of_General_Staff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
