@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "today": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "symbol": "rain",
-    "temp_max": 11.6,
-    "temp_min": 6.2,
+    "temp_max": 11.8,
+    "temp_min": 10.9,
     "wind_speed": 4.3,
-    "precipitation": 20.6
+    "precipitation": 12.6
   },
   "tomorrow": {
-    "date": "2026-10-22",
-    "symbol": "heavyrain",
-    "temp_max": 11.6,
-    "temp_min": 8.5,
-    "wind_speed": 5.2,
-    "precipitation": 21.0
+    "date": "2026-10-23",
+    "symbol": "cloudy",
+    "temp_max": 10.8,
+    "temp_min": 7.1,
+    "wind_speed": 1.7,
+    "precipitation": 0.4
   },
   "water": {
-    "ocean": 11.7
+    "ocean": 10.9
   },
   "sun": {
-    "sunrise": "08:11",
-    "sunset": "17:56"
+    "sunrise": "08:13",
+    "sunset": "17:54"
   },
   "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "Kunnskap er makt — og den kan ikke stjeles fra deg.",
+  "thought": "En optimist ser muligheten i hver vanskelighet.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-21"
+  "pollen_updated": "2026-10-22"
 }

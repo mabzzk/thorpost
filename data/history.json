@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "month": 10,
-  "day": 21,
+  "day": 22,
   "events": [
     {
-      "year": 1854,
-      "text": "Florence Nightingale and a staff of 38 nurses are sent to the Crimean War.",
-      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/330px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1797,
+      "text": "André-Jacques Garnerin makes the first recorded parachute jump, from 1,000 metres (3,300 ft) above Paris.",
+      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Andr%C3%A9-Jacques_Garnerin_by_Edward_Hawke_Locker_1802.jpg/330px-Andr%C3%A9-Jacques_Garnerin_by_Edward_Hawke_Locker_1802.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1944,
-      "text": "World War II: The first kamikaze attack damages HMAS Australia as the Battle of Leyte Gulf begins.",
-      "url": "https://en.wikipedia.org/wiki/HMAS_Australia_(D84)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/HMAS_Australia_Oct_1937_SLV_straightened.jpg/330px-HMAS_Australia_Oct_1937_SLV_straightened.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1934,
+      "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.",
+      "url": "https://en.wikipedia.org/wiki/East_Liverpool%2C_Ohio",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/East_5th_Street_Historic_District%2C_East_Liverpool%2C_Ohio_July_2022.jpg/330px-East_5th_Street_Historic_District%2C_East_Liverpool%2C_Ohio_July_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1979,
-      "text": "Moshe Dayan resigns from the Israeli government because of strong disagreements with Prime Minister Menachem Begin over policy towards the Arabs.",
-      "url": "https://en.wikipedia.org/wiki/Moshe_Dayan",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Moshe_Dayan%2C_Chief_of_General_Staff.jpg/330px-Moshe_Dayan%2C_Chief_of_General_Staff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1992,
+      "text": "Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
