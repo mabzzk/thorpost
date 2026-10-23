@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "today": {
-    "date": "2026-10-22",
-    "symbol": "rain",
-    "temp_max": 11.8,
-    "temp_min": 10.9,
-    "wind_speed": 4.3,
-    "precipitation": 12.6
+    "date": "2026-10-23",
+    "symbol": "clearsky_day",
+    "temp_max": 11.1,
+    "temp_min": 8.2,
+    "wind_speed": 3.1,
+    "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-10-23",
-    "symbol": "cloudy",
+    "date": "2026-10-24",
+    "symbol": "rain",
     "temp_max": 10.8,
-    "temp_min": 7.1,
-    "wind_speed": 1.7,
-    "precipitation": 0.4
+    "temp_min": 7.8,
+    "wind_speed": 5.6,
+    "precipitation": 12.7
   },
   "water": {
-    "ocean": 10.9
+    "ocean": 9.8
   },
   "sun": {
-    "sunrise": "08:13",
-    "sunset": "17:54"
+    "sunrise": "08:16",
+    "sunset": "17:51"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "En optimist ser muligheten i hver vanskelighet.",
+  "remark": "En grei dag i Larvik. God morgen, Thor!",
+  "thought": "Store drømmer starter med små skritt.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-22"
+  "pollen_updated": "2026-10-23"
 }

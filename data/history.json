@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "month": 10,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1797,
-      "text": "André-Jacques Garnerin makes the first recorded parachute jump, from 1,000 metres (3,300 ft) above Paris.",
-      "url": "https://en.wikipedia.org/wiki/Andr%C3%A9-Jacques_Garnerin",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Andr%C3%A9-Jacques_Garnerin_by_Edward_Hawke_Locker_1802.jpg/330px-Andr%C3%A9-Jacques_Garnerin_by_Edward_Hawke_Locker_1802.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1856,
+      "text": "Second Opium War: Dissatisfied with imperial commissioner Ye Mingchen's reparations for the alleged slighting of a British-owned vessel and at Consul Harry Parkes's urging, British Rear-Admiral Michael Seymour launches an assault on the Barrier Forts outside Canton in the first military engagement of the Second Opium War.",
+      "url": "https://en.wikipedia.org/wiki/Second_Opium_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/La_bataille_de_Palikiao.jpg/330px-La_bataille_de_Palikiao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1934,
-      "text": "In East Liverpool, Ohio, FBI agents shoot and kill the notorious bank robber Pretty Boy Floyd.",
-      "url": "https://en.wikipedia.org/wiki/East_Liverpool%2C_Ohio",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/East_5th_Street_Historic_District%2C_East_Liverpool%2C_Ohio_July_2022.jpg/330px-East_5th_Street_Historic_District%2C_East_Liverpool%2C_Ohio_July_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1945,
+      "text": "Jackie Robinson of the Kansas City Monarchs signs a contract with the Brooklyn Dodger's minor league team, the Montreal Royals, breaking Major League Baseball's color barrier.",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg/330px-Jackie_Robinson%2C_NPG_97_135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1992,
-      "text": "Space Shuttle Columbia launches on STS-52 to deploy the LAGEOS-2 satellite and microgravity experiments.",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Columbia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg/330px-Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "Signing of the Paris Peace Accords which ends the Cambodian–Vietnamese War.",
+      "url": "https://en.wikipedia.org/wiki/1991_Paris_Peace_Agreements",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
