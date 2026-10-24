@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -148,23 +148,23 @@
     },
     {
       "pos": 9,
+      "team": "Ipswich Town FC",
+      "played": 8,
+      "won": 3,
+      "drawn": 1,
+      "lost": 4,
+      "gd": -4,
+      "points": 10,
+      "is_spurs": false
+    },
+    {
+      "pos": 10,
       "team": "Hull City AFC",
       "played": 7,
       "won": 2,
       "drawn": 3,
       "lost": 2,
       "gd": 1,
-      "points": 9,
-      "is_spurs": false
-    },
-    {
-      "pos": 10,
-      "team": "Ipswich Town FC",
-      "played": 7,
-      "won": 3,
-      "drawn": 0,
-      "lost": 4,
-      "gd": -4,
       "points": 9,
       "is_spurs": false
     },
@@ -225,6 +225,17 @@
     },
     {
       "pos": 16,
+      "team": "Nottingham Forest FC",
+      "played": 8,
+      "won": 1,
+      "drawn": 3,
+      "lost": 4,
+      "gd": -4,
+      "points": 6,
+      "is_spurs": false
+    },
+    {
+      "pos": 16,
       "team": "Tottenham Hotspur FC",
       "played": 7,
       "won": 1,
@@ -235,7 +246,7 @@
       "is_spurs": true
     },
     {
-      "pos": 17,
+      "pos": 18,
       "team": "Coventry City FC",
       "played": 7,
       "won": 2,
@@ -246,24 +257,13 @@
       "is_spurs": false
     },
     {
-      "pos": 18,
+      "pos": 19,
       "team": "Fulham FC",
       "played": 7,
       "won": 1,
       "drawn": 2,
       "lost": 4,
       "gd": -3,
-      "points": 5,
-      "is_spurs": false
-    },
-    {
-      "pos": 19,
-      "team": "Nottingham Forest FC",
-      "played": 7,
-      "won": 1,
-      "drawn": 2,
-      "lost": 4,
-      "gd": -4,
       "points": 5,
       "is_spurs": false
     },

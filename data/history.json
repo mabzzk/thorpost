@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "month": 10,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1856,
-      "text": "Second Opium War: Dissatisfied with imperial commissioner Ye Mingchen's reparations for the alleged slighting of a British-owned vessel and at Consul Harry Parkes's urging, British Rear-Admiral Michael Seymour launches an assault on the Barrier Forts outside Canton in the first military engagement of the Second Opium War.",
-      "url": "https://en.wikipedia.org/wiki/Second_Opium_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/La_bataille_de_Palikiao.jpg/330px-La_bataille_de_Palikiao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1871,
+      "text": "An estimated 17 to 22 Chinese immigrants are lynched in Los Angeles, California.",
+      "url": "https://en.wikipedia.org/wiki/Los_Angeles_Chinese_massacre_of_1871",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg/330px-Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1945,
-      "text": "Jackie Robinson of the Kansas City Monarchs signs a contract with the Brooklyn Dodger's minor league team, the Montreal Royals, breaking Major League Baseball's color barrier.",
-      "url": "https://en.wikipedia.org/wiki/Jackie_Robinson",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg/330px-Jackie_Robinson%2C_NPG_97_135.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1931,
+      "text": "The George Washington Bridge opens to public traffic over the Hudson River.",
+      "url": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/330px-GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "Signing of the Paris Peace Accords which ends the Cambodian–Vietnamese War.",
-      "url": "https://en.wikipedia.org/wiki/1991_Paris_Peace_Agreements",
-      "thumbnail": "",
+      "year": 1980,
+      "text": "The government of Poland legalizes the Solidarity trade union.",
+      "url": "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/cd/Solidarity_%28Polish_trade_union%29_logo.svg/330px-Solidarity_%28Polish_trade_union%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
