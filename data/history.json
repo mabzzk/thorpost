@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "month": 10,
-  "day": 24,
+  "day": 25,
   "events": [
     {
-      "year": 1871,
-      "text": "An estimated 17 to 22 Chinese immigrants are lynched in Los Angeles, California.",
-      "url": "https://en.wikipedia.org/wiki/Los_Angeles_Chinese_massacre_of_1871",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg/330px-Los_Angeles%2C_corpses_of_Chinese_victims%2C_Oct_1871.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1854,
+      "text": "The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.",
+      "url": "https://en.wikipedia.org/wiki/Battle_of_Balaclava",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg/330px-Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1931,
-      "text": "The George Washington Bridge opens to public traffic over the Hudson River.",
-      "url": "https://en.wikipedia.org/wiki/George_Washington_Bridge",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/GWBfromFortLeeHistoricPark.JPG/330px-GWBfromFortLeeHistoricPark.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1940,
+      "text": "Benjamin O. Davis Sr. is named the first African American general in the United States Army.",
+      "url": "https://en.wikipedia.org/wiki/Benjamin_O._Davis_Sr.",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Benjamin_O._Davis_Sr._Salvaged.jpg/330px-Benjamin_O._Davis_Sr._Salvaged.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
       "year": 1980,
-      "text": "The government of Poland legalizes the Solidarity trade union.",
-      "url": "https://en.wikipedia.org/wiki/Solidarity_(Polish_trade_union)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/cd/Solidarity_%28Polish_trade_union%29_logo.svg/330px-Solidarity_%28Polish_trade_union%29_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "text": "Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.",
+      "url": "https://en.wikipedia.org/wiki/Hague_Convention_on_the_Civil_Aspects_of_International_Child_Abduction",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/HagueAbductionConvention_RatificationsandAccessions.svg/330px-HagueAbductionConvention_RatificationsandAccessions.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
