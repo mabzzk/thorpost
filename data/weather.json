@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "today": {
-    "date": "2026-10-25",
-    "symbol": "rain",
-    "temp_max": 11.1,
-    "temp_min": 8.9,
-    "wind_speed": 9.8,
-    "precipitation": 21.5
-  },
-  "tomorrow": {
     "date": "2026-10-26",
     "symbol": "clearsky_day",
-    "temp_max": 13.3,
-    "temp_min": 8.7,
-    "wind_speed": 5.8,
-    "precipitation": 0.6
+    "temp_max": 14.0,
+    "temp_min": 8.3,
+    "wind_speed": 4.5,
+    "precipitation": 0.8
+  },
+  "tomorrow": {
+    "date": "2026-10-27",
+    "symbol": "lightrain",
+    "temp_max": 12.8,
+    "temp_min": 10.1,
+    "wind_speed": 8.6,
+    "precipitation": 10.5
   },
   "water": {
-    "ocean": 8.8
+    "ocean": 9.2
   },
   "sun": {
-    "sunrise": "08:20",
-    "sunset": "17:46"
+    "sunrise": "08:23",
+    "sunset": "17:43"
   },
-  "remark": "Styrtregn! Perfekt dag for en god kopp kaffe og en god bok hjemme.",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "Den som ikke risikerer noe, risikerer alt.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-25"
+  "pollen_updated": "2026-10-26"
 }

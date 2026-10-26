@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "month": 10,
-  "day": 25,
+  "day": 26,
   "events": [
     {
-      "year": 1854,
-      "text": "The Battle of Balaclava takes place during the Crimean War. It is soon memorialized in verse as The Charge of the Light Brigade.",
-      "url": "https://en.wikipedia.org/wiki/Battle_of_Balaclava",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg/330px-Charge_of_the_Light_Brigade%2C_Balaclava%2C_25_October_1854.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1863,
+      "text": "The Football Association is founded.",
+      "url": "https://en.wikipedia.org/wiki/The_Football_Association",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/FA_crest_2009.svg/330px-FA_crest_2009.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "Benjamin O. Davis Sr. is named the first African American general in the United States Army.",
-      "url": "https://en.wikipedia.org/wiki/Benjamin_O._Davis_Sr.",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Benjamin_O._Davis_Sr._Salvaged.jpg/330px-Benjamin_O._Davis_Sr._Salvaged.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1980,
-      "text": "Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude.",
-      "url": "https://en.wikipedia.org/wiki/Hague_Convention_on_the_Civil_Aspects_of_International_Child_Abduction",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/HagueAbductionConvention_RatificationsandAccessions.svg/330px-HagueAbductionConvention_RatificationsandAccessions.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1989,
+      "text": "China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.",
+      "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_204",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/China_Airlines_B-180_Boeing_737-209.jpg/330px-China_Airlines_B-180_Boeing_737-209.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
