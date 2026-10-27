@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "month": 10,
-  "day": 26,
+  "day": 27,
   "events": [
     {
-      "year": 1863,
-      "text": "The Football Association is founded.",
-      "url": "https://en.wikipedia.org/wiki/The_Football_Association",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/FA_crest_2009.svg/330px-FA_crest_2009.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1810,
+      "text": "United States annexes the former Spanish colony of West Florida.",
+      "url": "https://en.wikipedia.org/wiki/West_Florida",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg/330px-Red_ensign_of_Great_Britain_%281707%E2%80%931800%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: In the Battle of the Santa Cruz Islands during the Guadalcanal Campaign, one U.S. aircraft carrier is sunk and another carrier is heavily damaged, while two Japanese carriers and one cruiser are heavily damaged.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1936,
+      "text": "Abdication Crisis:  Mrs. Wallis Simpson obtains her divorce, which would eventually allow her to marry King Edward VIII of the United Kingdom, thus forcing his abdication from the throne.",
+      "url": "https://en.wikipedia.org/wiki/Abdication_of_Edward_VIII",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Edward_abdication.png/330px-Edward_abdication.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1989,
-      "text": "China Airlines Flight 204 crashes after takeoff from Hualien Airport in Taiwan, killing all 54 people on board.",
-      "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_204",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/China_Airlines_B-180_Boeing_737-209.jpg/330px-China_Airlines_B-180_Boeing_737-209.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1986,
+      "text": "The British government suddenly deregulates financial markets, leading to a total restructuring of the way in which they operate in the country, in an event now referred to as the Big Bang.",
+      "url": "https://en.wikipedia.org/wiki/Big_Bang_(financial_markets)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Canary-wharf-one.jpg/330px-Canary-wharf-one.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
