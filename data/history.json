@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "month": 10,
-  "day": 28,
+  "day": 29,
   "events": [
     {
-      "year": 1562,
-      "text": "James Stewart, 1st Earl of Moray, defeats the forces of the rebelious George Gordon, 4th Earl of Huntly, in the battle of Corrichie.",
-      "url": "https://en.wikipedia.org/wiki/James_Stewart%2C_1st_Earl_of_Moray",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/James_Stewart_Earl_of_Moray.jpg/330px-James_Stewart_Earl_of_Moray.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1888,
+      "text": "The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.",
+      "url": "https://en.wikipedia.org/wiki/Convention_of_Constantinople",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Convention_of_Constantinople_1888.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "World War I: A new Polish government in western Galicia is established, triggering the Polish–Ukrainian War.",
-      "url": "https://en.wikipedia.org/wiki/World_War_I",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1964,
+      "text": "The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.",
+      "url": "https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Tanganyika_%281961%E2%80%931964%29.svg/330px-Flag_of_Tanganyika_%281961%E2%80%931964%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1971,
-      "text": "Prospero becomes the only British satellite to be launched by a British rocket.",
-      "url": "https://en.wikipedia.org/wiki/Prospero_(spacecraft)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Prospero_X-3_model_2012.JPG/330px-Prospero_X-3_model_2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1998,
+      "text": "The Gothenburg discothèque fire in Sweden kills 63 and injures over 200.",
+      "url": "https://en.wikipedia.org/wiki/1998_Gothenburg_discotheque_fire",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Minnesmarke_diskobranden_Gbg.JPG/330px-Minnesmarke_diskobranden_Gbg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
