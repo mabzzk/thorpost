@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "month": 10,
-  "day": 29,
+  "day": 30,
   "events": [
     {
-      "year": 1888,
-      "text": "The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.",
-      "url": "https://en.wikipedia.org/wiki/Convention_of_Constantinople",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Convention_of_Constantinople_1888.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1831,
+      "text": "Nat Turner is arrested for leading the bloodiest slave rebellion in United States history.",
+      "url": "https://en.wikipedia.org/wiki/Nat_Turner",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nat_Turner_captured.jpg/330px-Nat_Turner_captured.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1964,
-      "text": "The United Republic of Tanganyika and Zanzibar is renamed to the United Republic of Tanzania.",
-      "url": "https://en.wikipedia.org/wiki/Tanganyika_(1961%E2%80%931964)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Tanganyika_%281961%E2%80%931964%29.svg/330px-Flag_of_Tanganyika_%281961%E2%80%931964%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1998,
-      "text": "The Gothenburg discothèque fire in Sweden kills 63 and injures over 200.",
-      "url": "https://en.wikipedia.org/wiki/1998_Gothenburg_discotheque_fire",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Minnesmarke_diskobranden_Gbg.JPG/330px-Minnesmarke_diskobranden_Gbg.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1983,
+      "text": "The first democratic elections in Argentina, after seven years of military rule, are held.",
+      "url": "https://en.wikipedia.org/wiki/1983_Argentine_general_election",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Elecciones_legislativas_de_Argentina_de_1983_-_Resultados_por_distrito.svg/330px-Elecciones_legislativas_de_Argentina_de_1983_-_Resultados_por_distrito.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
