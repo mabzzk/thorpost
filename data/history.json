@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "month": 10,
-  "day": 30,
+  "day": 31,
   "events": [
     {
-      "year": 1831,
-      "text": "Nat Turner is arrested for leading the bloodiest slave rebellion in United States history.",
-      "url": "https://en.wikipedia.org/wiki/Nat_Turner",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nat_Turner_captured.jpg/330px-Nat_Turner_captured.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1864,
+      "text": "Nevada is admitted as the 36th U.S. state.",
+      "url": "https://en.wikipedia.org/wiki/Nevada",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/330px-Flag_of_Nevada.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: Lt. Tony Fasson and Able Seaman Colin Grazier drown while taking code books from the sinking German submarine U-559.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1941,
+      "text": "After 14 years of work, Mount Rushmore is completed.",
+      "url": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/330px-Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "The first democratic elections in Argentina, after seven years of military rule, are held.",
-      "url": "https://en.wikipedia.org/wiki/1983_Argentine_general_election",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Elecciones_legislativas_de_Argentina_de_1983_-_Resultados_por_distrito.svg/330px-Elecciones_legislativas_de_Argentina_de_1983_-_Resultados_por_distrito.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1996,
+      "text": "TAM Transportes Aéreos Regionais Flight 402 crashes in São Paulo, Brazil, killing 99 people.",
+      "url": "https://en.wikipedia.org/wiki/TAM_Transportes_A%C3%A9reos_Regionais_Flight_402",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Eu_e_o_trem_de_pouso_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]

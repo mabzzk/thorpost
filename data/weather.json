@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "today": {
-    "date": "2026-10-30",
-    "symbol": "partlycloudy_day",
-    "temp_max": 13.6,
-    "temp_min": 7.5,
-    "wind_speed": 1.5,
+    "date": "2026-10-31",
+    "symbol": "fog",
+    "temp_max": 10.2,
+    "temp_min": 5.6,
+    "wind_speed": 1.1,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-10-31",
-    "symbol": "cloudy",
-    "temp_max": 10.5,
-    "temp_min": 6.6,
-    "wind_speed": 1.0,
+    "date": "2026-11-01",
+    "symbol": "partlycloudy_day",
+    "temp_max": 10.3,
+    "temp_min": 7.5,
+    "wind_speed": 2.1,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 9.0
+    "ocean": 10.0
   },
   "sun": {
-    "sunrise": "08:33",
-    "sunset": "17:33"
+    "sunrise": "08:35",
+    "sunset": "17:30"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "remark": "Tåke over Larvik. Kjør forsiktig og ta det rolig.",
+  "thought": "En optimist ser muligheten i hver vanskelighet.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-30"
+  "pollen_updated": "2026-10-31"
 }
