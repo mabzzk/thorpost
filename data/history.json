@@ -1,27 +1,27 @@
 {
-  "updated": "2026-10-31",
-  "month": 10,
-  "day": 31,
+  "updated": "2026-11-01",
+  "month": 11,
+  "day": 1,
   "events": [
     {
-      "year": 1864,
-      "text": "Nevada is admitted as the 36th U.S. state.",
-      "url": "https://en.wikipedia.org/wiki/Nevada",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Nevada.svg/330px-Flag_of_Nevada.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1856,
+      "text": "The British Empire declare war on Iran following Naser al-Din Shah's capture of Herat.",
+      "url": "https://en.wikipedia.org/wiki/British_Empire",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/330px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1941,
-      "text": "After 14 years of work, Mount Rushmore is completed.",
-      "url": "https://en.wikipedia.org/wiki/Mount_Rushmore",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Mount_Rushmore_detail_view_%28100MP%29.jpg/330px-Mount_Rushmore_detail_view_%28100MP%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1938,
+      "text": "Seabiscuit defeats War Admiral in an upset victory during a match race deemed \"the match of the century\" in horse racing.",
+      "url": "https://en.wikipedia.org/wiki/Seabiscuit",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Seabiscuit_workout_with_GW_up.jpg/330px-Seabiscuit_workout_with_GW_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1996,
-      "text": "TAM Transportes Aéreos Regionais Flight 402 crashes in São Paulo, Brazil, killing 99 people.",
-      "url": "https://en.wikipedia.org/wiki/TAM_Transportes_A%C3%A9reos_Regionais_Flight_402",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Eu_e_o_trem_de_pouso_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1970,
+      "text": "Club Cinq-Sept fire in Saint-Laurent-du-Pont, France kills 146 young people.",
+      "url": "https://en.wikipedia.org/wiki/Club_Cinq-Sept_fire",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/M%C3%A9morial_de_l%27incendie_du_5-7.JPG/330px-M%C3%A9morial_de_l%27incendie_du_5-7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

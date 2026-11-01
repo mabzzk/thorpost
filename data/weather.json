@@ -1,30 +1,30 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "today": {
-    "date": "2026-10-31",
-    "symbol": "fog",
-    "temp_max": 10.2,
-    "temp_min": 5.6,
-    "wind_speed": 1.1,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-11-01",
     "symbol": "partlycloudy_day",
     "temp_max": 10.3,
     "temp_min": 7.5,
-    "wind_speed": 2.1,
+    "wind_speed": 2.6,
+    "precipitation": 0.0
+  },
+  "tomorrow": {
+    "date": "2026-11-02",
+    "symbol": "clearsky_day",
+    "temp_max": 8.4,
+    "temp_min": 2.9,
+    "wind_speed": 4.0,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 10.0
+    "ocean": 9.2
   },
   "sun": {
-    "sunrise": "08:35",
-    "sunset": "17:30"
+    "sunrise": "07:37",
+    "sunset": "16:28"
   },
-  "remark": "Tåke over Larvik. Kjør forsiktig og ta det rolig.",
-  "thought": "En optimist ser muligheten i hver vanskelighet.",
+  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
+  "thought": "Vær den forandringen du vil se i verden. – Mahatma Gandhi",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-10-31"
+  "pollen_updated": "2026-11-01"
 }
