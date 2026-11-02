@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "month": 11,
-  "day": 1,
+  "day": 2,
   "events": [
     {
-      "year": 1856,
-      "text": "The British Empire declare war on Iran following Naser al-Din Shah's capture of Herat.",
-      "url": "https://en.wikipedia.org/wiki/British_Empire",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Great_Britain_%281707%E2%80%931800%29.svg/330px-Flag_of_Great_Britain_%281707%E2%80%931800%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1912,
+      "text": "Bulgaria defeats the Ottoman Empire in the Battle of Lule Burgas, the bloodiest battle of the First Balkan War, which opens her way to Constantinople.",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bulgaria",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/330px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1938,
-      "text": "Seabiscuit defeats War Admiral in an upset victory during a match race deemed \"the match of the century\" in horse racing.",
-      "url": "https://en.wikipedia.org/wiki/Seabiscuit",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Seabiscuit_workout_with_GW_up.jpg/330px-Seabiscuit_workout_with_GW_up.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1956,
+      "text": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1970,
-      "text": "Club Cinq-Sept fire in Saint-Laurent-du-Pont, France kills 146 young people.",
-      "url": "https://en.wikipedia.org/wiki/Club_Cinq-Sept_fire",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/M%C3%A9morial_de_l%27incendie_du_5-7.JPG/330px-M%C3%A9morial_de_l%27incendie_du_5-7.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1983,
+      "text": "U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day.",
+      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
