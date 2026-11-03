@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -126,6 +126,17 @@
     },
     {
       "pos": 7,
+      "team": "Everton FC",
+      "played": 9,
+      "won": 3,
+      "drawn": 4,
+      "lost": 2,
+      "gd": 0,
+      "points": 13,
+      "is_spurs": false
+    },
+    {
+      "pos": 8,
       "team": "AFC Bournemouth",
       "played": 9,
       "won": 3,
@@ -136,7 +147,7 @@
       "is_spurs": false
     },
     {
-      "pos": 8,
+      "pos": 9,
       "team": "Tottenham Hotspur FC",
       "played": 9,
       "won": 3,
@@ -147,7 +158,7 @@
       "is_spurs": true
     },
     {
-      "pos": 9,
+      "pos": 10,
       "team": "Aston Villa FC",
       "played": 9,
       "won": 3,
@@ -158,7 +169,7 @@
       "is_spurs": false
     },
     {
-      "pos": 10,
+      "pos": 11,
       "team": "Hull City AFC",
       "played": 9,
       "won": 2,
@@ -169,7 +180,7 @@
       "is_spurs": false
     },
     {
-      "pos": 11,
+      "pos": 12,
       "team": "Leeds United FC",
       "played": 9,
       "won": 2,
@@ -180,18 +191,18 @@
       "is_spurs": false
     },
     {
-      "pos": 12,
+      "pos": 13,
       "team": "Newcastle United FC",
-      "played": 8,
+      "played": 9,
       "won": 3,
       "drawn": 2,
-      "lost": 3,
-      "gd": -2,
+      "lost": 4,
+      "gd": -3,
       "points": 11,
       "is_spurs": false
     },
     {
-      "pos": 13,
+      "pos": 14,
       "team": "Ipswich Town FC",
       "played": 9,
       "won": 3,
@@ -199,17 +210,6 @@
       "lost": 4,
       "gd": -4,
       "points": 11,
-      "is_spurs": false
-    },
-    {
-      "pos": 14,
-      "team": "Everton FC",
-      "played": 8,
-      "won": 2,
-      "drawn": 4,
-      "lost": 2,
-      "gd": -1,
-      "points": 10,
       "is_spurs": false
     },
     {

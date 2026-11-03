@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "month": 11,
-  "day": 2,
+  "day": 3,
   "events": [
     {
-      "year": 1912,
-      "text": "Bulgaria defeats the Ottoman Empire in the Battle of Lule Burgas, the bloodiest battle of the First Balkan War, which opens her way to Constantinople.",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Bulgaria",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/330px-Flag_of_Bulgaria.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1868,
+      "text": "John Willis Menard (R-LA) becomes the first African American elected to the United States Congress. Because of an electoral challenge, he is never seated.",
+      "url": "https://en.wikipedia.org/wiki/John_Willis_Menard",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/John_Willis_Menard.png/330px-John_Willis_Menard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1956,
-      "text": "Hungarian Revolution: Nikita Khrushchev meets with leaders of other Communist countries to seek their advice on the situation in Hungary, selecting János Kádár as the country's next leader on the advice of Josip Broz Tito.",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "World War II: Five hundred aircraft of the U.S. 8th Air Force devastate Wilhelmshaven harbor in Germany.",
+      "url": "https://en.wikipedia.org/wiki/Bombing_of_Wilhelmshaven_in_World_War_II",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "U.S. President Ronald Reagan signs a bill creating Martin Luther King Jr. Day.",
-      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1976,
+      "text": "Carrie, an American supernatural horror film directed by Brian De Palma, is premiered in 17 theaters in the Washington, D.C.-Baltimore area.",
+      "url": "https://en.wikipedia.org/wiki/Carrie_(1976_film)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Carrieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]
