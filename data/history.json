@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-03",
+  "updated": "2026-11-04",
   "month": 11,
-  "day": 3,
+  "day": 4,
   "events": [
     {
-      "year": 1868,
-      "text": "John Willis Menard (R-LA) becomes the first African American elected to the United States Congress. Because of an electoral challenge, he is never seated.",
-      "url": "https://en.wikipedia.org/wiki/John_Willis_Menard",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/John_Willis_Menard.png/330px-John_Willis_Menard.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1839,
+      "text": "Newport Rising: The last large-scale armed rebellion against authority in mainland Britain.",
+      "url": "https://en.wikipedia.org/wiki/Newport_Rising",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Westgate_Hotel.jpg/330px-Westgate_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: Five hundred aircraft of the U.S. 8th Air Force devastate Wilhelmshaven harbor in Germany.",
-      "url": "https://en.wikipedia.org/wiki/Bombing_of_Wilhelmshaven_in_World_War_II",
-      "thumbnail": "",
+      "year": 1942,
+      "text": "World War II: Disobeying a direct order by Adolf Hitler, General Field Marshal Erwin Rommel begins a retreat of his forces after a costly defeat during the Second Battle of El Alamein. The retreat would ultimately last five months.",
+      "url": "https://en.wikipedia.org/wiki/Adolf_Hitler",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1976,
-      "text": "Carrie, an American supernatural horror film directed by Brian De Palma, is premiered in 17 theaters in the Washington, D.C.-Baltimore area.",
-      "url": "https://en.wikipedia.org/wiki/Carrie_(1976_film)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d7/Carrieposter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1979,
+      "text": "Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages.",
+      "url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/330px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
