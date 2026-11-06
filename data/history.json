@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-04",
+  "updated": "2026-11-06",
   "month": 11,
-  "day": 4,
+  "day": 6,
   "events": [
     {
-      "year": 1839,
-      "text": "Newport Rising: The last large-scale armed rebellion against authority in mainland Britain.",
-      "url": "https://en.wikipedia.org/wiki/Newport_Rising",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Westgate_Hotel.jpg/330px-Westgate_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1869,
+      "text": "In New Brunswick, New Jersey, Rutgers College defeats Princeton University (then known as the College of New Jersey), 6–4, in the first official intercollegiate American football game.",
+      "url": "https://en.wikipedia.org/wiki/New_Brunswick%2C_New_Jersey",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/New_brunswick_from_the_air_in_February_2026.jpg/330px-New_brunswick_from_the_air_in_February_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: Disobeying a direct order by Adolf Hitler, General Field Marshal Erwin Rommel begins a retreat of his forces after a costly defeat during the Second Battle of El Alamein. The retreat would ultimately last five months.",
-      "url": "https://en.wikipedia.org/wiki/Adolf_Hitler",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1971,
+      "text": "The United States Atomic Energy Commission tests the largest U.S. underground hydrogen bomb, code-named Cannikin, on Amchitka Island in the Aleutians.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Atomic_Energy_Commission",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Seal_of_the_United_States_Atomic_Energy_Commission.svg/330px-Seal_of_the_United_States_Atomic_Energy_Commission.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1979,
-      "text": "Iran hostage crisis: A group of Iranian college students overruns the U.S. embassy in Tehran and takes 90 hostages.",
-      "url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/330px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1995,
+      "text": "Cleveland Browns relocation controversy: Art Modell announces that he signed a deal that would relocate the Cleveland Browns to Baltimore.",
+      "url": "https://en.wikipedia.org/wiki/Cleveland_Browns_relocation_controversy",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
