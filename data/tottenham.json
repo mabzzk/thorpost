@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -104,6 +104,17 @@
     },
     {
       "pos": 5,
+      "team": "Everton FC",
+      "played": 10,
+      "won": 4,
+      "drawn": 4,
+      "lost": 2,
+      "gd": 2,
+      "points": 16,
+      "is_spurs": false
+    },
+    {
+      "pos": 6,
       "team": "Liverpool FC",
       "played": 9,
       "won": 4,
@@ -114,7 +125,7 @@
       "is_spurs": false
     },
     {
-      "pos": 6,
+      "pos": 7,
       "team": "Brentford FC",
       "played": 9,
       "won": 3,
@@ -122,17 +133,6 @@
       "lost": 1,
       "gd": 7,
       "points": 14,
-      "is_spurs": false
-    },
-    {
-      "pos": 7,
-      "team": "Everton FC",
-      "played": 9,
-      "won": 3,
-      "drawn": 4,
-      "lost": 2,
-      "gd": 0,
-      "points": 13,
       "is_spurs": false
     },
     {
@@ -226,11 +226,11 @@
     {
       "pos": 16,
       "team": "Coventry City FC",
-      "played": 9,
+      "played": 10,
       "won": 3,
       "drawn": 0,
-      "lost": 6,
-      "gd": -7,
+      "lost": 7,
+      "gd": -9,
       "points": 9,
       "is_spurs": false
     },
