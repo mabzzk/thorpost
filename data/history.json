@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "month": 11,
-  "day": 7,
+  "day": 8,
   "events": [
     {
-      "year": 1881,
-      "text": "Mapuche uprising of 1881: Mapuche rebels destroy the Chilean settlement of Nueva Imperial after defenders fled to the hills.",
-      "url": "https://en.wikipedia.org/wiki/Mapuche_uprising_of_1881",
-      "thumbnail": "",
+      "year": 1889,
+      "text": "Montana is admitted as the 41st U.S. state.",
+      "url": "https://en.wikipedia.org/wiki/Montana",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/330px-Flag_of_Montana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1929,
-      "text": "In New York City, the Museum of Modern Art opens to the public.",
-      "url": "https://en.wikipedia.org/wiki/Museum_of_Modern_Art",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/MoMa_NY_USA_1.jpg/330px-MoMa_NY_USA_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1942,
+      "text": "World War II: French Resistance coup in Algiers, in which 400 civilian French patriots neutralize Vichyist XIXth Army Corps after 15 hours of fighting, and arrest several Vichyist generals, allowing the immediate success of Operation Torch in Algiers.",
+      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "Cold War: The command post exercise Able Archer 83 begins, eventually leading to the Soviet Union to place air units in East Germany and Poland on alert, for fear that NATO was preparing for war",
-      "url": "https://en.wikipedia.org/wiki/Cold_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1981,
+      "text": "Aeroméxico Flight 110 crashes near Zihuatanejo, Mexico, killing all 18 people on board.",
+      "url": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico_Flight_110",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/753_McDonnell_Douglas_DC-9-32_XA-DEO_%22Tijuana%22%2C_AeroMexico.jpg/330px-753_McDonnell_Douglas_DC-9-32_XA-DEO_%22Tijuana%22%2C_AeroMexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
