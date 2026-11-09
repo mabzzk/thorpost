@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "month": 11,
-  "day": 8,
+  "day": 9,
   "events": [
     {
-      "year": 1889,
-      "text": "Montana is admitted as the 41st U.S. state.",
-      "url": "https://en.wikipedia.org/wiki/Montana",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_Montana.svg/330px-Flag_of_Montana.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1791,
+      "text": "The Dublin Society of United Irishmen is founded.",
+      "url": "https://en.wikipedia.org/wiki/Society_of_United_Irishmen",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Badge_of_the_Society_of_United_Irishmen_%28coloured%29.svg/330px-Badge_of_the_Society_of_United_Irishmen_%28coloured%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1942,
-      "text": "World War II: French Resistance coup in Algiers, in which 400 civilian French patriots neutralize Vichyist XIXth Army Corps after 15 hours of fighting, and arrest several Vichyist generals, allowing the immediate success of Operation Torch in Algiers.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1918,
+      "text": "Kaiser Wilhelm II of Germany abdicates after the German Revolution, and Germany is proclaimed a Republic.",
+      "url": "https://en.wikipedia.org/wiki/Kaiser",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrayal_of_Franz_Joseph_and_his_wife_Elisabeth_on_a_millennium_memorial_leaf_with_the_crown.jpg/330px-Portrayal_of_Franz_Joseph_and_his_wife_Elisabeth_on_a_millennium_memorial_leaf_with_the_crown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1981,
-      "text": "Aeroméxico Flight 110 crashes near Zihuatanejo, Mexico, killing all 18 people on board.",
-      "url": "https://en.wikipedia.org/wiki/Aerom%C3%A9xico_Flight_110",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/753_McDonnell_Douglas_DC-9-32_XA-DEO_%22Tijuana%22%2C_AeroMexico.jpg/330px-753_McDonnell_Douglas_DC-9-32_XA-DEO_%22Tijuana%22%2C_AeroMexico.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1970,
+      "text": "Vietnam War: The Supreme Court of the United States votes 6–3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war.",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
