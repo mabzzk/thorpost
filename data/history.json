@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "month": 11,
-  "day": 9,
+  "day": 10,
   "events": [
     {
-      "year": 1791,
-      "text": "The Dublin Society of United Irishmen is founded.",
-      "url": "https://en.wikipedia.org/wiki/Society_of_United_Irishmen",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Badge_of_the_Society_of_United_Irishmen_%28coloured%29.svg/330px-Badge_of_the_Society_of_United_Irishmen_%28coloured%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1821,
+      "text": "Cry of Independence by Rufina Alfaro at La Villa de Los Santos, Panama setting into motion a revolt which led to Panama's independence from Spain and to it immediately becoming part of Colombia.",
+      "url": "https://en.wikipedia.org/wiki/Rufina_Alfaro",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1918,
-      "text": "Kaiser Wilhelm II of Germany abdicates after the German Revolution, and Germany is proclaimed a Republic.",
-      "url": "https://en.wikipedia.org/wiki/Kaiser",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrayal_of_Franz_Joseph_and_his_wife_Elisabeth_on_a_millennium_memorial_leaf_with_the_crown.jpg/330px-Portrayal_of_Franz_Joseph_and_his_wife_Elisabeth_on_a_millennium_memorial_leaf_with_the_crown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1954,
+      "text": "U.S. President Dwight D. Eisenhower dedicates the USMC War Memorial (Iwo Jima memorial) in Arlington Ridge Park in Arlington County, Virginia.",
+      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1970,
-      "text": "Vietnam War: The Supreme Court of the United States votes 6–3 against hearing a case to allow Massachusetts to enforce its law granting residents the right to refuse military service in an undeclared war.",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1985,
+      "text": "A Dassault Falcon 50 and a Piper PA-28 Cherokee collide in mid-air over Fairview, New Jersey, killing six people and injuring eight.",
+      "url": "https://en.wikipedia.org/wiki/Dassault_Falcon_50",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Armee_de_l%27Air_-_Dassault_Falcon_50.jpg/330px-Armee_de_l%27Air_-_Dassault_Falcon_50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
