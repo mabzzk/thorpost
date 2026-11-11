@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "month": 11,
-  "day": 10,
+  "day": 11,
   "events": [
     {
-      "year": 1821,
-      "text": "Cry of Independence by Rufina Alfaro at La Villa de Los Santos, Panama setting into motion a revolt which led to Panama's independence from Spain and to it immediately becoming part of Colombia.",
-      "url": "https://en.wikipedia.org/wiki/Rufina_Alfaro",
-      "thumbnail": "",
+      "year": 1805,
+      "text": "Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.",
+      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1954,
-      "text": "U.S. President Dwight D. Eisenhower dedicates the USMC War Memorial (Iwo Jima memorial) in Arlington Ridge Park in Arlington County, Virginia.",
-      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1926,
+      "text": "The United States Numbered Highway System is established.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Numbered_Highway_System",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Map_of_current_U.S._Routes.svg/330px-Map_of_current_U.S._Routes.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "A Dassault Falcon 50 and a Piper PA-28 Cherokee collide in mid-air over Fairview, New Jersey, killing six people and injuring eight.",
-      "url": "https://en.wikipedia.org/wiki/Dassault_Falcon_50",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Armee_de_l%27Air_-_Dassault_Falcon_50.jpg/330px-Armee_de_l%27Air_-_Dassault_Falcon_50.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1975,
+      "text": "Independence of Angola.",
+      "url": "https://en.wikipedia.org/wiki/Angola",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/330px-Flag_of_Angola.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
