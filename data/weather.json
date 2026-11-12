@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "today": {
-    "date": "2026-11-11",
-    "symbol": "cloudy",
-    "temp_max": 4.3,
-    "temp_min": 1.7,
-    "wind_speed": 1.1,
+    "date": "2026-11-12",
+    "symbol": "partlycloudy_day",
+    "temp_max": 3.3,
+    "temp_min": -0.3,
+    "wind_speed": 2.6,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-11-12",
-    "symbol": "partlycloudy_day",
-    "temp_max": 4.0,
-    "temp_min": 1.8,
-    "wind_speed": 2.9,
-    "precipitation": 2.3
+    "date": "2026-11-13",
+    "symbol": "clearsky_day",
+    "temp_max": 5.7,
+    "temp_min": 1.5,
+    "wind_speed": 4.1,
+    "precipitation": 0.0
   },
   "water": {
-    "ocean": 7.8
+    "ocean": 7.5
   },
   "sun": {
-    "sunrise": "08:02",
-    "sunset": "16:04"
+    "sunrise": "08:04",
+    "sunset": "16:02"
   },
-  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
-  "thought": "Ingenting er umulig for den som ikke selv skal gjøre det.",
+  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
+  "thought": "Den som planter trær, vet at han ikke selv vil sitte i skyggen.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-11"
+  "pollen_updated": "2026-11-12"
 }

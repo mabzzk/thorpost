@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "month": 11,
-  "day": 11,
+  "day": 12,
   "events": [
     {
-      "year": 1805,
-      "text": "Napoleonic Wars: Battle of Dürenstein: Eight thousand French troops attempt to slow the retreat of a vastly superior Russian and Austrian force.",
-      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1928,
+      "text": "SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned.",
+      "url": "https://en.wikipedia.org/wiki/SS_Vestris",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/SS_Vestris_Postcard.jpg/330px-SS_Vestris_Postcard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1926,
-      "text": "The United States Numbered Highway System is established.",
-      "url": "https://en.wikipedia.org/wiki/United_States_Numbered_Highway_System",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Map_of_current_U.S._Routes.svg/330px-Map_of_current_U.S._Routes.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1969,
+      "text": "Vietnam War: Independent investigative journalist Seymour Hersh breaks the story of the My Lai Massacre.",
+      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1975,
-      "text": "Independence of Angola.",
-      "url": "https://en.wikipedia.org/wiki/Angola",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/330px-Flag_of_Angola.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1996,
+      "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date.",
+      "url": "https://en.wikipedia.org/wiki/Saudia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/48/Logo_of_Saudia.svg/330px-Logo_of_Saudia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
