@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "month": 11,
-  "day": 12,
+  "day": 13,
   "events": [
     {
-      "year": 1928,
-      "text": "SS Vestris sinks approximately 200 miles (320 km) off Hampton Roads, Virginia, killing at least 110 passengers, mostly women and children who die after the vessel is abandoned.",
-      "url": "https://en.wikipedia.org/wiki/SS_Vestris",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/SS_Vestris_Postcard.jpg/330px-SS_Vestris_Postcard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1901,
+      "text": "The 1901 Caister lifeboat disaster occurs, killing 9 of the 12 crew members.",
+      "url": "https://en.wikipedia.org/wiki/1901_Caister_lifeboat_disaster",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Caister_Lifeboat_Disaster_Memorial.jpg/330px-Caister_Lifeboat_Disaster_Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1969,
-      "text": "Vietnam War: Independent investigative journalist Seymour Hersh breaks the story of the My Lai Massacre.",
-      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1956,
+      "text": "The Supreme Court of the United States affirmed a lower court ruling that invalidated Alabama laws requiring segregated buses, thus ending the Montgomery bus boycott.",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/330px-Seal_of_the_United_States_Supreme_Court.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1996,
-      "text": "A Saudi Arabian Airlines Boeing 747 and a Kazakh Ilyushin Il-76 cargo plane collide in mid-air near New Delhi, killing 349 in the deadliest mid-air collision to date.",
-      "url": "https://en.wikipedia.org/wiki/Saudia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/48/Logo_of_Saudia.svg/330px-Logo_of_Saudia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1991,
+      "text": "The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.",
+      "url": "https://en.wikipedia.org/wiki/Republic_of_Karelia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Karelia.svg/330px-Flag_of_Karelia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
