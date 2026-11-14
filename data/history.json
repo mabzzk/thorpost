@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "month": 11,
-  "day": 13,
+  "day": 14,
   "events": [
     {
-      "year": 1901,
-      "text": "The 1901 Caister lifeboat disaster occurs, killing 9 of the 12 crew members.",
-      "url": "https://en.wikipedia.org/wiki/1901_Caister_lifeboat_disaster",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Caister_Lifeboat_Disaster_Memorial.jpg/330px-Caister_Lifeboat_Disaster_Memorial.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1922,
+      "text": "The British Broadcasting Company begins radio service in the United Kingdom.",
+      "url": "https://en.wikipedia.org/wiki/British_Broadcasting_Company",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_1927.svg/330px-BBC_1927.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1956,
-      "text": "The Supreme Court of the United States affirmed a lower court ruling that invalidated Alabama laws requiring segregated buses, thus ending the Montgomery bus boycott.",
-      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_the_United_States",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Seal_of_the_United_States_Supreme_Court.svg/330px-Seal_of_the_United_States_Supreme_Court.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1970,
+      "text": "Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team.",
+      "url": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Wreckage_of_Southern_Airways_Flight_932.jpg/330px-Wreckage_of_Southern_Airways_Flight_932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
       "year": 1991,
-      "text": "The Republic of Karelia, an autonomous republic of Russia, is formed from the former Karelian ASSR.",
-      "url": "https://en.wikipedia.org/wiki/Republic_of_Karelia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Karelia.svg/330px-Flag_of_Karelia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "text": "American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103.",
+      "url": "https://en.wikipedia.org/wiki/Intelligence_assessment",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
