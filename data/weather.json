@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "today": {
-    "date": "2026-11-14",
-    "symbol": "fair_day",
-    "temp_max": 6.6,
-    "temp_min": 0.9,
-    "wind_speed": 4.1,
-    "precipitation": 0.0
+    "date": "2026-11-15",
+    "symbol": "cloudy",
+    "temp_max": 8.8,
+    "temp_min": 7.8,
+    "wind_speed": 8.0,
+    "precipitation": 1.0
   },
   "tomorrow": {
-    "date": "2026-11-15",
-    "symbol": "lightrain",
-    "temp_max": 8.5,
-    "temp_min": 6.4,
-    "wind_speed": 7.2,
-    "precipitation": 0.3
+    "date": "2026-11-16",
+    "symbol": "cloudy",
+    "temp_max": 7.9,
+    "temp_min": 2.2,
+    "wind_speed": 4.7,
+    "precipitation": 14.0
   },
   "water": {
-    "ocean": 7.0
+    "ocean": 6.8
   },
   "sun": {
-    "sunrise": "08:09",
-    "sunset": "15:58"
+    "sunrise": "08:12",
+    "sunset": "15:56"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Den største reisen begynner med et enkelt skritt. – Lao Tzu",
+  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
+  "thought": "Den som tier, samtykker ikke — den tenker bare grundigere.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-14"
+  "pollen_updated": "2026-11-15"
 }

@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "month": 11,
-  "day": 14,
+  "day": 15,
   "events": [
     {
-      "year": 1922,
-      "text": "The British Broadcasting Company begins radio service in the United Kingdom.",
-      "url": "https://en.wikipedia.org/wiki/British_Broadcasting_Company",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/BBC_1927.svg/330px-BBC_1927.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1917,
+      "text": "Eduskunta declares itself the supreme state power of Finland, prompting its declaration of independence and secession from Russia.",
+      "url": "https://en.wikipedia.org/wiki/Parliament_of_Finland",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Eduskunta_istumaj%C3%A4rjestys_2023.svg/330px-Eduskunta_istumaj%C3%A4rjestys_2023.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1970,
-      "text": "Southern Airways Flight 932 crashes in the mountains near Huntington, West Virginia, killing 75, including almost all of the Marshall University football team.",
-      "url": "https://en.wikipedia.org/wiki/Southern_Airways_Flight_932",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Wreckage_of_Southern_Airways_Flight_932.jpg/330px-Wreckage_of_Southern_Airways_Flight_932.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1969,
+      "text": "Cold War: The Soviet submarine K-19 collides with the American submarine USS Gato in the Barents Sea.",
+      "url": "https://en.wikipedia.org/wiki/Cold_War",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/NATO_vs._Warsaw_Pact_%281949-1990%29.svg/330px-NATO_vs._Warsaw_Pact_%281949-1990%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1991,
-      "text": "American and British authorities announce indictments against two Libyan intelligence officials in connection with the downing of the Pan Am Flight 103.",
-      "url": "https://en.wikipedia.org/wiki/Intelligence_assessment",
-      "thumbnail": "",
+      "year": 1992,
+      "text": "An Aero Caribbean Ilyushin Il-18 crashes on approach to Gregorio Luperón International Airport in Puerto Plata, killing 34.",
+      "url": "https://en.wikipedia.org/wiki/1992_Aero_Caribbean_Ilyushin_Il-18_crash",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/CU-T1270_Bridgetown_30-5-1990.jpg/330px-CU-T1270_Bridgetown_30-5-1990.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
