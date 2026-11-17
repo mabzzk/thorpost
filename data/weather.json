@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "today": {
-    "date": "2026-11-16",
-    "symbol": "cloudy",
-    "temp_max": 4.1,
-    "temp_min": 2.5,
-    "wind_speed": 3.4,
-    "precipitation": 0.1
-  },
-  "tomorrow": {
     "date": "2026-11-17",
     "symbol": "clearsky_day",
-    "temp_max": 3.7,
-    "temp_min": -0.9,
-    "wind_speed": 3.8,
+    "temp_max": 2.3,
+    "temp_min": -0.7,
+    "wind_speed": 4.0,
+    "precipitation": 0.0
+  },
+  "tomorrow": {
+    "date": "2026-11-18",
+    "symbol": "partlycloudy_day",
+    "temp_max": 1.0,
+    "temp_min": -2.4,
+    "wind_speed": 4.5,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 8.3
+    "ocean": 8.5
   },
   "sun": {
-    "sunrise": "08:14",
-    "sunset": "15:54"
+    "sunrise": "08:16",
+    "sunset": "15:52"
   },
-  "remark": "Lett regn i dag. Paraply er lurt, men ikke la det ødelegge dagen.",
-  "thought": "Glede deles ikke, den mangedobles.",
+  "remark": "Kaldt i dag. Varmmat, tykke sokker og en god film er dagens oppskrift.",
+  "thought": "Sjøen kaller på dem som lytter — og Larvik hører alltid.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-16"
+  "pollen_updated": "2026-11-17"
 }

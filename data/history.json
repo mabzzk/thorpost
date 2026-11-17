@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "month": 11,
-  "day": 16,
+  "day": 17,
   "events": [
     {
-      "year": 1828,
-      "text": "Greek War of Independence: The London Protocol entails the creation of an autonomous Greek state under Ottoman suzerainty, encompassing the Morea and the Cyclades.",
-      "url": "https://en.wikipedia.org/wiki/Greek_War_of_Independence",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Greek_revolution_collage.jpg/330px-Greek_revolution_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1820,
+      "text": "Captain Nathaniel Palmer becomes the first American to see Antarctica. (The Palmer Peninsula is later named after him.)",
+      "url": "https://en.wikipedia.org/wiki/Nathaniel_Palmer",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nathaniel_Palmer.jpg/330px-Nathaniel_Palmer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "World War II: In response to the leveling of Coventry by the German Luftwaffe two days before, the Royal Air Force bombs Hamburg.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1947,
+      "text": "The Screen Actors Guild implements an anti-Communist loyalty oath.",
+      "url": "https://en.wikipedia.org/wiki/Screen_Actors_Guild",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/33/Screen_Actors_Guild_logo.svg/330px-Screen_Actors_Guild_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1974,
-      "text": "The Arecibo message is broadcast from Puerto Rico.",
-      "url": "https://en.wikipedia.org/wiki/Arecibo_message",
-      "thumbnail": "",
+      "year": 1983,
+      "text": "The Zapatista Army of National Liberation is founded in Mexico.",
+      "url": "https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg/330px-Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
