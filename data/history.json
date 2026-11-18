@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "month": 11,
-  "day": 17,
+  "day": 18,
   "events": [
     {
-      "year": 1820,
-      "text": "Captain Nathaniel Palmer becomes the first American to see Antarctica. (The Palmer Peninsula is later named after him.)",
-      "url": "https://en.wikipedia.org/wiki/Nathaniel_Palmer",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nathaniel_Palmer.jpg/330px-Nathaniel_Palmer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1809,
+      "text": "Napoleonic Wars:  In a naval action, French frigates defeat British East Indiamen in the Bay of Bengal.",
+      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1947,
-      "text": "The Screen Actors Guild implements an anti-Communist loyalty oath.",
-      "url": "https://en.wikipedia.org/wiki/Screen_Actors_Guild",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/33/Screen_Actors_Guild_logo.svg/330px-Screen_Actors_Guild_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1928,
+      "text": "Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.",
+      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/330px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1983,
-      "text": "The Zapatista Army of National Liberation is founded in Mexico.",
-      "url": "https://en.wikipedia.org/wiki/Zapatista_Army_of_National_Liberation",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg/330px-Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional%2C_Flag.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1985,
+      "text": "The first comic of Calvin and Hobbes is published in ten newspapers.",
+      "url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b2/Calvin_and_Hobbes_Original.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]
