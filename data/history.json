@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "month": 11,
-  "day": 18,
+  "day": 19,
   "events": [
     {
-      "year": 1809,
-      "text": "Napoleonic Wars:  In a naval action, French frigates defeat British East Indiamen in the Bay of Bengal.",
-      "url": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/330px-Napoleonic_Wars_%28revision%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1911,
+      "text": "The Doom Bar in Cornwall claims two ships, Island Maid and Angele, the latter killing the entire crew except the captain.",
+      "url": "https://en.wikipedia.org/wiki/Doom_Bar",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Doom_Bar_Cropped.jpg/330px-Doom_Bar_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1928,
-      "text": "Release of the animated short Steamboat Willie, the first fully synchronized sound cartoon.",
-      "url": "https://en.wikipedia.org/wiki/Steamboat_Willie",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Steamboat_Willie_1928_Poster.png/330px-Steamboat_Willie_1928_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1955,
+      "text": "National Review publishes its first issue.",
+      "url": "https://en.wikipedia.org/wiki/National_Review",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/Natreview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "The first comic of Calvin and Hobbes is published in ten newspapers.",
-      "url": "https://en.wikipedia.org/wiki/Calvin_and_Hobbes",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b2/Calvin_and_Hobbes_Original.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1994,
+      "text": "In the United Kingdom, the first National Lottery draw is held. A £1 ticket gave a one-in-14-million chance of correctly guessing the winning six out of 49 numbers.",
+      "url": "https://en.wikipedia.org/wiki/National_Lottery_(United_Kingdom)",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/The_National_Lottery_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]
