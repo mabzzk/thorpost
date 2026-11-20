@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "month": 11,
-  "day": 19,
+  "day": 20,
   "events": [
     {
-      "year": 1911,
-      "text": "The Doom Bar in Cornwall claims two ships, Island Maid and Angele, the latter killing the entire crew except the captain.",
-      "url": "https://en.wikipedia.org/wiki/Doom_Bar",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Doom_Bar_Cropped.jpg/330px-Doom_Bar_Cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1815,
+      "text": "The Second Treaty of Paris is signed, returning the French frontiers to their 1790 extent, imposing large indemnities, and prolonging the occupation by troops of Great Britain, Austria, Prussia, and Russia for several more years.",
+      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1815)",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Coalition_occupation_of_France_1815.png/330px-Coalition_occupation_of_France_1815.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1955,
-      "text": "National Review publishes its first issue.",
-      "url": "https://en.wikipedia.org/wiki/National_Review",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/af/Natreview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1947,
+      "text": "The Princess Elizabeth (the future Queen) marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.",
+      "url": "https://en.wikipedia.org/wiki/Elizabeth_II",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1994,
-      "text": "In the United Kingdom, the first National Lottery draw is held. A £1 ticket gave a one-in-14-million chance of correctly guessing the winning six out of 49 numbers.",
-      "url": "https://en.wikipedia.org/wiki/National_Lottery_(United_Kingdom)",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/The_National_Lottery_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 1990,
+      "text": "Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.",
+      "url": "https://en.wikipedia.org/wiki/Andrei_Chikatilo",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Chikatilo-mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
       "lang": "en"
     }
   ]

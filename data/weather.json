@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "today": {
-    "date": "2026-11-19",
-    "symbol": "fair_day",
-    "temp_max": 0.1,
-    "temp_min": -3.9,
-    "wind_speed": 2.3,
-    "precipitation": 0.0
-  },
-  "tomorrow": {
     "date": "2026-11-20",
     "symbol": "clearsky_day",
-    "temp_max": 2.1,
-    "temp_min": -2.9,
+    "temp_max": 2.0,
+    "temp_min": -2.7,
     "wind_speed": 3.6,
     "precipitation": 0.0
   },
+  "tomorrow": {
+    "date": "2026-11-21",
+    "symbol": "fair_day",
+    "temp_max": 3.2,
+    "temp_min": -0.1,
+    "wind_speed": 4.0,
+    "precipitation": 0.0
+  },
   "water": {
-    "ocean": 7.1
+    "ocean": 6.7
   },
   "sun": {
-    "sunrise": "08:21",
-    "sunset": "15:48"
+    "sunrise": "08:23",
+    "sunset": "15:46"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Fremtiden tilhører dem som tror på drømmenes skjønnhet. – Eleanor Roosevelt",
+  "remark": "Kaldt i dag. Varmmat, tykke sokker og en god film er dagens oppskrift.",
+  "thought": "Et smil koster ingenting, men er verdt mye.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-19"
+  "pollen_updated": "2026-11-20"
 }
