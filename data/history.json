@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "month": 11,
-  "day": 20,
+  "day": 21,
   "events": [
     {
-      "year": 1815,
-      "text": "The Second Treaty of Paris is signed, returning the French frontiers to their 1790 extent, imposing large indemnities, and prolonging the occupation by troops of Great Britain, Austria, Prussia, and Russia for several more years.",
-      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1815)",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Coalition_occupation_of_France_1815.png/330px-Coalition_occupation_of_France_1815.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1918,
+      "text": "The Flag of Estonia, previously used by pro-independence activists, is formally adopted as the national flag of the Republic of Estonia.",
+      "url": "https://en.wikipedia.org/wiki/Flag_of_Estonia",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1947,
-      "text": "The Princess Elizabeth (the future Queen) marries Lieutenant Philip Mountbatten, who becomes the Duke of Edinburgh, at Westminster Abbey in London.",
-      "url": "https://en.wikipedia.org/wiki/Elizabeth_II",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg/330px-Queen_Elizabeth_II_official_portrait_for_1959_tour_%28retouched%29_%28cropped%29_%283-to-4_aspect_ratio%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1969,
+      "text": "U.S. President Richard Nixon and Japanese Premier Eisaku Satō agree on the return of Okinawa to Japanese control in 1972. The U.S. retains rights to bases on the island, but these are to be nuclear-free.",
+      "url": "https://en.wikipedia.org/wiki/Richard_Nixon",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1990,
-      "text": "Andrei Chikatilo, one of the Soviet Union's most prolific serial killers, is arrested; he eventually confesses to 56 killings.",
-      "url": "https://en.wikipedia.org/wiki/Andrei_Chikatilo",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Chikatilo-mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+      "year": 2002,
+      "text": "NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.",
+      "url": "https://en.wikipedia.org/wiki/NATO",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/330px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
