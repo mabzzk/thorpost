@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "month": 11,
-  "day": 21,
+  "day": 22,
   "events": [
     {
-      "year": 1918,
-      "text": "The Flag of Estonia, previously used by pro-independence activists, is formally adopted as the national flag of the Republic of Estonia.",
-      "url": "https://en.wikipedia.org/wiki/Flag_of_Estonia",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/330px-Flag_of_Estonia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1718,
+      "text": "Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as \"Blackbeard\") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself.",
+      "url": "https://en.wikipedia.org/wiki/Royal_Navy",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/Logo_of_the_Royal_Navy.svg/330px-Logo_of_the_Royal_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1969,
-      "text": "U.S. President Richard Nixon and Japanese Premier Eisaku Satō agree on the return of Okinawa to Japanese control in 1972. The U.S. retains rights to bases on the island, but these are to be nuclear-free.",
-      "url": "https://en.wikipedia.org/wiki/Richard_Nixon",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Richard_Nixon_presidential_portrait_%282%29.jpg/330px-Richard_Nixon_presidential_portrait_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1943,
+      "text": "World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan.",
+      "url": "https://en.wikipedia.org/wiki/Cairo_Conference",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Franklin_D._Roosevelt%2C_Chiang_Kai-shek%2C_and_Winston_Churchill_at_the_Cairo_Conference%2C_1943.jpg/330px-Franklin_D._Roosevelt%2C_Chiang_Kai-shek%2C_and_Winston_Churchill_at_the_Cairo_Conference%2C_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 2002,
-      "text": "NATO invites Bulgaria, Estonia, Latvia, Lithuania, Romania, Slovakia and Slovenia to become members.",
-      "url": "https://en.wikipedia.org/wiki/NATO",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/NATO_OTAN_landscape_logo.svg/330px-NATO_OTAN_landscape_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1975,
+      "text": "Juan Carlos is declared King of Spain following the death of Francisco Franco two days earlier.",
+      "url": "https://en.wikipedia.org/wiki/Juan_Carlos_I",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Rey_Juan_Carlos_2013.jpg/330px-Rey_Juan_Carlos_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

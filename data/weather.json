@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "today": {
-    "date": "2026-11-21",
-    "symbol": "partlycloudy_day",
-    "temp_max": 2.9,
-    "temp_min": 0.1,
-    "wind_speed": 4.4,
+    "date": "2026-11-22",
+    "symbol": "clearsky_day",
+    "temp_max": 4.4,
+    "temp_min": 1.1,
+    "wind_speed": 5.5,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "symbol": "clearsky_day",
-    "temp_max": 3.2,
-    "temp_min": 0.4,
-    "wind_speed": 5.7,
+    "temp_max": 2.4,
+    "temp_min": -1.2,
+    "wind_speed": 5.1,
     "precipitation": 0.0
   },
   "water": {
-    "ocean": 7.0
+    "ocean": 8.0
   },
   "sun": {
-    "sunrise": "08:26",
-    "sunset": "15:44"
+    "sunrise": "08:28",
+    "sunset": "15:43"
   },
-  "remark": "Litt av hvert fra himmelen i dag, men ingenting å klage over!",
-  "thought": "Lykken er ikke et mål, men en reisefølge.",
+  "remark": "Klarvær men frisk luft – husk et ekstra lag, Thor.",
+  "thought": "En god latter er solskinn i et hus. – William Makepeace Thackeray",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-21"
+  "pollen_updated": "2026-11-22"
 }
