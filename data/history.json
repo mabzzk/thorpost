@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "month": 11,
-  "day": 22,
+  "day": 23,
   "events": [
     {
-      "year": 1718,
-      "text": "Royal Navy Lieutenant Robert Maynard attacks and boards the vessels of the British pirate Edward Teach (best known as \"Blackbeard\") off the coast of North Carolina. The casualties on both sides include Maynard's first officer Mister Hyde and Teach himself.",
-      "url": "https://en.wikipedia.org/wiki/Royal_Navy",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/89/Logo_of_the_Royal_Navy.svg/330px-Logo_of_the_Royal_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1890,
+      "text": "King William III of the Netherlands dies without a male heir and a special law is passed to allow his daughter Princess Wilhelmina to succeed him.",
+      "url": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg/330px-Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1943,
-      "text": "World War II: Cairo Conference: U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Chinese Premier Chiang Kai-shek meet in Cairo, Egypt, to discuss ways to defeat Japan.",
-      "url": "https://en.wikipedia.org/wiki/Cairo_Conference",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Franklin_D._Roosevelt%2C_Chiang_Kai-shek%2C_and_Winston_Churchill_at_the_Cairo_Conference%2C_1943.jpg/330px-Franklin_D._Roosevelt%2C_Chiang_Kai-shek%2C_and_Winston_Churchill_at_the_Cairo_Conference%2C_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1955,
+      "text": "The Cocos Islands are transferred from the control of the United Kingdom to that of Australia.",
+      "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/330px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1975,
-      "text": "Juan Carlos is declared King of Spain following the death of Francisco Franco two days earlier.",
-      "url": "https://en.wikipedia.org/wiki/Juan_Carlos_I",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Rey_Juan_Carlos_2013.jpg/330px-Rey_Juan_Carlos_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1996,
+      "text": "Ethiopian Airlines Flight 961 is hijacked, then crashes into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125.",
+      "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/ET-AIZ%2C_at_London_Heathrow%2C_England_July_1996.jpg/330px-ET-AIZ%2C_at_London_Heathrow%2C_England_July_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
