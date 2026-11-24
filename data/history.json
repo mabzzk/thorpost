@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "month": 11,
-  "day": 23,
+  "day": 24,
   "events": [
     {
-      "year": 1890,
-      "text": "King William III of the Netherlands dies without a male heir and a special law is passed to allow his daughter Princess Wilhelmina to succeed him.",
-      "url": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg/330px-Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1750,
+      "text": "Tarabai, regent of the Maratha Empire, imprisons Rajaram II of Satara for refusing to remove Balaji Baji Rao from the post of peshwa.",
+      "url": "https://en.wikipedia.org/wiki/Tarabai",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarabai.jpg/330px-Tarabai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1955,
-      "text": "The Cocos Islands are transferred from the control of the United Kingdom to that of Australia.",
-      "url": "https://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/330px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1941,
+      "text": "World War II: The United States grants Lend-Lease to the Free French Forces.",
+      "url": "https://en.wikipedia.org/wiki/Lend-Lease",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1996,
-      "text": "Ethiopian Airlines Flight 961 is hijacked, then crashes into the Indian Ocean off the coast of Comoros after running out of fuel, killing 125.",
-      "url": "https://en.wikipedia.org/wiki/Ethiopian_Airlines_Flight_961",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/ET-AIZ%2C_at_London_Heathrow%2C_England_July_1996.jpg/330px-ET-AIZ%2C_at_London_Heathrow%2C_England_July_1996.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1989,
+      "text": "After a week of mass protests against the Communist regime known as the Velvet Revolution, Miloš Jakeš and the entire Politburo of the Czechoslovak Communist Party resign from office.  This brings an effective end to Communist rule in Czechoslovakia.",
+      "url": "https://en.wikipedia.org/wiki/Velvet_Revolution",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg/330px-Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]

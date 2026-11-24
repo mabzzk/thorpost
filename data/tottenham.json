@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -115,6 +115,17 @@
     },
     {
       "pos": 6,
+      "team": "Brentford FC",
+      "played": 11,
+      "won": 4,
+      "drawn": 5,
+      "lost": 2,
+      "gd": 9,
+      "points": 17,
+      "is_spurs": false
+    },
+    {
+      "pos": 7,
       "team": "Leeds United FC",
       "played": 11,
       "won": 4,
@@ -122,17 +133,6 @@
       "lost": 2,
       "gd": 5,
       "points": 17,
-      "is_spurs": false
-    },
-    {
-      "pos": 7,
-      "team": "Everton FC",
-      "played": 10,
-      "won": 4,
-      "drawn": 4,
-      "lost": 2,
-      "gd": 2,
-      "points": 16,
       "is_spurs": false
     },
     {
@@ -148,6 +148,17 @@
     },
     {
       "pos": 9,
+      "team": "Everton FC",
+      "played": 11,
+      "won": 4,
+      "drawn": 4,
+      "lost": 3,
+      "gd": -2,
+      "points": 16,
+      "is_spurs": false
+    },
+    {
+      "pos": 10,
       "team": "Tottenham Hotspur FC",
       "played": 11,
       "won": 4,
@@ -156,17 +167,6 @@
       "gd": 1,
       "points": 15,
       "is_spurs": true
-    },
-    {
-      "pos": 10,
-      "team": "Brentford FC",
-      "played": 10,
-      "won": 3,
-      "drawn": 5,
-      "lost": 2,
-      "gd": 5,
-      "points": 14,
-      "is_spurs": false
     },
     {
       "pos": 11,
