@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "month": 11,
-  "day": 24,
+  "day": 25,
   "events": [
     {
-      "year": 1750,
-      "text": "Tarabai, regent of the Maratha Empire, imprisons Rajaram II of Satara for refusing to remove Balaji Baji Rao from the post of peshwa.",
-      "url": "https://en.wikipedia.org/wiki/Tarabai",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Tarabai.jpg/330px-Tarabai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1759,
+      "text": "An earthquake hits the Mediterranean destroying Beirut and Damascus and killing 30,000–40,000.",
+      "url": "https://en.wikipedia.org/wiki/1759_Near_East_earthquakes",
+      "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1941,
-      "text": "World War II: The United States grants Lend-Lease to the Free French Forces.",
-      "url": "https://en.wikipedia.org/wiki/Lend-Lease",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1926,
+      "text": "The deadliest November tornado outbreak in U.S. history kills 76 people and injures more than 400.",
+      "url": "https://en.wikipedia.org/wiki/List_of_North_American_tornadoes_and_tornado_outbreaks",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Tornadoes_in_the_United_States_1950-2019.svg/330px-Tornadoes_in_the_United_States_1950-2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1989,
-      "text": "After a week of mass protests against the Communist regime known as the Velvet Revolution, Miloš Jakeš and the entire Politburo of the Czechoslovak Communist Party resign from office.  This brings an effective end to Communist rule in Czechoslovakia.",
-      "url": "https://en.wikipedia.org/wiki/Velvet_Revolution",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg/330px-Praha_1989-11-25%2C_Letn%C3%A1%2C_dav_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1975,
+      "text": "Coup of 25 November 1975, a failed military coup d'état by Portuguese far-left activists seeking to hijack the  Portuguese transition to democracy to establish a communist regime.",
+      "url": "https://en.wikipedia.org/wiki/Coup_of_25_November_1975",
+      "thumbnail": "",
       "lang": "en"
     }
   ]
