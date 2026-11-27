@@ -1,30 +1,30 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "today": {
-    "date": "2026-11-26",
-    "symbol": "clearsky_day",
-    "temp_max": -1.8,
-    "temp_min": -7.6,
-    "wind_speed": 2.9,
+    "date": "2026-11-27",
+    "symbol": "cloudy",
+    "temp_max": -0.1,
+    "temp_min": -3.2,
+    "wind_speed": 3.1,
     "precipitation": 0.0
   },
   "tomorrow": {
-    "date": "2026-11-27",
-    "symbol": "cloudy",
-    "temp_max": 1.2,
-    "temp_min": -2.2,
-    "wind_speed": 3.3,
-    "precipitation": 0.0
+    "date": "2026-11-28",
+    "symbol": "lightsleet",
+    "temp_max": 4.3,
+    "temp_min": -0.2,
+    "wind_speed": 4.8,
+    "precipitation": 0.1
   },
   "water": {
-    "ocean": 6.3
+    "ocean": 6.5
   },
   "sun": {
-    "sunrise": "08:37",
-    "sunset": "15:36"
+    "sunrise": "08:39",
+    "sunset": "15:35"
   },
-  "remark": "Kaldt i dag. Varmmat, tykke sokker og en god film er dagens oppskrift.",
-  "thought": "Alt som er verdt å gjøre, er verdt å gjøre med hjertet.",
+  "remark": "Overskyet, men rolig. Ta på en jakke og gå ut uansett, Thor.",
+  "thought": "En god bok er som en god venn — alltid klar for deg.",
   "pollen": [
     {
       "type": "Lite Eller Ingen Risiko For Helseeffekter.",
@@ -39,5 +39,5 @@
       "color": "#aaa"
     }
   ],
-  "pollen_updated": "2026-11-26"
+  "pollen_updated": "2026-11-27"
 }

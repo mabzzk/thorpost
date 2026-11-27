@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "month": 11,
-  "day": 26,
+  "day": 27,
   "events": [
     {
-      "year": 1917,
-      "text": "The National Hockey League is formed, with the Montreal Canadiens, Montreal Wanderers, Ottawa Senators, Quebec Bulldogs, and Toronto Arenas as its first teams.",
-      "url": "https://en.wikipedia.org/wiki/National_Hockey_League",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/330px-05_NHL_Shield.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "lang": "en"
-    },
-    {
-      "year": 1944,
-      "text": "World War II: Germany begins V-1 and V-2 attacks on Antwerp, Belgium.",
-      "url": "https://en.wikipedia.org/wiki/Nazi_Germany",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Germany_%281935%E2%80%931945%29.svg/330px-Flag_of_Germany_%281935%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-      "lang": "en"
-    },
-    {
-      "year": 1998,
-      "text": "The Khanna rail disaster takes 212 lives in Khanna, Ludhiana, India.",
-      "url": "https://en.wikipedia.org/wiki/1998_Khanna_rail_collision",
+      "year": 1835,
+      "text": "James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.",
+      "url": "https://en.wikipedia.org/wiki/James_Pratt_and_John_Smith",
       "thumbnail": "",
+      "lang": "en"
+    },
+    {
+      "year": 1940,
+      "text": "In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents.",
+      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Romania",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/330px-Flag_of_Romania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "lang": "en"
+    },
+    {
+      "year": 1985,
+      "text": "Space Shuttle program: Atlantis launches on STS-61-B, with Rodolfo Neri Vela becoming the first Mexican astronaut.",
+      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
