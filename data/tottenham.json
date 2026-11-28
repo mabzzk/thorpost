@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "season": "2026-2027",
   "badge_url": "",
   "recent_results": [
@@ -138,11 +138,11 @@
     {
       "pos": 8,
       "team": "Chelsea FC",
-      "played": 11,
+      "played": 12,
       "won": 5,
       "drawn": 1,
-      "lost": 5,
-      "gd": 0,
+      "lost": 6,
+      "gd": -1,
       "points": 16,
       "is_spurs": false
     },
@@ -203,6 +203,17 @@
     },
     {
       "pos": 14,
+      "team": "Nottingham Forest FC",
+      "played": 12,
+      "won": 3,
+      "drawn": 3,
+      "lost": 6,
+      "gd": -5,
+      "points": 12,
+      "is_spurs": false
+    },
+    {
+      "pos": 15,
       "team": "Coventry City FC",
       "played": 11,
       "won": 4,
@@ -213,7 +224,7 @@
       "is_spurs": false
     },
     {
-      "pos": 15,
+      "pos": 16,
       "team": "Fulham FC",
       "played": 11,
       "won": 2,
@@ -224,7 +235,7 @@
       "is_spurs": false
     },
     {
-      "pos": 16,
+      "pos": 17,
       "team": "Ipswich Town FC",
       "played": 11,
       "won": 3,
@@ -232,17 +243,6 @@
       "lost": 6,
       "gd": -7,
       "points": 11,
-      "is_spurs": false
-    },
-    {
-      "pos": 17,
-      "team": "Nottingham Forest FC",
-      "played": 11,
-      "won": 2,
-      "drawn": 3,
-      "lost": 6,
-      "gd": -6,
-      "points": 9,
       "is_spurs": false
     },
     {

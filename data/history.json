@@ -1,27 +1,27 @@
 {
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "month": 11,
-  "day": 27,
+  "day": 28,
   "events": [
     {
-      "year": 1835,
-      "text": "James Pratt and John Smith are hanged in London; they are the last two to be executed for sodomy in England.",
-      "url": "https://en.wikipedia.org/wiki/James_Pratt_and_John_Smith",
+      "year": 1821,
+      "text": "Panama Independence Day: Panama separates from Spain and joins Gran Colombia.",
+      "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Panama",
       "thumbnail": "",
       "lang": "en"
     },
     {
-      "year": 1940,
-      "text": "In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents.",
-      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Romania",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/330px-Flag_of_Romania.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1918,
+      "text": "The Soviet Forces move against Estonia when the 6th Red Rifle Division strikes the border town of Narva, marking the beginning of the Estonian War of Independence.",
+      "url": "https://en.wikipedia.org/wiki/Soviet_westward_offensive_of_1918%E2%80%931919",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Polish-soviet_propaganda_poster_1920.jpg/330px-Polish-soviet_propaganda_poster_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     },
     {
-      "year": 1985,
-      "text": "Space Shuttle program: Atlantis launches on STS-61-B, with Rodolfo Neri Vela becoming the first Mexican astronaut.",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
-      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Shuttle_Patch.svg/330px-Shuttle_Patch.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "year": 1971,
+      "text": "Fred Quilt, a leader of the Tsilhqot'in First Nation suffers severe abdominal injuries allegedly caused by Royal Canadian Mounted Police officers; he dies two days later.",
+      "url": "https://en.wikipedia.org/wiki/Tsilhqot%CA%BCin",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Chilcotin_horse.jpg/330px-Chilcotin_horse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
       "lang": "en"
     }
   ]
